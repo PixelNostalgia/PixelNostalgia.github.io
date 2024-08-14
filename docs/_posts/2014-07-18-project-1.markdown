@@ -5,7 +5,7 @@ date: 2014-07-18
 img: bat-rgs.png
 alt: image-alt
 project-date: Jan 2024
-client: Start Bootstrap
+client: Retro Gaming Community
 category: Batocera
 description: RGS Batocera Build.
 ---
