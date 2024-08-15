@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-18
-img: bat-bob.png
+img: 4.png
 alt: image-alt
 project-date: TBC
 client: Retro Gaming Community

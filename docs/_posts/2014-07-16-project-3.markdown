@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-18
-img: rb-bob.png
+img: 3.png
 alt: image-alt
 project-date: Apr 2024
 client: Retro Gaming Community
