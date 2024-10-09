@@ -7,7 +7,7 @@ alt: image-alt
 project-date: Jan 2024
 client: Retro Gaming Community
 category: Batocera
-description: RGS Batocera Build (Base)
+description: "RGS Batocera Build (Base)
 
 Key points for the latest version (39):
 
@@ -22,4 +22,4 @@ Key points for the latest version (39):
 - We've also added special, never-before-seen systems on Batocera!
 
 Download: https://back-ups.me/details.php?id=946560
----
+---"
