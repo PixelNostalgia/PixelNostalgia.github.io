@@ -4,7 +4,7 @@ modal-id: 2
 date: 2024-02-01
 img: 2.png
 alt: image-alt
-project-date: Mar 2024
+project-date: Feb 2024
 client: Retro Gaming Community
 category: RetroBat
 description: RGS RetroBat Build.
