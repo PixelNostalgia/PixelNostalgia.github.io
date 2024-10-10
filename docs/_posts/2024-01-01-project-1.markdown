@@ -5,14 +5,12 @@ date: 2014-07-18
 img: 1.png
 alt: image-alt
 project-date: Jan 2024
-client: Retro Gaming Community
-category: Batocera
-description: RGS Batocera Build (Base)
+category: Retro Gaming - Batocera
+description: RGS Batocera Build
 ---
- Key points for the latest version (39):
- - Wheel art has been converted to clear logos.
- - We've added more systems; the full build now has 250+ systems.
- - We have reverted the base image size back to 500GB.
- - The base now includes only cart/cass/flop systems (similar to our RetroBat build).
- - We've also added special, never-before-seen systems on Batocera!
- - Download: https://back-ups.me/details.php?id=946560
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
