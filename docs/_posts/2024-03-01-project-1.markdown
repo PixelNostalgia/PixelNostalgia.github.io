@@ -1,16 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2024-01-01
 img: 1.png
 alt: image-alt
 project-date: Jan 2024
 category: Retro Gaming - Batocera
 description: RGS Batocera Build
+Our customised Batocera Build
 ---
-
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
