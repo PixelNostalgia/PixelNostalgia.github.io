@@ -15,21 +15,21 @@
             "url": "https://pixelnostalgia.github.io/3do-interactive-multiplayer-3do-17/index.html",
             "title": "Super Nintendo Entertainment System (snes)",
             "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/19/3do-interactive-multiplayer-2.webp\" alt=\"\" width=\"400\" height=\"400\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/19/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/19/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/19/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/19/responsive/3do-interactive-multiplayer-2-xl.webp 1200w\"></figure><br>Despite a highly promoted launch (including being named Time magazine's \"1993 Product of the Year\") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>\n<h5>The package includes:</h5>\n<p>63 games (~23 GB)</p>\n<p><a href=\"#INTERNAL_LINK#/null/undefined\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a></p>\n<p class=\"msg--highlight msg msg--info\">Note:</p>\n<p class=\"msg msg--highlight \">Highlight</p>\n<p class=\"msg msg--warning\">Warning</p>\n<h5>List of games:</h5>\n<ol>\n<li>gssgsg</li>\n<li>fefe</li>\n<li>efef</li>\n<li>qefeqf</li>\n</ol>\n<p> </p>",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<p>The Super Nintendo Entertainment System (SNES), also known as the Super NES or Super Nintendo, is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan and South Korea, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom (SFC). In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics. The system was released in Brazil on August 30, 1993, by Playtronic. Although each version is essentially the same, several forms of regional lockout prevent the different cartridges from being compatible with one another.<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/19/super-nintendo-entertainment-system.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/19/responsive/super-nintendo-entertainment-system-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/19/responsive/super-nintendo-entertainment-system-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/19/responsive/super-nintendo-entertainment-system-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/19/responsive/super-nintendo-entertainment-system-xl.webp 1200w\"></figure><br><br>The SNES is Nintendo's second programmable home console, following the Nintendo Entertainment System (NES). The console introduced advanced graphics and sound capabilities compared with other systems at the time. The system was designed to accommodate the ongoing development of a variety of enhancement chips integrated into game cartridges to be competitive into the next generation.</p>\n<h5>The package includes:</h5>\n<p>63 games (~23 GB)</p>\n<p><a href=\"#INTERNAL_LINK#/null/undefined\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a></p>\n<p class=\"msg--highlight msg msg--info\">Note:</p>\n<p class=\"msg msg--highlight \">Highlight</p>\n<p class=\"msg msg--warning\">Warning</p>\n<h5>List of games:</h5>\n<ol>\n<li>gssgsg</li>\n<li>fefe</li>\n<li>efef</li>\n<li>qefeqf</li>\n</ol>\n<p> </p>",
             "image": "https://pixelnostalgia.github.io/media/posts/19/super-nintendo-entertainment-system-snes.webp",
             "author": {
                 "name": "g-spawn"
             },
             "tags": [
-                   "x86",
                    "Retrobat",
-                   "Pi5",
-                   "Pi4",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
                    "Console",
                    "Batocera"
             ],
             "date_published": "2024-10-22T02:44:47+02:00",
-            "date_modified": "2024-10-22T03:01:13+02:00"
+            "date_modified": "2024-10-22T21:21:42+02:00"
         },
         {
             "id": "https://pixelnostalgia.github.io/3do-interactive-multiplayer-3do-16/index.html",
@@ -42,11 +42,11 @@
                 "name": "g-spawn"
             },
             "tags": [
-                   "x86",
                    "Retrobat",
+                   "RPi5",
+                   "RPi4",
                    "Portable",
-                   "Pi5",
-                   "Pi4",
+                   "PC x86",
                    "Batocera"
             ],
             "date_published": "2024-10-22T02:44:47+02:00",
@@ -63,9 +63,9 @@
                 "name": "g-spawn"
             },
             "tags": [
-                   "x86",
                    "Retrobat",
-                   "Pi5",
+                   "RPi5",
+                   "PC x86",
                    "Console",
                    "Batocera"
             ],
@@ -83,11 +83,11 @@
                 "name": "g-spawn"
             },
             "tags": [
-                   "x86",
                    "Retrobat",
+                   "RPi5",
+                   "RPi4",
                    "Portable",
-                   "Pi5",
-                   "Pi4",
+                   "PC x86",
                    "Custom",
                    "Batocera"
             ],
@@ -105,10 +105,10 @@
                 "name": "g-spawn"
             },
             "tags": [
-                   "x86",
                    "Retrobat",
-                   "Pi5",
-                   "Pi4",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
                    "Batocera",
                    "Arcade"
             ],
@@ -126,11 +126,11 @@
                 "name": "g-spawn"
             },
             "tags": [
-                   "x86",
                    "Retrobat",
+                   "RPi5",
+                   "RPi4",
                    "Pinball",
-                   "Pi5",
-                   "Pi4",
+                   "PC x86",
                    "Batocera"
             ],
             "date_published": "2024-10-22T02:44:46+02:00",
@@ -147,9 +147,9 @@
                 "name": "g-spawn"
             },
             "tags": [
-                   "x86",
                    "Retrobat",
                    "Port",
+                   "PC x86",
                    "Batocera"
             ],
             "date_published": "2024-10-22T02:44:46+02:00",
@@ -166,11 +166,11 @@
                 "name": "g-spawn"
             },
             "tags": [
-                   "x86",
                    "Retrobat",
+                   "RPi5",
+                   "RPi4",
                    "Portable",
-                   "Pi5",
-                   "Pi4",
+                   "PC x86",
                    "Batocera"
             ],
             "date_published": "2024-10-22T02:44:46+02:00",
@@ -187,11 +187,11 @@
                 "name": "g-spawn"
             },
             "tags": [
-                   "x86",
                    "Retrobat",
+                   "RPi5",
+                   "RPi4",
                    "Portable",
-                   "Pi5",
-                   "Pi4",
+                   "PC x86",
                    "Batocera"
             ],
             "date_published": "2024-10-22T02:38:44+02:00",
@@ -208,10 +208,10 @@
                 "name": "g-spawn"
             },
             "tags": [
-                   "x86",
                    "Retrobat",
-                   "Pi5",
-                   "Pi4",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
                    "Computer",
                    "Batocera"
             ],
