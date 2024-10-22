@@ -3,12 +3,63 @@
     <title>Team Pixel Nostalgia Website</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2024-10-22T18:41:27+02:00</updated>
+    <updated>2024-10-22T19:52:07+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Nintendo 3DS (3ds)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/3do-interactive-multiplayer-3do-16-2/index.html"/>
+        <id>https://pixelnostalgia.github.io/3do-interactive-multiplayer-3do-16-2/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/21/nintendo-ds-nds.webp" medium="image" />
+            <category term="x86"/>
+            <category term="Retrobat"/>
+            <category term="Portable"/>
+            <category term="Pi5"/>
+            <category term="Pi4"/>
+            <category term="Batocera"/>
+
+        <updated>2024-10-22T16:37:04+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/21/nintendo-ds-nds.webp" alt="nds" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/21/nintendo-ds-nds.webp" class="type:primaryImage" alt="nds" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<p>The Nintendo 3DS is a handheld game console produced by Nintendo. The system was announced in March 2010 and officially unveiled at E3 2010 as the successor to the Nintendo DS. The system features backward compatibility with older Nintendo DS video games. As an eighth-generation console, its primary competitor was Sony's PlayStation Vita.</p>
+<p>The handheld's most prominent feature is its ability to display <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">ste</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">reoscopic 3D effects without the use of 3D glasses or additional accessories, and offers n</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">ew features such as the StreetPass and SpotPass tag modes, powered by Nintendo Network; augmented reality using its 3D cameras; and Virtual Console, which allows owners to download and play games originally released on older video game systems.</span></p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/21/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/21/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/21/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/21/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/21/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">It is als</span>o pre-loaded with various applications including an online dis<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">tribu</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">tion store called Nintendo eShop, a social networking service called Miiverse (shut down in 2017); an Internet Browser; the Netflix, Hulu Plus and YouTube streaming video services; Nintendo Video; a messaging application called Swapnote (known as Nintendo Letter Box in Europe and Australia); and Mii Maker.</span></p>
+<p> </p>
+<h5>The package includes:</h5>
+<p> </p>
+<p>490 games (~250 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=946262" target="_blank" rel="nofollow noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Go to download</a></p>
+<p class="msg--highlight msg msg--info">Note:</p>
+<p class="msg msg--highlight ">Highlight</p>
+<p class="msg msg--warning">Warning</p>
+<h5>List of games:</h5>
+<ol>
+<li>gssgsg</li>
+<li>fefe</li>
+<li>efef</li>
+<li>qefeqf</li>
+</ol>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Super Nintendo Entertainment System (snes)</title>
         <author>
@@ -24,7 +75,7 @@
             <category term="Console"/>
             <category term="Batocera"/>
 
-        <updated>2024-10-22T02:44:47+02:00</updated>
+        <updated>2024-10-22T01:44:47+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/19/super-nintendo-entertainment-system-snes.webp" alt="snes" />
@@ -37,7 +88,7 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/19/super-nintendo-entertainment-system-snes.webp" class="type:primaryImage" alt="snes" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/19/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/19/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/19/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/19/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/19/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
+<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/19/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/19/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/19/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/19/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/19/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
 <h5>The package includes:</h5>
 <p>63 games (~23 GB)</p>
 <p><a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
@@ -70,7 +121,7 @@
             <category term="Pi4"/>
             <category term="Batocera"/>
 
-        <updated>2024-10-22T02:44:47+02:00</updated>
+        <updated>2024-10-22T01:44:47+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/18/nintendo-ds-nds.webp" alt="nds" />
@@ -83,7 +134,7 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/18/nintendo-ds-nds.webp" class="type:primaryImage" alt="nds" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/18/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/18/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/18/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/18/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/18/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
+<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/18/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/18/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/18/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/18/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/18/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
 <h5>The package includes:</h5>
 <p>63 games (~23 GB)</p>
 <p><a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
@@ -115,7 +166,7 @@
             <category term="Console"/>
             <category term="Batocera"/>
 
-        <updated>2024-10-22T02:44:46+02:00</updated>
+        <updated>2024-10-22T01:44:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/17/nintendo-gamecube-gamecube.webp" alt="gamecube" />
@@ -128,7 +179,7 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/17/nintendo-gamecube-gamecube.webp" class="type:primaryImage" alt="gamecube" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/17/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/17/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/17/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/17/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/17/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
+<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/17/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/17/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/17/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/17/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/17/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
 <h5>The package includes:</h5>
 <p>63 games (~23 GB)</p>
 <p><a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
@@ -159,10 +210,9 @@
             <category term="Portable"/>
             <category term="Pi5"/>
             <category term="Pi4"/>
-            <category term="Custom"/>
             <category term="Batocera"/>
 
-        <updated>2024-10-22T02:44:46+02:00</updated>
+        <updated>2024-10-22T01:44:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/16/elektronika-art.webp" alt="elektronika" />
@@ -175,9 +225,9 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/16/elektronika-art.webp" class="type:primaryImage" alt="elektronika" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<p>In the 1980s, computer and electronic games came to the USSR. In 1983, the Soviet industry mastered the production of household computers of the BK (household computer) series, and in 1984, the production of electronic games of the Electronica IM (microprocessor game) series began.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/16/elektronika-up.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/16/responsive/elektronika-up-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/16/responsive/elektronika-up-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/16/responsive/elektronika-up-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/16/responsive/elektronika-up-xl.webp 1200w"></figure><br><br>Some of the games of this family were unlicensed copies, analogs and variations of electronic toys Game and Watch series "Wide Screen", released by Nintendo in 1981-1982 (EGG, Octopus, Mickey Mouse, Chef and others).</p>
+<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/16/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/16/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/16/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/16/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/16/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
 <h5>The package includes:</h5>
-<p>17 games (~340 MB)</p>
+<p>63 games (~23 GB)</p>
 <p><a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
 <p class="msg--highlight msg msg--info">Note:</p>
 <p class="msg msg--highlight ">Highlight</p>
@@ -208,7 +258,7 @@
             <category term="Batocera"/>
             <category term="Arcade"/>
 
-        <updated>2024-10-22T02:44:46+02:00</updated>
+        <updated>2024-10-22T01:44:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/15/naomi.webp" alt="naomi" />
@@ -221,7 +271,7 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/15/naomi.webp" class="type:primaryImage" alt="naomi" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/15/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/15/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/15/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/15/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/15/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
+<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/15/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/15/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/15/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/15/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/15/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
 <h5>The package includes:</h5>
 <p>63 games (~23 GB)</p>
 <p><a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
@@ -254,7 +304,7 @@
             <category term="Pi4"/>
             <category term="Batocera"/>
 
-        <updated>2024-10-22T02:44:46+02:00</updated>
+        <updated>2024-10-22T01:44:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/14/future-pinball-fpinball-600x600.webp" alt="fpinball" />
@@ -267,7 +317,7 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/14/future-pinball-fpinball-600x600.webp" class="type:primaryImage" alt="fpinball" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/14/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/14/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/14/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/14/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/14/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
+<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/14/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/14/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/14/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/14/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/14/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
 <h5>The package includes:</h5>
 <p>63 games (~23 GB)</p>
 <p><a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
@@ -298,7 +348,7 @@
             <category term="Port"/>
             <category term="Batocera"/>
 
-        <updated>2024-10-22T02:44:46+02:00</updated>
+        <updated>2024-10-22T01:44:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/13/half-life-xash3d-fwgs-600x600.webp" alt="xash3d_fwgs" />
@@ -311,7 +361,7 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/13/half-life-xash3d-fwgs-600x600.webp" class="type:primaryImage" alt="xash3d_fwgs" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/13/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/13/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/13/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/13/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/13/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
+<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/13/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/13/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/13/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/13/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/13/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
 <h5>The package includes:</h5>
 <p>63 games (~23 GB)</p>
 <p><a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
@@ -344,7 +394,7 @@
             <category term="Pi4"/>
             <category term="Batocera"/>
 
-        <updated>2024-10-22T02:44:46+02:00</updated>
+        <updated>2024-10-22T01:44:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/12/atari-lynx-lynx.webp" alt="lynx" />
@@ -357,7 +407,7 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/12/atari-lynx-lynx.webp" class="type:primaryImage" alt="lynx" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/12/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/12/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/12/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/12/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/12/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
+<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/12/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/12/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/12/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/12/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/12/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
 <h5>The package includes:</h5>
 <p>63 games (~23 GB)</p>
 <p><a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
@@ -390,7 +440,7 @@
             <category term="Pi4"/>
             <category term="Batocera"/>
 
-        <updated>2024-10-22T02:38:44+02:00</updated>
+        <updated>2024-10-22T01:38:44+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/11/game-boy-color-gbc.webp" alt="gbc" />
@@ -403,53 +453,7 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/11/game-boy-color-gbc.webp" class="type:primaryImage" alt="gbc" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/11/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/11/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/11/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/11/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/11/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
-<h5>The package includes:</h5>
-<p>63 games (~23 GB)</p>
-<p><a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
-<p class="msg--highlight msg msg--info">Note:</p>
-<p class="msg msg--highlight ">Highlight</p>
-<p class="msg msg--warning">Warning</p>
-<h5>List of games:</h5>
-<ol>
-<li>gssgsg</li>
-<li>fefe</li>
-<li>efef</li>
-<li>qefeqf</li>
-</ol>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>ScummVM (scummvm)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/3do-interactive-multiplayer-3do-8/index.html"/>
-        <id>https://pixelnostalgia.github.io/3do-interactive-multiplayer-3do-8/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/10/scummvm.webp" medium="image" />
-            <category term="x86"/>
-            <category term="Retrobat"/>
-            <category term="Pi5"/>
-            <category term="Pi4"/>
-            <category term="Computer"/>
-            <category term="Batocera"/>
-
-        <updated>2024-10-22T02:38:44+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/10/scummvm.webp" alt="scummvm" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/10/scummvm.webp" class="type:primaryImage" alt="scummvm" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/10/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/10/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/10/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/10/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/10/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
+<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/11/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/11/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/11/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/11/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/11/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
 <h5>The package includes:</h5>
 <p>63 games (~23 GB)</p>
 <p><a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
