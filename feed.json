@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://pixelnostalgia.github.io/team-pixel-nostalgia-2/index.html",
-            "url": "https://pixelnostalgia.github.io/team-pixel-nostalgia-2/index.html",
+            "id": "https://pixelnostalgia.github.io/team-pixel-nostalgia-welcome/index.html",
+            "url": "https://pixelnostalgia.github.io/team-pixel-nostalgia-welcome/index.html",
             "title": "Welcome!",
             "summary": "Team Pixel Nostalgia are dedicated to preserving retro games. Whether you're new to retro gaming or a seasoned pro, we're here to help! Come and join us on Discord",
             "content_html": "<table style=\"border-collapse: collapse; width: 100.427%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 65.5462%;\">Team Pixel Nostalgia are dedicated to preserving retro games. Whether you're new to retro gaming or a seasoned pro, we're here to help! Come and join us on Discord</td>\n<td style=\"width: 34.4538%;\"><br><figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/4/Zrzut-ekranu-2024-10-21-012313.png\" alt=\"\" width=\"190\" height=\"58\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/4/responsive/Zrzut-ekranu-2024-10-21-012313-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/4/responsive/Zrzut-ekranu-2024-10-21-012313-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/4/responsive/Zrzut-ekranu-2024-10-21-012313-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/4/responsive/Zrzut-ekranu-2024-10-21-012313-xl.webp 1200w\"></figure></td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
@@ -23,11 +23,11 @@
             "tags": [
             ],
             "date_published": "2024-10-21T01:35:45+02:00",
-            "date_modified": "2024-10-22T02:24:08+02:00"
+            "date_modified": "2024-10-24T21:54:22+02:00"
         },
         {
-            "id": "https://pixelnostalgia.github.io/3do-interactive-multiplayer-3do-2/index.html",
-            "url": "https://pixelnostalgia.github.io/3do-interactive-multiplayer-3do-2/index.html",
+            "id": "https://pixelnostalgia.github.io/3do-interactive-multiplayer/index.html",
+            "url": "https://pixelnostalgia.github.io/3do-interactive-multiplayer/index.html",
             "title": "3DO Interactive Multiplayer (3do)",
             "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
             "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\"  src=\"https://pixelnostalgia.github.io/media/posts/1/3do.svg\" alt=\"\" width=\"270\" height=\"82\"></figure>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/1/3do-interactive-multiplayer-2.webp\" alt=\"\" width=\"400\" height=\"400\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/1/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/1/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/1/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/1/responsive/3do-interactive-multiplayer-2-xl.webp 1200w\"></figure><br>Despite a highly promoted launch (including being named Time magazine's \"1993 Product of the Year\") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>\n\n<h5>The package includes:</h5>\n<p>63 games (~23 GB)</p>\n<p><a href=\"#\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   <a href=\"#\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn\">Lite package</a>  </p>\n<p class=\"msg--highlight msg msg--info\">Note:</p>\n<p class=\"msg msg--highlight \">Highlight</p>\n<p class=\"msg msg--warning\">Warning</p>\n<p class=\"msg--highlight msg msg--success\">Success</p>\n\n<h5>List of games:</h5>\n<ol>\n<li>gssgsg</li>\n<li>fefe</li>\n<li>efef</li>\n<li>qefeqf</li>\n</ol>\n<p> </p>",
@@ -44,7 +44,7 @@
                    "Batocera"
             ],
             "date_published": "2024-10-20T20:51:06+02:00",
-            "date_modified": "2024-10-24T21:41:45+02:00"
+            "date_modified": "2024-10-24T21:53:28+02:00"
         }
     ]
 }

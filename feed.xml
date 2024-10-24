@@ -3,7 +3,7 @@
     <title>Team Pixel Nostalgia Website</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2024-10-24T21:41:45+02:00</updated>
+    <updated>2024-10-24T21:54:22+02:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>g-spawn</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/team-pixel-nostalgia-2/index.html"/>
-        <id>https://pixelnostalgia.github.io/team-pixel-nostalgia-2/index.html</id>
+        <link href="https://pixelnostalgia.github.io/team-pixel-nostalgia-welcome/index.html"/>
+        <id>https://pixelnostalgia.github.io/team-pixel-nostalgia-welcome/index.html</id>
         <media:content url="https://pixelnostalgia.github.io/media/posts/4/background.png" medium="image" />
 
         <updated>2024-10-21T01:35:45+02:00</updated>
@@ -45,8 +45,8 @@
         <author>
             <name>g-spawn</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/3do-interactive-multiplayer-3do-2/index.html"/>
-        <id>https://pixelnostalgia.github.io/3do-interactive-multiplayer-3do-2/index.html</id>
+        <link href="https://pixelnostalgia.github.io/3do-interactive-multiplayer/index.html"/>
+        <id>https://pixelnostalgia.github.io/3do-interactive-multiplayer/index.html</id>
         <media:content url="https://pixelnostalgia.github.io/media/posts/1/3do-1-600x600.webp" medium="image" />
             <category term="Retrobat"/>
             <category term="RPi5"/>
