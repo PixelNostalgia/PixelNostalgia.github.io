@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pixelnostalgia.github.io/sitemap.xml
