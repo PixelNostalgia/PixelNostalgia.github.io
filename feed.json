@@ -11,33 +11,12 @@
     },
     "items": [
         {
-            "id": "https://pixelnostalgia.github.io/xbox-360-xbox360/index.html",
-            "url": "https://pixelnostalgia.github.io/xbox-360-xbox360/index.html",
-            "title": "XBOX 360 (xbox360)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<p>The Xbox 360 is a home video game console developed by Microsoft. As the successor to the original Xbox, it is the second console in the Xbox series. It competed with Sony's PlayStation 3 and Nintendo's Wii as part of the seventh generation of video game consoles. It was officially unveiled on MTV on May 12, 2005, with detailed launch and game information announced later that month at the 2005 Electronic Entertainment Expo.<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/22/xbox360.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/22/responsive/xbox360-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/22/responsive/xbox360-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/22/responsive/xbox360-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/22/responsive/xbox360-xl.webp 1200w\"></figure><br><br>The Xbox 360 features an online service, Xbox Live, which was expanded from its previous iteration on the original Xbox and received regular updates during the console's lifetime. Available in free and subscription-based varieties, Xbox Live allows users to: play games online; download games (through Xbox Live Arcade) and game demos; purchase and stream music, television programs, and films through the Xbox Music and Xbox Video portals; and access third-party content services through media streaming applications. In addition to online multimedia features, it allows users to stream media from local PCs. Several peripherals have been released, including wireless controllers, expanded hard drive storage, and the Kinect motion sensing camera. The release of these additional services and peripherals helped the Xbox brand grow from gaming-only to encompassing all multimedia, turning it into a hub for living-room computing entertainment.</p>\n<h5>The package includes:</h5>\n<p>Coming Soon... (~0 GB)</p>\n<p><a href=\"#INTERNAL_LINK#/null/undefined\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a></p>\n<p class=\"msg--highlight msg msg--info\">Note:</p>\n<p class=\"msg msg--highlight \">Highlight</p>\n<p class=\"msg msg--warning\">Warning</p>\n<h5>List of games:</h5>\n<ol>\n<li>Game 1</li>\n<li>Game 2</li>\n<li>Game 3</li>\n<li>Game 4</li>\n</ol>\n<p> </p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/22/xbox360-2.webp",
-            "author": {
-                "name": "RapsterUK"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Console",
-                   "Batocera"
-            ],
-            "date_published": "2024-10-24T15:13:19+01:00",
-            "date_modified": "2024-10-25T08:47:59+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/xbox-original-xbox/index.html",
-            "url": "https://pixelnostalgia.github.io/xbox-original-xbox/index.html",
+            "id": "https://pixelnostalgia.github.io/xbox-original-xbox-2/index.html",
+            "url": "https://pixelnostalgia.github.io/xbox-original-xbox-2/index.html",
             "title": "XBOX Original (xbox)",
             "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--right\">Xbox is a video gaming brand created and owned by Microsoft. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations, respectively. The brand also represents applications (games), streaming services, an online service by the name of Xbox Live, and the development arm by the name of Xbox Game Studios.<br><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/21/microsoft-xbox.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/21/responsive/microsoft-xbox-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/21/responsive/microsoft-xbox-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/21/responsive/microsoft-xbox-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/21/responsive/microsoft-xbox-xl.webp 1200w\"></figure><br>The brand was first introduced in the United States in November 2001, with the launch of the original Xbox console.</p>\n<h5>The package includes:</h5>\n<p>872 games (~1.6 TB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=946654\" target=\"_blank\" class=\"extlink extlink-icon-1 \"  rel=\"nofollow noopener noreferrer\">Go to download</a></p>\n<p class=\"msg--highlight msg msg--info\">Note:</p>\n<p class=\"msg msg--highlight \">Highlight</p>\n<p class=\"msg msg--warning\">Warning</p>\n<h5>List of games:</h5>\n<ol>\n<li>Game 1</li>\n<li>Game 2</li>\n<li>Game 3</li>\n<li>Game 4</li>\n</ol>\n<p> </p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/21/microsoft-xbox-xbox.webp",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/23/xbox.png\" alt=\"\" width=\"270\" height=\"118\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/23/responsive/xbox-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/23/responsive/xbox-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/23/responsive/xbox-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/23/responsive/xbox-xl.webp 1200w\"></figure>\n<p>Xbox is a video gaming brand created and owned by Microsoft. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations, respectively.</p>\n<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/23/microsoft-xbox-2.webp\" alt=\"\" width=\"400\" height=\"400\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/23/responsive/microsoft-xbox-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/23/responsive/microsoft-xbox-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/23/responsive/microsoft-xbox-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/23/responsive/microsoft-xbox-2-xl.webp 1200w\"></figure>\n<p>The brand also represents applications (games), streaming serv<span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">i</span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">ces, an online service by the name of Xb</span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">ox Live, and the development arm by the name of Xbox Game Studios. </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">The brand was first introduced in the United States in November 2001, with the launch of the original Xbox console.</span></p>\n<p> </p>\n<p> </p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">872 games (~1.6 TB)</p>\n<p><a href=\"#\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  <a href=\"#\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn\">Lite Package</a> </p>\n<p class=\"msg--highlight msg msg--info\">Note:</p>\n<p class=\"msg msg--highlight \">Highlight</p>\n<p class=\"msg msg--warning\">Warning</p>\n<h5>List of games:</h5>\n<ol>\n<li>Game 1</li>\n<li>Game 2</li>\n<li>Game 3</li>\n</ol>\n<p> </p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/23/xbox.webp",
             "author": {
                 "name": "RapsterUK"
             },
@@ -49,8 +28,8 @@
                    "Console",
                    "Batocera"
             ],
-            "date_published": "2024-10-24T14:41:23+01:00",
-            "date_modified": "2024-10-25T08:53:28+01:00"
+            "date_published": "2024-10-25T08:58:16+01:00",
+            "date_modified": "2024-10-25T09:05:49+01:00"
         },
         {
             "id": "https://pixelnostalgia.github.io/super-nintendo-entertainment-system-snes/index.html",
@@ -217,6 +196,27 @@
             ],
             "date_published": "2024-10-22T01:38:44+01:00",
             "date_modified": "2024-10-24T23:06:34+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/scummvm-scummvm/index.html",
+            "url": "https://pixelnostalgia.github.io/scummvm-scummvm/index.html",
+            "title": "ScummVM (scummvm)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/10/3do-interactive-multiplayer-2.webp\" alt=\"\" width=\"400\" height=\"400\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/10/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/10/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/10/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/10/responsive/3do-interactive-multiplayer-2-xl.webp 1200w\"></figure><br>Despite a highly promoted launch (including being named Time magazine's \"1993 Product of the Year\") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>\n<h5>The package includes:</h5>\n<p>63 games (~23 GB)</p>\n<p><a href=\"#INTERNAL_LINK#/null/undefined\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a></p>\n<p class=\"msg--highlight msg msg--info\">Note:</p>\n<p class=\"msg msg--highlight \">Highlight</p>\n<p class=\"msg msg--warning\">Warning</p>\n<h5>List of games:</h5>\n<ol>\n<li>gssgsg</li>\n<li>fefe</li>\n<li>efef</li>\n<li>qefeqf</li>\n</ol>\n<p> </p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/10/scummvm.webp",
+            "author": {
+                "name": "g-spawn"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Computer",
+                   "Batocera"
+            ],
+            "date_published": "2024-10-22T01:38:44+01:00",
+            "date_modified": "2024-10-24T22:58:36+01:00"
         }
     ]
 }
