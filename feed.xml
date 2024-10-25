@@ -3,12 +3,201 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2024-10-25T10:20:13+01:00</updated>
+    <updated>2024-10-25T11:24:41+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Half-Life Port (xash3d_fwgs)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/half-life-port-xash3d_fwgs/index.html"/>
+        <id>https://pixelnostalgia.github.io/half-life-port-xash3d_fwgs/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/28/xash3d-fwgs-2.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2024-10-25T11:12:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/28/xash3d-fwgs-2.webp" alt="xash3d_fwgs" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/28/xash3d-fwgs-2.webp" class="type:primaryImage" alt="xash3d_fwgs" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/28/half-life.png" alt="" width="270" height="152" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/28/responsive/half-life-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/28/responsive/half-life-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/28/responsive/half-life-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/28/responsive/half-life-xl.webp 1200w"></figure>
+<p>Xash3D FWGS is a fork of Xash3D Engine, compatible with GoldSrc engine.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/28/xash3d-fwgs.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/28/responsive/xash3d-fwgs-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/28/responsive/xash3d-fwgs-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/28/responsive/xash3d-fwgs-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/28/responsive/xash3d-fwgs-xl.webp 1200w"></figure><br>It allows you to play Half-Life out-of-the-box and other Half-Life based modifications, with many new features: high portability, advanced multiplayer, touchscreen, gamepad support and much more.</p>
+<p> </p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">xx games (~xx GB)</p>
+<p><a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
+<p class="msg--highlight msg msg--info">Note:</p>
+<p class="msg msg--highlight ">Highlight</p>
+<p class="msg msg--warning">Warning</p>
+<h5>List of games:</h5>
+<ol>
+<li>Game 1</li>
+<li>Game 2</li>
+<li>Game 3</li>
+</ol>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Amiga 500 (amiga500)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/amiga-500-amiga500/index.html"/>
+        <id>https://pixelnostalgia.github.io/amiga-500-amiga500/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/27/amiga500-2.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Computer"/>
+            <category term="Batocera"/>
+
+        <updated>2024-10-25T10:54:45+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/27/amiga500-2.png" alt="amiga500" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/27/amiga500-2.png" class="type:primaryImage" alt="amiga500" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/27/amiga500-logo.png" alt="" width="270" height="118" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-logo-xl.webp 1200w"></figure>
+<p>The Amiga 500, also known as the A500, is the first low-end version of the Amiga home computer. It contains the same Motorola 68000 as the Amiga 1000, as well as the same graphics and sound coprocessors, but is in a smaller case similar to that of the Commodore 128. The CPU implements a 32-bit model and has 32-bit registers, but it has a 16-bit main ALU and uses a 16-bit external data bus and a 23-bit address bus, providing a maximum of 16 MB of address space. Also built in to the base of the computer is a 3+1⁄2-inch floppy disk drive.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/27/amiga500.png" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-xl.webp 1200w"></figure><br>The earliest Amiga 500 models use nearly the same Original Amiga chipset as the Amiga 1000. So graphics can be displayed in multiple resolutions and color depths, even on the same screen. The sound chip produces four hardware-mixed channels, two to the left and two to the right, of 8-bit PCM at a sampling frequency up to 28 kHz. Each hardware channel has its own independent volume level and sampling rate, and can be designated to another channel where it can modulate both volume and frequency using its own output.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">2564 games (~18.5 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=957526" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
+<p class="msg--highlight msg msg--info">Note:</p>
+<p class="msg msg--highlight ">Highlight</p>
+<p class="msg msg--warning">Warning</p>
+<h5>List of games:</h5>
+<ol>
+<li>Game 1</li>
+<li>Game 2</li>
+<li>Game 3</li>
+</ol>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pinball FX (pinballfx)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/pinball-fx-pinballfx-2/index.html"/>
+        <id>https://pixelnostalgia.github.io/pinball-fx-pinballfx-2/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/26/pinballfx.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Pinball"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2024-10-25T10:47:31+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/26/pinballfx.webp" alt="pinballfx" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/26/pinballfx.webp" class="type:primaryImage" alt="pinballfx" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/26/pinballfx-logo.png" alt="" width="270" height="65" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo-xl.webp 1200w"></figure>
+<p>Virtual pinball in all its glory: Pinball FX is the most advanced pinball simulator with 4K HDR graphics and ray tracing. Realistic physics simulation is built into every table in the game library. Pinball FX is a new stage in the evolution of virtual pinball. Win on tables inspired by the biggest entertainment franchises.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/26/pinball-fx.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/26/responsive/pinball-fx-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinball-fx-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinball-fx-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinball-fx-xl.webp 1200w"></figure><br>Play on new tables created exclusively for Pinball FX, or choose your favourite from over 100 tables in Zen's extensive virtual library. Each table is unique and differentiated by animation. Recreate iconic scenes from the biggest entertainment franchises: Indiana Jones, Star Wars, Marvel, Universal Studios and more. Try your hand at exact replicas of the most famous pinball machines in history from Williams Pinball or play the original Zen machines.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">125 games (~40 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=954590" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a></p>
+<p class="msg--highlight msg msg--info">Note:</p>
+<p class="msg msg--highlight ">Highlight</p>
+<p class="msg msg--warning">Warning</p>
+<h5>List of games:</h5>
+<ol>
+<li>Game 1</li>
+<li>Game 2</li>
+<li>Game 3</li>
+</ol>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gamegear (gamegear)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/gamegear-gamegear/index.html"/>
+        <id>https://pixelnostalgia.github.io/gamegear-gamegear/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/25/gamegear.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Portable"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2024-10-25T10:40:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/25/gamegear.webp" alt="gamegear" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/25/gamegear.webp" class="type:primaryImage" alt="gamegear" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/25/gamegear-logo.png" alt="" width="270" height="118" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/25/responsive/gamegear-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/25/responsive/gamegear-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/25/responsive/gamegear-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/25/responsive/gamegear-logo-xl.webp 1200w"></figure>
+<p>The Game Gear is an 8-bit fourth generation handheld game console released by Sega on October 6, 1990 in Japan, in April 1991 throughout North America and Europe, and during 1992 in Australia. The Game Gear primarily competed with Nintendo's Game Boy, the Atari Lynx, and NEC's TurboExpress. It shares much of its hardware with the Master System, and can play Master System games by the use of an adapter. Sega positioned the Game Gear, which had a full-color backlit screen with a landscape format, as a technologically superior handheld to the Game Boy.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/25/sega-game-gear.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/25/responsive/sega-game-gear-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/25/responsive/sega-game-gear-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/25/responsive/sega-game-gear-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/25/responsive/sega-game-gear-xl.webp 1200w"></figure><br>Though the Game Gear was rushed to market, its unique game library and price point gave it an edge over the Atari Lynx and TurboExpress. However, due to its short battery life, lack of original games, and weak support from Sega, the Game Gear was unable to surpass the Game Boy, selling 10.62 million units by March 1996. The Game Gear was discontinued on April 30, 1997. It was re-released as a budget system by Majesco Entertainment in 2000, under license from Sega.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">247 games (~3.5 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=957598" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
+<p class="msg--highlight msg msg--info">Note:</p>
+<p class="msg msg--highlight ">Highlight</p>
+<p class="msg msg--warning">Warning</p>
+<h5>List of games:</h5>
+<ol>
+<li>Game 1</li>
+<li>Game 2</li>
+<li>Game 3</li>
+</ol>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>MAME Arcade (mame)</title>
         <author>
@@ -16,25 +205,26 @@
         </author>
         <link href="https://pixelnostalgia.github.io/mame-arcade-mame/index.html"/>
         <id>https://pixelnostalgia.github.io/mame-arcade-mame/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/24/mame.webp" medium="image" />
+        <media:content url="https://pixelnostalgia.github.io/media/posts/24/mame-2.webp" medium="image" />
             <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
             <category term="PC x86"/>
+            <category term="Lite package"/>
             <category term="Batocera"/>
             <category term="Arcade"/>
 
         <updated>2024-10-25T10:11:35+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/24/mame.webp" alt="mame" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/24/mame-2.webp" alt="mame" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/24/mame.webp" class="type:primaryImage" alt="mame" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/24/mame-2.webp" class="type:primaryImage" alt="mame" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
 <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/24/mame-logo.png" alt="" width="270" height="118" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/24/responsive/mame-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame-logo-xl.webp 1200w"></figure>
