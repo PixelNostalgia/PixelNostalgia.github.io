@@ -3,7 +3,7 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2024-10-25T11:28:29+01:00</updated>
+    <updated>2024-10-25T11:32:30+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
@@ -43,7 +43,7 @@
 
 <h5>The package includes:</h5>
 <p class="msg msg--success">xx games (~xx GB)</p>
-<p><a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
+<p><a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  <em>Coming Soon...</em></p>
 <p class="msg--highlight msg msg--info">Note:</p>
 <p class="msg msg--highlight ">Highlight</p>
 <p class="msg msg--warning">Warning</p>
