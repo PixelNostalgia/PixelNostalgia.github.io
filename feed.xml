@@ -3,7 +3,7 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2024-10-25T11:32:30+01:00</updated>
+    <updated>2024-10-25T12:07:16+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
@@ -37,7 +37,7 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/28/xash3d-fwgs-2.webp" class="type:primaryImage" alt="xash3d_fwgs" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/28/half-life-logo.png" alt="" width="270" height="152" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/28/responsive/half-life-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/28/responsive/half-life-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/28/responsive/half-life-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/28/responsive/half-life-logo-xl.webp 1200w"></figure>
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/28/xash3d_fwgs-logo.svg" alt="" width="270" height="59"></figure>
 <p>Xash3D FWGS is a fork of Xash3D Engine, compatible with GoldSrc engine.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/28/xash3d-fwgs.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/28/responsive/xash3d-fwgs-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/28/responsive/xash3d-fwgs-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/28/responsive/xash3d-fwgs-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/28/responsive/xash3d-fwgs-xl.webp 1200w"></figure><br>It allows you to play Half-Life out-of-the-box and other Half-Life based modifications, with many new features: high portability, advanced multiplayer, touchscreen, gamepad support and much more.</p>
 <p> </p>
 
@@ -90,7 +90,7 @@
 
 <h5>The package includes:</h5>
 <p class="msg msg--success">2564 games (~18.5 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=957526" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
+<p><a href="https://back-ups.me/details.php?id=957526" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--gray">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
 <p class="msg--highlight msg msg--info">Note:</p>
 <p class="msg msg--highlight ">Highlight</p>
 <p class="msg msg--warning">Warning</p>
@@ -184,7 +184,7 @@
 
 <h5>The package includes:</h5>
 <p class="msg msg--success">247 games (~3.5 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=957598" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
+<p><a href="https://back-ups.me/details.php?id=957598" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--gray">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
 <p class="msg--highlight msg msg--info">Note:</p>
 <p class="msg msg--highlight ">Highlight</p>
 <p class="msg msg--warning">Warning</p>
@@ -284,7 +284,7 @@
 
 <h5>The package includes:</h5>
 <p class="msg msg--success">872 games (~1.6 TB)</p>
-<p><a href="https://back-ups.me/details.php?id=946654" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
+<p><a href="https://back-ups.me/details.php?id=946654" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--gray">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
 <p class="msg--highlight msg msg--info">Note:</p>
 <p class="msg msg--highlight ">Highlight</p>
 <p class="msg msg--warning">Warning</p>
@@ -362,7 +362,7 @@
 
 <h5>The package includes:</h5>
 <p class="msg msg--success">63 games (~23 GB)</p>
-<p><a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
+<p><a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--gray">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
 <p class="msg--highlight msg msg--info">Note:</p>
 <p class="msg msg--highlight ">Highlight</p>
 <p class="msg msg--warning">Warning</p>
