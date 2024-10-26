@@ -3,205 +3,265 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2024-10-25T12:41:00+01:00</updated>
+    <updated>2024-10-26T13:39:55+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
     <entry>
-        <title>Half-Life Port (xash3d_fwgs)</title>
+        <title>Hypseus SINGE (singe)</title>
         <author>
-            <name>RapsterUK</name>
+            <name>g-spawn</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/half-life-port-xash3d_fwgs/index.html"/>
-        <id>https://pixelnostalgia.github.io/half-life-port-xash3d_fwgs/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/28/xash3d-fwgs-2.webp" medium="image" />
+        <link href="https://pixelnostalgia.github.io/hypseus-singe-singe/index.html"/>
+        <id>https://pixelnostalgia.github.io/hypseus-singe-singe/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/34/singe-2.png" medium="image" />
             <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
-            <category term="Port"/>
             <category term="PC x86"/>
             <category term="Batocera"/>
+            <category term="Arcade"/>
 
-        <updated>2024-10-25T11:12:03+01:00</updated>
+        <updated>2024-10-26T13:02:23+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/28/xash3d-fwgs-2.webp" alt="xash3d_fwgs" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/34/singe-2.png" alt="singe" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/28/xash3d-fwgs-2.webp" class="type:primaryImage" alt="xash3d_fwgs" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/34/singe-2.png" class="type:primaryImage" alt="singe" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/28/xash3d_fwgs-logo.svg" alt="" width="270" height="59"></figure>
-<p>Xash3D FWGS is a fork of Xash3D Engine, compatible with GoldSrc engine.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/28/xash3d-fwgs.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/28/responsive/xash3d-fwgs-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/28/responsive/xash3d-fwgs-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/28/responsive/xash3d-fwgs-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/28/responsive/xash3d-fwgs-xl.webp 1200w"></figure><br>It allows you to play Half-Life out-of-the-box and other Half-Life based modifications, with many new features: high portability, advanced multiplayer, touchscreen, gamepad support and much more.</p>
-<p> </p>
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/34/singe-logo.svg" alt="" width="335" height="141"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/34/singe.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/34/responsive/singe-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/34/responsive/singe-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/34/responsive/singe-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/34/responsive/singe-xl.webp 1200w"></figure>Hypseus SINGE, Somewhat Interactive Nostalgic Game Engine, (named after the dragon from Dragon's Lair) is the logical evolution of the Daphne emulator, which uses a Lua-based scripting system to quickly simulate LaserDisc games or create completely new games based on video files! The language is easy to learn, very powerful and fast. All the functions needed to develop your own game are available through a simple application programming interface (API).</p>
 
 <h5>The package includes:</h5>
-<p class="msg msg--success">xx games (~xx GB)</p>
-<p><a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  <em>Coming Soon...</em></p>
-<p class="msg--highlight msg msg--info">Note:</p>
-<p class="msg msg--highlight ">Highlight</p>
-<p class="msg msg--warning">Warning</p>
-<h5>List of games:</h5>
-<ol>
-<li>Game 1</li>
-<li>Game 2</li>
-<li>Game 3</li>
-</ol>
-<p> </p>
+<p class="msg msg--success">91 games (~109 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=955759" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>    </p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/OT1BdpqZnR0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/34/gallery/Zrzut-ekranu-2024-10-26-141059.png" data-size="3071x1719"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/34/gallery/Zrzut-ekranu-2024-10-26-141059-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p class="msg msg--info">Many Thanks to <a href="https://pixelnostalgia.github.io/authors/g-spawn/index.html" rel="nofollow">g-spawn</a> for reaching out to the comunity and putting together this pack! Thnx <a href="#INTERNAL_LINK#/author/rapsteruk" rel="nofollow">RapsterUK</a> for creating the YT video. <br><br>Hypseus is a fork of Matt Ownby's Daphne.<br>A program to play laserdisc arcade games on a PC, Mac or Raspberry Pi.<br>This version includes Singe support for Fan Made and American Laser Games.</p>
+<p class="msg--highlight msg "><strong>How to Install:</strong><br>1. Drag and drop the "singe" folder to the roms directory<br>2. If asked to overwrite say yes to all</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Amiga 500 (amiga500)</title>
+        <title>Daphne (daphne)</title>
         <author>
-            <name>RapsterUK</name>
+            <name>g-spawn</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/amiga-500-amiga500/index.html"/>
-        <id>https://pixelnostalgia.github.io/amiga-500-amiga500/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/27/amiga500-2.png" medium="image" />
+        <link href="https://pixelnostalgia.github.io/daphne-daphne/index.html"/>
+        <id>https://pixelnostalgia.github.io/daphne-daphne/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/33/daphne.webp" medium="image" />
             <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
             <category term="PC x86"/>
-            <category term="Computer"/>
             <category term="Batocera"/>
+            <category term="Arcade"/>
 
-        <updated>2024-10-25T10:54:45+01:00</updated>
+        <updated>2024-10-26T12:26:06+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/27/amiga500-2.png" alt="amiga500" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/33/daphne.webp" alt="daphne" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/27/amiga500-2.png" class="type:primaryImage" alt="amiga500" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/33/daphne.webp" class="type:primaryImage" alt="daphne" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/27/amiga500-logo.png" alt="" width="270" height="118" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-logo-xl.webp 1200w"></figure>
-<p>The Amiga 500, also known as the A500, is the first low-end version of the Amiga home computer. It contains the same Motorola 68000 as the Amiga 1000, as well as the same graphics and sound coprocessors, but is in a smaller case similar to that of the Commodore 128. The CPU implements a 32-bit model and has 32-bit registers, but it has a 16-bit main ALU and uses a 16-bit external data bus and a 23-bit address bus, providing a maximum of 16 MB of address space. Also built in to the base of the computer is a 3+1⁄2-inch floppy disk drive.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/27/amiga500.png" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/27/responsive/amiga500-xl.webp 1200w"></figure><br>The earliest Amiga 500 models use nearly the same Original Amiga chipset as the Amiga 1000. So graphics can be displayed in multiple resolutions and color depths, even on the same screen. The sound chip produces four hardware-mixed channels, two to the left and two to the right, of 8-bit PCM at a sampling frequency up to 28 kHz. Each hardware channel has its own independent volume level and sampling rate, and can be designated to another channel where it can modulate both volume and frequency using its own output.</p>
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/33/daphne-logo.png" alt="" width="336" height="147" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-logo-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/33/daphne-2.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-2-xl.webp 1200w"></figure>DAPHNE is an arcade emulator application that emulates a variety of laserdisc video games with the intent of preserving these games and making the play experience as faithful to the originals as possible. The developer calls DAPHNE the "First Ever Multiple Arcade Laserdisc Emulator" ("FEMALE"). It derives its name from Princess Daphne, the heroine of Dragon's Lair.</p>
 
 <h5>The package includes:</h5>
-<p class="msg msg--success">2564 games (~18.5 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=957526" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--gray">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
-<p class="msg--highlight msg msg--info">Note:</p>
-<p class="msg msg--highlight ">Highlight</p>
-<p class="msg msg--warning">Warning</p>
-<h5>List of games:</h5>
-<ol>
-<li>Game 1</li>
-<li>Game 2</li>
-<li>Game 3</li>
-</ol>
-<p> </p>
+<p class="msg msg--success">19 games (~15 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=954710" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>    </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/33/gallery/daphne01.png" data-size="3084x1736"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/33/gallery/daphne01-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+</div></div>
+<p class="msg--highlight msg "><strong>How to Install:</strong><br>1. Remove roms\daphne<br>2. Drag and drop the "daphne" folder to the roms directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pinball M (pinballm)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/pinball-m-pinballm/index.html"/>
+        <id>https://pixelnostalgia.github.io/pinball-m-pinballm/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/32/pinballm.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="Pinball"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+
+        <updated>2024-10-26T09:44:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/32/pinballm.png" alt="pinballm" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/32/pinballm.png" class="type:primaryImage" alt="pinballm" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/32/pinballm-logo-2.png" alt="" width="354" height="177" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/32/responsive/pinballm-logo-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinballm-logo-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinballm-logo-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinballm-logo-2-xl.webp 1200w"></figure>
+<p>Get ready to tilt into terror. The new horror-inspired pinball platform for fearless players. Prove your skills on the most sinister, gory, and badass tables ever brought to life.<br><br>Spine-chilling features:<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/32/pinball-fx.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/32/responsive/pinball-fx-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinball-fx-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinball-fx-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinball-fx-xl.webp 1200w"></figure><br><br>- Wrath of the Elder Gods: Director’s Cut - experience the eldritch horror unrestricted for free<br>- A library of brand new, never-before-seen tables filled with fear and carnage<br>- Thrilling competition<br>- Zen Studios’ ultimate pinball simulation<br><br>Press start and flip for your life!</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">7 tables (~7 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=954598" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/32/gallery/Zrzut-ekranu-2024-10-26-134137.png" data-size="3072x1716"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/32/gallery/Zrzut-ekranu-2024-10-26-134137-thumbnail.webp" alt="" width="768" height="429"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong> <br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Drag and drop the "pinballm" folder into the 'roms' directory and Enjoy!</span></p>
+<p class="msg msg--warning">Correct functioning of the system requires execution of the last pixn-update available for the system</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pinball FX3 (pinballfx3)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/pinball-fx3-pinballfx3/index.html"/>
+        <id>https://pixelnostalgia.github.io/pinball-fx3-pinballfx3/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/31/pinballfx3.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="Pinball"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+
+        <updated>2024-10-26T09:37:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/31/pinballfx3.png" alt="pinballfx3" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/31/pinballfx3.png" class="type:primaryImage" alt="pinballfx3" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/31/pinballfx3-logo.png" alt="" width="439" height="192" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/31/responsive/pinballfx3-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinballfx3-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinballfx3-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinballfx3-logo-xl.webp 1200w"></figure>
+<p>Pinball FX 3 is a pinball simulator video game developed and published by Zen Studios and released for Microsoft Windows, Xbox One, PlayStation 4 in September 2017 and then released for the Nintendo Switch in December 2017.<br><br>Pinball FX 3 allows players to play one of several simulated pinball tables, and includes online scoreboard support for informal competition with other players. <figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/31/pinball-fx.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/31/responsive/pinball-fx-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinball-fx-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinball-fx-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinball-fx-xl.webp 1200w"></figure>The game is aimed to provide a more engaging multiplayer experience than previous titles; the game will provide support for asynchronous competitive multiplayer options, and tournament-style play. There will be shared leaderboards and multiplayer options among platforms, although PlayStation 4 players can only compete with users playing through Steam on Windows due to Sony's initial decision to prohibit cross-platform play between its PlayStation 4 and other consoles.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">100 tables (~10 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=954597" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/31/gallery/Zrzut-ekranu-2024-10-26-134415.png" data-size="3076x1722"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/31/gallery/Zrzut-ekranu-2024-10-26-134415-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong> <br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Drag and drop the "pinballfx3" folder into the 'roms' directory and Enjoy!</span></p>
+<p class="msg msg--warning">Correct functioning of the system requires execution of the last pixn-update available for the system</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pinball FX2 (pinballfx2)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/pinball-fx2-pinballfx2/index.html"/>
+        <id>https://pixelnostalgia.github.io/pinball-fx2-pinballfx2/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/30/pinballfx2-2.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="Pinball"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+
+        <updated>2024-10-26T09:25:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/30/pinballfx2-2.png" alt="pinballfx2" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/30/pinballfx2-2.png" class="type:primaryImage" alt="pinballfx2" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/30/pinballfx2.png" alt="" width="499" height="138" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/30/responsive/pinballfx2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/30/responsive/pinballfx2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/30/responsive/pinballfx2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/30/responsive/pinballfx2-xl.webp 1200w"></figure>
+<p>Pinball FX 2 is a pinball video game for Xbox 360, Xbox One, and Microsoft Windows (XP and higher) and is the sequel to Pinball FX. It was developed by Zen Studios and published by Microsoft Studios. It was released on October 27, 2010, via the Xbox Live Arcade service. The game includes several new features, such as local multiplayer and the ability to tweak table settings. <figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/30/pinball-fx-2.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/30/responsive/pinball-fx-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/30/responsive/pinball-fx-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/30/responsive/pinball-fx-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/30/responsive/pinball-fx-2-xl.webp 1200w"></figure>Players can also import all of the tables from Pinball FX they had previously purchased. The Windows 8 version of Pinball FX 2 was released on the Windows Store on October 27, 2012, two years after the original XBLA release. The game was subsequently released for other Windows platforms via Steam on May 10, 2013. Pinball FX 2 was announced for Windows Phone in February 2012. A sequel, Pinball FX 3 was released in September 2017.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">77 tables (~7 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=954591" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/30/gallery/Zrzut-ekranu-2024-10-26-134637.png" data-size="3068x1717"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/30/gallery/Zrzut-ekranu-2024-10-26-134637-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong> <br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Drag and drop the "pinballfx2" folder into the 'roms' directory and Enjoy!</span></p>
+<p class="msg msg--warning">Correct functioning of the system requires execution of the last pixn-update available for the system</p>
             ]]>
         </content>
     </entry>
     <entry>
         <title>Pinball FX (pinballfx)</title>
         <author>
-            <name>RapsterUK</name>
+            <name>g-spawn</name>
         </author>
         <link href="https://pixelnostalgia.github.io/pinball-fx-pinballfx-2/index.html"/>
         <id>https://pixelnostalgia.github.io/pinball-fx-pinballfx-2/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/26/pinballfx.webp" medium="image" />
+        <media:content url="https://pixelnostalgia.github.io/media/posts/26/pinballfx-2.webp" medium="image" />
             <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
             <category term="Pinball"/>
             <category term="PC x86"/>
+            <category term="Custom"/>
             <category term="Batocera"/>
 
         <updated>2024-10-25T10:47:31+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/26/pinballfx.webp" alt="pinballfx" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/26/pinballfx-2.webp" alt="pinballfx" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/26/pinballfx.webp" class="type:primaryImage" alt="pinballfx" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/26/pinballfx-2.webp" class="type:primaryImage" alt="pinballfx" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/26/pinballfx-logo.png" alt="" width="270" height="65" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo-xl.webp 1200w"></figure>
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/26/pinballfx-logo2.png" alt="" width="298" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo2-xl.webp 1200w"></figure>
 <p>Virtual pinball in all its glory: Pinball FX is the most advanced pinball simulator with 4K HDR graphics and ray tracing. Realistic physics simulation is built into every table in the game library. Pinball FX is a new stage in the evolution of virtual pinball. Win on tables inspired by the biggest entertainment franchises.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/26/pinball-fx.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/26/responsive/pinball-fx-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinball-fx-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinball-fx-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinball-fx-xl.webp 1200w"></figure><br>Play on new tables created exclusively for Pinball FX, or choose your favourite from over 100 tables in Zen's extensive virtual library. Each table is unique and differentiated by animation. Recreate iconic scenes from the biggest entertainment franchises: Indiana Jones, Star Wars, Marvel, Universal Studios and more. Try your hand at exact replicas of the most famous pinball machines in history from Williams Pinball or play the original Zen machines.</p>
 
 <h5>The package includes:</h5>
-<p class="msg msg--success">125 games (~40 GB)</p>
+<p class="msg msg--success">127 tables (~40 GB)</p>
 <p><a href="https://back-ups.me/details.php?id=954590" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a></p>
-<p class="msg--highlight msg msg--info">Note:</p>
-<p class="msg msg--highlight ">Highlight</p>
-<p class="msg msg--warning">Warning</p>
-<h5>List of games:</h5>
-<ol>
-<li>Game 1</li>
-<li>Game 2</li>
-<li>Game 3</li>
-</ol>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Gamegear (gamegear)</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/gamegear-gamegear/index.html"/>
-        <id>https://pixelnostalgia.github.io/gamegear-gamegear/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/25/gamegear.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Portable"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2024-10-25T10:40:41+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/25/gamegear.webp" alt="gamegear" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/25/gamegear.webp" class="type:primaryImage" alt="gamegear" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/25/gamegear-logo.png" alt="" width="270" height="118" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/25/responsive/gamegear-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/25/responsive/gamegear-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/25/responsive/gamegear-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/25/responsive/gamegear-logo-xl.webp 1200w"></figure>
-<p>The Game Gear is an 8-bit fourth generation handheld game console released by Sega on October 6, 1990 in Japan, in April 1991 throughout North America and Europe, and during 1992 in Australia. The Game Gear primarily competed with Nintendo's Game Boy, the Atari Lynx, and NEC's TurboExpress. It shares much of its hardware with the Master System, and can play Master System games by the use of an adapter. Sega positioned the Game Gear, which had a full-color backlit screen with a landscape format, as a technologically superior handheld to the Game Boy.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/25/sega-game-gear.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/25/responsive/sega-game-gear-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/25/responsive/sega-game-gear-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/25/responsive/sega-game-gear-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/25/responsive/sega-game-gear-xl.webp 1200w"></figure><br>Though the Game Gear was rushed to market, its unique game library and price point gave it an edge over the Atari Lynx and TurboExpress. However, due to its short battery life, lack of original games, and weak support from Sega, the Game Gear was unable to surpass the Game Boy, selling 10.62 million units by March 1996. The Game Gear was discontinued on April 30, 1997. It was re-released as a budget system by Majesco Entertainment in 2000, under license from Sega.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">247 games (~3.5 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=957598" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--gray">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
-<p class="msg--highlight msg msg--info">Note:</p>
-<p class="msg msg--highlight ">Highlight</p>
-<p class="msg msg--warning">Warning</p>
-<h5>List of games:</h5>
-<ol>
-<li>Game 1</li>
-<li>Game 2</li>
-<li>Game 3</li>
-</ol>
-<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/26/gallery/Zrzut-ekranu-2024-10-26-135210.png" data-size="3066x1719"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/26/gallery/Zrzut-ekranu-2024-10-26-135210-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong> <br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Drag and drop the "pinballfx" folder into the 'roms' directory and Enjoy!</span></p>
+<p class="msg msg--highlight  msg--warning">If you are using the original <a href="https://github.com/CkauNui/ckau-book" target="_blank" class="extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">ckau-book theme</a> (not our customised version - Ckau-Book-PixN), you need to rename or delete the preset settings file in the theme folder: /ckau-book/_inc/presets/pinballfx.xml Otherwise, it will display the media incorrectly.</p>
+<p class="msg msg--warning">Correct functioning of the system requires execution of the last pixn-update available for the system</p>
             ]]>
         </content>
     </entry>
     <entry>
         <title>MAME Arcade (mame)</title>
         <author>
-            <name>RapsterUK</name>
+            <name>RGS</name>
         </author>
         <link href="https://pixelnostalgia.github.io/mame-arcade-mame/index.html"/>
         <id>https://pixelnostalgia.github.io/mame-arcade-mame/index.html</id>
@@ -218,83 +278,35 @@
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/24/mame-2.webp" alt="mame" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat<br><span style="color: #ffffff;"><strong>MAME 0.265</strong></span></span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://pixelnostalgia.github.io/media/posts/24/mame-2.webp" class="type:primaryImage" alt="mame" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat<br><span style="color: #ffffff;"><strong>MAME 0.265</strong></span></span></p>
 
 <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/24/mame-logo.png" alt="" width="270" height="118" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/24/responsive/mame-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame-logo-xl.webp 1200w"></figure>
-<p>MAME (originally an acronym of Multiple Arcade Machine Emulator) is a free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms. Its intention is to preserve gaming history by preventing vintage games from being lost or forgotten. It does this by emulating the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect". Joystiq has listed MAME as an application that every Windows and Mac gamer should have.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/24/mame2.webp" alt="" width="400" height="314" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/24/responsive/mame2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame2-xl.webp 1200w"></figure><br>The first public MAME release was by Nicola Salmoria on February 5, 1997. It now supports over 7,000 unique games and 10,000 actual ROM image sets, though not all of the games are playable. MESS, an emulator for many video game consoles and computer systems, based on the MAME core, was integrated into MAME in 2015.</p>
-<p> </p>
+<p>MAME (originally an acronym of Multiple Arcade Machine Emulator) is a free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms. Its intention is to preserve gaming history by preventing vintage games from being lost or forgotten. It does this by emulating the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect". </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/24/mame2.webp" alt="" width="400" height="314" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/24/responsive/mame2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame2-xl.webp 1200w"></figure>
+<p>Joystiq has listed MAME as an application that every Windows and Mac gamer should have.<br>The first public MAME release was by Nicola Salmoria on February 5, 1997. It now supports over 7,000 unique games and 10,000 actual ROM image sets, though not all of the games are playable. MESS, an emulator for many video game consoles and computer systems, based on the MAME core, was integrated into MAME in 2015.</p>
 
 <h5>The package includes:</h5>
-<p class="msg msg--success">4333 games (~190 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=946600" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="https://back-ups.me/details.php?id=958939" target="_blank" class="btn extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Lite Package</a></p>
-<p class="msg--highlight msg msg--info">Note:</p>
-<p class="msg msg--highlight ">Highlight</p>
-<p class="msg msg--warning">Warning</p>
-<h5>List of games:</h5>
-<ol>
-<li>Game 1</li>
-<li>Game 2</li>
-<li>Game 3</li>
-</ol>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>XBOX Original (xbox)</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/xbox-original-xbox-2/index.html"/>
-        <id>https://pixelnostalgia.github.io/xbox-original-xbox-2/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/23/xbox-2.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Console"/>
-            <category term="Batocera"/>
-
-        <updated>2024-10-25T08:58:16+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/23/xbox-2.webp" alt="xbox" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/23/xbox-2.webp" class="type:primaryImage" alt="xbox" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/23/xbox-logo.png" alt="" width="270" height="118" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/23/responsive/xbox-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/23/responsive/xbox-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/23/responsive/xbox-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/23/responsive/xbox-logo-xl.webp 1200w"></figure>
-<p>Xbox is a video gaming brand created and owned by Microsoft. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations, respectively.</p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/23/microsoft-xbox-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/23/responsive/microsoft-xbox-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/23/responsive/microsoft-xbox-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/23/responsive/microsoft-xbox-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/23/responsive/microsoft-xbox-2-xl.webp 1200w"></figure>
-<p>The brand also represents applications (games), streaming serv<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">i</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">ces, an online service by the name of Xb</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">ox Live, and the development arm by the name of Xbox Game Studios. </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">The brand was first introduced in the United States in November 2001, with the launch of the original Xbox console.</span></p>
-<p> </p>
-<p> </p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">872 games (~1.6 TB)</p>
-<p><a href="https://back-ups.me/details.php?id=946654" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--gray">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
-<p class="msg--highlight msg msg--info">Note:</p>
-<p class="msg msg--highlight ">Highlight</p>
-<p class="msg msg--warning">Warning</p>
-<h5>List of games:</h5>
-<ol>
-<li>Game 1</li>
-<li>Game 2</li>
-<li>Game 3</li>
-</ol>
-<p> </p>
+<p class="msg msg--success">4389 games (~190 GB)<br>628 games in Lite pack (~16 GB)<br>450 realistic bezels (~2 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=946600" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>  <a href="https://back-ups.me/details.php?id=958939" target="_blank" class="btn extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Lite Package</a>  <a href="https://back-ups.me/details.php?id=959014" target="_blank" class="btn extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Realistic Bezels</a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/24/gallery/Zrzut-ekranu-2024-10-26-135748.png" data-size="3069x1717"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/24/gallery/Zrzut-ekranu-2024-10-26-135748-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/24/gallery/Zrzut-ekranu-2024-10-26-135847.png" data-size="3069x1719"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/24/gallery/Zrzut-ekranu-2024-10-26-135847-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/24/gallery/Zrzut-ekranu-2024-10-26-140025.png" data-size="3076x1727"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/24/gallery/Zrzut-ekranu-2024-10-26-140025-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
+<p class="msg msg--info"><strong>Q&amp;A:</strong> <br>1.Q What is Mame 0.265? <br>1.A This is the latest Mame Romset (Arcade) version for Batocera v40 <br><br>2.Q What is a non-merged Romset? <br>2.A Non-merged (a.k.a. reference set): This is the same as full non-merged, however “common” BIOS files shared by a large number of ROMs are separated out to save space. Use this only if you know which BIOS files you'll need for each ROM. <br><br>3.Q What version of the MAME emulator does Batocera have? <br>3.A Batocera v40 uses Mame 0.265 Emulator, Also Batocera has different core's of mame eg: Mame 078Plus And Mame 0.139. Its important to match the Emulator version of MAME with the Romset. <br><br>4.Q Does the Romset 0.265 work with Mame Emulator 0.259 Batocera 39 <br>4.A Yes! For 99% of the Roms, there are some new and updated Roms that does not work with backward compatibility but they didn’t work in the previous Romset so you won't miss out anyway :). <br><br>5.Q Why not use a merged Romset?<br>5.A In a merged set Clones are merged into the parent ROM ZIP file, meaning that more than one game is stored per file. This relies on the frontend to select which game is to be played. Batocera does not have this functionality, thus it is not recommended to use this type of set. <br><br>6.Q What about RetroBat? <br>6.A RetroBat 6.3.1 has the mame 0.267 emulator. Mame romset 0.265 will run 99%. We choose to be complatible with Batocera because their supported romset is a older version compared to RetroBat. <br><br>7.Q Why are there so many double roms from fbneo compared to mame? <br>7.A fbneo is a fork of mame, aimed to be more features rich for end users such as RetroAchievements. Fbneo is unable to play disc based games like Killer Instinct. The Goal of MAME is preservation. Mame will support more games and disc based games.</p>
+<p class="msg msg--warning"><strong>Requirements:</strong> Batocera v40 with the emulator set to MAME or Libretro:MAME (not on auto!) RetroBat 6.3.1</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">If you are on Batocera v39 don't replace mame 0.259<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">If you are on Batocera v40 remove roms\mame and replace with this 0.265<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">If you are on RetroBat remove roms\mame and replace with this 0.265</span></p>
+<p class="msg msg--highlight "><strong>How to install Lite pack:<br></strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">If you are on Batocera v40 remove roms\mame and replace with this (0.265) If you are on RetroBat 6.x remove roms\mame and replace with this (0.265) This pack is NOT for Batocera v39 but you can still use it if you wish, 99% of games should work fine.</span></p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/vUndfus-j9I" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="msg msg--warning"><strong>Requirements for realistic bezels:</strong> Have a MAME Pack installed (This can either be MAME 0.259, 0.265 or the Lite Pack).</p>
+<p class="msg msg--highlight "><strong>How to install realistic bezels</strong>:<br>1. (Batocera): Drag and drop the folder "ArcadeRealistic" from the zip file into \\batocera\share\decorations<br>(RetroBat): Drag and drop the folder "ArcadeRealistic" from the zip file into R:\RetroBat\decorations<br><br>2. Go into the Mame Wheel, press select on your controller &gt; Advanced System Options &gt; Decorations &gt; Select ARCADEREALISTIC<br><br>3. Done, launch a game eg: Galaga and see the Arcade Realistic Bezel. Arcade games without a Realistic Bezel will fallback to the default Arcade Bezel<br><br>This pack is done by a users of our discord server, <strong>32Adri32</strong> Thank you so much!<br><br>Note: <strong>32Adri32</strong> only made sure all the aspect ratio file called .info files are correct he did not create the bezels itself, those are gathered from various online sources.<br>Note: Created with 1920x1080 resolution.</p>
             ]]>
         </content>
     </entry>
@@ -325,53 +337,6 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>3DO Interactive Multiplayer (3do)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/3do-interactive-multiplayer-3do/index.html"/>
-        <id>https://pixelnostalgia.github.io/3do-interactive-multiplayer-3do/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/1/3do-1-600x600.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Console"/>
-            <category term="Batocera"/>
-
-        <updated>2024-10-20T19:51:06+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/1/3do-1-600x600.webp" alt="3do" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/1/3do-1-600x600.webp" class="type:primaryImage" alt="3do" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/1/3do.svg" alt="" width="270" height="82"></figure>
-<p>The 3DO Interactive Multiplayer, often called the 3DO, is a home video game console developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by GoldStar (now LG Electronics) and in 1995 by Sanyo.<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/1/3do-interactive-multiplayer-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/1/responsive/3do-interactive-multiplayer-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/1/responsive/3do-interactive-multiplayer-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/1/responsive/3do-interactive-multiplayer-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/1/responsive/3do-interactive-multiplayer-2-xl.webp 1200w"></figure><br>Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in early 1997, just after an unsuccessful holiday season.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">63 games (~23 GB)</p>
-<p><a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  <a href="#" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--gray">Lite Package</a>  <em>(Lite Package Coming Soon...)</em></p>
-<p class="msg--highlight msg msg--info">Note:</p>
-<p class="msg msg--highlight ">Highlight</p>
-<p class="msg msg--warning">Warning</p>
-<h5>List of games:</h5>
-<ol>
-<li>Game 1</li>
-<li>Game 2</li>
-<li>Game 3</li>
-</ol>
 <p> </p>
             ]]>
         </content>
