@@ -1,5 +1,4 @@
 // Sticky menu
-// Sticky menu
 let lastScrollPosition = 0;
 const header = document.getElementById("js-header");
 const stickyMenu = document.getElementById("js-navbar-menu");
@@ -470,12 +469,13 @@ if (comments) {
 }
 
 
-// Load search input area
+// Load search input area only if search elements exist
 const searchButton = document.querySelector('.js-search-btn');
 const searchOverlay = document.querySelector('.js-search-overlay');
-const searchInput = searchOverlay.querySelector('input[type="search"]');
 
-if (searchButton) {
+if (searchButton && searchOverlay) {
+    const searchInput = searchOverlay.querySelector('input[type="search"]');
+
     searchButton.addEventListener('click', (event) => {        
         event.stopPropagation();
         searchOverlay.classList.toggle('expanded');
@@ -495,8 +495,6 @@ if (searchButton) {
         searchOverlay.classList.remove('expanded');
     });
 }
-
-
 
 // Share buttons pop-up
 (function () {

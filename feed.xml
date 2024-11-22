@@ -3,79 +3,12 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2024-10-27T20:55:21+00:00</updated>
+    <updated>2024-11-14T14:23:18+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
-    <entry>
-        <title>Fix Ryujinx after the 6.3.1 Update</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/fix-ryujinx-after-the-631-update/index.html"/>
-        <id>https://pixelnostalgia.github.io/fix-ryujinx-after-the-631-update/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/42/PiXN_retrobat_faq.png" medium="image" />
-            <category term="FAQ Retrobat"/>
-            <category term="FAQ"/>
-
-        <updated>2024-10-27T17:18:19+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/42/PiXN_retrobat_faq.png" alt="Fix Ryujinx after the 6.3.1 Update" />
-                    Guide to Fix Ryujinx after the 6.3.1 Update: WARNING SKIP STEP 1 IF YOU DON'T WANT TO LOOSE YOUR SAVED GAMES 3a. Open emulator (RetroBat\emulators\ryujinx\Ryujinx.exe), it will say no prod, title keys (if not go to the next step) 3b. ryujinx will promt for a update, do it (its safe), no promt? goto help&gt;check update Download new prod title keys at: https://prodkeys.net/ryujinx-prod-keys-13/
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/42/PiXN_retrobat_faq.png" class="type:primaryImage" alt="Fix Ryujinx after the 6.3.1 Update" /></p>
-                <h5>Guide to Fix Ryujinx after the 6.3.1 Update:</h5>
-<p class="msg msg--highlight  msg--warning"><strong>WARNING SKIP STEP 1 IF YOU DON'T WANT TO LOOSE YOUR SAVED GAMES</strong></p>
-<ol start="1">
-<li>Remove the portable directory (RetroBat\emulators\ryujinx\portable) and create a new one (empty)</li>
-</ol>
-<ol start="2">
-<li>Remove \RetroBat\saves\switch\ryujinx folder (if your not sure, make a copy of that directory first and name to ryujinx.bak)</li>
-</ol>
-<p>3a. Open emulator (RetroBat\emulators\ryujinx\Ryujinx.exe), it will say no prod, title keys (if not go to the next step)</p>
-<p>3b. ryujinx will promt for a update, do it (its safe), no promt? goto <strong>help&gt;check update</strong></p>
-<ol start="4">
-<li>Download new prod title keys at: <a class="anchor_af404b anchorUnderlineOnHover_af404b" href="https://prodkeys.net/ryujinx-prod-keys-13/" rel="noreferrer noopener" target="_blank" title="https://prodkeys.net/ryujinx-prod-keys-13/" role="button" tabindex="0">https://prodkeys.net/ryujinx-prod-keys-13/</a></li>
-</ol>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Updating to v.6.3.1</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/updating-to-v631/index.html"/>
-        <id>https://pixelnostalgia.github.io/updating-to-v631/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/41/PiXN_retrobat_faq.png" medium="image" />
-            <category term="FAQ Retrobat"/>
-            <category term="FAQ"/>
-
-        <updated>2024-10-27T16:57:51+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/41/PiXN_retrobat_faq.png" alt="Updating to v.6.3.1" />
-                    This update for RetroBat includes some key changes related to 'save' locations that you need to be aware of. These actions should be done AFTER the upgrade and BEFORE you try to launch any games. Move RPCS3 dev_hdd0 folder to saves\ps3\rpcs3\hdd_0 (you need to cut/paste when upgrading, if you want to keep the current folder in emulator directory, delete saves\ps3\rpcs3\hdd_0 folder) Move PPSSPP memstick folder to saves\psp (you need to cut/paste when upgrading) Move CEMU mlc01 folder to saves\wiiu\cemu\mlc01 (you need to cut/paste when upgrading, if you want to keep the current folder in emulator directory, delete saves\wiiu\cemu\mlc01 folder) Move&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/41/PiXN_retrobat_faq.png" class="type:primaryImage" alt="Updating to v.6.3.1" /></p>
-                <p>This update for RetroBat includes some key changes related to 'save' locations that you need to be aware of.</p>
-<p class="msg msg--warning">These actions should be done <strong>AFTER</strong> the upgrade and <strong>BEFORE</strong> you try to launch any games.</p>
-<h5>From the RetroBat change log:</h5>
-<p><em>Move RPCS3 dev_hdd0 folder to saves\ps3\rpcs3\hdd_0 (you need to cut/paste when upgrading, if you want to keep the current folder in emulator directory, delete saves\ps3\rpcs3\hdd_0 folder) </em><br><br><em>Move PPSSPP memstick folder to saves\psp (you need to cut/paste when upgrading) </em><br><br><em>Move CEMU mlc01 folder to saves\wiiu\cemu\mlc01 (you need to cut/paste when upgrading, if you want to keep the current folder in emulator directory, delete saves\wiiu\cemu\mlc01 folder) </em><br><br><em>Move XENIA and XENIA-CANARY content path to saves\xbox360\xenia (you need to cut/paste when upgrading, if you want to keep the current folder in emulator directory, delete saves\xbox360\xenia folder) </em><br><br><em>Move Ryujinx portable path to saves\switch\ryujinx (you need to cut/paste when upgrading, if you want to keep the current folder in emulator directory, delete saves\switch\ryujinx folder) </em><br><br><em>Move Vita3K content path to saves\psvita\vita3k as default(you can still use a custom path)</em></p>
-<p class="msg msg--highlight "><strong>Recommended Steps:</strong> <br>PS3: <br>Move \RetroBat\emulators\rpcs3\dev_hdd0 to \RetroBat\saves\ps3\rpcs3\dev_hdd0 <br><br>PSP: <br>Move \RetroBat\emulators\ppsspp\memstick to \RetroBat\saves\psp\memstick <br><br>WiiU: <br>Move \RetroBat\emulators\cemu\mlc01 to \RetroBat\saves\wiiu\cemu\mlc01 Xbox360: (Only move folders with names similar to "58410901" as these are where the save games are stored. For example, folders such as 'cache' 'config' or 'patches' are part of the emulator and show be left where they are) <br>Move \RetroBat\emulators\xenia\ to \RetroBat\saves\xbox360\xenia\ Note: Xenia and Xenia-Canary share they save saves folder. <br><br>Switch: <br>Move \RetroBat\emulators\ryujinx\portable to \RetroBat\saves\switch\ryujinx\portable <br><br>PSVita: (Optional but recommended)<br>1. Close RetroBat and browse to \RetroBat\emulators\vita3k\ and run Vita3K.exe<br>2. Click in the Vita3K window and go to 'Configuration' then 'Settings'<br>3. Click on the 'Emulator' tab then click 'Change Emulator Path'<br>4. Browse to \RetroBat\saves\psvita\vita3k and click 'Select Folder<br>5. Now click on 'Save' then 'Close'<br>6. You can now close the Vita3K emulator<br>7. Now move (cut/paste) the following folders from \RetroBat\emulators\vita3k\ to \RetroBat\saves\psvita\vita3k\<br>gro0<br>grw0<br>host0<br>imc0<br>os0<br>pd0<br>sa0<br>sd0<br>tm0<br>ud0<br>uma0<br>ur0<br>ux0<br>vd0<br>vs0<br>xmc0<br>8. All done!</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/jXPzOr2AFV8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Naomi 2 (naomi2)</title>
         <author>
@@ -91,7 +24,7 @@
             <category term="Batocera"/>
             <category term="Arcade"/>
 
-        <updated>2024-10-27T16:17:14+00:00</updated>
+        <updated>2024-10-27T17:17:14+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/40/naomi2.webp" alt="naomi 2" />
@@ -104,12 +37,15 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/40/naomi2.webp" class="type:primaryImage" alt="naomi 2" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/40/naomi2-w.svg" alt="" width="329" height="59"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/40/naomi-2-2.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/40/responsive/naomi-2-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/40/responsive/naomi-2-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/40/responsive/naomi-2-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/40/responsive/naomi-2-2-xl.webp 1200w"></figure>The Sega NAOMI 2 is an arcade board developed by Sega and is a successor to Sega NAOMI hardware. It was originally released in 2000. Since it uses similar NAOMI architecture (but significantly beefed up), it is also fully backwards compatible with its predecessor.<br><br>The NAOMI 2 is significantly more powerful than the NAOMI, including a dual CPU setup, new TL GPU, dual rasterizer GPU, increased memory, and faster bandwidth. This leads to games with much more polygons than a NAOMI game, rendered at much faster speeds, while the new TL GPU adds advanced lighting and particle effects. It was also more affordable than the very expensive (and difficult to program) Sega Hikaru arcade system that preceded it. The NAOMI 2 was nevertheless more powerful than home systems at the time.<br><br>As with the NAOMI, the NAOMI 2 was also available in GD-ROM and Satellite Terminal variants. It was Sega's last proprietary arcade system board; subsequent Sega arcade boards have been based on console and PC hardware.</p>
+<figure class="post__image post__image--center"><img  src="https://pixelnostalgia.github.io/media/posts/40/naomi2-w.svg" alt="" width="329" height="59"></figure><br><figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/40/naomi-2-2.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/40/responsive/naomi-2-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/40/responsive/naomi-2-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/40/responsive/naomi-2-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/40/responsive/naomi-2-2-xl.webp 1200w"></figure>The Sega NAOMI 2 is an arcade board developed by Sega and is a successor to Sega NAOMI hardware. It was originally released in 2000. Since it uses similar NAOMI architecture (but significantly beefed up), it is also fully backwards compatible with its predecessor.<br><br>The NAOMI 2 is significantly more powerful than the NAOMI, including a dual CPU setup, new TL GPU, dual rasterizer GPU, increased memory, and faster bandwidth. This leads to games with much more polygons than a NAOMI game, rendered at much faster speeds, while the new TL GPU adds advanced lighting and particle effects. It was also more affordable than the very expensive (and difficult to program) Sega Hikaru arcade system that preceded it. The NAOMI 2 was nevertheless more powerful than home systems at the time.<br><br>As with the NAOMI, the NAOMI 2 was also available in GD-ROM and Satellite Terminal variants. It was Sega's last proprietary arcade system board; subsequent Sega arcade boards have been based on console and PC hardware.</p>
 <h5>The package includes:</h5>
 <p class="msg msg--success">12 games (~2 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=946664" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>   </p>
+<p><a href="https://back-ups.me/details.php?id=946664" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/40/gallery/Zrzut-ekranu-2024-11-14-141809.png" data-size="3069x1725"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/40/gallery/Zrzut-ekranu-2024-11-14-141809-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+</div></div>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "naomi2" folder into the 'roms' directory and Enjoy!</p>
-<p class="msg msg--warning"><strong>Fix for RetroBat:</strong> Bios popup when booting <a href="https://drive.google.com/drive/folders/1Gk8KWp_SB_lhFCH8ELlUxJ3Wkjc6jkVm?usp=sharing"  class="extlink extlink-icon-1 "  rel="nofollow">https://drive.google.com/drive/folders/1Gk8KWp_SB_lhFCH8ELlUxJ3Wkjc6jkVm?usp=sharing</a>  </p>
+<p class="msg msg--warning"><strong>Fix for RetroBat:</strong> Bios popup when booting <a href="https://drive.google.com/drive/folders/1Gk8KWp_SB_lhFCH8ELlUxJ3Wkjc6jkVm?usp=sharing" rel="nofollow">https://drive.google.com/drive/folders/1Gk8KWp_SB_lhFCH8ELlUxJ3Wkjc6jkVm?usp=sharing</a>  </p>
 <div id="message-accessories-1241824344951488632" class="container_b558d0">
 <div class="visualMediaItemContainer_cda674">
 <div class="oneByOneGrid_cda674 oneByOneGridSingle_cda674">
@@ -118,7 +54,7 @@
 <div class="imageContainer_cf58b5">
 <div class="imageWrapper_d4597d imageZoom_d4597d clickable_d4597d lazyImgContainer_cda674">
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/40/gallery/Fix_bios_popup_atomiswavenaominaomi2.png" data-size="1046x675"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/40/gallery/Fix_bios_popup_atomiswavenaominaomi2-thumbnail.webp" alt="" width="768" height="496"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/40/gallery/Fix_bios_popup_atomiswavenaominaomi2.png" data-size="1046x675"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/40/gallery/Fix_bios_popup_atomiswavenaominaomi2-thumbnail.webp" alt="" width="768" height="496"></a></figure>
 </div></div>
 </div>
 </div>
@@ -146,85 +82,6 @@
         </content>
     </entry>
     <entry>
-        <title>General - Startup</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/general-startup/index.html"/>
-        <id>https://pixelnostalgia.github.io/general-startup/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/39/PiXN_retrobat_faq.png" medium="image" />
-            <category term="FAQ Retrobat"/>
-            <category term="FAQ"/>
-
-        <updated>2024-10-27T13:16:41+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/39/PiXN_retrobat_faq.png" alt="General - Startup" />
-                    On the first start, there's no Windows file caching yet. What is taking so long is the "fileexist" test. When you have a fast SSD or USB drive, or once Windows has cached the file system, it's really fast. But, If you have an old mechanical HDD it takes longer. Also, some themes can take longer to load than others. One thing you can try is going into the Developer Options screen and enable 'Parse Gamelists Only' This should make it only read the gamelist.xml in each ROM folder rather than scanning all ROMs. If at any point you add&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/39/PiXN_retrobat_faq.png" class="type:primaryImage" alt="General - Startup" /></p>
-                <p>On the first start, there's no Windows file caching yet. What is taking so long is the "fileexist" test. When you have a fast SSD or USB drive, or once Windows has cached the file system, it's really fast. But, If you have an old mechanical HDD it takes longer. Also, some themes can take longer to load than others.</p>
-<p>One thing you can try is going into the Developer Options screen and enable 'Parse Gamelists Only' This should make it only read the gamelist.xml in each ROM folder rather than scanning all ROMs. If at any point you add your own games, you will need to temporarily turn the option off and restart RetroBat, so that it can scan for the new games at startup.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The One Build - Install</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/the-one-build-install/index.html"/>
-        <id>https://pixelnostalgia.github.io/the-one-build-install/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/38/PiXN_retrobat_faq.png" medium="image" />
-            <category term="FAQ Retrobat"/>
-            <category term="FAQ"/>
-
-        <updated>2024-10-27T13:15:43+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/38/PiXN_retrobat_faq.png" alt="The One Build - Install" />
-                    The extraction speed will depend on a few factors: CPU power, as it will need to perform the decompression algorithm. Hard drive performance. Obviously an SSD or NVMe drive will be quicker than a traditional spinning drive. However it will also be slower if you just have a single drive, as you'll be reading and writing to the same drive. It should be a lot quicker if you have the 7z files on one drive and extract to another drive. There are a lot of small files in RetroBat and these can make the extraction slow down. When the process&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/38/PiXN_retrobat_faq.png" class="type:primaryImage" alt="The One Build - Install" /></p>
-                <p>The extraction speed will depend on a few factors: CPU power, as it will need to perform the decompression algorithm.</p>
-<p>Hard drive performance. Obviously an SSD or NVMe drive will be quicker than a traditional spinning drive. However it will also be slower if you just have a single drive, as you'll be reading and writing to the same drive. It should be a lot quicker if you have the 7z files on one drive and extract to another drive.</p>
-<p>There are a lot of small files in RetroBat and these can make the extraction slow down. When the process reaches larger files it should speed up.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Enabling autoresize at next boot</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/enabling-autoresize-at-next-boot/index.html"/>
-        <id>https://pixelnostalgia.github.io/enabling-autoresize-at-next-boot/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/37/PiXN_batocera_faq.png" medium="image" />
-            <category term="FAQ Batocera"/>
-            <category term="FAQ"/>
-
-        <updated>2024-10-27T13:08:11+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/37/PiXN_batocera_faq.png" alt="Enabling autoresize at next boot" />
-                    If you don't have a PC to plug you Batocera drive into or if it's an internal drive, you can do it all from the Batocera machine. Firstly make sure you have run the RGS Update Service to get our fix for the autoresize bug and rebooted at least once, then follow the steps below: Press F1 Start xTerm from Applications Run the following command: mount -o remount,rw /boot Then type: cd /boot Then type: vi batocera-boot.conf Use the arrow keys to move the cursor to the line with the autoresize option. Press the insert key to enter edit mode.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/37/PiXN_batocera_faq.png" class="type:primaryImage" alt="Enabling autoresize at next boot" /></p>
-                <p>If you don't have a PC to plug you Batocera drive into or if it's an internal drive, you can do it all from the Batocera machine.</p>
-<p>Firstly make sure you have run the RGS Update Service to get our fix for the autoresize bug and rebooted at least once, then follow the steps below: <br><br>Press F1 Start xTerm from Applications Run the following command: <br><code>mount -o remount,rw /boot</code> <br><br>Then type: <br><code>cd /boot</code> <br><br>Then type: vi batocera-boot.conf <br><br>Use the arrow keys to move the cursor to the line with the autoresize option. <br>Press the insert key to enter edit mode. Delete the # from the start of the line amd make sure the value is "true" <br>Press the Esc key. <br><br>Now type :<br><code>wq</code> <br>to exit and save the file. <br><br>Then type: <br><code>reboot</code> <br><br>This can also be done remotely from a PC via SSH using Putty.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Hypseus SINGE (singe)</title>
         <author>
             <name>g-spawn</name>
@@ -239,7 +96,7 @@
             <category term="Batocera"/>
             <category term="Arcade"/>
 
-        <updated>2024-10-26T13:02:23+01:00</updated>
+        <updated>2024-10-26T14:02:23+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/34/singe-2.png" alt="singe" />
@@ -252,12 +109,12 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/34/singe-2.png" class="type:primaryImage" alt="singe" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/34/singe-logo.svg" alt="" width="297" height="125"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/34/singe.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/34/responsive/singe-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/34/responsive/singe-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/34/responsive/singe-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/34/responsive/singe-xl.webp 1200w"></figure>Hypseus SINGE, Somewhat Interactive Nostalgic Game Engine, (named after the dragon from Dragon's Lair) is the logical evolution of the Daphne emulator, which uses a Lua-based scripting system to quickly simulate LaserDisc games or create completely new games based on video files! The language is easy to learn, very powerful and fast. All the functions needed to develop your own game are available through a simple application programming interface (API).</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/34/singe-logo.svg" alt="" width="297" height="125"></figure>
+<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/34/singe.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/34/responsive/singe-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/34/responsive/singe-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/34/responsive/singe-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/34/responsive/singe-xl.webp 1200w"></figure>Hypseus SINGE, Somewhat Interactive Nostalgic Game Engine, (named after the dragon from Dragon's Lair) is the logical evolution of the Daphne emulator, which uses a Lua-based scripting system to quickly simulate LaserDisc games or create completely new games based on video files! The language is easy to learn, very powerful and fast. All the functions needed to develop your own game are available through a simple application programming interface (API).</p>
 
 <h5>The package includes:</h5>
 <p class="msg msg--success">91 games (~109 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=955759" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>    </p>
+<p><a href="https://back-ups.me/details.php?id=955759" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>    </p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/OT1BdpqZnR0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="msg msg--info">Many Thanks to <a href="https://pixelnostalgia.github.io/authors/g-spawn/index.html" rel="nofollow">g-spawn</a> for reaching out to the comunity and putting together this pack! Thnx <a href="#INTERNAL_LINK#/author/rapsteruk" rel="nofollow">RapsterUK</a> for creating the YT video. <br><br>Hypseus is a fork of Matt Ownby's Daphne.<br>A program to play laserdisc arcade games on a PC, Mac or Raspberry Pi.<br>This version includes Singe support for Fan Made and American Laser Games.</p>
 <p class="msg--highlight msg "><strong>How to Install:</strong><br>1. Drag and drop the "singe" folder to the "roms" directory<br>2. If asked to overwrite say yes to all</p>
@@ -279,7 +136,7 @@
             <category term="Batocera"/>
             <category term="Arcade"/>
 
-        <updated>2024-10-26T12:26:06+01:00</updated>
+        <updated>2024-10-26T13:26:06+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/33/daphne.webp" alt="daphne" />
@@ -292,14 +149,14 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/33/daphne.webp" class="type:primaryImage" alt="daphne" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/33/daphne-logo.png" alt="" width="336" height="147" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-logo-xl.webp 1200w"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/33/daphne-2.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-2-xl.webp 1200w"></figure>DAPHNE is an arcade emulator application that emulates a variety of laserdisc video games with the intent of preserving these games and making the play experience as faithful to the originals as possible. The developer calls DAPHNE the "First Ever Multiple Arcade Laserdisc Emulator" ("FEMALE"). It derives its name from Princess Daphne, the heroine of Dragon's Lair.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/33/daphne-logo.png" alt="" width="336" height="147" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-logo-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/33/daphne-2.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/33/responsive/daphne-2-xl.webp 1200w"></figure>DAPHNE is an arcade emulator application that emulates a variety of laserdisc video games with the intent of preserving these games and making the play experience as faithful to the originals as possible. The developer calls DAPHNE the "First Ever Multiple Arcade Laserdisc Emulator" ("FEMALE"). It derives its name from Princess Daphne, the heroine of Dragon's Lair.</p>
 
 <h5>The package includes:</h5>
 <p class="msg msg--success">19 games (~15 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=954710" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a>    </p>
+<p><a href="https://back-ups.me/details.php?id=954710" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>    </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/33/gallery/daphne01.png" data-size="3084x1736"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/33/gallery/daphne01-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/33/gallery/daphne01.png" data-size="3084x1736"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/33/gallery/daphne01-thumbnail.webp" alt="" width="768" height="432"></a></figure>
 </div></div>
 <p class="msg--highlight msg "><strong>How to Install:</strong><br>1. Remove roms\daphne<br>2. Drag and drop the "daphne" folder to the "roms" directory</p>
             ]]>
@@ -319,7 +176,7 @@
             <category term="Custom"/>
             <category term="Batocera"/>
 
-        <updated>2024-10-26T09:44:22+01:00</updated>
+        <updated>2024-10-26T10:44:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/32/pinballm.png" alt="pinballm" />
@@ -332,16 +189,16 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/32/pinballm.png" class="type:primaryImage" alt="pinballm" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/32/pinballm-logo-2.png" alt="" width="354" height="177" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/32/responsive/pinballm-logo-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinballm-logo-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinballm-logo-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinballm-logo-2-xl.webp 1200w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/32/pinballm-logo-2.png" alt="" width="354" height="177" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/32/responsive/pinballm-logo-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinballm-logo-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinballm-logo-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinballm-logo-2-xl.webp 1200w"></figure>
 <p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/32/pinball-fx.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/32/responsive/pinball-fx-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinball-fx-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinball-fx-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinball-fx-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/32/pinball-fx.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/32/responsive/pinball-fx-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinball-fx-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinball-fx-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/32/responsive/pinball-fx-xl.webp 1200w"></figure>
 <p>Get ready to tilt into terror. The new horror-inspired pinball platform for fearless players. Prove your skills on the most sinister, gory, and badass tables ever brought to life.<br><br>Spine-chilling features:<br><br>- Wrath of the Elder Gods: Director’s Cut - experience the eldritch horror unrestricted for free<br>- A library of brand new, never-before-seen tables filled with fear and carnage<br>- Thrilling competition<br>- Zen Studios’ ultimate pinball simulation<br><br>Press start and flip for your life!</p>
 
 <h5>The package includes:</h5>
 <p class="msg msg--success">7 tables (~7 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=954598" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a></p>
+<p><a href="https://back-ups.me/details.php?id=954598" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/32/gallery/Zrzut-ekranu-2024-10-26-134137.png" data-size="3072x1716"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/32/gallery/Zrzut-ekranu-2024-10-26-134137-thumbnail.webp" alt="" width="768" height="429"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/32/gallery/Zrzut-ekranu-2024-10-26-134137.png" data-size="3072x1716"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/32/gallery/Zrzut-ekranu-2024-10-26-134137-thumbnail.webp" alt="" width="768" height="429"></a></figure>
 </div></div>
 <p class="msg msg--highlight "><strong>How to install:</strong> <br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Drag and drop the "pinballm" folder into the 'roms' directory and Enjoy!</span></p>
 <p class="msg msg--warning">Correct functioning of the system requires execution of the last pixn-update available for the system</p>
@@ -363,7 +220,7 @@
             <category term="Custom"/>
             <category term="Batocera"/>
 
-        <updated>2024-10-26T09:37:18+01:00</updated>
+        <updated>2024-10-26T10:37:18+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/31/pinballfx3.png" alt="pinballfx3" />
@@ -376,20 +233,248 @@
                     <p><img src="https://pixelnostalgia.github.io/media/posts/31/pinballfx3.png" class="type:primaryImage" alt="pinballfx3" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/31/pinballfx3-logo.png" alt="" width="439" height="192" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/31/responsive/pinballfx3-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinballfx3-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinballfx3-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinballfx3-logo-xl.webp 1200w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/31/pinballfx3-logo.png" alt="" width="439" height="192" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/31/responsive/pinballfx3-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinballfx3-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinballfx3-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinballfx3-logo-xl.webp 1200w"></figure>
 <p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/31/pinball-fx.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/31/responsive/pinball-fx-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinball-fx-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinball-fx-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinball-fx-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/31/pinball-fx.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/31/responsive/pinball-fx-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinball-fx-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinball-fx-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/31/responsive/pinball-fx-xl.webp 1200w"></figure>
 <p>Pinball FX 3 is a pinball simulator video game developed and published by Zen Studios and released for Microsoft Windows, Xbox One, PlayStation 4 in September 2017 and then released for the Nintendo Switch in December 2017.<br><br>Pinball FX 3 allows players to play one of several simulated pinball tables, and includes online scoreboard support for informal competition with other players. The game is aimed to provide a more engaging multiplayer experience than previous titles; the game will provide support for asynchronous competitive multiplayer options, and tournament-style play. There will be shared leaderboards and multiplayer options among platforms, although PlayStation 4 players can only compete with users playing through Steam on Windows due to Sony's initial decision to prohibit cross-platform play between its PlayStation 4 and other consoles.</p>
 
 <h5>The package includes:</h5>
 <p class="msg msg--success">100 tables (~10 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=954597" target="_blank" class="btn btn--green extlink extlink-icon-1 "  rel="nofollow noopener noreferrer">Go to download</a></p>
+<p><a href="https://back-ups.me/details.php?id=954597" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/31/gallery/Zrzut-ekranu-2024-10-26-134415.png" data-size="3076x1722"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/31/gallery/Zrzut-ekranu-2024-10-26-134415-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/31/gallery/Zrzut-ekranu-2024-10-26-134415.png" data-size="3076x1722"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/31/gallery/Zrzut-ekranu-2024-10-26-134415-thumbnail.webp" alt="" width="768" height="430"></a></figure>
 </div></div>
 <p class="msg msg--highlight "><strong>How to install:</strong> <br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Drag and drop the "pinballfx3" folder into the 'roms' directory and Enjoy!</span></p>
 <p class="msg msg--warning">Correct functioning of the system requires execution of the last pixn-update available for the system</p>
 <p class="msg msg--warning">If when you run any of the PinballFX systems (PinballFX, PinballFX 2, PinballFX 3 or Pinball M) and you find only a few of the tables are unlocked. It could be down to a couple of things:<br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><br>1. Make sure that your RetroBat folder is excluded from real-time scanning within your Anti-Virus software. Also check that it hasn't already removed or quarantined any files from those systems. If it has, restore them or copy them again from the downloaded ROMpack.<br><br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">2. If you have the official Steam client installed on your machine, make sure it is NOT running when trying to run these systems. Make sure it is fully closed including from the system tray.<br><br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">3. To confirm no files are missing, compare the contents of the downloaded ROMpack against what is in your /rom/</span><em style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">system-name</em><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> folder.<br><br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">For those running Windows Defender, here's how to add an exclusion. I personally exclude the RetroBat folder and the folder I download the packs to:</span><a href=" https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26#:~:text=Go%20to%20Start%20&gt;%20Settings%20&gt;%20Update,within%20the%20folder%20as%20well" target="_blank" rel="nofollow noopener noreferrer">Link</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pinball FX2 (pinballfx2)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/pinball-fx2-pinballfx2/index.html"/>
+        <id>https://pixelnostalgia.github.io/pinball-fx2-pinballfx2/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/30/pinballfx2-2.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="Pinball"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+
+        <updated>2024-10-26T10:25:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/30/pinballfx2-2.png" alt="pinballfx2" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/30/pinballfx2-2.png" class="type:primaryImage" alt="pinballfx2" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/30/pinballfx2.png" alt="" width="499" height="138" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/30/responsive/pinballfx2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/30/responsive/pinballfx2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/30/responsive/pinballfx2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/30/responsive/pinballfx2-xl.webp 1200w"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/30/pinball-fx-2.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/30/responsive/pinball-fx-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/30/responsive/pinball-fx-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/30/responsive/pinball-fx-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/30/responsive/pinball-fx-2-xl.webp 1200w"></figure>
+<p>Pinball FX 2 is a pinball video game for Xbox 360, Xbox One, and Microsoft Windows (XP and higher) and is the sequel to Pinball FX. It was developed by Zen Studios and published by Microsoft Studios. It was released on October 27, 2010, via the Xbox Live Arcade service. The game includes several new features, such as local multiplayer and the ability to tweak table settings. Players can also import all of the tables from Pinball FX they had previously purchased. The Windows 8 version of Pinball FX 2 was released on the Windows Store on October 27, 2012, two years after the original XBLA release. The game was subsequently released for other Windows platforms via Steam on May 10, 2013. Pinball FX 2 was announced for Windows Phone in February 2012. A sequel, Pinball FX 3 was released in September 2017.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">77 tables (~7 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=954591" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/30/gallery/Zrzut-ekranu-2024-10-26-134637.png" data-size="3068x1717"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/30/gallery/Zrzut-ekranu-2024-10-26-134637-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong> <br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Drag and drop the "pinballfx2" folder into the 'roms' directory and Enjoy!</span></p>
+<p class="msg msg--warning">Correct functioning of the system requires execution of the last pixn-update available for the system</p>
+<p class="msg msg--highlight  msg--warning">If when you run any of the PinballFX systems (PinballFX, PinballFX 2, PinballFX 3 or Pinball M) and you find only a few of the tables are unlocked. It could be down to a couple of things:<br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><br>1. Make sure that your RetroBat folder is excluded from real-time scanning within your Anti-Virus software. Also check that it hasn't already removed or quarantined any files from those systems. If it has, restore them or copy them again from the downloaded ROMpack.<br><br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">2. If you have the official Steam client installed on your machine, make sure it is NOT running when trying to run these systems. Make sure it is fully closed including from the system tray.<br><br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">3. To confirm no files are missing, compare the contents of the downloaded ROMpack against what is in your /rom/</span><em style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">system-name</em><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> folder.<br><br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">For those running Windows Defender, here's how to add an exclusion. I personally exclude the RetroBat folder and the folder I download the packs to:</span><a href=" https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26#:~:text=Go%20to%20Start%20&gt;%20Settings%20&gt;%20Update,within%20the%20folder%20as%20well" target="_blank" rel="nofollow noopener noreferrer">Link</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pinball FX (pinballfx)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/pinball-fx-pinballfx-2/index.html"/>
+        <id>https://pixelnostalgia.github.io/pinball-fx-pinballfx-2/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/26/pinballfx-2.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="Pinball"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+
+        <updated>2024-10-25T11:47:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/26/pinballfx-2.webp" alt="pinballfx" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/26/pinballfx-2.webp" class="type:primaryImage" alt="pinballfx" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/26/pinballfx-logo2.png" alt="" width="298" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinballfx-logo2-xl.webp 1200w"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/26/pinball-fx.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/26/responsive/pinball-fx-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinball-fx-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinball-fx-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/26/responsive/pinball-fx-xl.webp 1200w"></figure>
+<p>Virtual pinball in all its glory: Pinball FX is the most advanced pinball simulator with 4K HDR graphics and ray tracing. Realistic physics simulation is built into every table in the game library. Pinball FX is a new stage in the evolution of virtual pinball. Win on tables inspired by the biggest entertainment franchises.<br>Play on new tables created exclusively for Pinball FX, or choose your favourite from over 100 tables in Zen's extensive virtual library. Each table is unique and differentiated by animation. Recreate iconic scenes from the biggest entertainment franchises: Indiana Jones, Star Wars, Marvel, Universal Studios and more. Try your hand at exact replicas of the most famous pinball machines in history from Williams Pinball or play the original Zen machines.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">127 tables (~40 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=954590" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/26/gallery/Zrzut-ekranu-2024-10-26-135210.png" data-size="3066x1719"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/26/gallery/Zrzut-ekranu-2024-10-26-135210-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong> <br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Drag and drop the "pinballfx" folder into the 'roms' directory and Enjoy!</span></p>
+<p class="msg msg--highlight  msg--warning">If you are using the original <a href="https://github.com/CkauNui/ckau-book" target="_blank" rel="nofollow noopener noreferrer">ckau-book theme</a> (not our customised version - Ckau-Book-PixN), you need to rename or delete the preset settings file in the theme folder: /ckau-book/_inc/presets/pinballfx.xml Otherwise, it will display the media incorrectly.</p>
+<p class="msg msg--warning">Correct functioning of the system requires execution of the last pixn-update available for the system</p>
+<p class="msg msg--warning">If when you run any of the PinballFX systems (PinballFX, PinballFX 2, PinballFX 3 or Pinball M) and you find only a few of the tables are unlocked. It could be down to a couple of things:<br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><br>1. Make sure that your RetroBat folder is excluded from real-time scanning within your Anti-Virus software. Also check that it hasn't already removed or quarantined any files from those systems. If it has, restore them or copy them again from the downloaded ROMpack.<br><br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">2. If you have the official Steam client installed on your machine, make sure it is NOT running when trying to run these systems. Make sure it is fully closed including from the system tray.<br><br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">3. To confirm no files are missing, compare the contents of the downloaded ROMpack against what is in your /rom/</span><em style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">system-name</em><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> folder.<br><br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">For those running Windows Defender, here's how to add an exclusion. I personally exclude the RetroBat folder and the folder I download the packs to:</span><a href=" https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26#:~:text=Go%20to%20Start%20&gt;%20Settings%20&gt;%20Update,within%20the%20folder%20as%20well" target="_blank" rel="nofollow noopener noreferrer">Link</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gamegear (gamegear)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/gamegear-gamegear/index.html"/>
+        <id>https://pixelnostalgia.github.io/gamegear-gamegear/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/25/gamegear.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Portable"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2024-10-25T11:40:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/25/gamegear.webp" alt="gamegear" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/25/gamegear.webp" class="type:primaryImage" alt="gamegear" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/25/gamegear-logo.png" alt="" width="270" height="118" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/25/responsive/gamegear-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/25/responsive/gamegear-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/25/responsive/gamegear-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/25/responsive/gamegear-logo-xl.webp 1200w"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/25/sega-game-gear.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/25/responsive/sega-game-gear-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/25/responsive/sega-game-gear-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/25/responsive/sega-game-gear-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/25/responsive/sega-game-gear-xl.webp 1200w"></figure>
+<p>The Game Gear is an 8-bit fourth generation handheld game console released by Sega on October 6, 1990 in Japan, in April 1991 throughout North America and Europe, and during 1992 in Australia. The Game Gear primarily competed with Nintendo's Game Boy, the Atari Lynx, and NEC's TurboExpress. It shares much of its hardware with the Master System, and can play Master System games by the use of an adapter. Sega positioned the Game Gear, which had a full-color backlit screen with a landscape format, as a technologically superior handheld to the Game Boy.<br>Though the Game Gear was rushed to market, its unique game library and price point gave it an edge over the Atari Lynx and TurboExpress. However, due to its short battery life, lack of original games, and weak support from Sega, the Game Gear was unable to surpass the Game Boy, selling 10.62 million units by March 1996. The Game Gear was discontinued on April 30, 1997. It was re-released as a budget system by Majesco Entertainment in 2000, under license from Sega.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">247 games (~3.5 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=957598" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/25/gallery/Zrzut-ekranu-2024-11-14-142122.png" data-size="3069x1721"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/25/gallery/Zrzut-ekranu-2024-11-14-142122-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
+<p class="msg--highlight msg msg--info"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gamegear" folder into the 'roms' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>MAME Arcade (mame)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/mame-arcade-mame/index.html"/>
+        <id>https://pixelnostalgia.github.io/mame-arcade-mame/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/24/mame-2.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Lite package"/>
+            <category term="Batocera"/>
+            <category term="Arcade"/>
+
+        <updated>2024-10-25T11:11:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/24/mame-2.webp" alt="mame" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat<br><span style="color: #ffffff;"><strong>MAME 0.265</strong></span></span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/24/mame-2.webp" class="type:primaryImage" alt="mame" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat<br><span style="color: #ffffff;"><strong>MAME 0.265</strong></span></span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/24/mame-logo.png" alt="" width="270" height="118" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/24/responsive/mame-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame-logo-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/24/mame2.webp" alt="" width="400" height="314" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/24/responsive/mame2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/24/responsive/mame2-xl.webp 1200w"></figure>
+<p>MAME (originally an acronym of Multiple Arcade Machine Emulator) is a free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms. Its intention is to preserve gaming history by preventing vintage games from being lost or forgotten. It does this by emulating the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect". </p>
+<p>Joystiq has listed MAME as an application that every Windows and Mac gamer should have.<br>The first public MAME release was by Nicola Salmoria on February 5, 1997. It now supports over 7,000 unique games and 10,000 actual ROM image sets, though not all of the games are playable. MESS, an emulator for many video game consoles and computer systems, based on the MAME core, was integrated into MAME in 2015.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">4389 games (~190 GB)<br>628 games in Lite pack (~16 GB)<br>450 realistic bezels (~2 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=946600" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  <a href="https://back-ups.me/details.php?id=958939" target="_blank" rel="nofollow noopener noreferrer" class="btn">Lite Package</a>  <a href="https://back-ups.me/details.php?id=959014" target="_blank" rel="nofollow noopener noreferrer" class="btn">Realistic Bezels</a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/24/gallery/Zrzut-ekranu-2024-10-26-135748.png" data-size="3069x1717"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/24/gallery/Zrzut-ekranu-2024-10-26-135748-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/24/gallery/Zrzut-ekranu-2024-10-26-135847.png" data-size="3069x1719"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/24/gallery/Zrzut-ekranu-2024-10-26-135847-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/24/gallery/Zrzut-ekranu-2024-10-26-140025.png" data-size="3076x1727"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/24/gallery/Zrzut-ekranu-2024-10-26-140025-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
+<p class="msg msg--info"><strong>Q&amp;A:</strong> <br>1.Q What is Mame 0.265? <br>1.A This is the latest Mame Romset (Arcade) version for Batocera v40 <br><br>2.Q What is a non-merged Romset? <br>2.A Non-merged (a.k.a. reference set): This is the same as full non-merged, however “common” BIOS files shared by a large number of ROMs are separated out to save space. Use this only if you know which BIOS files you'll need for each ROM. <br><br>3.Q What version of the MAME emulator does Batocera have? <br>3.A Batocera v40 uses Mame 0.265 Emulator, Also Batocera has different core's of mame eg: Mame 078Plus And Mame 0.139. Its important to match the Emulator version of MAME with the Romset. <br><br>4.Q Does the Romset 0.265 work with Mame Emulator 0.259 Batocera 39 <br>4.A Yes! For 99% of the Roms, there are some new and updated Roms that does not work with backward compatibility but they didn’t work in the previous Romset so you won't miss out anyway :). <br><br>5.Q Why not use a merged Romset?<br>5.A In a merged set Clones are merged into the parent ROM ZIP file, meaning that more than one game is stored per file. This relies on the frontend to select which game is to be played. Batocera does not have this functionality, thus it is not recommended to use this type of set. <br><br>6.Q What about RetroBat? <br>6.A RetroBat 6.3.1 has the mame 0.267 emulator. Mame romset 0.265 will run 99%. We choose to be complatible with Batocera because their supported romset is a older version compared to RetroBat. <br><br>7.Q Why are there so many double roms from fbneo compared to mame? <br>7.A fbneo is a fork of mame, aimed to be more features rich for end users such as RetroAchievements. Fbneo is unable to play disc based games like Killer Instinct. The Goal of MAME is preservation. Mame will support more games and disc based games.</p>
+<p class="msg msg--warning"><strong>Requirements:</strong> Batocera v40 with the emulator set to MAME or Libretro:MAME (not on auto!) RetroBat 6.3.1</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">If you are on Batocera v39 <strong>don't replace mame 0.259</strong><br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">If you are on Batocera v40 remove roms\mame and replace with this 0.265<br></span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">If you are on RetroBat remove roms\mame and replace with this 0.265</span></p>
+<p class="msg msg--highlight "><strong>How to install Lite pack:<br></strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">If you are on Batocera v40 remove roms\mame and replace with this (0.265) If you are on RetroBat 6.x remove roms\mame and replace with this (0.265) This pack is NOT for Batocera v39 but you can still use it if you wish, 99% of games should work fine.</span></p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/vUndfus-j9I" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="msg msg--warning"><strong>Requirements for realistic bezels:</strong> Have a MAME Pack installed (This can either be MAME 0.259, 0.265 or the Lite Pack).</p>
+<p class="msg msg--highlight "><strong>How to install realistic bezels</strong>:<br>1. (Batocera): Drag and drop the folder "ArcadeRealistic" from the zip file into \\batocera\share\decorations<br>(RetroBat): Drag and drop the folder "ArcadeRealistic" from the zip file into R:\RetroBat\decorations<br><br>2. Go into the Mame Wheel, press select on your controller &gt; Advanced System Options &gt; Decorations &gt; Select ARCADEREALISTIC<br><br>3. Done, launch a game eg: Galaga and see the Arcade Realistic Bezel. Arcade games without a Realistic Bezel will fallback to the default Arcade Bezel<br><br>This pack is done by a users of our discord server, <strong>32Adri32</strong> Thank you so much!<br><br>Note: <strong>32Adri32</strong> only made sure all the aspect ratio file called .info files are correct he did not create the bezels itself, those are gathered from various online sources.<br>Note: Created with 1920x1080 resolution.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>XBOX Original (xbox)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/xbox-original-xbox/index.html"/>
+        <id>https://pixelnostalgia.github.io/xbox-original-xbox/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/23/xbox-2.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Console"/>
+            <category term="Batocera"/>
+
+        <updated>2024-10-25T09:58:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/23/xbox-2.webp" alt="xbox" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/23/xbox-2.webp" class="type:primaryImage" alt="xbox" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/23/xbox-logo.png" alt="" width="270" height="118" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/23/responsive/xbox-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/23/responsive/xbox-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/23/responsive/xbox-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/23/responsive/xbox-logo-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/23/microsoft-xbox-2.webp" alt="" width="400" height="400" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/23/responsive/microsoft-xbox-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/23/responsive/microsoft-xbox-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/23/responsive/microsoft-xbox-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/23/responsive/microsoft-xbox-2-xl.webp 1200w"></figure>
+<p>Xbox is a video gaming brand created and owned by Microsoft. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations, respectively.</p>
+<p>The brand also represents applications (games), streaming serv<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">i</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">ces, an online service by the name of Xb</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">ox Live, and the development arm by the name of Xbox Game Studios. </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">The brand was first introduced in the United States in November 2001, with the launch of the original Xbox console.</span></p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">872 games (~1.4 TB)</p>
+<p><a href="https://back-ups.me/details.php?id=946654" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/23/gallery/Zrzut-ekranu-2024-11-14-142259.png" data-size="3071x1720"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/23/gallery/Zrzut-ekranu-2024-11-14-142259-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "xbox" folder to the "roms" directory</p>
             ]]>
         </content>
     </entry>

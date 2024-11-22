@@ -7,12 +7,12 @@
     {
         "path": "/3do-interactive-multiplayer-3do/index.html",
         "type": "file",
-        "md5": "bc02dbba2d24db08f914e3f8f410a160"
+        "md5": "278d44384b58e613fa557a530c4a89ea"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "3b56d0ff7e520a9cc284f076d0c5a2ad"
+        "md5": "dec2075d322877e73487b78209a1dcda"
     },
     {
         "path": "assets",
@@ -67,12 +67,12 @@
     {
         "path": "/assets/js/scripts.js",
         "type": "file",
-        "md5": "f2c9bf88cb4070f4bdc2de26ecf12e31"
+        "md5": "bd19e1795647692f2fe6f2249792391f"
     },
     {
         "path": "/assets/js/scripts.min.js",
         "type": "file",
-        "md5": "b88caeaf07eb6f12c7594946785d5e9d"
+        "md5": "8680a80b5605dca08d4eef4416e29e9f"
     },
     {
         "path": "/assets/js/svg-fix.js",
@@ -112,7 +112,7 @@
     {
         "path": "/atari-lynx-lynx/index.html",
         "type": "file",
-        "md5": "4ce23d593c21430a6e9919548618b283"
+        "md5": "8f86d294dad16559e1282b504ae29ead"
     },
     {
         "path": "atomiswave-atomiswave",
@@ -122,7 +122,7 @@
     {
         "path": "/atomiswave-atomiswave/index.html",
         "type": "file",
-        "md5": "1dbb0ef36cc1119bb115ce20ee1c1f4e"
+        "md5": "251a94377238d37b398506cf29edcc1b"
     },
     {
         "path": "authors",
@@ -137,22 +137,7 @@
     {
         "path": "/authors/g-spawn/index.html",
         "type": "file",
-        "md5": "83de7fa5c9236c05da719a8d34cc617e"
-    },
-    {
-        "path": "authors/g-spawn/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "authors/g-spawn/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/g-spawn/page/2/index.html",
-        "type": "file",
-        "md5": "bbd5ab7d6f03bfd3b2df83c16dfeae6a"
+        "md5": "b37f0b01a3d157355834905fc4c6fc1a"
     },
     {
         "path": "authors/rapsteruk",
@@ -162,22 +147,7 @@
     {
         "path": "/authors/rapsteruk/index.html",
         "type": "file",
-        "md5": "c1752213a52d134ff283d473d647edcc"
-    },
-    {
-        "path": "authors/rapsteruk/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "authors/rapsteruk/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rapsteruk/page/2/index.html",
-        "type": "file",
-        "md5": "bb07e08f3c90da5bc843fb22af5facca"
+        "md5": "655f1b38b35526fa4a0c36f8fefcbdb8"
     },
     {
         "path": "authors/rgs",
@@ -187,22 +157,7 @@
     {
         "path": "/authors/rgs/index.html",
         "type": "file",
-        "md5": "0e4a140a091d87bd8685b862ceacc578"
-    },
-    {
-        "path": "authors/rgs/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "authors/rgs/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rgs/page/2/index.html",
-        "type": "file",
-        "md5": "d8cde6393a57c34de8c957880267d5a1"
+        "md5": "c85132e15bef4954150cb0ed58307a22"
     },
     {
         "path": "authors/spirit",
@@ -212,7 +167,7 @@
     {
         "path": "/authors/spirit/index.html",
         "type": "file",
-        "md5": "6221f3204b5229ffb31c2da104d4edbe"
+        "md5": "7ce9edd6b5f76d278cea0490fd31c5f3"
     },
     {
         "path": "daphne-daphne",
@@ -222,7 +177,7 @@
     {
         "path": "/daphne-daphne/index.html",
         "type": "file",
-        "md5": "def7aa3fd7a0ae6549f633e63a6c5cdc"
+        "md5": "1707d899277c2f3545d90c78b3dd4bb1"
     },
     {
         "path": "elektronika-im-elektronika",
@@ -232,7 +187,7 @@
     {
         "path": "/elektronika-im-elektronika/index.html",
         "type": "file",
-        "md5": "c35d77e34dfa7c41ec71b87107ea4c35"
+        "md5": "c4dfa2a910134cc7ddbe3e9cef469554"
     },
     {
         "path": "enabling-autoresize-at-next-boot",
@@ -242,17 +197,17 @@
     {
         "path": "/enabling-autoresize-at-next-boot/index.html",
         "type": "file",
-        "md5": "a51803c1d9f3ec0476fca4ff9f7d1fc4"
+        "md5": "02e4712b1df3032c26f5f072e993cf96"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "49ae73cadba6a87fcb3bb32df8722a06"
+        "md5": "fa8544a8bf334077a34639557453ffac"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "23403a4570fb19c2dd664b8927e24257"
+        "md5": "20915cb6f2ac9fa26efae362ec3c5e6e"
     },
     {
         "path": "fix-ryujinx-after-the-631-update",
@@ -262,7 +217,7 @@
     {
         "path": "/fix-ryujinx-after-the-631-update/index.html",
         "type": "file",
-        "md5": "562dc1aa7a6ef816d8d7c3f809431dc4"
+        "md5": "86e5d40f95421bc1a736aa8c5f0f54f7"
     },
     {
         "path": "game-boy-color-gbc",
@@ -272,7 +227,7 @@
     {
         "path": "/game-boy-color-gbc/index.html",
         "type": "file",
-        "md5": "a10e1f897e0dfb6dbef04263c7e2dfbd"
+        "md5": "7e1686d063070c878828c92369cd1020"
     },
     {
         "path": "gamegear-gamegear",
@@ -282,7 +237,7 @@
     {
         "path": "/gamegear-gamegear/index.html",
         "type": "file",
-        "md5": "b5f7bb4f5c3297339207dad773f764c1"
+        "md5": "40c67102c916624e2b72a2680c862526"
     },
     {
         "path": "general-startup",
@@ -292,7 +247,7 @@
     {
         "path": "/general-startup/index.html",
         "type": "file",
-        "md5": "a6e16b83c64bb807b66db3dd4f493401"
+        "md5": "c7ee8fd0d3896468a615cca99b2b8869"
     },
     {
         "path": "how-to-download",
@@ -302,7 +257,7 @@
     {
         "path": "/how-to-download/index.html",
         "type": "file",
-        "md5": "633d5e1b4daf190313d22377dd9da125"
+        "md5": "57eb44e2de338a584b8291523069ef36"
     },
     {
         "path": "hypseus-singe-singe",
@@ -312,12 +267,12 @@
     {
         "path": "/hypseus-singe-singe/index.html",
         "type": "file",
-        "md5": "1bd86fe5da1c38f59db9a4506c059d8c"
+        "md5": "3c10e71cf9c3e33c67f5b9e218b9d122"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e29c44a108f9563ed94f7c17662fc8f6"
+        "md5": "a75ec907ddb3442bb087f317a31ed8dd"
     },
     {
         "path": "mame-arcade-mame",
@@ -327,122 +282,12 @@
     {
         "path": "/mame-arcade-mame/index.html",
         "type": "file",
-        "md5": "c4ab07f52d02be4fc71178b7a0168117"
+        "md5": "37cf6781184826183967d16da5518528"
     },
     {
         "path": "media",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "media/plugins",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "media/plugins/featherIcons",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins/featherIcons/feather-sprite.svg",
-        "type": "file",
-        "md5": "09960c3de0fb9233eaac720d45ab4bc5"
-    },
-    {
-        "path": "media/plugins/lucideIcons",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins/lucideIcons/lucide-sprite.svg",
-        "type": "file",
-        "md5": "d0d0716f1353d2ba6978cc79959b6c84"
-    },
-    {
-        "path": "media/plugins/pagePrefetching",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins/pagePrefetching/quicklink.umd.js",
-        "type": "file",
-        "md5": "9bf2c039e22db3d0962eb567cbe5954d"
-    },
-    {
-        "path": "media/plugins/syntaxHighlighter",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/clipboard.min.js",
-        "type": "file",
-        "md5": "15f52a1ee547f2bdd46e56747332ca2d"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism-autolinker.min.js",
-        "type": "file",
-        "md5": "62ba13b132540945180143bd1d7d2ad1"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism-beige.css",
-        "type": "file",
-        "md5": "324fe5c3d3b56d88d7fecb364a047710"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism-black.css",
-        "type": "file",
-        "md5": "6289b8033b7253bbdf268a32f9f92934"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism-brown.css",
-        "type": "file",
-        "md5": "9564535f53deb2e4761b9276ac754dc1"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism-copy-to-clipboard.min.js",
-        "type": "file",
-        "md5": "be45551de48e6e45373bcf779bb9e790"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism-gray.css",
-        "type": "file",
-        "md5": "08f704da221fcdf7570d6a42e9482a8e"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism-inline-color.css",
-        "type": "file",
-        "md5": "f671cc52d2092b3987a20ce8b255b32f"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism-inline-color.min.js",
-        "type": "file",
-        "md5": "577ad04d907b802820830aecfde83b2e"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism-line-numbers.min.js",
-        "type": "file",
-        "md5": "13275d3ac10d7028cf6a6f5da276f68c"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism-show-invisibles.min.js",
-        "type": "file",
-        "md5": "c6cef64ace60803eff24ef4fb5ecb363"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism-violet.css",
-        "type": "file",
-        "md5": "d7c2325a204ceaa694988abf011b7357"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism-white.css",
-        "type": "file",
-        "md5": "a3f21142fa4b4f6bc1516a3ce3efdd8c"
-    },
-    {
-        "path": "/media/plugins/syntaxHighlighter/prism.js",
-        "type": "file",
-        "md5": "1b5c3a99f67cd5cba0c78e5395fc0fc8"
     },
     {
         "path": "media/posts",
@@ -468,6 +313,21 @@
         "path": "/media/posts/1/3do.svg",
         "type": "file",
         "md5": "fe006da8ada0b1897681634825bc372a"
+    },
+    {
+        "path": "media/posts/1/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/gallery/Zrzut-ekranu-2024-11-14-143441-thumbnail.webp",
+        "type": "file",
+        "md5": "845a0c73703de8ee67c4b97b460d017d"
+    },
+    {
+        "path": "/media/posts/1/gallery/Zrzut-ekranu-2024-11-14-143441.png",
+        "type": "file",
+        "md5": "0f040182f8177b693bb24f7b6fd1b046"
     },
     {
         "path": "media/posts/1/responsive",
@@ -518,6 +378,21 @@
         "path": "media/posts/11",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/11/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/gallery/Zrzut-ekranu-2024-11-14-143033-thumbnail.webp",
+        "type": "file",
+        "md5": "d35cf5015cf07f9aefa70b10acffe4d2"
+    },
+    {
+        "path": "/media/posts/11/gallery/Zrzut-ekranu-2024-11-14-143033.png",
+        "type": "file",
+        "md5": "0c508ab47497c4b5c58c2c0084293827"
     },
     {
         "path": "/media/posts/11/game-boy-color-gbc.webp",
@@ -595,6 +470,21 @@
         "md5": "5b3fe28ee92f0aacf434af2ff73b2db7"
     },
     {
+        "path": "media/posts/12/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/gallery/Zrzut-ekranu-2024-11-14-142907-thumbnail.webp",
+        "type": "file",
+        "md5": "e3bcd4b07ecad241fd86a405be6e41d6"
+    },
+    {
+        "path": "/media/posts/12/gallery/Zrzut-ekranu-2024-11-14-142907.png",
+        "type": "file",
+        "md5": "25cde26951e9f8de719cd2f21b339d5c"
+    },
+    {
         "path": "/media/posts/12/lynx-logo.png",
         "type": "file",
         "md5": "6f9c11515320a4d65f33d0e69a0c046c"
@@ -668,6 +558,21 @@
         "path": "media/posts/15",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/15/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/gallery/Zrzut-ekranu-2024-11-14-142759-thumbnail.webp",
+        "type": "file",
+        "md5": "162ba10f75ce775a77066c332398b0e8"
+    },
+    {
+        "path": "/media/posts/15/gallery/Zrzut-ekranu-2024-11-14-142759.png",
+        "type": "file",
+        "md5": "95abce7e3b484bedcc07909969e2b2de"
     },
     {
         "path": "/media/posts/15/naomi-w.svg",
@@ -750,6 +655,21 @@
         "md5": "674cf7d0da906c004b5d0e274390ade7"
     },
     {
+        "path": "media/posts/16/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/gallery/Zrzut-ekranu-2024-11-14-142654-thumbnail.webp",
+        "type": "file",
+        "md5": "cce59c3ec4de9c98f7096e14fbef654a"
+    },
+    {
+        "path": "/media/posts/16/gallery/Zrzut-ekranu-2024-11-14-142654.png",
+        "type": "file",
+        "md5": "84832d2c8dc0e9d5ae043d50461555ab"
+    },
+    {
         "path": "media/posts/16/responsive",
         "type": "directory",
         "md5": false
@@ -798,6 +718,21 @@
         "path": "media/posts/17",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/17/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/gallery/Zrzut-ekranu-2024-11-14-143637-thumbnail.webp",
+        "type": "file",
+        "md5": "17bbd573355260e09d8d3ffac6b1553f"
+    },
+    {
+        "path": "/media/posts/17/gallery/Zrzut-ekranu-2024-11-14-143637.png",
+        "type": "file",
+        "md5": "d254a0265ada6aa00ee70ee29d286cc0"
     },
     {
         "path": "/media/posts/17/gc-jap-w-logo.png",
@@ -885,6 +820,21 @@
         "md5": false
     },
     {
+        "path": "media/posts/19/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/gallery/Zrzut-ekranu-2024-11-14-142451-thumbnail.webp",
+        "type": "file",
+        "md5": "1c04a73e35913224f83771bd9a2d00fd"
+    },
+    {
+        "path": "/media/posts/19/gallery/Zrzut-ekranu-2024-11-14-142451.png",
+        "type": "file",
+        "md5": "e43c2cea974e79bbdadc4aea05fa4010"
+    },
+    {
         "path": "media/posts/19/responsive",
         "type": "directory",
         "md5": false
@@ -948,6 +898,21 @@
         "path": "media/posts/23",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/23/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/gallery/Zrzut-ekranu-2024-11-14-142259-thumbnail.webp",
+        "type": "file",
+        "md5": "a4699abdd1a5f6123d232246c4f96e53"
+    },
+    {
+        "path": "/media/posts/23/gallery/Zrzut-ekranu-2024-11-14-142259.png",
+        "type": "file",
+        "md5": "83c67cd17f410b2be697dce14c75602f"
     },
     {
         "path": "/media/posts/23/microsoft-xbox-2.webp",
@@ -1153,6 +1118,21 @@
         "path": "media/posts/25",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/25/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/gallery/Zrzut-ekranu-2024-11-14-142122-thumbnail.webp",
+        "type": "file",
+        "md5": "e6d42a1f78931a2cdc77c888d3a59f39"
+    },
+    {
+        "path": "/media/posts/25/gallery/Zrzut-ekranu-2024-11-14-142122.png",
+        "type": "file",
+        "md5": "4f464d1735ff09a692f3bc769de1ee79"
     },
     {
         "path": "/media/posts/25/gamegear-logo.png",
@@ -2020,6 +2000,16 @@
         "md5": "7e23f86758b5d67b5dac59303d4682bf"
     },
     {
+        "path": "/media/posts/40/gallery/Zrzut-ekranu-2024-11-14-141809-thumbnail.webp",
+        "type": "file",
+        "md5": "e0a541d07b816579d287072a47e2526a"
+    },
+    {
+        "path": "/media/posts/40/gallery/Zrzut-ekranu-2024-11-14-141809.png",
+        "type": "file",
+        "md5": "fb5107957667d7e30c4cb4990e60fc8f"
+    },
+    {
         "path": "/media/posts/40/naomi-2-2.webp",
         "type": "file",
         "md5": "41a43d3b5df307da98bbbbd7a6f8b96a"
@@ -2078,6 +2068,31 @@
         "path": "/media/posts/40/responsive/naomi2-xs.webp",
         "type": "file",
         "md5": "ce26fbab9e542dc8f14286beab91f4ab"
+    },
+    {
+        "path": "/media/posts/40/responsive/Zrzut-ekranu-2024-11-14-141809-md.webp",
+        "type": "file",
+        "md5": "e0a541d07b816579d287072a47e2526a"
+    },
+    {
+        "path": "/media/posts/40/responsive/Zrzut-ekranu-2024-11-14-141809-sm.webp",
+        "type": "file",
+        "md5": "e49660592f73392a31ac30e771683002"
+    },
+    {
+        "path": "/media/posts/40/responsive/Zrzut-ekranu-2024-11-14-141809-xl.webp",
+        "type": "file",
+        "md5": "e835e41a0723e9423fe305980618fb85"
+    },
+    {
+        "path": "/media/posts/40/responsive/Zrzut-ekranu-2024-11-14-141809-xs.webp",
+        "type": "file",
+        "md5": "ff70509adcc91d52e95d31ff11e8a3e3"
+    },
+    {
+        "path": "/media/posts/40/Zrzut-ekranu-2024-11-14-141809.png",
+        "type": "file",
+        "md5": "fb5107957667d7e30c4cb4990e60fc8f"
     },
     {
         "path": "media/posts/41",
@@ -2153,6 +2168,21 @@
         "path": "media/posts/5",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/5/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/gallery/Zrzut-ekranu-2024-11-14-143243-thumbnail.webp",
+        "type": "file",
+        "md5": "486c94d786ea774188b19ccc26359140"
+    },
+    {
+        "path": "/media/posts/5/gallery/Zrzut-ekranu-2024-11-14-143243.png",
+        "type": "file",
+        "md5": "fd50d00b2a48a30e96ebc27c7b845faa"
     },
     {
         "path": "/media/posts/5/nes-logo.png",
@@ -2440,7 +2470,7 @@
         "md5": "df55b4b776944d92b29f99e28c9c658a"
     },
     {
-        "path": "/media/website/responsive/Team-Pixel-Nostalgia-22-10-2024-xs.webp",
+        "path": "/media/website/responsive/Team-Pixel-Nostalgia-web-logo-xs.webp",
         "type": "file",
         "md5": "c4331cc99ee9f15820f9190029fc0619"
     },
@@ -2450,7 +2480,7 @@
         "md5": "e4158adc8a8a861bad2cfd72c1870472"
     },
     {
-        "path": "/media/website/Team-Pixel-Nostalgia-22-10-2024.png",
+        "path": "/media/website/Team-Pixel-Nostalgia-web-logo.png",
         "type": "file",
         "md5": "0975306a5f2371e009669e832152d39e"
     },
@@ -2462,7 +2492,7 @@
     {
         "path": "/naomi-2-naomi2/index.html",
         "type": "file",
-        "md5": "37694010f8d25776c247ea41924536ac"
+        "md5": "666e70b7671023bc794bbef0af719cdd"
     },
     {
         "path": "naomi-naomi",
@@ -2472,7 +2502,7 @@
     {
         "path": "/naomi-naomi/index.html",
         "type": "file",
-        "md5": "3145ffe58832c7aeca47bf3c30432cd7"
+        "md5": "b2da0f9b9d8c8454519a730dc9d13106"
     },
     {
         "path": "nintendo-entertainment-system-nes",
@@ -2482,7 +2512,7 @@
     {
         "path": "/nintendo-entertainment-system-nes/index.html",
         "type": "file",
-        "md5": "f0dacc7a191f2aa02dce01a0e7664079"
+        "md5": "8fe8d5fccf1d3c776795a3c5dc9e407c"
     },
     {
         "path": "nintendo-gamecube-gamecube",
@@ -2492,7 +2522,7 @@
     {
         "path": "/nintendo-gamecube-gamecube/index.html",
         "type": "file",
-        "md5": "71efa6b439a94cab558941aaec88c09d"
+        "md5": "7ec12b31e2bcbcbea05845eef2f58dd1"
     },
     {
         "path": "page",
@@ -2507,7 +2537,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "2c78639dd5545657bdcdc2148ee90de7"
+        "md5": "a395d4727a7b9aa603b5103ce7ea18d7"
     },
     {
         "path": "pinball-fx-pinballfx-2",
@@ -2517,7 +2547,7 @@
     {
         "path": "/pinball-fx-pinballfx-2/index.html",
         "type": "file",
-        "md5": "0df1a76aea6a9cf0474e46c79d62add9"
+        "md5": "6dd0aa2b22068e5c959cf8bb3929f607"
     },
     {
         "path": "pinball-fx2-pinballfx2",
@@ -2527,7 +2557,7 @@
     {
         "path": "/pinball-fx2-pinballfx2/index.html",
         "type": "file",
-        "md5": "56876bd93a8dd9f50361d6f4b33f113d"
+        "md5": "c4e8351defe3cf0c5a5d71888786b5cc"
     },
     {
         "path": "pinball-fx3-pinballfx3",
@@ -2537,7 +2567,7 @@
     {
         "path": "/pinball-fx3-pinballfx3/index.html",
         "type": "file",
-        "md5": "14fb8ed36ca7bcfd2d1f1f7b407b495f"
+        "md5": "c2f35e5e530cd9ce2ee5373ce240df22"
     },
     {
         "path": "pinball-m-pinballm",
@@ -2547,7 +2577,7 @@
     {
         "path": "/pinball-m-pinballm/index.html",
         "type": "file",
-        "md5": "e23e706ec2df1c7bab957e0d963dc655"
+        "md5": "12f761fb17a942cc15659d1b8d7c7799"
     },
     {
         "path": "robots.txt",
@@ -2562,17 +2592,17 @@
     {
         "path": "/sega-model-2-model2/index.html",
         "type": "file",
-        "md5": "d3bc9f68f5c235410884533554545b11"
+        "md5": "ec5d560c5bd5bb2058228a0caa7f31cb"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0dcf3621dd1e25613cc51665bb9690d0"
+        "md5": "cbf628ed05b23cc88e0cd31d299e84fd"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
-        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
     },
     {
         "path": "super-nintendo-entertainment-system-snes",
@@ -2582,7 +2612,7 @@
     {
         "path": "/super-nintendo-entertainment-system-snes/index.html",
         "type": "file",
-        "md5": "edf816f6e91a9e3f0ca78b6f017324de"
+        "md5": "224b4509d02372e75a3fa841210d3d89"
     },
     {
         "path": "tags",
@@ -2597,7 +2627,7 @@
     {
         "path": "/tags/arcade/index.html",
         "type": "file",
-        "md5": "9a05fcfbcd5806e83b65bde196431c0f"
+        "md5": "e9f16db25e098d2f39f2cc2ff8389ce6"
     },
     {
         "path": "tags/batocera",
@@ -2607,7 +2637,7 @@
     {
         "path": "/tags/batocera/index.html",
         "type": "file",
-        "md5": "23c46092c1e2ff666e2b3d4a38c02aa2"
+        "md5": "1bdbf7125f8d368c68cc3c2824f65307"
     },
     {
         "path": "tags/batocera/page",
@@ -2622,7 +2652,7 @@
     {
         "path": "/tags/batocera/page/2/index.html",
         "type": "file",
-        "md5": "1cd6a00c97068e4834b99268b84c02bc"
+        "md5": "02f731cb77dfb88147c1a407db684aff"
     },
     {
         "path": "tags/computer",
@@ -2632,7 +2662,7 @@
     {
         "path": "/tags/computer/index.html",
         "type": "file",
-        "md5": "9c650a42c9e4acc532b439a6a27eb25a"
+        "md5": "1e35414abefdda021d7a3ffa9a272fa1"
     },
     {
         "path": "tags/console",
@@ -2642,7 +2672,7 @@
     {
         "path": "/tags/console/index.html",
         "type": "file",
-        "md5": "a2b7039cae6f159aa3f6e782362a79f0"
+        "md5": "a08c89b6b4ed436935e314c6ba4290f9"
     },
     {
         "path": "tags/custom",
@@ -2652,7 +2682,7 @@
     {
         "path": "/tags/custom/index.html",
         "type": "file",
-        "md5": "b9c2ef250643c88dd3cb368fdffa0da8"
+        "md5": "f6037c374ead93d3e0a63361e5b613c8"
     },
     {
         "path": "tags/extension",
@@ -2662,7 +2692,7 @@
     {
         "path": "/tags/extension/index.html",
         "type": "file",
-        "md5": "cd843c613641d6e4d6abc95e5da0b262"
+        "md5": "112d2b92d344348478def7d3e84ad551"
     },
     {
         "path": "tags/faq",
@@ -2672,7 +2702,7 @@
     {
         "path": "/tags/faq/index.html",
         "type": "file",
-        "md5": "5b6210d149aae84c4b6ed8f5d1eeeef9"
+        "md5": "1723ca4d5dc50277dae007e304889629"
     },
     {
         "path": "tags/faq-batocera",
@@ -2682,7 +2712,7 @@
     {
         "path": "/tags/faq-batocera/index.html",
         "type": "file",
-        "md5": "fed4dd860f8f767649dc07afd97fbacc"
+        "md5": "3e09ad8cf80b3d87e6f66cd968e5e7c9"
     },
     {
         "path": "tags/faq-retrobat",
@@ -2692,12 +2722,12 @@
     {
         "path": "/tags/faq-retrobat/index.html",
         "type": "file",
-        "md5": "5f1300895c9ad1411287d8cd827763d0"
+        "md5": "950a4cef96762b40da690b5a7dbc73ba"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "fdb7d92281dd36ccd6d48db9321ca830"
+        "md5": "99bf22c7f0aeab5f2ba0bb70dc545416"
     },
     {
         "path": "tags/lite-package",
@@ -2707,7 +2737,7 @@
     {
         "path": "/tags/lite-package/index.html",
         "type": "file",
-        "md5": "bb944928cbeeafa3414509bee334bf4b"
+        "md5": "b3943f8df3f72af741e086278d8d09b0"
     },
     {
         "path": "tags/pi4",
@@ -2717,22 +2747,7 @@
     {
         "path": "/tags/pi4/index.html",
         "type": "file",
-        "md5": "3b0659b222a37faeadeeb67d3cd934f9"
-    },
-    {
-        "path": "tags/pi4/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "tags/pi4/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/pi4/page/2/index.html",
-        "type": "file",
-        "md5": "a59ee1c45e5b9ab5b4622aa5dd4878af"
+        "md5": "5a4d5fb75604305028697a6d8efc489c"
     },
     {
         "path": "tags/pi5",
@@ -2742,22 +2757,7 @@
     {
         "path": "/tags/pi5/index.html",
         "type": "file",
-        "md5": "f0b748650791a9f028ccdd1681faf198"
-    },
-    {
-        "path": "tags/pi5/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "tags/pi5/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/pi5/page/2/index.html",
-        "type": "file",
-        "md5": "16debb59d565b760d661824eedd155e2"
+        "md5": "f58bce336388622af0b49a1d6d6e7bb7"
     },
     {
         "path": "tags/pinball",
@@ -2767,7 +2767,7 @@
     {
         "path": "/tags/pinball/index.html",
         "type": "file",
-        "md5": "88527d5702f881ab5fdfc42bba973a2b"
+        "md5": "1566cb68ff8032546146024ee11ad32b"
     },
     {
         "path": "tags/port",
@@ -2777,7 +2777,7 @@
     {
         "path": "/tags/port/index.html",
         "type": "file",
-        "md5": "10126d2872dec077c33a6aab10028afa"
+        "md5": "f56869118614a0b853e002d16a8c48f7"
     },
     {
         "path": "tags/portable",
@@ -2787,7 +2787,7 @@
     {
         "path": "/tags/portable/index.html",
         "type": "file",
-        "md5": "1616fb7915362126602e31457f663ffd"
+        "md5": "53e88dc9d3fb232364b650a962001b85"
     },
     {
         "path": "tags/retrobat",
@@ -2797,7 +2797,7 @@
     {
         "path": "/tags/retrobat/index.html",
         "type": "file",
-        "md5": "cf297d5e4b278bf397f3caeac36e4c6d"
+        "md5": "046407b1f24203be1390ec1947d8a23a"
     },
     {
         "path": "tags/retrobat/page",
@@ -2812,7 +2812,7 @@
     {
         "path": "/tags/retrobat/page/2/index.html",
         "type": "file",
-        "md5": "e4aca9e0407a06d707bab4210a885fee"
+        "md5": "acaaa6ccf81fbe071acb4607a0f8d0db"
     },
     {
         "path": "tags/x86",
@@ -2822,7 +2822,7 @@
     {
         "path": "/tags/x86/index.html",
         "type": "file",
-        "md5": "500667a3894150df370e0a1df595dd5a"
+        "md5": "27ce0183e62a9ecdda29bbb3996d4356"
     },
     {
         "path": "tags/x86/page",
@@ -2837,7 +2837,7 @@
     {
         "path": "/tags/x86/page/2/index.html",
         "type": "file",
-        "md5": "c5cec66978299530a60ea6494105481b"
+        "md5": "4a07b58136bd92b1cc4a425160106f1c"
     },
     {
         "path": "the-one-build-install",
@@ -2847,7 +2847,7 @@
     {
         "path": "/the-one-build-install/index.html",
         "type": "file",
-        "md5": "26d4652e5c404fa3b844e839f455f0f3"
+        "md5": "7ea1e821b510beeb3e927f90aba4eac8"
     },
     {
         "path": "updating-to-v631",
@@ -2857,7 +2857,7 @@
     {
         "path": "/updating-to-v631/index.html",
         "type": "file",
-        "md5": "775c77f39424ae7995add45414507062"
+        "md5": "03f79836362624809954c1d5a89c8987"
     },
     {
         "path": "welcome",
@@ -2867,7 +2867,7 @@
     {
         "path": "/welcome/index.html",
         "type": "file",
-        "md5": "de4ca3263bc4ef692ac1798ced3c4728"
+        "md5": "396b37f6819b190436f2efeca06559f7"
     },
     {
         "path": "xbox-original-xbox",
@@ -2877,6 +2877,6 @@
     {
         "path": "/xbox-original-xbox/index.html",
         "type": "file",
-        "md5": "739a59d0296e8484d088d063ccc2b5a9"
+        "md5": "bc56b0ebfad79b7cc4cea862ddd1fb86"
     }
 ]
