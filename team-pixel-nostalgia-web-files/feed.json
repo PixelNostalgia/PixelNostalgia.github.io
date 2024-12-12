@@ -1,0 +1,230 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Team Pixel Nostalgia Web",
+    "description": "",
+    "home_page_url": "https://pixelnostalgia.github.io",
+    "feed_url": "https://pixelnostalgia.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://pixelnostalgia.github.io/media/website/Team-Pixel-Nostalgia-web-logo.png",
+    "author": {
+        "name": "g-spawn"
+    },
+    "items": [
+        {
+            "id": "https://pixelnostalgia.github.io/datach-joint-rom-system-datach/index.html",
+            "url": "https://pixelnostalgia.github.io/datach-joint-rom-system-datach/index.html",
+            "title": "Datach Joint ROM System (datach)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/55/datach-logo.png\" alt=\"\" width=\"411\" height=\"124\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/55/responsive/datach-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/55/responsive/datach-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/55/responsive/datach-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/55/responsive/datach-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/55/datach.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/55/responsive/datach-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/55/responsive/datach-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/55/responsive/datach-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/55/responsive/datach-xl.webp 1200w\"></figure>\n<p>The Datach or Datach Joint ROM System, is an enhancement accessory by Bandai for the Family Computer, allowing the system to play select compatible games. Released on December 29, 1992, it is packaged with one game, Dragon Ball Z: Gekitō Tenkaichi Budokai. Six other games were released for it, including one of the final games for the Famicom system in 1994. It is one of two mini systems compatible with the NES or Famicom, the other being the Aladdin Deck Enhancer.<br><br>The Datach consists of a cartridge connection at its bottom, a central cartridge chamber on its back, with two spring-loaded pins on either side, which are pushed up when the unit is inserted into the Famicom, allowing the game to only be removed when the Datach has been removed from the Famicom. Its main feature is the card reading slot on the front. The cartridges resemble half-size Famicom cartridges. One side of the cartridge is flat with title sticker, while the other side is sloped inward with notches on the left and right, which correspond to the spring pins on the main Datach unit. The cards that come with the games are swiped from left to right along the card slot; they are glossy on the front with an image of the character and the backs are smooth usually having the title of the game and barcode. All cartridges, boxes, instructions have the standard FF (Famicom Family) insignia, showing they are officially licensed by Nintendo.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">7 games (~30 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=961545\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/55/gallery/Zrzut-ekranu-2024-12-03-210318.png\" data-size=\"3080x1735\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/55/gallery/Zrzut-ekranu-2024-12-03-210318-thumbnail.webp\" alt=\"\" width=\"768\" height=\"433\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"datach\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/55/datach-2.png",
+            "author": {
+                "name": "g-spawn"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Extension",
+                   "Custom",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-03T20:35:22+01:00",
+            "date_modified": "2024-12-03T22:05:40+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/commodore-dynamic-total-vision-amigacdtv/index.html",
+            "url": "https://pixelnostalgia.github.io/commodore-dynamic-total-vision-amigacdtv/index.html",
+            "title": "Commodore Dynamic Total Vision (amigacdtv)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/54/amigacdtv-w-logo.png\" alt=\"\" width=\"309\" height=\"155\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/54/responsive/amigacdtv-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/54/responsive/amigacdtv-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/54/responsive/amigacdtv-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/54/responsive/amigacdtv-w-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/54/Commodore-CDTV.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/54/responsive/Commodore-CDTV-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/54/responsive/Commodore-CDTV-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/54/responsive/Commodore-CDTV-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/54/responsive/Commodore-CDTV-xl.webp 1200w\"></figure>\n<p>The CDTV (from Commodore Dynamic Total Vision, later treated as a backronym for Compact Disc Television) is a home multimedia entertainment and video game console – convertible into a full-fledged personal computer by the addition of optional peripherals – developed by Commodore International and launched in April 1991.<br><br>The CDTV was intended as a media appliance rather than a mainstream personal computer. As such, its housing had dimensions and styling that were fairly comparable to most household stereo system components of the period, and it came with an infrared remote control. Similarly, it was initially sold without a keyboard or a mouse (which could be added separately, and were later bundled with the machine). The CDTV was based on the same technology as earlier Amiga systems, but featured a single-speed CD-ROM drive and no floppy disk drive as standard.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">26 games (~ 3 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=946259\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"amigacdtv\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/54/amigacdtv-3.png",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-03T20:03:06+01:00",
+            "date_modified": "2024-12-03T22:05:25+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/amiga-cd32-amigacd32/index.html",
+            "url": "https://pixelnostalgia.github.io/amiga-cd32-amigacd32/index.html",
+            "title": "Commodore Amiga CD32 (amigacd32)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/53/amigacd32-logo.png\" alt=\"\" width=\"418\" height=\"183\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/53/responsive/amigacd32-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/53/responsive/amigacd32-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/53/responsive/amigacd32-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/53/responsive/amigacd32-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/53/commodore-amiga-cd32.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/53/responsive/commodore-amiga-cd32-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/53/responsive/commodore-amiga-cd32-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/53/responsive/commodore-amiga-cd32-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/53/responsive/commodore-amiga-cd32-xl.webp 1200w\"></figure>\n<p>The Amiga CD32 (code-named \"Spellbound\") is a 32-bit home video game console developed by Commodore and released in Europe, Australia, Canada and Brazil. It was first announced at the Science Museum in London on July 16, 1993, and was released in September of the same year.<br><br>The CD32 is part of a family of Amiga computers and other hardware. It uses CD-ROM as its storage medium. It was based on Commodore's Advanced Graphics Architecture chipset, and is of similar specification to the Amiga 1200 personal computer. Using third party devices, it is possible to upgrade the CD32 with a keyboard, floppy drive, hard drive, RAM and mouse, turning it into the equivalent of an Amiga 1200. A hardware MPEG decompression module for playing Video CD was also released.<br><br>In the Christmas period following its launch, the CD32 accounted for 38% of all CD-ROM drive sales in the UK, exceeding sales of the Mega-CD; however, it was discontinued as Commodore went into bankruptcy.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">123 games (~12.9 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=946259\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"amigacd32\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/53/amigacd32.webp",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-03T19:48:22+01:00",
+            "date_modified": "2024-12-03T22:05:12+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/amiga-500-amiga500-2/index.html",
+            "url": "https://pixelnostalgia.github.io/amiga-500-amiga500-2/index.html",
+            "title": "Commodore Amiga 500 (amiga500)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/52/amiga500.svg\" alt=\"\" width=\"477\" height=\"104\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/52/amiga1200-2.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/52/responsive/amiga1200-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/52/responsive/amiga1200-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/52/responsive/amiga1200-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/52/responsive/amiga1200-2-xl.webp 1200w\"></figure>\n<p>The Amiga 500, also known as the A500, is the first low-end version of the Amiga home computer. It contains the same Motorola 68000 as the Amiga 1000, as well as the same graphics and sound coprocessors, but is in a smaller case similar to that of the Commodore 128.<br><br>The CPU implements a 32-bit model and has 32-bit registers, but it has a 16-bit main ALU and uses a 16-bit external data bus and a 23-bit address bus, providing a maximum of 16 MB of address space. Also built in to the base of the computer is a 3+1⁄2-inch floppy disk drive.<br><br>The earliest Amiga 500 models use nearly the same Original Amiga chipset as the Amiga 1000. So graphics can be displayed in multiple resolutions and color depths, even on the same screen.<br>The sound chip produces four hardware-mixed channels, two to the left and two to the right, of 8-bit PCM at a sampling frequency up to 28 kHz. Each hardware channel has its own independent volume level and sampling rate, and can be designated to another channel where it can modulate both volume and frequency using its own output.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">2564 games (~18.58 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957526\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"amiga500\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/52/amiga500.png",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Computer",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-03T19:42:59+01:00",
+            "date_modified": "2024-12-03T22:04:46+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/amiga-1200-amiga1200/index.html",
+            "url": "https://pixelnostalgia.github.io/amiga-1200-amiga1200/index.html",
+            "title": "Commodore Amiga 1200 (amiga1200)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/51/amiga1200.svg\" alt=\"\" width=\"477\" height=\"104\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/51/amiga1200-2.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/51/responsive/amiga1200-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/51/responsive/amiga1200-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/51/responsive/amiga1200-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/51/responsive/amiga1200-2-xl.webp 1200w\"></figure>\n<p>The Amiga 1200, or A1200 (code-named \"Channel Z\"), is a personal computer in the Amiga computer family released by Commodore International, aimed at the home computer market.<br>The A1200 was launched a few months after the Amiga 600, using a similar slimline design that replaced the earlier Amiga 500 Plus and Amiga 500. Whereas the A600 used the 16-bit Motorola 68000 of earlier Amigas, the A1200 was built around the 32-bit Motorola 68EC020. Physically, the A1200 is an all-in-one design incorporating the CPU, keyboard, and disk drives (including the option of an internal 2.5\" hard disk drive) in one physical unit. The A1200 has a similar hardware architecture to Commodore's Amiga CD32 game console.<br><br>The A1200 offers a number of advantages over earlier lower-budget Amiga models. Specifically, it is a 32-bit design; the 68EC020 microprocessor is faster than the 68000 and has 2 MB of RAM as standard. The AGA chipset used in the A1200 is a significant improvement.<br>AGA increases the color palette from 4096 colors to 16.8 million colors with up to 256 on-screen colors normally, and an improved HAM mode allowing 262,144 on-screen colors. The graphics hardware also features improved sprite capacity and faster graphics performance mainly due to faster video memory.<br>Additionally, compared to the A600 the A1200 offers greater expansion possibilities.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">184 games (~1.73 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957605\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"amiga1200\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/51/amiga1200.png",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Computer",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-03T19:28:45+01:00",
+            "date_modified": "2024-12-03T22:04:34+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/alice-32-alice32/index.html",
+            "url": "https://pixelnostalgia.github.io/alice-32-alice32/index.html",
+            "title": "Alice 32 (alice32)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/50/alice32-logo.png\" alt=\"\" width=\"422\" height=\"78\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/50/alice32.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-xl.webp 1200w\"></figure>\n<p>The Matra &amp;amp; Hachette Ordinateur Alice is a home computer sold in France beginning in 1983. It was a clone of the TRS-80 MC-10, produced through a collaboration between Matra and Hachette in France and Tandy Corporation in the United States.<br><br>The Alice is distinguished by its bright red casing. Functionally, it is equivalent to the MC-10, with a Péritel (SCART) connector replacing the RF modulator for video output.<br>The Alice never became a popular computer in its home country. It tried to invade schools by being part of the country's Plan Informatique pour Tous (\"Information technology for everyone\") programme, but Thomson won the whole deal. Less than 50 games were released for the system.<br>The original model had 4 kB of RAM and used a Motorola 6847 video display generator chip, as used in the Dragon 32 and Acorn Atom among others.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">6 games (~5 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957525\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"alice32\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/50/alice32-2.png",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Custom",
+                   "Computer",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-03T19:10:23+01:00",
+            "date_modified": "2024-12-03T22:03:47+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/aleck-64-aleck64/index.html",
+            "url": "https://pixelnostalgia.github.io/aleck-64-aleck64/index.html",
+            "title": "Aleck 64 (aleck64)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/49/aleck64-logo.png\" alt=\"\" width=\"316\" height=\"124\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/49/aleck64-3.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-3-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-3-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-3-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-3-xl.webp 1200w\"></figure>\n<p>The Aleck 64 is the Nintendo 64 design in arcade form, designed by SETA in cooperation with Nintendo, and sold from 1998 to 2003 only in Japan.<br>It essentially consists of a Nintendo 64 board retrofitted with the sound capabilities which are standard for arcade games of the time. Nintendo and SETA began working on their agreement for the board in 1996, hoping to recreate the business model Namco and Sony Computer Entertainment displayed with the Namco System 11, to facilitate conversions of arcade games.<br><br>Released in 1998, the Aleck 64 was the Nintendo equivalent of the Namco System 11/12 or Sega Titan Video (ST-V). Games were produced for it until 2003/4, possibly making one of them technically the last N64 game.&lt;/text&gt;</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">11 games (~165 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957613\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"aleck64\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/49/aleck64-2.png",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Custom",
+                   "Batocera",
+                   "Arcade"
+            ],
+            "date_published": "2024-12-03T18:52:23+01:00",
+            "date_modified": "2024-12-03T22:03:36+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/adventure-vision-advision/index.html",
+            "url": "https://pixelnostalgia.github.io/adventure-vision-advision/index.html",
+            "title": "Adventure Vision (advision)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/48/advision.svg\" alt=\"\" width=\"522\" height=\"61\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/48/advision-2.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/48/responsive/advision-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/48/responsive/advision-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/48/responsive/advision-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/48/responsive/advision-2-xl.webp 1200w\"></figure>\n<p>Entex Adventure Vision or Adventure Vision for short is a second generation portable video game console manufactured by Entex in 1982.<br>Games are controlled by a single joystick, and a set of four buttons, the buttons are located to the left and right of the joystick to allow left and right handed people to play.<br>The console does not use an LCD screen or external monitors, LEDs arranged in forty rows are used to display the image, giving a resolution of 153 x 40 pixels, another console that uses similar technology is Virtual Boy.<br><br>The technology used in the Entex Adventure Vision, required a large amount of power, hence it needed, up to four D batteries. An A/C adapter could also be used to power the console.<br>On top of the console, there are special shelves where cartridges can be stored.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">4 games (~10 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957612\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"advision\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/48/advision.png",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-03T15:07:30+01:00",
+            "date_modified": "2024-12-03T22:03:22+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/adam-coleco-adam/index.html",
+            "url": "https://pixelnostalgia.github.io/adam-coleco-adam/index.html",
+            "title": "Coleco Adam (adam)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/47/adam.svg\" alt=\"\" width=\"414\" height=\"86\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/47/adam-2.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/47/responsive/adam-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/47/responsive/adam-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/47/responsive/adam-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/47/responsive/adam-2-xl.webp 1200w\"></figure>\n<p>The Coleco Adam is a home computer and expansion device for the ColecoVision released in 1983 by American toy and video game manufacturer Coleco. It was an attempt to follow on the success of the company's ColecoVision video game console. The Adam was not very successful, partly because of early production problems, and was discontinued in early 1985.<br><br>In its favor, the Adam had a large software library from the start. It was derived from and compatible with the ColecoVision's software and accessories, and, in addition, the popular CP/M operating system was available as an option. Its price gave a complete system: an 80 kB RAM computer, tape drive, letter-quality printer, and software including the Buck Rogers: Planet of Zoom video game.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">22 games (~307 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957630\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"adam\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/47/adam.png",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Custom",
+                   "Computer",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-03T13:26:43+01:00",
+            "date_modified": "2024-12-03T22:04:22+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/action-max-actionmax/index.html",
+            "url": "https://pixelnostalgia.github.io/action-max-actionmax/index.html",
+            "title": "Action Max (actionmax)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/46/actionmax.svg\" alt=\"\" width=\"370\" height=\"88\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/46/actionmax-2.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/46/responsive/actionmax-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/46/responsive/actionmax-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/46/responsive/actionmax-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/46/responsive/actionmax-2-xl.webp 1200w\"></figure>\n<p>Action Max from Worlds of Wonder (WoW), released in the US in 1987, was a unique, if simple and ultimately unimpressive game system that used special pre-recorded VHS video tapes for software. The original package came bundled with the base unit, light gun, television sensor, headphones, connection cables, documentation and one game, \"Sonic Fury\". <br>In total, five games were released for the system, all emulated by SINGE, the Somewhat Interactive Nostalgic Game Engine, (named after the dragon in Dragon's Lair): a Lua-based scripting system that also allows for rapid prototyping of new laserdisc games, or the creation of entirely new games.<br><br>Since the original release of SINGE back in 2006, several revisions have been released, both officially and unofficially. In 2020, SINGE 2.0 was released. This is a total rewrite from the ground up adding numerous features while staying compatible with existing 1.x games.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">5 games (~3.5 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=954530\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/46/gallery/Zrzut-ekranu-2024-12-03-112315.png\" data-size=\"3085x1750\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/46/gallery/Zrzut-ekranu-2024-12-03-112315-thumbnail.webp\" alt=\"\" width=\"768\" height=\"436\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"actionmax\" &amp; \"singe\" folder to the roms directory.</p>\n<p class=\"msg msg--warning\">*Singe has some actionmax directories that are hidden needed to run the games.</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/46/actionmax.png",
+            "author": {
+                "name": "g-spawn"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Custom",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-03T11:12:00+01:00",
+            "date_modified": "2024-12-03T22:03:04+01:00"
+        }
+    ]
+}
