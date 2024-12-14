@@ -11,6 +11,70 @@
     },
     "items": [
         {
+            "id": "https://pixelnostalgia.github.io/atari-7800-atari7800/index.html",
+            "url": "https://pixelnostalgia.github.io/atari-7800-atari7800/index.html",
+            "title": "Atari 7800 (atari7800)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/59/atari7800-w-logo.png\" alt=\"\" width=\"475\" height=\"115\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/59/responsive/atari7800-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/59/responsive/atari7800-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/59/responsive/atari7800-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/59/responsive/atari7800-w-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/59/atari-7800-2.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/59/responsive/atari-7800-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/59/responsive/atari-7800-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/59/responsive/atari-7800-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/59/responsive/atari-7800-2-xl.webp 1200w\"></figure>\n<p>The Atari 7800 ProSystem, or simply the Atari 7800, is a home video game console officially released by Atari Corporation in 1986 as the successor to both the Atari 2600 and Atari 5200. It is able to run almost all Atari 2600 cartridges, making it the first console with built-in backward compatibility. It shipped with a different model of joystick from the 2600-standard CX40 and Pole Position II as the pack-in game. Most of the announced titles at launch were ports of 1980–83 arcade games.<br><br>Designed by General Computer Corporation, the 7800 has significantly improved graphics hardware over Atari's previous consoles, but the same Television Interface Adapter chip that launched with the 2600 in 1977 is used to generate audio. In an effort to prevent the flood of poor quality games that contributed to the video game crash of 1983, cartridges had to be digitally signed by Atari.<br><br>The Atari 7800 was first announced on May 21, 1984, but a general release was shelved due to the sale of the company. Atari dropped support for the 7800, along with the 2600 and the Atari 8-bit family, on January 1, 1992.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">59 games (~590 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957623\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"atari7800\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/59/atari7800.webp",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-14T18:42:59+01:00",
+            "date_modified": "2024-12-14T18:48:37+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/amstrad-cpc-amstradcpc/index.html",
+            "url": "https://pixelnostalgia.github.io/amstrad-cpc-amstradcpc/index.html",
+            "title": "Amstrad CPC (amstradcpc)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/58/amstradcpc-w-logo.png\" alt=\"\" width=\"390\" height=\"151\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/58/responsive/amstradcpc-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/58/responsive/amstradcpc-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/58/responsive/amstradcpc-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/58/responsive/amstradcpc-w-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/58/Amstrad-CPC.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/58/responsive/Amstrad-CPC-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/58/responsive/Amstrad-CPC-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/58/responsive/Amstrad-CPC-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/58/responsive/Amstrad-CPC-xl.webp 1200w\"></figure>\n<p>The Amstrad CPC (short for Colour Personal Computer) is a series of 8-bit home computers produced by Amstrad between 1984 and 1990. It was designed to compete in the mid-1980s home computer market dominated by the Commodore 64 and the Sinclair ZX Spectrum, where it successfully established itself primarily in the United Kingdom, France, Spain, and the German-speaking parts of Europe.<br><br>The series spawned a total of six distinct models: The CPC464, CPC664, and CPC6128 were highly successful competitors in the European home computer market. The later 464plus and 6128plus, intended to prolong the system's lifecycle with hardware updates, were considerably less successful, as was the attempt to repackage the plus hardware into a game console as the GX4000.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">2885 games (~13 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957582\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"amstradcpc\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/58/amstradcpc.webp",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Computer",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-14T18:30:19+01:00",
+            "date_modified": "2024-12-14T18:36:49+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/visual-pinball-vpinball/index.html",
+            "url": "https://pixelnostalgia.github.io/visual-pinball-vpinball/index.html",
+            "title": "Visual Pinball (vpinball)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\" src=\"https://pixelnostalgia.github.io/media/posts/57/visualpinball-logo.png\" alt=\"\" width=\"354\" height=\"155\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/57/responsive/visualpinball-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/57/responsive/visualpinball-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/57/responsive/visualpinball-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/57/responsive/visualpinball-logo-xl.webp 1200w\"></figure>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/57/Category-Pinball-2.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/57/responsive/Category-Pinball-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/57/responsive/Category-Pinball-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/57/responsive/Category-Pinball-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/57/responsive/Category-Pinball-2-xl.webp 1200w\"></figure>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games such as pachinko machines. The software is composed of an editor and the simulator part itself. It runs on Microsoft Windows. The program is also able to operate with Visual PinMAME, an emulator for ROM images from real pinball machines.<br><br>Players can choose between faithful recreations of existing pinball machines with or without ROM emulation and original pinball simulations based on licensed themes or completely self-designed tables. Visual Pinball's scripting capabilities can also be used to create pinball-like games (such as pitch-and-bat baseball, pinball bingo, bowling, cue sports, and pachinko).<br><br>Visual Pinball can be used to play the simulations on a common desktop PC and monitor, but also allows for cabinet support, including different monitors and TVs (to display the playfield and backbox similar to a real pinball machine, including the option to use 3D televisions), giving the illusion of playing real pinball.</p>\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">94 tables in Lite pack (~17 GB)</p>\n<p><a target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green btn--gray\">coming soon...</a>   <a href=\"https://back-ups.me/details.php?id=964759\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn\">Lite pack</a>  </p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"vpinball\" folder to the \"roms\" directory</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube-nocookie.com/embed/gKrID0axWA4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p> </p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/57/vpinball.png",
+            "author": {
+                "name": "RapsterUK"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "Pinball",
+                   "PC x86",
+                   "Custom",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-14T17:18:10+01:00",
+            "date_modified": "2024-12-14T17:25:48+01:00"
+        },
+        {
             "id": "https://pixelnostalgia.github.io/datach-joint-rom-system-datach/index.html",
             "url": "https://pixelnostalgia.github.io/datach-joint-rom-system-datach/index.html",
             "title": "Datach Joint ROM System (datach)",
@@ -160,71 +224,6 @@
             ],
             "date_published": "2024-12-03T18:52:23+01:00",
             "date_modified": "2024-12-03T22:03:36+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/adventure-vision-advision/index.html",
-            "url": "https://pixelnostalgia.github.io/adventure-vision-advision/index.html",
-            "title": "Adventure Vision (advision)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/48/advision.svg\" alt=\"\" width=\"522\" height=\"61\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/48/advision-2.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/48/responsive/advision-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/48/responsive/advision-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/48/responsive/advision-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/48/responsive/advision-2-xl.webp 1200w\"></figure>\n<p>Entex Adventure Vision or Adventure Vision for short is a second generation portable video game console manufactured by Entex in 1982.<br>Games are controlled by a single joystick, and a set of four buttons, the buttons are located to the left and right of the joystick to allow left and right handed people to play.<br>The console does not use an LCD screen or external monitors, LEDs arranged in forty rows are used to display the image, giving a resolution of 153 x 40 pixels, another console that uses similar technology is Virtual Boy.<br><br>The technology used in the Entex Adventure Vision, required a large amount of power, hence it needed, up to four D batteries. An A/C adapter could also be used to power the console.<br>On top of the console, there are special shelves where cartridges can be stored.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">4 games (~10 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957612\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"advision\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/48/advision.png",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Console",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-03T15:07:30+01:00",
-            "date_modified": "2024-12-03T22:03:22+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/adam-coleco-adam/index.html",
-            "url": "https://pixelnostalgia.github.io/adam-coleco-adam/index.html",
-            "title": "Coleco Adam (adam)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/47/adam.svg\" alt=\"\" width=\"414\" height=\"86\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/47/adam-2.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/47/responsive/adam-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/47/responsive/adam-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/47/responsive/adam-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/47/responsive/adam-2-xl.webp 1200w\"></figure>\n<p>The Coleco Adam is a home computer and expansion device for the ColecoVision released in 1983 by American toy and video game manufacturer Coleco. It was an attempt to follow on the success of the company's ColecoVision video game console. The Adam was not very successful, partly because of early production problems, and was discontinued in early 1985.<br><br>In its favor, the Adam had a large software library from the start. It was derived from and compatible with the ColecoVision's software and accessories, and, in addition, the popular CP/M operating system was available as an option. Its price gave a complete system: an 80 kB RAM computer, tape drive, letter-quality printer, and software including the Buck Rogers: Planet of Zoom video game.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">22 games (~307 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957630\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"adam\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/47/adam.png",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Custom",
-                   "Computer",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-03T13:26:43+01:00",
-            "date_modified": "2024-12-03T22:04:22+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/action-max-actionmax/index.html",
-            "url": "https://pixelnostalgia.github.io/action-max-actionmax/index.html",
-            "title": "Action Max (actionmax)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/46/actionmax.svg\" alt=\"\" width=\"370\" height=\"88\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/46/actionmax-2.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/46/responsive/actionmax-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/46/responsive/actionmax-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/46/responsive/actionmax-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/46/responsive/actionmax-2-xl.webp 1200w\"></figure>\n<p>Action Max from Worlds of Wonder (WoW), released in the US in 1987, was a unique, if simple and ultimately unimpressive game system that used special pre-recorded VHS video tapes for software. The original package came bundled with the base unit, light gun, television sensor, headphones, connection cables, documentation and one game, \"Sonic Fury\". <br>In total, five games were released for the system, all emulated by SINGE, the Somewhat Interactive Nostalgic Game Engine, (named after the dragon in Dragon's Lair): a Lua-based scripting system that also allows for rapid prototyping of new laserdisc games, or the creation of entirely new games.<br><br>Since the original release of SINGE back in 2006, several revisions have been released, both officially and unofficially. In 2020, SINGE 2.0 was released. This is a total rewrite from the ground up adding numerous features while staying compatible with existing 1.x games.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">5 games (~3.5 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=954530\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/46/gallery/Zrzut-ekranu-2024-12-03-112315.png\" data-size=\"3085x1750\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/46/gallery/Zrzut-ekranu-2024-12-03-112315-thumbnail.webp\" alt=\"\" width=\"768\" height=\"436\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"actionmax\" &amp; \"singe\" folder to the roms directory.</p>\n<p class=\"msg msg--warning\">*Singe has some actionmax directories that are hidden needed to run the games.</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/46/actionmax.png",
-            "author": {
-                "name": "g-spawn"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Custom",
-                   "Console",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-03T11:12:00+01:00",
-            "date_modified": "2024-12-03T22:03:04+01:00"
         }
     ]
 }
