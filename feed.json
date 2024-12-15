@@ -11,6 +11,49 @@
     },
     "items": [
         {
+            "id": "https://pixelnostalgia.github.io/sega-dreamcast-dreamcast/index.html",
+            "url": "https://pixelnostalgia.github.io/sega-dreamcast-dreamcast/index.html",
+            "title": "Sega Dreamcast (dreamcast)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/68/dreamcast-w-logo.png\" alt=\"\" width=\"376\" height=\"63\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/68/responsive/dreamcast-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/68/responsive/dreamcast-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/68/responsive/dreamcast-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/68/responsive/dreamcast-w-logo-xl.webp 1200w\"></figure>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/68/sega-dreamcast.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/68/responsive/sega-dreamcast-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/68/responsive/sega-dreamcast-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/68/responsive/sega-dreamcast-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/68/responsive/sega-dreamcast-xl.webp 1200w\"></figure>The Dreamcast is a home video game console released by Sega on November 27, 1998 in Japan, September 9, 1999 in North America, and October 14, 1999 in Europe. It was the first in the sixth generation of video game consoles, preceding Sony's PlayStation 2, Nintendo's GameCube, and Microsoft's Xbox. The Dreamcast was Sega's final home console, marking the end of the company's eighteen years in the console market.<br><br>In contrast to the expensive hardware of the unsuccessful Sega Saturn, the Dreamcast was designed to reduce costs with \"off-the-shelf\" components, including a Hitachi SH-4 CPU and an NEC PowerVR2 GPU. Released in Japan to a subdued reception, the Dreamcast enjoyed a successful U.S. launch backed by a large marketing campaign, but interest in the system steadily declined as Sony built hype for the upcoming PlayStation 2. Sales did not meet Sega's expectations despite several price cuts, and the company continued to incur significant financial losses. After a change in leadership, Sega discontinued the Dreamcast on March 31, 2001, withdrawing from the console business and restructuring itself as a third-party publisher. In total, 9.13 million Dreamcast units were sold worldwide.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">313 games (~136 GB)<br>374 games in JP pack (~182 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=964609\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  <a href=\"https://back-ups.me/details.php?id=964611\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn\">JP pack</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135202.png\" data-size=\"3074x1724\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135202-thumbnail.webp\" alt=\"\" width=\"768\" height=\"431\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135435.png\" data-size=\"3085x1744\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135435-thumbnail.webp\" alt=\"\" width=\"768\" height=\"434\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135558.png\" data-size=\"3087x1741\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135558-thumbnail.webp\" alt=\"\" width=\"768\" height=\"433\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install:<br></strong>Delete the \"dreamcast\" folder from the 'roms' directory<br>Drag and drop the \"dreamcast\" folder into the 'roms' directory and Enjoy!</p>\n<p class=\"msg msg--highlight \"><strong>How to install JP pack:<br></strong>Drag and drop the \"dreamcast-jp\" folder into the 'roms' directory and Enjoy!</p>\n<p> </p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/68/dreamcast.webp",
+            "author": {
+                "name": "g-spawn"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Custom",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-15T13:39:42+01:00",
+            "date_modified": "2024-12-15T13:56:28+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/microsoft-disk-operating-system-dos/index.html",
+            "url": "https://pixelnostalgia.github.io/microsoft-disk-operating-system-dos/index.html",
+            "title": "Microsoft Disk Operating System (dos)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<p> </p>\n<figure class=\"post__image post__image--center\"><img  style=\"outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/67/pc.svg\" alt=\"\" width=\"303\" height=\"133\"></figure><figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/67/ms-dos.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/67/responsive/ms-dos-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/67/responsive/ms-dos-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/67/responsive/ms-dos-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/67/responsive/ms-dos-xl.webp 1200w\"></figure>\n<p>MS-DOS (em-es-DOSS; acronym for Microsoft Disk Operating System) is an operating system for x86-based personal computers mostly developed by Microsoft. Collectively, MS-DOS, its rebranding as IBM PC DOS, and some operating systems attempting to be compatible with MS-DOS, are sometimes referred to as \"DOS\" (which is also the generic acronym for disk operating system). MS-DOS was the main operating system for IBM PC compatible personal computers during the 1980s, from which point it was gradually superseded by operating systems offering a graphical user interface (GUI), in various generations of the graphical Microsoft Windows operating system.<br><br>IBM licensed and re-released it in 1981 as PC DOS 1.0 for use in its PCs. Although MS-DOS and PC DOS were initially developed in parallel by Microsoft and IBM, the two products diverged after twelve years, in 1993, with recognizable differences in compatibility, syntax, and capabilities.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">1055 games (~10 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=946245\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>    </p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"dos\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/67/dos.webp",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Computer",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-15T13:16:45+01:00",
+            "date_modified": "2024-12-15T13:27:27+01:00"
+        },
+        {
             "id": "https://pixelnostalgia.github.io/capcom-play-system-iii-cps3/index.html",
             "url": "https://pixelnostalgia.github.io/capcom-play-system-iii-cps3/index.html",
             "title": "Capcom Play System III (cps3)",
@@ -180,51 +223,6 @@
             ],
             "date_published": "2024-12-14T18:30:19+01:00",
             "date_modified": "2024-12-14T18:36:49+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/visual-pinball-vpinball/index.html",
-            "url": "https://pixelnostalgia.github.io/visual-pinball-vpinball/index.html",
-            "title": "Visual Pinball (vpinball)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\" src=\"https://pixelnostalgia.github.io/media/posts/57/visualpinball-logo.png\" alt=\"\" width=\"354\" height=\"155\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/57/responsive/visualpinball-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/57/responsive/visualpinball-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/57/responsive/visualpinball-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/57/responsive/visualpinball-logo-xl.webp 1200w\"></figure>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/57/Category-Pinball-2.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/57/responsive/Category-Pinball-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/57/responsive/Category-Pinball-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/57/responsive/Category-Pinball-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/57/responsive/Category-Pinball-2-xl.webp 1200w\"></figure>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games such as pachinko machines. The software is composed of an editor and the simulator part itself. It runs on Microsoft Windows. The program is also able to operate with Visual PinMAME, an emulator for ROM images from real pinball machines.<br><br>Players can choose between faithful recreations of existing pinball machines with or without ROM emulation and original pinball simulations based on licensed themes or completely self-designed tables. Visual Pinball's scripting capabilities can also be used to create pinball-like games (such as pitch-and-bat baseball, pinball bingo, bowling, cue sports, and pachinko).<br><br>Visual Pinball can be used to play the simulations on a common desktop PC and monitor, but also allows for cabinet support, including different monitors and TVs (to display the playfield and backbox similar to a real pinball machine, including the option to use 3D televisions), giving the illusion of playing real pinball.</p>\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">94 tables in Lite pack (~17 GB)</p>\n<p><a target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green btn--gray\">coming soon...</a>   <a href=\"https://back-ups.me/details.php?id=964759\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn\">Lite pack</a>  </p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"vpinball\" folder to the \"roms\" directory</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube-nocookie.com/embed/gKrID0axWA4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p> </p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/57/vpinball.png",
-            "author": {
-                "name": "RapsterUK"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "Pinball",
-                   "PC x86",
-                   "Custom",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-14T17:18:10+01:00",
-            "date_modified": "2024-12-14T17:25:48+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/datach-joint-rom-system-datach/index.html",
-            "url": "https://pixelnostalgia.github.io/datach-joint-rom-system-datach/index.html",
-            "title": "Datach Joint ROM System (datach)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/55/datach-logo.png\" alt=\"\" width=\"411\" height=\"124\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/55/responsive/datach-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/55/responsive/datach-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/55/responsive/datach-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/55/responsive/datach-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/55/datach.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/55/responsive/datach-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/55/responsive/datach-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/55/responsive/datach-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/55/responsive/datach-xl.webp 1200w\"></figure>\n<p>The Datach or Datach Joint ROM System, is an enhancement accessory by Bandai for the Family Computer, allowing the system to play select compatible games. Released on December 29, 1992, it is packaged with one game, Dragon Ball Z: Gekitō Tenkaichi Budokai. Six other games were released for it, including one of the final games for the Famicom system in 1994. It is one of two mini systems compatible with the NES or Famicom, the other being the Aladdin Deck Enhancer.<br><br>The Datach consists of a cartridge connection at its bottom, a central cartridge chamber on its back, with two spring-loaded pins on either side, which are pushed up when the unit is inserted into the Famicom, allowing the game to only be removed when the Datach has been removed from the Famicom. Its main feature is the card reading slot on the front. The cartridges resemble half-size Famicom cartridges. One side of the cartridge is flat with title sticker, while the other side is sloped inward with notches on the left and right, which correspond to the spring pins on the main Datach unit. The cards that come with the games are swiped from left to right along the card slot; they are glossy on the front with an image of the character and the backs are smooth usually having the title of the game and barcode. All cartridges, boxes, instructions have the standard FF (Famicom Family) insignia, showing they are officially licensed by Nintendo.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">7 games (~30 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=961545\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/55/gallery/Zrzut-ekranu-2024-12-03-210318.png\" data-size=\"3080x1735\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/55/gallery/Zrzut-ekranu-2024-12-03-210318-thumbnail.webp\" alt=\"\" width=\"768\" height=\"433\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"datach\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/55/datach-2.png",
-            "author": {
-                "name": "g-spawn"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Extension",
-                   "Custom",
-                   "Console",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-03T20:35:22+01:00",
-            "date_modified": "2024-12-03T22:05:40+01:00"
         }
     ]
 }

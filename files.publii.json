@@ -82,7 +82,7 @@
     {
         "path": "/amiga-1200-amiga1200/index.html",
         "type": "file",
-        "md5": "1b182fce9892b4633e972a4bdd1f3af9"
+        "md5": "6b7c68c3ccdf122a416bfd3096d76041"
     },
     {
         "path": "amiga-500-amiga500-2",
@@ -92,7 +92,7 @@
     {
         "path": "/amiga-500-amiga500-2/index.html",
         "type": "file",
-        "md5": "4aed9cd462f1141e91429cb4e7505c3f"
+        "md5": "5805caddef20e14a412a24a030a91e61"
     },
     {
         "path": "amiga-cd32-amigacd32",
@@ -102,7 +102,7 @@
     {
         "path": "/amiga-cd32-amigacd32/index.html",
         "type": "file",
-        "md5": "0c4e49386fd88048b47bff061110c41b"
+        "md5": "210075df44b8ce9d4b59b7157d82b1b3"
     },
     {
         "path": "amstrad-cpc-amstradcpc",
@@ -247,7 +247,7 @@
     {
         "path": "/authors/g-spawn/index.html",
         "type": "file",
-        "md5": "19f3b0499ac11d3de694b1152cce350c"
+        "md5": "e6126985676e0f6765887ac8b48ee0f0"
     },
     {
         "path": "authors/rapsteruk",
@@ -267,7 +267,7 @@
     {
         "path": "/authors/rgs/index.html",
         "type": "file",
-        "md5": "c4594343b95589f1b06015cbb241a49b"
+        "md5": "946de54b1e0366829f95f0395ae2689b"
     },
     {
         "path": "authors/rgs/page",
@@ -282,7 +282,7 @@
     {
         "path": "/authors/rgs/page/2/index.html",
         "type": "file",
-        "md5": "ac01d6b9611fa650eaf724a5ba9d3a40"
+        "md5": "f97ff15b4564bdbe26bac1583c4c9489"
     },
     {
         "path": "authors/spirit",
@@ -312,7 +312,7 @@
     {
         "path": "/capcom-play-system-i-cps1/index.html",
         "type": "file",
-        "md5": "261181e0587df147c2f4eacc865230ee"
+        "md5": "70946e9be3d7b98d7017d7245e6732a7"
     },
     {
         "path": "capcom-play-system-ii-cps2",
@@ -322,7 +322,7 @@
     {
         "path": "/capcom-play-system-ii-cps2/index.html",
         "type": "file",
-        "md5": "c9f065d85ba0f109aea2e87cf2af0a91"
+        "md5": "53400b593719eed40a5498f8fc1d2a19"
     },
     {
         "path": "capcom-play-system-iii-cps3",
@@ -332,7 +332,7 @@
     {
         "path": "/capcom-play-system-iii-cps3/index.html",
         "type": "file",
-        "md5": "a5657e6aa32b70440e297b9718765c77"
+        "md5": "e133cafebd9e31f846a258c047541f80"
     },
     {
         "path": "commodore-dynamic-total-vision-amigacdtv",
@@ -342,7 +342,7 @@
     {
         "path": "/commodore-dynamic-total-vision-amigacdtv/index.html",
         "type": "file",
-        "md5": "7c202218751da2d79b27ee43200193c0"
+        "md5": "6722c927788d5520c8aa6ab71fdc1b0f"
     },
     {
         "path": "daphne-daphne",
@@ -362,7 +362,7 @@
     {
         "path": "/datach-joint-rom-system-datach/index.html",
         "type": "file",
-        "md5": "4dcffca9f7d65cbdf70f32fdb50c7e6d"
+        "md5": "a25ead19a16a8f5d1ec0db2e3b641266"
     },
     {
         "path": "elektronika-im-elektronika",
@@ -387,12 +387,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "a9f2de2f21940f49490c2138942a5542"
+        "md5": "27f2f79d5cb7eea995e9035f92719c1b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "53c96a94ead4efae35ab15f3ad7439fd"
+        "md5": "a84c5cdbd7f2dd054ebd41c47431d9fa"
     },
     {
         "path": "fix-ryujinx-after-the-631-update",
@@ -412,7 +412,7 @@
     {
         "path": "/future-pinball-fpinball/index.html",
         "type": "file",
-        "md5": "607444443320860134c7267b5246d6b9"
+        "md5": "67aa779727688e3b42e882550f05dcdb"
     },
     {
         "path": "game-boy-color-gbc",
@@ -4525,6 +4525,191 @@
         "md5": "fb3fcb6112722dc3ba347aee9330e8d7"
     },
     {
+        "path": "media/posts/67",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/67/dos.webp",
+        "type": "file",
+        "md5": "da5370c3cf364f0157eaf61449900aa5"
+    },
+    {
+        "path": "/media/posts/67/ms-dos.webp",
+        "type": "file",
+        "md5": "a3b7cd5721c5abd411af6b6ebdf18b3e"
+    },
+    {
+        "path": "/media/posts/67/pc.svg",
+        "type": "file",
+        "md5": "65fb3b2c2294a8d4b9d0abc5acfb7e12"
+    },
+    {
+        "path": "media/posts/67/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/67/responsive/dos-md.webp",
+        "type": "file",
+        "md5": "740c574a2c4f9a124be0c12646c0d5eb"
+    },
+    {
+        "path": "/media/posts/67/responsive/dos-sm.webp",
+        "type": "file",
+        "md5": "b706854f622e1fdbe1793a6cb16bae0a"
+    },
+    {
+        "path": "/media/posts/67/responsive/dos-xl.webp",
+        "type": "file",
+        "md5": "740c574a2c4f9a124be0c12646c0d5eb"
+    },
+    {
+        "path": "/media/posts/67/responsive/dos-xs.webp",
+        "type": "file",
+        "md5": "91a72d80e2a178047fc95aabc0bfb269"
+    },
+    {
+        "path": "/media/posts/67/responsive/ms-dos-md.webp",
+        "type": "file",
+        "md5": "f4f49e6514338b1735aeea654e5dbba5"
+    },
+    {
+        "path": "/media/posts/67/responsive/ms-dos-sm.webp",
+        "type": "file",
+        "md5": "bda41b1136657a0cfd35993c96a77d34"
+    },
+    {
+        "path": "/media/posts/67/responsive/ms-dos-xl.webp",
+        "type": "file",
+        "md5": "2bbfe15917af635de7f82951e0e9155d"
+    },
+    {
+        "path": "/media/posts/67/responsive/ms-dos-xs.webp",
+        "type": "file",
+        "md5": "1b8b1c9363daf6264906e101b219a770"
+    },
+    {
+        "path": "media/posts/68",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/68/dreamcast-w-logo.png",
+        "type": "file",
+        "md5": "be5ab785f531c0f88ddd1c3f403d076f"
+    },
+    {
+        "path": "/media/posts/68/dreamcast.webp",
+        "type": "file",
+        "md5": "54ac838e2d7145987d5bb8dc1a38f9be"
+    },
+    {
+        "path": "media/posts/68/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135202-thumbnail.webp",
+        "type": "file",
+        "md5": "755b6f4825f715b0bbf27ec7cac333f9"
+    },
+    {
+        "path": "/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135202.png",
+        "type": "file",
+        "md5": "336fdf05aba4860987ff62941f40876a"
+    },
+    {
+        "path": "/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135435-thumbnail.webp",
+        "type": "file",
+        "md5": "c684006b0b46fb569002be7afb40d389"
+    },
+    {
+        "path": "/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135435.png",
+        "type": "file",
+        "md5": "891ddda873cddf1a29226fcb31b44cd5"
+    },
+    {
+        "path": "/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135558-thumbnail.webp",
+        "type": "file",
+        "md5": "8d3b5066122cd7c539f047470f5f529d"
+    },
+    {
+        "path": "/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135558.png",
+        "type": "file",
+        "md5": "84d70842fb31c1418fe470c77bd3ed97"
+    },
+    {
+        "path": "media/posts/68/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/68/responsive/dreamcast-md.webp",
+        "type": "file",
+        "md5": "e1177c48b209411c1291f4b4feac8108"
+    },
+    {
+        "path": "/media/posts/68/responsive/dreamcast-sm.webp",
+        "type": "file",
+        "md5": "88f94729e4716a36b8613300a3839463"
+    },
+    {
+        "path": "/media/posts/68/responsive/dreamcast-w-logo-md.webp",
+        "type": "file",
+        "md5": "9af35f5c77b7635ba3a5cee8979818f6"
+    },
+    {
+        "path": "/media/posts/68/responsive/dreamcast-w-logo-sm.webp",
+        "type": "file",
+        "md5": "de8929bff7d842abd5ab2d21cc9b3694"
+    },
+    {
+        "path": "/media/posts/68/responsive/dreamcast-w-logo-xl.webp",
+        "type": "file",
+        "md5": "9af35f5c77b7635ba3a5cee8979818f6"
+    },
+    {
+        "path": "/media/posts/68/responsive/dreamcast-w-logo-xs.webp",
+        "type": "file",
+        "md5": "4a66971a027c58e0c6c78dfed9f1e99f"
+    },
+    {
+        "path": "/media/posts/68/responsive/dreamcast-xl.webp",
+        "type": "file",
+        "md5": "e1177c48b209411c1291f4b4feac8108"
+    },
+    {
+        "path": "/media/posts/68/responsive/dreamcast-xs.webp",
+        "type": "file",
+        "md5": "dfc4ef4a07d6d289c2a30e80c6467e2c"
+    },
+    {
+        "path": "/media/posts/68/responsive/sega-dreamcast-md.webp",
+        "type": "file",
+        "md5": "771cd4f9d0d87ba875821562f8a33e21"
+    },
+    {
+        "path": "/media/posts/68/responsive/sega-dreamcast-sm.webp",
+        "type": "file",
+        "md5": "ca4f60e2197bc02232bf1b2727354f9c"
+    },
+    {
+        "path": "/media/posts/68/responsive/sega-dreamcast-xl.webp",
+        "type": "file",
+        "md5": "cf733e6a673c64834ecc4b83717665d0"
+    },
+    {
+        "path": "/media/posts/68/responsive/sega-dreamcast-xs.webp",
+        "type": "file",
+        "md5": "6bd69941d47c174a3eb379345d60d9af"
+    },
+    {
+        "path": "/media/posts/68/sega-dreamcast.webp",
+        "type": "file",
+        "md5": "84d56dfd857e4c23117fefc8289a64e6"
+    },
+    {
         "path": "media/posts/8",
         "type": "directory",
         "md5": false
@@ -4660,6 +4845,16 @@
         "md5": "0975306a5f2371e009669e832152d39e"
     },
     {
+        "path": "microsoft-disk-operating-system-dos",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/microsoft-disk-operating-system-dos/index.html",
+        "type": "file",
+        "md5": "3e4fd6861214a4852d2f03799584283d"
+    },
+    {
         "path": "naomi-2-naomi2",
         "type": "directory",
         "md5": false
@@ -4687,7 +4882,7 @@
     {
         "path": "/nintendo-3ds-3ds/index.html",
         "type": "file",
-        "md5": "3438558e91125e7ab53cd88f88cde1a2"
+        "md5": "c5e11b7aa4db7f069c17a2f153023c85"
     },
     {
         "path": "nintendo-entertainment-system-nes",
@@ -4697,7 +4892,7 @@
     {
         "path": "/nintendo-entertainment-system-nes/index.html",
         "type": "file",
-        "md5": "b69a547f951fcb9fbc37370d4da7c2dd"
+        "md5": "371b5d76899fb15af28fec2985992255"
     },
     {
         "path": "nintendo-gamecube-gamecube",
@@ -4707,7 +4902,7 @@
     {
         "path": "/nintendo-gamecube-gamecube/index.html",
         "type": "file",
-        "md5": "1f5727a7728ade874596eed81d91deed"
+        "md5": "7d694f395340e112ca12567e990dbf31"
     },
     {
         "path": "page",
@@ -4722,7 +4917,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "67741d5d8814141544a2a91e8adc98b8"
+        "md5": "adf4ab6e54f8631086bc14e25d2b9047"
     },
     {
         "path": "page/3",
@@ -4732,7 +4927,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "71e40d58b68cb813288e5d2e4d217ce6"
+        "md5": "b42d17eeca9015ed728fe9d2b5e0825f"
     },
     {
         "path": "philips-cd-i-cdi",
@@ -4752,7 +4947,7 @@
     {
         "path": "/pinball-fx-pinballfx-2/index.html",
         "type": "file",
-        "md5": "13eed6fffa11cd4d6d444ea2d1cfcd6d"
+        "md5": "ec63de880be693d6120aabc40f5de8b2"
     },
     {
         "path": "pinball-fx2-pinballfx2",
@@ -4762,7 +4957,7 @@
     {
         "path": "/pinball-fx2-pinballfx2/index.html",
         "type": "file",
-        "md5": "0dba4820add552957d854651f05a139c"
+        "md5": "27bbd5fa45ab6eee06a472c3f194353e"
     },
     {
         "path": "pinball-fx3-pinballfx3",
@@ -4772,7 +4967,7 @@
     {
         "path": "/pinball-fx3-pinballfx3/index.html",
         "type": "file",
-        "md5": "428ec1282843f54363a05b771d8de368"
+        "md5": "d56095811695853f3488e12d5ce253a5"
     },
     {
         "path": "pinball-m-pinballm",
@@ -4782,12 +4977,22 @@
     {
         "path": "/pinball-m-pinballm/index.html",
         "type": "file",
-        "md5": "3a92a545656964e8a0c09444883d54d8"
+        "md5": "e959783c4e5af519b4bba550772b5e79"
     },
     {
         "path": "robots.txt",
         "type": "file",
         "md5": "16eb385b398e05251fb9078799f6fa1e"
+    },
+    {
+        "path": "sega-dreamcast-dreamcast",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-dreamcast-dreamcast/index.html",
+        "type": "file",
+        "md5": "825ecd7c4c30f68b9fd0ec0c8705254a"
     },
     {
         "path": "sega-model-2-model2",
@@ -4797,12 +5002,12 @@
     {
         "path": "/sega-model-2-model2/index.html",
         "type": "file",
-        "md5": "1eb5679bb24813fd51c79cb2ba735a86"
+        "md5": "88955bf87a9530e924c18563fb0f5f1f"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "c474f870c8824e1895e18e90bbde00a6"
+        "md5": "ce2d14d2af3a112600b7a7999ec86a27"
     },
     {
         "path": "sitemap.xsl",
@@ -4817,7 +5022,7 @@
     {
         "path": "/super-nintendo-entertainment-system-snes/index.html",
         "type": "file",
-        "md5": "5f60dc5dffdc8903461ea1cd94aa99d1"
+        "md5": "c803989c23b1842c7ac88b1c7ac0ac39"
     },
     {
         "path": "tags",
@@ -4842,7 +5047,7 @@
     {
         "path": "/tags/batocera/index.html",
         "type": "file",
-        "md5": "f15f38b57aa9cbf457726079d06c651c"
+        "md5": "79ffde689b667776b9bdb0e9ec745f79"
     },
     {
         "path": "tags/batocera/page",
@@ -4857,7 +5062,7 @@
     {
         "path": "/tags/batocera/page/2/index.html",
         "type": "file",
-        "md5": "b228e4a8701754f6b122f02bf5a478df"
+        "md5": "e1cdf771152fa0dc2739a7e1472c04ba"
     },
     {
         "path": "tags/batocera/page/3",
@@ -4867,7 +5072,7 @@
     {
         "path": "/tags/batocera/page/3/index.html",
         "type": "file",
-        "md5": "f0cdf58d4e576f5308b78b964ef6c2ad"
+        "md5": "ab167cd2bc17fde701a9ec976f81d1c0"
     },
     {
         "path": "tags/computer",
@@ -4877,7 +5082,7 @@
     {
         "path": "/tags/computer/index.html",
         "type": "file",
-        "md5": "20c46b01b808b5cc7a5fa407df512229"
+        "md5": "bd915e52125654cedb6d1f4cef5b6108"
     },
     {
         "path": "tags/console",
@@ -4887,7 +5092,7 @@
     {
         "path": "/tags/console/index.html",
         "type": "file",
-        "md5": "104ec65661cd854ab85e85bcd44cbf33"
+        "md5": "acf76825ba7979cddd7a9ede2f874f76"
     },
     {
         "path": "tags/custom",
@@ -4897,7 +5102,7 @@
     {
         "path": "/tags/custom/index.html",
         "type": "file",
-        "md5": "fda2f3e8c11cf21e8a441d791deef80a"
+        "md5": "b2ee87e770ee441be0364f0fc1f202ba"
     },
     {
         "path": "tags/extension",
@@ -4952,7 +5157,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "29c8876dcc38a1f3721725e9ba168a1f"
+        "md5": "8941ce093c6ccb69b8d184bb78ac7ff6"
     },
     {
         "path": "tags/lite-package",
@@ -4972,7 +5177,7 @@
     {
         "path": "/tags/pi4/index.html",
         "type": "file",
-        "md5": "2ceb10b0fe3fe9492c49bfca8fcf526d"
+        "md5": "7c4a6e82470940bfef5e41e55d18d788"
     },
     {
         "path": "tags/pi4/page",
@@ -4987,7 +5192,7 @@
     {
         "path": "/tags/pi4/page/2/index.html",
         "type": "file",
-        "md5": "5f46d7977a00362a2669f30a288e5f3b"
+        "md5": "3330c627cba929b47033ae19bdb9bd59"
     },
     {
         "path": "tags/pi5",
@@ -4997,7 +5202,7 @@
     {
         "path": "/tags/pi5/index.html",
         "type": "file",
-        "md5": "092622a842881f924a383b4072167acb"
+        "md5": "0479b26e229d03fcf8b90c71db3c671e"
     },
     {
         "path": "tags/pi5/page",
@@ -5012,7 +5217,7 @@
     {
         "path": "/tags/pi5/page/2/index.html",
         "type": "file",
-        "md5": "aaaac5944f6ae7d4f02a4643a9902e90"
+        "md5": "0cd7735921d88586442928b80ec9641d"
     },
     {
         "path": "tags/pinball",
@@ -5052,7 +5257,7 @@
     {
         "path": "/tags/retrobat/index.html",
         "type": "file",
-        "md5": "506035a5ad7f7ff1c06d385e84745e37"
+        "md5": "1e271d8e202dba6a9bb688cb9010d2d9"
     },
     {
         "path": "tags/retrobat/page",
@@ -5067,7 +5272,7 @@
     {
         "path": "/tags/retrobat/page/2/index.html",
         "type": "file",
-        "md5": "3efab4c890879c119c4d1b0f7836d30d"
+        "md5": "0385c0781f85e19cd6b9153cf036670e"
     },
     {
         "path": "tags/retrobat/page/3",
@@ -5077,7 +5282,7 @@
     {
         "path": "/tags/retrobat/page/3/index.html",
         "type": "file",
-        "md5": "60db436577b7b98abbb58b8169bf5c48"
+        "md5": "de5a311efbe46f70e8b0e3dcb6192f52"
     },
     {
         "path": "tags/x86",
@@ -5087,7 +5292,7 @@
     {
         "path": "/tags/x86/index.html",
         "type": "file",
-        "md5": "a74fb8b535b7b56c8fb7d8977cd12f23"
+        "md5": "5393463160c8fa3bfd15c94fb88836e0"
     },
     {
         "path": "tags/x86/page",
@@ -5102,7 +5307,7 @@
     {
         "path": "/tags/x86/page/2/index.html",
         "type": "file",
-        "md5": "a97eed2f4fd91cd510e023edb214b375"
+        "md5": "04a673564e2683693d0458e57c0f02f4"
     },
     {
         "path": "tags/x86/page/3",
@@ -5112,7 +5317,7 @@
     {
         "path": "/tags/x86/page/3/index.html",
         "type": "file",
-        "md5": "6dbec509b8806c11b61b7c8be8640d04"
+        "md5": "eb835ab85b0b2953d6adcd24d49a988a"
     },
     {
         "path": "the-one-build-install",
@@ -5142,7 +5347,7 @@
     {
         "path": "/visual-pinball-vpinball/index.html",
         "type": "file",
-        "md5": "b507285cce174026811f82403d20e666"
+        "md5": "9d101ab557645d416523b04dd45f4398"
     },
     {
         "path": "welcome",
@@ -5172,7 +5377,7 @@
     {
         "path": "/zaccaria-pinball-zaccariapinball/index.html",
         "type": "file",
-        "md5": "380645c72f1a8208aa25ec6fdd182c41"
+        "md5": "0d72927804926fac3ec9426c8160c802"
     },
     {
         "path": "zx-spectrum-zxspectrum",
