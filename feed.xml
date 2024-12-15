@@ -3,12 +3,142 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2024-12-15T13:56:28+01:00</updated>
+    <updated>2024-12-15T15:10:02+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Nintendo Family Computer Disk System (fds)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/nintendo-family-computer-disk-system-fds/index.html"/>
+        <id>https://pixelnostalgia.github.io/nintendo-family-computer-disk-system-fds/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/71/fds.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Console"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-15T15:00:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/71/fds.webp" alt="fds" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/71/fds.webp" class="type:primaryImage" alt="fds" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/71/fds-w-logo.png" alt="" width="377" height="67" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/71/responsive/fds-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/71/responsive/fds-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/71/responsive/fds-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/71/responsive/fds-w-logo-xl.webp 1200w"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/71/nintendo-famicom-disk-system.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/71/responsive/nintendo-famicom-disk-system-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/71/responsive/nintendo-famicom-disk-system-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/71/responsive/nintendo-famicom-disk-system-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/71/responsive/nintendo-famicom-disk-system-xl.webp 1200w"></figure>
+<p>The Family Computer Disk System is a peripheral for Nintendo's Family Computer home video game console, released only in Japan on February 21, 1986. It uses proprietary floppy disks called "Disk Cards" for cheaper data storage and it adds a new high-fidelity sound channel for supporting Disk System games.<br><br>Fundamentally, the Disk System serves simply to enhance some aspects already inherent to the base Famicom system, with better sound and cheaper games—though with the disadvantages of high initial price, slow speed, and lower reliability. However, this boost to the market of affordable and writable mass storage temporarily served as an enabling technology for the creation of new types of video games. This includes the vast, open world, progress-saving adventures of the best-selling The Legend of Zelda (1986) and Metroid (1986), games with a cost-effective and swift release such as the best-selling Super Mario Bros. 2, and nationwide leaderboards and contests via the in-store Disk Fax kiosks, which are considered to be forerunners of today's online achievement and distribution systems.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">311 games (~3 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=957601" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/71/gallery/Zrzut-ekranu-2024-12-15-150941.png" data-size="3070x1725"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/71/gallery/Zrzut-ekranu-2024-12-15-150941-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+</div></div>
+<p class="msg msg--highlight  msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "fds" folder to the "roms" directory</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Final Burn Neo (fbneo)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/final-burn-neo-fbneo/index.html"/>
+        <id>https://pixelnostalgia.github.io/final-burn-neo-fbneo/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/70/fbneo.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+            <category term="Arcade"/>
+
+        <updated>2024-12-15T14:44:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/70/fbneo.webp" alt="fbneo" />
+                    <p>for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat<br><span style="color: #ffffff;"><strong>Version: 23 Feb 2024</strong></span><br></span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/70/fbneo.webp" class="type:primaryImage" alt="fbneo" /></p>
+                <p>for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat<br><span style="color: #ffffff;"><strong>Version: 23 Feb 2024</strong></span><br></span></p>
+
+<figure class="post__image post__image--center"><img  src="https://pixelnostalgia.github.io/media/posts/70/fbn-logo.png" alt="" width="377" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/70/responsive/fbn-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/70/responsive/fbn-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/70/responsive/fbn-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/70/responsive/fbn-logo-xl.webp 1200w"></figure><br><figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/70/fbneo-2.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/70/responsive/fbneo-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/70/responsive/fbneo-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/70/responsive/fbneo-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/70/responsive/fbneo-2-xl.webp 1200w"></figure>Final Burn Neo (aka FBNeo) is the new official branch of the Final Burn Alpha emulator, which is compatible with hundreds of arcade and console games. The libretro core of FBNeo brings its library of compatible titles to RetroArch, where the core's tight integration with the libretro API allows it to work with RetroArch's advanced time-bending features like rollback-based netplay and runahead latency reduction. It includes input presets for automatic mapping of buttons for different games, including fighting game layouts for both modern and old-school arcade controls (aka fightsticks).</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">2283 games (~29 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=954690" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/70/gallery/Zrzut-ekranu-2024-12-15-145409.png" data-size="3078x1728"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/70/gallery/Zrzut-ekranu-2024-12-15-145409-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:<br></strong>Remove 'fbneo' from the 'roms' directory<br>Drag and drop the "fbneo" folder into the 'roms' directory and Enjoy!</p>
+<p class="msg msg--warning">- Use this rompack if you update RGS v39 to minimum v40<br>- This set is already included in RGS v40 IMG or RGS RetroBat update 1</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nintendo Family Computer (famicom)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/nintendo-family-computer-famicom/index.html"/>
+        <id>https://pixelnostalgia.github.io/nintendo-family-computer-famicom/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/69/famicom_new.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Console"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-15T14:32:20+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/69/famicom_new.png" alt="famicom" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/69/famicom_new.png" class="type:primaryImage" alt="famicom" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/69/famicom.svg" alt="" width="377" height="68"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/69/nintendo-famicom.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/69/responsive/nintendo-famicom-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/69/responsive/nintendo-famicom-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/69/responsive/nintendo-famicom-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/69/responsive/nintendo-famicom-xl.webp 1200w"></figure>
+<p>The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console produced by Nintendo. Nintendo first released it in Japan as the Family Computer, commonly known as the Famicom, in 1983. The NES, a remodelled version, was released internationally in the following years.<br><br>The NES featured a number of groundbreaking games, such as the platform game Super Mario Bros, the action-adventure game The Legend of Zelda and the action game Metroid. As one of the best-selling gaming consoles of its time, the NES helped revitalize the US video game industry following the video game crash of 1983. Nintendo introduced a now-standard business model of licensing third-party developers to produce and distribute games for the NES. The NES was succeeded by the Super Nintendo Entertainment System.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">386 games (~4 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=957638" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/69/gallery/Zrzut-ekranu-2024-12-15-143543.png" data-size="3077x1725"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/69/gallery/Zrzut-ekranu-2024-12-15-143543-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
+<p class="msg msg--highlight  msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "famicom" folder to the "roms" directory</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sega Dreamcast (dreamcast)</title>
         <author>
@@ -297,128 +427,6 @@
 <p><a href="https://back-ups.me/details.php?id=957586" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
 <p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "zxspectrum" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Boom 3 (boom3)</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/boom-3-boom3/index.html"/>
-        <id>https://pixelnostalgia.github.io/boom-3-boom3/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/61/boom3-3.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-15T10:19:03+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/61/boom3-3.webp" alt="boom3" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/61/boom3-3.webp" class="type:primaryImage" alt="boom3" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/61/boom3-logo2.png" alt="" width="366" height="206" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-logo2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-logo2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-logo2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-logo2-xl.webp 1200w"></figure>
-<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/61/boom3-2.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-2-xl.webp 1200w"></figure>
-<p>Boom 3 is a Doom 3 and Doom 3: Resurrection Of Evil GPL source port, known to work on Windows and Linux.<br><br>Doom 3 is a sci-fi horror fantasy first-person shooter computer game developed by id Software and published by ActiVision.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">2 games (~2 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=957744" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base build for RetroBat.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already have the following, then you DO NOT need to download this.<br>RetroBat v6 Base Edition 300 GB [RGS] with RetroBat v6 Base Edition Update 1 [RGS].<br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "boom3" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Atari 7800 (atari7800)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/atari-7800-atari7800/index.html"/>
-        <id>https://pixelnostalgia.github.io/atari-7800-atari7800/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/59/atari7800.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Console"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-14T18:42:59+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/59/atari7800.webp" alt="atari7800" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/59/atari7800.webp" class="type:primaryImage" alt="atari7800" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/59/atari7800-w-logo.png" alt="" width="475" height="115" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/59/responsive/atari7800-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/59/responsive/atari7800-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/59/responsive/atari7800-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/59/responsive/atari7800-w-logo-xl.webp 1200w"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/59/atari-7800-2.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/59/responsive/atari-7800-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/59/responsive/atari-7800-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/59/responsive/atari-7800-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/59/responsive/atari-7800-2-xl.webp 1200w"></figure>
-<p>The Atari 7800 ProSystem, or simply the Atari 7800, is a home video game console officially released by Atari Corporation in 1986 as the successor to both the Atari 2600 and Atari 5200. It is able to run almost all Atari 2600 cartridges, making it the first console with built-in backward compatibility. It shipped with a different model of joystick from the 2600-standard CX40 and Pole Position II as the pack-in game. Most of the announced titles at launch were ports of 1980–83 arcade games.<br><br>Designed by General Computer Corporation, the 7800 has significantly improved graphics hardware over Atari's previous consoles, but the same Television Interface Adapter chip that launched with the 2600 in 1977 is used to generate audio. In an effort to prevent the flood of poor quality games that contributed to the video game crash of 1983, cartridges had to be digitally signed by Atari.<br><br>The Atari 7800 was first announced on May 21, 1984, but a general release was shelved due to the sale of the company. Atari dropped support for the 7800, along with the 2600 and the Atari 8-bit family, on January 1, 1992.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">59 games (~590 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957623" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "atari7800" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Amstrad CPC (amstradcpc)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/amstrad-cpc-amstradcpc/index.html"/>
-        <id>https://pixelnostalgia.github.io/amstrad-cpc-amstradcpc/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/58/amstradcpc.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Computer"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-14T18:30:19+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/58/amstradcpc.webp" alt="amstradcpc" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/58/amstradcpc.webp" class="type:primaryImage" alt="amstradcpc" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/58/amstradcpc-w-logo.png" alt="" width="390" height="151" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/58/responsive/amstradcpc-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/58/responsive/amstradcpc-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/58/responsive/amstradcpc-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/58/responsive/amstradcpc-w-logo-xl.webp 1200w"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/58/Amstrad-CPC.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/58/responsive/Amstrad-CPC-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/58/responsive/Amstrad-CPC-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/58/responsive/Amstrad-CPC-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/58/responsive/Amstrad-CPC-xl.webp 1200w"></figure>
-<p>The Amstrad CPC (short for Colour Personal Computer) is a series of 8-bit home computers produced by Amstrad between 1984 and 1990. It was designed to compete in the mid-1980s home computer market dominated by the Commodore 64 and the Sinclair ZX Spectrum, where it successfully established itself primarily in the United Kingdom, France, Spain, and the German-speaking parts of Europe.<br><br>The series spawned a total of six distinct models: The CPC464, CPC664, and CPC6128 were highly successful competitors in the European home computer market. The later 464plus and 6128plus, intended to prolong the system's lifecycle with hardware updates, were considerably less successful, as was the attempt to repackage the plus hardware into a game console as the GX4000.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">2885 games (~13 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=957582" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "amstradcpc" folder to the "roms" directory</p>
             ]]>
         </content>
     </entry>
