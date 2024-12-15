@@ -3,12 +3,311 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2024-12-15T15:10:02+01:00</updated>
+    <updated>2024-12-15T23:01:51+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Atari Jaguar CD (jaguarcd)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/atari-jaguar-cd-jaguarcd/index.html"/>
+        <id>https://pixelnostalgia.github.io/atari-jaguar-cd-jaguarcd/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/78/atari-jaguar-cd-jaguarcd.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Console"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-15T22:54:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/78/atari-jaguar-cd-jaguarcd.webp" alt="jaguarcd" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/78/atari-jaguar-cd-jaguarcd.webp" class="type:primaryImage" alt="jaguarcd" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/78/atarijaguarcd.svg" alt="" width="377" height="155"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/78/jaguarcd-up.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/78/responsive/jaguarcd-up-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/78/responsive/jaguarcd-up-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/78/responsive/jaguarcd-up-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/78/responsive/jaguarcd-up-xl.webp 1200w"></figure>
+<p>The Atari Jaguar CD or Jag CD is a CD-ROM peripheral for the Atari Jaguar video game console.<br><br>Atari announced a CD-ROM drive for the Jaguar before the console's November 1993 launch. Code-named the Jaguar II during development, the Jaguar CD was released on September 21, 1995, and retailed for $149.95. It suffered from multiple delays, having been originally intended for launch during the 1994 holiday shopping season. The device sits atop the Jaguar console, fitting into the ROM cartridge slot. The drive has its own cartridge slot to allow cartridge games to be played without removing the CD drive, and to run software that used cartridge and CD in tandem. There was a separate "Memory Track" cartridge for storing saved game position and high scores. Several publications have criticized the Jaguar CD's design for bearing an appearance similar to a toilet.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">13 games (~4 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=946411" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/78/gallery/Zrzut-ekranu-2024-12-15-230113.png" data-size="3093x1746"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/78/gallery/Zrzut-ekranu-2024-12-15-230113-thumbnail.webp" alt="" width="768" height="434"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "jaguarcd" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Atari Jaguar (jaguar)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/atari-jaguar-jaguar/index.html"/>
+        <id>https://pixelnostalgia.github.io/atari-jaguar-jaguar/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/77/jaguar.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Console"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-15T22:45:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/77/jaguar.webp" alt="jaguar" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/77/jaguar.webp" class="type:primaryImage" alt="jaguar" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/77/atarijaguar.svg" alt="" width="377" height="131"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/77/atari-jaguar.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/77/responsive/atari-jaguar-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/77/responsive/atari-jaguar-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/77/responsive/atari-jaguar-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/77/responsive/atari-jaguar-xl.webp 1200w"></figure>
+<p>The Atari Jaguar is a home video game console developed by Atari Corporation and released in North America in November 1993. Part of the fifth generation of video game consoles, it competed with the 16-bit Sega Genesis and Super NES and the 32-bit 3DO Interactive Multiplayer which launched the same year. Despite its two custom 32-bit processors – Tom and Jerry – in addition to a Motorola 68000, Atari marketed it as the world's first 64-bit game system, emphasizing its 64-bit bus. The Jaguar launched with Cybermorph as the pack-in game.<br><br>Development on the Atari Jaguar started in the early 1990s by Flare Technology which also designed the cancelled Atari Panther console. The multi-chip architecture, hardware bugs, and lacking developer support tools made game development difficult. Underwhelming sales further contributed to the console's lack of third-party support. The game library comprised only 50 licensed titles, plus another 13 games on the Jaguar CD.<br><br>Atari attempted to extend the lifespan of the system with the Atari Jaguar CD add-on and marketing the Jaguar as the low-cost next generation console, with a price tag over $100 less than any of its competitors. With the release of the Sega Saturn and Sony PlayStation in 1995, sales of the Jaguar continued to fall. It sold no more than 250,000 units before it was discontinued in 1996. The commercial failure of the Jaguar prompted Atari to leave the console market.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">70 games (~1 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=957608" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/77/gallery/Zrzut-ekranu-2024-12-15-225204.png" data-size="3080x1744"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/77/gallery/Zrzut-ekranu-2024-12-15-225204-thumbnail.webp" alt="" width="768" height="435"></a></figure>
+</div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "jaguar" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Amstrad GX4000 (gx4000)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/amstrad-gx4000-gx4000/index.html"/>
+        <id>https://pixelnostalgia.github.io/amstrad-gx4000-gx4000/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/76/gx4000.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Console"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-15T22:33:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/76/gx4000.webp" alt="gx4000" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/76/gx4000.webp" class="type:primaryImage" alt="gx4000" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/76/gx4000.svg" alt="" width="377" height="130"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/76/amstrad-gx4000.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/76/responsive/amstrad-gx4000-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/76/responsive/amstrad-gx4000-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/76/responsive/amstrad-gx4000-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/76/responsive/amstrad-gx4000-xl.webp 1200w"></figure>
+<p>The GX4000 is a video game console that was manufactured by Amstrad. It was the company's short-lived attempt to enter the games console market. The console was released in Europe in 1990 and was an upgraded design based on the then still-popular CPC technology. The GX4000 shared hardware architecture with Amstrad's CPC Plus computer line, which was released concurrently. This allowed the system to be compatible with the majority of CPC Plus software.<br><br>The GX4000 was both Amstrad's first and only attempt at entering the console market. Although offering enhanced graphics capabilities, it failed to gain popularity in the market, and was quickly discontinued, selling 15,000 units in total.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">24 games (~170 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957614" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gx4000" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nintendo Game Boy Advance (gba)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/nintendo-game-boy-advance-gba/index.html"/>
+        <id>https://pixelnostalgia.github.io/nintendo-game-boy-advance-gba/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/75/gba.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Portable"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-15T22:24:59+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/75/gba.webp" alt="gba" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/75/gba.webp" class="type:primaryImage" alt="gba" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/75/gba-logo.svg" alt="" width="377" height="44"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/75/nintendo-game-boy-advance.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/75/responsive/nintendo-game-boy-advance-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/75/responsive/nintendo-game-boy-advance-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/75/responsive/nintendo-game-boy-advance-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/75/responsive/nintendo-game-boy-advance-xl.webp 1200w"></figure>
+<p>The Game Boy Advance (GBA) is a 32-bit handheld game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, in Australia and Europe on June 22, 2001, and in mainland China on June 8, 2004 as iQue Game Boy Advance. The GBA is part of the sixth generation of video game consoles. The original model does not have an illuminated screen; Nintendo addressed that with the release of a redesigned model with a frontlit screen, the Game Boy Advance SP, in 2003. A newer revision of the redesign was released in 2005, with a backlit screen. The final redesign, the Game Boy Micro, was released in 2005.<br><br>As of June 30, 2010, 81.51 million units of the Game Boy Advance series have been sold worldwide. Its successor, the Nintendo DS, was released in November 2004 and is backward compatible with Game Boy Advance software.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">1129 games (~19.5 GB)<br>21 games in Hacked pack (~220 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957529" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  <a href="https://back-ups.me/details.php?id=957642" target="_blank" rel="nofollow noopener noreferrer" class="btn">Hacked pack</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gba" folder to the "roms" directory</p>
+<p class="msg msg--highlight "><strong>How to install Hacked pack:</strong><br>Drag and drop the "gbah" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nintendo Game Boy (gb)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/nintendo-game-boy-gb/index.html"/>
+        <id>https://pixelnostalgia.github.io/nintendo-game-boy-gb/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/74/gb.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Portable"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-15T21:36:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/74/gb.webp" alt="gb" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/74/gb.webp" class="type:primaryImage" alt="gb" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/74/gb.svg" alt="" width="377" height="66"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/74/nintendo-game-boy.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/74/responsive/nintendo-game-boy-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/74/responsive/nintendo-game-boy-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/74/responsive/nintendo-game-boy-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/74/responsive/nintendo-game-boy-xl.webp 1200w"></figure>
+<p>The Game Boy is an 8-bit handheld game console developed and manufactured by Nintendo. The first handheld in the Game Boy family, it was first released in Japan on April 21, 1989, then North America, three months later, and lastly in Europe, more than one year later. It was designed by the same team that developed the Game &amp;amp; Watch series of handheld electronic games and several Nintendo Entertainment System games: Satoru Okada, Gunpei Yokoi, and Nintendo Research and Development 1.<br><br>Nintendo's second handheld game console, the Game Boy, combines features from both the NES home system and Game &amp; Watch hardware. The console features a dull green dot-matrix screen with adjustable contrast dial, five control buttons (a directional pad, two game buttons, and "START" and "SELECT"), a single speaker with adjustable volume dial, and, like its rivals, uses cartridges as physical media for games. The color scheme is made from two tones of grey with accents of black, blue, and dark magenta. All the corners of the portrait-oriented rectangular unit are softly rounded, save for the bottom right, which is curved. At launch, it was sold either as a standalone unit, or bundled with one of several games, namely Super Mario Land or Tetris. Several accessories were also developed, including a carrying pouch, Game Genie, and printer.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">565 games (~4.5 GB)<br>18 games in Hacked pack (~12 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957597" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  <a href="https://back-ups.me/details.php?id=957644" target="_blank" rel="nofollow noopener noreferrer" class="btn">Hacked pack</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gb" folder to the "roms" directory</p>
+<p class="msg msg--highlight "><strong>How to install Hacked pack:</strong><br>Drag and drop the "gbh" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nintendo Game &amp; Watch (gameandwatch)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/nintendo-game-and-watch-gameandwatch/index.html"/>
+        <id>https://pixelnostalgia.github.io/nintendo-game-and-watch-gameandwatch/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/73/gameandwatch.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Portable"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-15T21:28:38+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/73/gameandwatch.webp" alt="gameandwatch" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/73/gameandwatch.webp" class="type:primaryImage" alt="gameandwatch" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/73/gameandwatch.svg" alt="" width="377" height="41"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/73/game-and-watch.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/73/responsive/game-and-watch-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/73/responsive/game-and-watch-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/73/responsive/game-and-watch-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/73/responsive/game-and-watch-xl.webp 1200w"></figure>
+<p>The Game &amp; Watch brand is a series of handheld electronic games developed, manufactured, released and marketed by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, the product derived its name from its featuring a single game as well as a clock on a LCD screen. The models from 1981 onwards featured an alarm in addition. It was the earliest Nintendo video game product to gain major success.<br><br>The units are based on a 4-bit CPU, from the Sharp SM5xx family, that include a small ROM and RAM area and an LCD screen driver circuit, although, prior to its simulation in MAME, there was a misconception in that every unit used a custom ASIC instead of a proper microcontroller.<br><br>The series sold a combined of 43.4 million units worldwide.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">53 games (~150 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957679" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gameandwatch" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fujitsu FM-Towns Marty (fmtowns)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/fujitsu-fm-towns-marty-fmtowns/index.html"/>
+        <id>https://pixelnostalgia.github.io/fujitsu-fm-towns-marty-fmtowns/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/72/fmtowns.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Console"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-15T21:19:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/72/fmtowns.webp" alt="fmtowns" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/72/fmtowns.webp" class="type:primaryImage" alt="fmtowns" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/72/fmtowns.svg" alt="" width="377" height="123"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/72/Fujitsu-FM-Towns-Marty.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/72/responsive/Fujitsu-FM-Towns-Marty-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/72/responsive/Fujitsu-FM-Towns-Marty-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/72/responsive/Fujitsu-FM-Towns-Marty-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/72/responsive/Fujitsu-FM-Towns-Marty-xl.webp 1200w"></figure>
+<p>The FM Towns Marty is a fifth-generation home video game console released in 1993 by Fujitsu, exclusively for the Japanese market. It is often claimed to be the first 32-bit CD-based home video game system, although it has a 16-bit data bus, just like the earlier Commodore CDTV and Sega CD, which both have Motorola 68000 processors that is similarly internally 16/32-bit, but with a 16-bit data bus.<br><br>The console came complete with a built in CD-ROM drive and disk drive. It was based on the earlier FM Towns computer system Fujitsu had released in 1989. The Marty was backward-compatible with older FM Towns games.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">81 games (~11 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=946265" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--info"><strong>Note:</strong> <br>Go to Game Collection Settings &gt; Grouped Systems &gt; Mess &gt; Uncheck FM Towns</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "fmtowns" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Nintendo Family Computer Disk System (fds)</title>
         <author>
@@ -48,7 +347,7 @@
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
 <figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/71/gallery/Zrzut-ekranu-2024-12-15-150941.png" data-size="3070x1725"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/71/gallery/Zrzut-ekranu-2024-12-15-150941-thumbnail.webp" alt="" width="768" height="432"></a></figure>
 </div></div>
-<p class="msg msg--highlight  msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "fds" folder to the "roms" directory</p>
 <p> </p>
             ]]>
@@ -136,297 +435,6 @@
 <p class="msg msg--highlight  msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br>If "Barebones" editions of our builds are now available, please download as needed.</p>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "famicom" folder to the "roms" directory</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sega Dreamcast (dreamcast)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/sega-dreamcast-dreamcast/index.html"/>
-        <id>https://pixelnostalgia.github.io/sega-dreamcast-dreamcast/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/68/dreamcast.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Console"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-15T13:39:42+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/68/dreamcast.webp" alt="dreamcast" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/68/dreamcast.webp" class="type:primaryImage" alt="dreamcast" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/68/dreamcast-w-logo.png" alt="" width="376" height="63" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/68/responsive/dreamcast-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/68/responsive/dreamcast-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/68/responsive/dreamcast-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/68/responsive/dreamcast-w-logo-xl.webp 1200w"></figure>
-<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/68/sega-dreamcast.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/68/responsive/sega-dreamcast-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/68/responsive/sega-dreamcast-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/68/responsive/sega-dreamcast-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/68/responsive/sega-dreamcast-xl.webp 1200w"></figure>The Dreamcast is a home video game console released by Sega on November 27, 1998 in Japan, September 9, 1999 in North America, and October 14, 1999 in Europe. It was the first in the sixth generation of video game consoles, preceding Sony's PlayStation 2, Nintendo's GameCube, and Microsoft's Xbox. The Dreamcast was Sega's final home console, marking the end of the company's eighteen years in the console market.<br><br>In contrast to the expensive hardware of the unsuccessful Sega Saturn, the Dreamcast was designed to reduce costs with "off-the-shelf" components, including a Hitachi SH-4 CPU and an NEC PowerVR2 GPU. Released in Japan to a subdued reception, the Dreamcast enjoyed a successful U.S. launch backed by a large marketing campaign, but interest in the system steadily declined as Sony built hype for the upcoming PlayStation 2. Sales did not meet Sega's expectations despite several price cuts, and the company continued to incur significant financial losses. After a change in leadership, Sega discontinued the Dreamcast on March 31, 2001, withdrawing from the console business and restructuring itself as a third-party publisher. In total, 9.13 million Dreamcast units were sold worldwide.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">313 games (~136 GB)<br>374 games in JP pack (~182 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=964609" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  <a href="https://back-ups.me/details.php?id=964611" target="_blank" rel="nofollow noopener noreferrer" class="btn">JP pack</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135202.png" data-size="3074x1724"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135202-thumbnail.webp" alt="" width="768" height="431"></a></figure>
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135435.png" data-size="3085x1744"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135435-thumbnail.webp" alt="" width="768" height="434"></a></figure>
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135558.png" data-size="3087x1741"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/68/gallery/Zrzut-ekranu-2024-12-15-135558-thumbnail.webp" alt="" width="768" height="433"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:<br></strong>Delete the "dreamcast" folder from the 'roms' directory<br>Drag and drop the "dreamcast" folder into the 'roms' directory and Enjoy!</p>
-<p class="msg msg--highlight "><strong>How to install JP pack:<br></strong>Drag and drop the "dreamcast-jp" folder into the 'roms' directory and Enjoy!</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Microsoft Disk Operating System (dos)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/microsoft-disk-operating-system-dos/index.html"/>
-        <id>https://pixelnostalgia.github.io/microsoft-disk-operating-system-dos/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/67/dos.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Computer"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-15T13:16:45+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/67/dos.webp" alt="dos" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/67/dos.webp" class="type:primaryImage" alt="dos" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<p> </p>
-<figure class="post__image post__image--center"><img  style="outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/67/pc.svg" alt="" width="303" height="133"></figure><figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/67/ms-dos.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/67/responsive/ms-dos-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/67/responsive/ms-dos-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/67/responsive/ms-dos-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/67/responsive/ms-dos-xl.webp 1200w"></figure>
-<p>MS-DOS (em-es-DOSS; acronym for Microsoft Disk Operating System) is an operating system for x86-based personal computers mostly developed by Microsoft. Collectively, MS-DOS, its rebranding as IBM PC DOS, and some operating systems attempting to be compatible with MS-DOS, are sometimes referred to as "DOS" (which is also the generic acronym for disk operating system). MS-DOS was the main operating system for IBM PC compatible personal computers during the 1980s, from which point it was gradually superseded by operating systems offering a graphical user interface (GUI), in various generations of the graphical Microsoft Windows operating system.<br><br>IBM licensed and re-released it in 1981 as PC DOS 1.0 for use in its PCs. Although MS-DOS and PC DOS were initially developed in parallel by Microsoft and IBM, the two products diverged after twelve years, in 1993, with recognizable differences in compatibility, syntax, and capabilities.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">1055 games (~10 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=946245" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>    </p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "dos" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capcom Play System III (cps3)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/capcom-play-system-iii-cps3/index.html"/>
-        <id>https://pixelnostalgia.github.io/capcom-play-system-iii-cps3/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/66/cps3.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Batocera"/>
-            <category term="Arcade"/>
-
-        <updated>2024-12-15T11:25:43+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/66/cps3.webp" alt="cps3" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/66/cps3.webp" class="type:primaryImage" alt="cps3" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img  src="https://pixelnostalgia.github.io/media/posts/66/cps3-logo.png" alt="" width="377" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/66/responsive/cps3-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/66/responsive/cps3-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/66/responsive/cps3-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/66/responsive/cps3-logo-xl.webp 1200w"></figure><br><figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/66/Arcade-Capcom-Play-System-III-2.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/66/responsive/Arcade-Capcom-Play-System-III-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/66/responsive/Arcade-Capcom-Play-System-III-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/66/responsive/Arcade-Capcom-Play-System-III-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/66/responsive/Arcade-Capcom-Play-System-III-2-xl.webp 1200w"></figure>The CP System III (CPシステムIII, shīpī shisutemu surī) or CPS-3 is an arcade system board that was first used by Capcom in 1996 with the arcade game Red Earth. It was the second successor to the CP System arcade hardware, following the CP System II.<br><br>It would be the last proprietary system board Capcom would produce before moving on to the Dreamcast-based Naomi platform.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">9 games (~730 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=954698" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/66/gallery/Zrzut-ekranu-2024-12-15-112526.png" data-size="3084x1731"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/66/gallery/Zrzut-ekranu-2024-12-15-112526-thumbnail.webp" alt="" width="768" height="431"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:<br></strong>Remove 'cps3' from the 'roms' directory<br>Drag and drop the "cps3" folder into the 'roms' directory and Enjoy!</p>
-<p class="msg msg--warning">- Use this rompack if you update RGS v39 to minimum v40<br>- This set is already included in RGS v40 IMG or RGS RetroBat update 1<br>- For RetroBat set the emulator to "Fbneo" don't use the default emulator</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capcom Play System II (cps2)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/capcom-play-system-ii-cps2/index.html"/>
-        <id>https://pixelnostalgia.github.io/capcom-play-system-ii-cps2/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/65/cps2.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Batocera"/>
-            <category term="Arcade"/>
-
-        <updated>2024-12-15T11:16:22+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/65/cps2.webp" alt="cps2" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/65/cps2.webp" class="type:primaryImage" alt="cps2" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img  src="https://pixelnostalgia.github.io/media/posts/65/cps2-logo.png" alt="" width="377" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/65/responsive/cps2-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/65/responsive/cps2-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/65/responsive/cps2-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/65/responsive/cps2-logo-xl.webp 1200w"></figure><br><figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/65/Arcade-Capcom-Play-System-II.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/65/responsive/Arcade-Capcom-Play-System-II-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/65/responsive/Arcade-Capcom-Play-System-II-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/65/responsive/Arcade-Capcom-Play-System-II-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/65/responsive/Arcade-Capcom-Play-System-II-xl.webp 1200w"></figure>The CP System II (CPシステムII, shīpī shisutemu tsū) or CPS-2 is an arcade system board that Capcom first used in 1993 for Super Street Fighter II. It was the successor to their previous CP System and Capcom Power System Changer arcade hardware and was succeeded by the CP System III hardware in 1996, of which the CPS-2 would outlive by over four years.<br><br>The arcade system had new releases for it until the end of 2003, ending with Hyper Street Fighter II.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">46 games (~1 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=954697" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/65/gallery/Zrzut-ekranu-2024-12-15-112353.png" data-size="3085x1737"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/65/gallery/Zrzut-ekranu-2024-12-15-112353-thumbnail.webp" alt="" width="768" height="432"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:<br></strong>Remove 'cps2' from the 'roms' directory<br>Drag and drop the "cps2" folder into the 'roms' directory and Enjoy!</p>
-<p class="msg msg--warning">- Use this rompack if you update RGS v39 to minimum v40<br>- This set is already included in RGS v40 IMG or RGS RetroBat update 1<br>- For RetroBat set the emulator to "Fbneo" don't use the default emulator</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capcom Play System I (cps1)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/capcom-play-system-i-cps1/index.html"/>
-        <id>https://pixelnostalgia.github.io/capcom-play-system-i-cps1/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/64/cps1.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Batocera"/>
-            <category term="Arcade"/>
-
-        <updated>2024-12-15T11:00:58+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/64/cps1.webp" alt="cps1" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/64/cps1.webp" class="type:primaryImage" alt="cps1" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img  src="https://pixelnostalgia.github.io/media/posts/64/cps1-logo-2.png" alt="" width="377" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/64/responsive/cps1-logo-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/64/responsive/cps1-logo-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/64/responsive/cps1-logo-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/64/responsive/cps1-logo-2-xl.webp 1200w"></figure><br><figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/64/Arcade-Capcom-Play-System.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/64/responsive/Arcade-Capcom-Play-System-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/64/responsive/Arcade-Capcom-Play-System-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/64/responsive/Arcade-Capcom-Play-System-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/64/responsive/Arcade-Capcom-Play-System-xl.webp 1200w"></figure>The CP System (CPシステム, shīpī shisutemu, CPS for short) is an arcade system board developed by Capcom that ran game software stored on removable daughterboards. More than two dozen arcade titles were released for CPS-1, before Capcom shifted game development over to its successor, the CP System II.<br><br>Among the 33 titles released for the original CP System included Street Fighter II: The World Warrior and its first two follow-ups, Street Fighter II: Champion Edition and Street Fighter II: Hyper Fighting.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">39 games (~1 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=954696" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/64/gallery/Zrzut-ekranu-2024-12-15-112223.png" data-size="3081x1731"><img loading="lazy" src="https://pixelnostalgia.github.io/media/posts/64/gallery/Zrzut-ekranu-2024-12-15-112223-thumbnail.webp" alt="" width="768" height="431"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:<br></strong>Remove 'cps1' from the 'roms' directory<br>Drag and drop the "cps1" folder into the 'roms' directory and Enjoy!</p>
-<p class="msg msg--warning">- Use this rompack if you update RGS v39 to minimum v40<br>- This set is already included in RGS v40 IMG or RGS RetroBat update 1<br>- For RetroBat set the emulator to "Fbneo" don't use the default emulator</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Philips CD-i (cdi)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/philips-cd-i-cdi/index.html"/>
-        <id>https://pixelnostalgia.github.io/philips-cd-i-cdi/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/63/cdi.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Console"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-15T10:42:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/63/cdi.webp" alt="cdi" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/63/cdi.webp" class="type:primaryImage" alt="cdi" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/63/cdi-logo-2.png" alt="" width="408" height="54" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/63/responsive/cdi-logo-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/63/responsive/cdi-logo-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/63/responsive/cdi-logo-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/63/responsive/cdi-logo-2-xl.webp 1200w"></figure>
-<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/63/philips-cd-i.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/63/responsive/philips-cd-i-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/63/responsive/philips-cd-i-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/63/responsive/philips-cd-i-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/63/responsive/philips-cd-i-xl.webp 1200w"></figure>CD-i (Compact Disc Interactive) is an interactive multimedia CD player manufactured by Royal Phillips Electronics N.V.<br><br>The first Philips CD-i player was released in 1991, priced at around $700 at the time. The device played CD-i, CD-Audio, CD+G, karaoke CD and Video CD. For VCD playback, it was necessary to purchase a special video card to provide the player with MPEG-1 codecs. The player was produced in a dozen different versions, but they were all compatible with each other.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">81 games (~18 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=946264" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a></p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "cdi" folder into the 'roms' directory and Enjoy!</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>ZX Spectrum (zxspectrum)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/zx-spectrum-zxspectrum/index.html"/>
-        <id>https://pixelnostalgia.github.io/zx-spectrum-zxspectrum/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/62/zxspectrum.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Computer"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-15T10:30:42+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/62/zxspectrum.webp" alt="zxspectrum" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/62/zxspectrum.webp" class="type:primaryImage" alt="zxspectrum" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/62/zxspectrum-w-logo.png" alt="" width="438" height="68" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-w-logo-xl.webp 1200w"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/62/zxspectrum-2.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-2-xl.webp 1200w"></figure>
-<p>The ZX Spectrum is an 8-bit personal home computer released in the United Kingdom in 1982 by Sinclair Research.<br><br>Referred to during development as the ZX81 Colour and ZX82, it was launched as the ZX Spectrum by Sinclair to highlight the machine's colour display, compared with the black and white display of its predecessor, the ZX81. The Spectrum was released as eight different models, ranging from the entry level with 16 KB RAM released in 1982 to the ZX Spectrum +3 with 128 KB RAM and built in floppy disk drive in 1987; together they sold over 5 million units worldwide (not counting clones).</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">4713 games (~11 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=957586" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "zxspectrum" folder to the "roms" directory</p>
             ]]>
         </content>
     </entry>
