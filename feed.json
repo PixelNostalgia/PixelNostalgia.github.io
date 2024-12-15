@@ -11,6 +11,135 @@
     },
     "items": [
         {
+            "id": "https://pixelnostalgia.github.io/capcom-play-system-iii-cps3/index.html",
+            "url": "https://pixelnostalgia.github.io/capcom-play-system-iii-cps3/index.html",
+            "title": "Capcom Play System III (cps3)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img  src=\"https://pixelnostalgia.github.io/media/posts/66/cps3-logo.png\" alt=\"\" width=\"377\" height=\"165\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/66/responsive/cps3-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/66/responsive/cps3-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/66/responsive/cps3-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/66/responsive/cps3-logo-xl.webp 1200w\"></figure><br><figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/66/Arcade-Capcom-Play-System-III-2.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/66/responsive/Arcade-Capcom-Play-System-III-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/66/responsive/Arcade-Capcom-Play-System-III-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/66/responsive/Arcade-Capcom-Play-System-III-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/66/responsive/Arcade-Capcom-Play-System-III-2-xl.webp 1200w\"></figure>The CP System III (CPシステムIII, shīpī shisutemu surī) or CPS-3 is an arcade system board that was first used by Capcom in 1996 with the arcade game Red Earth. It was the second successor to the CP System arcade hardware, following the CP System II.<br><br>It would be the last proprietary system board Capcom would produce before moving on to the Dreamcast-based Naomi platform.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">9 games (~730 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=954698\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/66/gallery/Zrzut-ekranu-2024-12-15-112526.png\" data-size=\"3084x1731\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/66/gallery/Zrzut-ekranu-2024-12-15-112526-thumbnail.webp\" alt=\"\" width=\"768\" height=\"431\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install:<br></strong>Remove 'cps3' from the 'roms' directory<br>Drag and drop the \"cps3\" folder into the 'roms' directory and Enjoy!</p>\n<p class=\"msg msg--warning\">- Use this rompack if you update RGS v39 to minimum v40<br>- This set is already included in RGS v40 IMG or RGS RetroBat update 1<br>- For RetroBat set the emulator to \"Fbneo\" don't use the default emulator</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/66/cps3.webp",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Custom",
+                   "Batocera",
+                   "Arcade"
+            ],
+            "date_published": "2024-12-15T11:25:43+01:00",
+            "date_modified": "2024-12-15T11:33:09+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/capcom-play-system-ii-cps2/index.html",
+            "url": "https://pixelnostalgia.github.io/capcom-play-system-ii-cps2/index.html",
+            "title": "Capcom Play System II (cps2)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img  src=\"https://pixelnostalgia.github.io/media/posts/65/cps2-logo.png\" alt=\"\" width=\"377\" height=\"165\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/65/responsive/cps2-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/65/responsive/cps2-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/65/responsive/cps2-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/65/responsive/cps2-logo-xl.webp 1200w\"></figure><br><figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/65/Arcade-Capcom-Play-System-II.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/65/responsive/Arcade-Capcom-Play-System-II-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/65/responsive/Arcade-Capcom-Play-System-II-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/65/responsive/Arcade-Capcom-Play-System-II-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/65/responsive/Arcade-Capcom-Play-System-II-xl.webp 1200w\"></figure>The CP System II (CPシステムII, shīpī shisutemu tsū) or CPS-2 is an arcade system board that Capcom first used in 1993 for Super Street Fighter II. It was the successor to their previous CP System and Capcom Power System Changer arcade hardware and was succeeded by the CP System III hardware in 1996, of which the CPS-2 would outlive by over four years.<br><br>The arcade system had new releases for it until the end of 2003, ending with Hyper Street Fighter II.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">46 games (~1 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=954697\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/65/gallery/Zrzut-ekranu-2024-12-15-112353.png\" data-size=\"3085x1737\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/65/gallery/Zrzut-ekranu-2024-12-15-112353-thumbnail.webp\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install:<br></strong>Remove 'cps2' from the 'roms' directory<br>Drag and drop the \"cps2\" folder into the 'roms' directory and Enjoy!</p>\n<p class=\"msg msg--warning\">- Use this rompack if you update RGS v39 to minimum v40<br>- This set is already included in RGS v40 IMG or RGS RetroBat update 1<br>- For RetroBat set the emulator to \"Fbneo\" don't use the default emulator</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/65/cps2.webp",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Custom",
+                   "Batocera",
+                   "Arcade"
+            ],
+            "date_published": "2024-12-15T11:16:22+01:00",
+            "date_modified": "2024-12-15T11:29:36+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/capcom-play-system-i-cps1/index.html",
+            "url": "https://pixelnostalgia.github.io/capcom-play-system-i-cps1/index.html",
+            "title": "Capcom Play System I (cps1)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img  src=\"https://pixelnostalgia.github.io/media/posts/64/cps1-logo-2.png\" alt=\"\" width=\"377\" height=\"165\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/64/responsive/cps1-logo-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/64/responsive/cps1-logo-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/64/responsive/cps1-logo-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/64/responsive/cps1-logo-2-xl.webp 1200w\"></figure><br><figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/64/Arcade-Capcom-Play-System.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/64/responsive/Arcade-Capcom-Play-System-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/64/responsive/Arcade-Capcom-Play-System-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/64/responsive/Arcade-Capcom-Play-System-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/64/responsive/Arcade-Capcom-Play-System-xl.webp 1200w\"></figure>The CP System (CPシステム, shīpī shisutemu, CPS for short) is an arcade system board developed by Capcom that ran game software stored on removable daughterboards. More than two dozen arcade titles were released for CPS-1, before Capcom shifted game development over to its successor, the CP System II.<br><br>Among the 33 titles released for the original CP System included Street Fighter II: The World Warrior and its first two follow-ups, Street Fighter II: Champion Edition and Street Fighter II: Hyper Fighting.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">39 games (~1 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=954696\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/64/gallery/Zrzut-ekranu-2024-12-15-112223.png\" data-size=\"3081x1731\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/64/gallery/Zrzut-ekranu-2024-12-15-112223-thumbnail.webp\" alt=\"\" width=\"768\" height=\"431\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install:<br></strong>Remove 'cps1' from the 'roms' directory<br>Drag and drop the \"cps1\" folder into the 'roms' directory and Enjoy!</p>\n<p class=\"msg msg--warning\">- Use this rompack if you update RGS v39 to minimum v40<br>- This set is already included in RGS v40 IMG or RGS RetroBat update 1<br>- For RetroBat set the emulator to \"Fbneo\" don't use the default emulator</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/64/cps1.webp",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Custom",
+                   "Batocera",
+                   "Arcade"
+            ],
+            "date_published": "2024-12-15T11:00:58+01:00",
+            "date_modified": "2024-12-15T11:23:26+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/philips-cd-i-cdi/index.html",
+            "url": "https://pixelnostalgia.github.io/philips-cd-i-cdi/index.html",
+            "title": "Philips CD-i (cdi)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/63/cdi-logo-2.png\" alt=\"\" width=\"408\" height=\"54\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/63/responsive/cdi-logo-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/63/responsive/cdi-logo-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/63/responsive/cdi-logo-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/63/responsive/cdi-logo-2-xl.webp 1200w\"></figure>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/63/philips-cd-i.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/63/responsive/philips-cd-i-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/63/responsive/philips-cd-i-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/63/responsive/philips-cd-i-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/63/responsive/philips-cd-i-xl.webp 1200w\"></figure>CD-i (Compact Disc Interactive) is an interactive multimedia CD player manufactured by Royal Phillips Electronics N.V.<br><br>The first Philips CD-i player was released in 1991, priced at around $700 at the time. The device played CD-i, CD-Audio, CD+G, karaoke CD and Video CD. For VCD playback, it was necessary to purchase a special video card to provide the player with MPEG-1 codecs. The player was produced in a dozen different versions, but they were all compatible with each other.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">81 games (~18 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=946264\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a></p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"cdi\" folder into the 'roms' directory and Enjoy!</p>\n<p> </p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/63/cdi.webp",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-15T10:42:00+01:00",
+            "date_modified": "2024-12-15T10:53:13+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/zx-spectrum-zxspectrum/index.html",
+            "url": "https://pixelnostalgia.github.io/zx-spectrum-zxspectrum/index.html",
+            "title": "ZX Spectrum (zxspectrum)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/62/zxspectrum-w-logo.png\" alt=\"\" width=\"438\" height=\"68\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-w-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/62/zxspectrum-2.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/62/responsive/zxspectrum-2-xl.webp 1200w\"></figure>\n<p>The ZX Spectrum is an 8-bit personal home computer released in the United Kingdom in 1982 by Sinclair Research.<br><br>Referred to during development as the ZX81 Colour and ZX82, it was launched as the ZX Spectrum by Sinclair to highlight the machine's colour display, compared with the black and white display of its predecessor, the ZX81. The Spectrum was released as eight different models, ranging from the entry level with 16 KB RAM released in 1982 to the ZX Spectrum +3 with 128 KB RAM and built in floppy disk drive in 1987; together they sold over 5 million units worldwide (not counting clones).</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">4713 games (~11 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957586\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"zxspectrum\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/62/zxspectrum.webp",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Computer",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-15T10:30:42+01:00",
+            "date_modified": "2024-12-15T10:35:25+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/boom-3-boom3/index.html",
+            "url": "https://pixelnostalgia.github.io/boom-3-boom3/index.html",
+            "title": "Boom 3 (boom3)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/61/boom3.png\" alt=\"\" width=\"352\" height=\"198\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-xl.webp 1200w\"></figure>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/61/boom3-2.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/61/responsive/boom3-2-xl.webp 1200w\"></figure>\n<p>Boom 3 is a Doom 3 and Doom 3: Resurrection Of Evil GPL source port, known to work on Windows and Linux.<br><br>Doom 3 is a sci-fi horror fantasy first-person shooter computer game developed by id Software and published by ActiVision.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">2 games (~2 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957744\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base build for RetroBat.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already have the following, then you DO NOT need to download this.<br>RetroBat v6 Base Edition 300 GB [RGS] with RetroBat v6 Base Edition Update 1 [RGS].<br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"boom3\" folder into the 'roms' directory and Enjoy!</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/61/boom3.webp",
+            "author": {
+                "name": "RapsterUK"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "Port",
+                   "PC x86",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-15T10:19:03+01:00",
+            "date_modified": "2024-12-15T10:30:05+01:00"
+        },
+        {
             "id": "https://pixelnostalgia.github.io/atari-7800-atari7800/index.html",
             "url": "https://pixelnostalgia.github.io/atari-7800-atari7800/index.html",
             "title": "Atari 7800 (atari7800)",
@@ -96,134 +225,6 @@
             ],
             "date_published": "2024-12-03T20:35:22+01:00",
             "date_modified": "2024-12-03T22:05:40+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/commodore-dynamic-total-vision-amigacdtv/index.html",
-            "url": "https://pixelnostalgia.github.io/commodore-dynamic-total-vision-amigacdtv/index.html",
-            "title": "Commodore Dynamic Total Vision (amigacdtv)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/54/amigacdtv-w-logo.png\" alt=\"\" width=\"309\" height=\"155\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/54/responsive/amigacdtv-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/54/responsive/amigacdtv-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/54/responsive/amigacdtv-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/54/responsive/amigacdtv-w-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/54/Commodore-CDTV.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/54/responsive/Commodore-CDTV-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/54/responsive/Commodore-CDTV-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/54/responsive/Commodore-CDTV-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/54/responsive/Commodore-CDTV-xl.webp 1200w\"></figure>\n<p>The CDTV (from Commodore Dynamic Total Vision, later treated as a backronym for Compact Disc Television) is a home multimedia entertainment and video game console – convertible into a full-fledged personal computer by the addition of optional peripherals – developed by Commodore International and launched in April 1991.<br><br>The CDTV was intended as a media appliance rather than a mainstream personal computer. As such, its housing had dimensions and styling that were fairly comparable to most household stereo system components of the period, and it came with an infrared remote control. Similarly, it was initially sold without a keyboard or a mouse (which could be added separately, and were later bundled with the machine). The CDTV was based on the same technology as earlier Amiga systems, but featured a single-speed CD-ROM drive and no floppy disk drive as standard.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">26 games (~ 3 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=946259\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"amigacdtv\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/54/amigacdtv-3.png",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Console",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-03T20:03:06+01:00",
-            "date_modified": "2024-12-03T22:05:25+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/amiga-cd32-amigacd32/index.html",
-            "url": "https://pixelnostalgia.github.io/amiga-cd32-amigacd32/index.html",
-            "title": "Commodore Amiga CD32 (amigacd32)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/53/amigacd32-logo.png\" alt=\"\" width=\"418\" height=\"183\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/53/responsive/amigacd32-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/53/responsive/amigacd32-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/53/responsive/amigacd32-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/53/responsive/amigacd32-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/53/commodore-amiga-cd32.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/53/responsive/commodore-amiga-cd32-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/53/responsive/commodore-amiga-cd32-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/53/responsive/commodore-amiga-cd32-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/53/responsive/commodore-amiga-cd32-xl.webp 1200w\"></figure>\n<p>The Amiga CD32 (code-named \"Spellbound\") is a 32-bit home video game console developed by Commodore and released in Europe, Australia, Canada and Brazil. It was first announced at the Science Museum in London on July 16, 1993, and was released in September of the same year.<br><br>The CD32 is part of a family of Amiga computers and other hardware. It uses CD-ROM as its storage medium. It was based on Commodore's Advanced Graphics Architecture chipset, and is of similar specification to the Amiga 1200 personal computer. Using third party devices, it is possible to upgrade the CD32 with a keyboard, floppy drive, hard drive, RAM and mouse, turning it into the equivalent of an Amiga 1200. A hardware MPEG decompression module for playing Video CD was also released.<br><br>In the Christmas period following its launch, the CD32 accounted for 38% of all CD-ROM drive sales in the UK, exceeding sales of the Mega-CD; however, it was discontinued as Commodore went into bankruptcy.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">123 games (~12.9 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=946259\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"amigacd32\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/53/amigacd32.webp",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Console",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-03T19:48:22+01:00",
-            "date_modified": "2024-12-03T22:05:12+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/amiga-500-amiga500-2/index.html",
-            "url": "https://pixelnostalgia.github.io/amiga-500-amiga500-2/index.html",
-            "title": "Commodore Amiga 500 (amiga500)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/52/amiga500.svg\" alt=\"\" width=\"477\" height=\"104\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/52/amiga1200-2.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/52/responsive/amiga1200-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/52/responsive/amiga1200-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/52/responsive/amiga1200-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/52/responsive/amiga1200-2-xl.webp 1200w\"></figure>\n<p>The Amiga 500, also known as the A500, is the first low-end version of the Amiga home computer. It contains the same Motorola 68000 as the Amiga 1000, as well as the same graphics and sound coprocessors, but is in a smaller case similar to that of the Commodore 128.<br><br>The CPU implements a 32-bit model and has 32-bit registers, but it has a 16-bit main ALU and uses a 16-bit external data bus and a 23-bit address bus, providing a maximum of 16 MB of address space. Also built in to the base of the computer is a 3+1⁄2-inch floppy disk drive.<br><br>The earliest Amiga 500 models use nearly the same Original Amiga chipset as the Amiga 1000. So graphics can be displayed in multiple resolutions and color depths, even on the same screen.<br>The sound chip produces four hardware-mixed channels, two to the left and two to the right, of 8-bit PCM at a sampling frequency up to 28 kHz. Each hardware channel has its own independent volume level and sampling rate, and can be designated to another channel where it can modulate both volume and frequency using its own output.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">2564 games (~18.58 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957526\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"amiga500\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/52/amiga500.png",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Computer",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-03T19:42:59+01:00",
-            "date_modified": "2024-12-03T22:04:46+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/amiga-1200-amiga1200/index.html",
-            "url": "https://pixelnostalgia.github.io/amiga-1200-amiga1200/index.html",
-            "title": "Commodore Amiga 1200 (amiga1200)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/51/amiga1200.svg\" alt=\"\" width=\"477\" height=\"104\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/51/amiga1200-2.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/51/responsive/amiga1200-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/51/responsive/amiga1200-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/51/responsive/amiga1200-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/51/responsive/amiga1200-2-xl.webp 1200w\"></figure>\n<p>The Amiga 1200, or A1200 (code-named \"Channel Z\"), is a personal computer in the Amiga computer family released by Commodore International, aimed at the home computer market.<br>The A1200 was launched a few months after the Amiga 600, using a similar slimline design that replaced the earlier Amiga 500 Plus and Amiga 500. Whereas the A600 used the 16-bit Motorola 68000 of earlier Amigas, the A1200 was built around the 32-bit Motorola 68EC020. Physically, the A1200 is an all-in-one design incorporating the CPU, keyboard, and disk drives (including the option of an internal 2.5\" hard disk drive) in one physical unit. The A1200 has a similar hardware architecture to Commodore's Amiga CD32 game console.<br><br>The A1200 offers a number of advantages over earlier lower-budget Amiga models. Specifically, it is a 32-bit design; the 68EC020 microprocessor is faster than the 68000 and has 2 MB of RAM as standard. The AGA chipset used in the A1200 is a significant improvement.<br>AGA increases the color palette from 4096 colors to 16.8 million colors with up to 256 on-screen colors normally, and an improved HAM mode allowing 262,144 on-screen colors. The graphics hardware also features improved sprite capacity and faster graphics performance mainly due to faster video memory.<br>Additionally, compared to the A600 the A1200 offers greater expansion possibilities.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">184 games (~1.73 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957605\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"amiga1200\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/51/amiga1200.png",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Computer",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-03T19:28:45+01:00",
-            "date_modified": "2024-12-03T22:04:34+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/alice-32-alice32/index.html",
-            "url": "https://pixelnostalgia.github.io/alice-32-alice32/index.html",
-            "title": "Alice 32 (alice32)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/50/alice32-logo.png\" alt=\"\" width=\"422\" height=\"78\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/50/alice32.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/50/responsive/alice32-xl.webp 1200w\"></figure>\n<p>The Matra &amp;amp; Hachette Ordinateur Alice is a home computer sold in France beginning in 1983. It was a clone of the TRS-80 MC-10, produced through a collaboration between Matra and Hachette in France and Tandy Corporation in the United States.<br><br>The Alice is distinguished by its bright red casing. Functionally, it is equivalent to the MC-10, with a Péritel (SCART) connector replacing the RF modulator for video output.<br>The Alice never became a popular computer in its home country. It tried to invade schools by being part of the country's Plan Informatique pour Tous (\"Information technology for everyone\") programme, but Thomson won the whole deal. Less than 50 games were released for the system.<br>The original model had 4 kB of RAM and used a Motorola 6847 video display generator chip, as used in the Dragon 32 and Acorn Atom among others.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">6 games (~5 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957525\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"alice32\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/50/alice32-2.png",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Custom",
-                   "Computer",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-03T19:10:23+01:00",
-            "date_modified": "2024-12-03T22:03:47+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/aleck-64-aleck64/index.html",
-            "url": "https://pixelnostalgia.github.io/aleck-64-aleck64/index.html",
-            "title": "Aleck 64 (aleck64)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/49/aleck64-logo.png\" alt=\"\" width=\"316\" height=\"124\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/49/aleck64-3.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-3-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-3-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-3-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/49/responsive/aleck64-3-xl.webp 1200w\"></figure>\n<p>The Aleck 64 is the Nintendo 64 design in arcade form, designed by SETA in cooperation with Nintendo, and sold from 1998 to 2003 only in Japan.<br>It essentially consists of a Nintendo 64 board retrofitted with the sound capabilities which are standard for arcade games of the time. Nintendo and SETA began working on their agreement for the board in 1996, hoping to recreate the business model Namco and Sony Computer Entertainment displayed with the Namco System 11, to facilitate conversions of arcade games.<br><br>Released in 1998, the Aleck 64 was the Nintendo equivalent of the Namco System 11/12 or Sega Titan Video (ST-V). Games were produced for it until 2003/4, possibly making one of them technically the last N64 game.&lt;/text&gt;</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">11 games (~165 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957613\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> This system is already included in our base builds for either RetroBat, Batocera or both.<br><br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br><br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"aleck64\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/49/aleck64-2.png",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Custom",
-                   "Batocera",
-                   "Arcade"
-            ],
-            "date_published": "2024-12-03T18:52:23+01:00",
-            "date_modified": "2024-12-03T22:03:36+01:00"
         }
     ]
 }

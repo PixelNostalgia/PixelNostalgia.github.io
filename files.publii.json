@@ -7,7 +7,7 @@
     {
         "path": "/3do-interactive-multiplayer-3do/index.html",
         "type": "file",
-        "md5": "c833daad277fdef29bdd724240e3ee78"
+        "md5": "1653d5d48b6fa96062b7e7621174a328"
     },
     {
         "path": "3dsen-3dsen",
@@ -17,12 +17,12 @@
     {
         "path": "/3dsen-3dsen/index.html",
         "type": "file",
-        "md5": "6b3981e50281724ebe99f2a33f4bf21b"
+        "md5": "c6d4dbb11a9927adafcfaa38fe722005"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "243d1865a3993939c9feca291187437b"
+        "md5": "ef7b517b1018b05724727d99ea5e2e1d"
     },
     {
         "path": "action-max-actionmax",
@@ -32,7 +32,7 @@
     {
         "path": "/action-max-actionmax/index.html",
         "type": "file",
-        "md5": "c3a39429a732e441995f2115b122cdc4"
+        "md5": "9d976e9c3c5b4033ea2bc30c2f2888db"
     },
     {
         "path": "adam-coleco-adam",
@@ -42,7 +42,7 @@
     {
         "path": "/adam-coleco-adam/index.html",
         "type": "file",
-        "md5": "366bf882546a85278dbf788152b810e0"
+        "md5": "5a46da8e5814d5b8ffc7671be79339d4"
     },
     {
         "path": "adventure-vision-advision",
@@ -52,7 +52,7 @@
     {
         "path": "/adventure-vision-advision/index.html",
         "type": "file",
-        "md5": "19c736ab1d4f48203a3177c97561e4d8"
+        "md5": "686092b2ce32f13e6651e4e9742cce9e"
     },
     {
         "path": "aleck-64-aleck64",
@@ -62,7 +62,7 @@
     {
         "path": "/aleck-64-aleck64/index.html",
         "type": "file",
-        "md5": "a550948a303ca4461e36b80c067a0df9"
+        "md5": "9ae1af9bce7b64e320db0a53afcda8ee"
     },
     {
         "path": "alice-32-alice32",
@@ -72,7 +72,7 @@
     {
         "path": "/alice-32-alice32/index.html",
         "type": "file",
-        "md5": "bd9263f4cfb0e19134d680044871c6f0"
+        "md5": "9c14aac58aff55fe89a2a412f8bba171"
     },
     {
         "path": "amiga-1200-amiga1200",
@@ -82,7 +82,7 @@
     {
         "path": "/amiga-1200-amiga1200/index.html",
         "type": "file",
-        "md5": "b99db7227d0f558a9c5d04217ea6a4bf"
+        "md5": "453a8593f987c0d9e36330c2db77ff09"
     },
     {
         "path": "amiga-500-amiga500-2",
@@ -92,7 +92,7 @@
     {
         "path": "/amiga-500-amiga500-2/index.html",
         "type": "file",
-        "md5": "b1ca9cceaf9cc765a3b3d4108b5462a3"
+        "md5": "c0d4a05e40d9e67dcac24fa4d44c348f"
     },
     {
         "path": "amiga-cd32-amigacd32",
@@ -102,7 +102,7 @@
     {
         "path": "/amiga-cd32-amigacd32/index.html",
         "type": "file",
-        "md5": "d862d4cd5782a2e0b0068e1ed485c9dc"
+        "md5": "509af60e2a8fde228323f0ff98171b30"
     },
     {
         "path": "amstrad-cpc-amstradcpc",
@@ -112,7 +112,7 @@
     {
         "path": "/amstrad-cpc-amstradcpc/index.html",
         "type": "file",
-        "md5": "217ba3332870cf507172d1d64e81337a"
+        "md5": "16ed3185c57702e215c220e1b359eca7"
     },
     {
         "path": "assets",
@@ -212,7 +212,7 @@
     {
         "path": "/atari-7800-atari7800/index.html",
         "type": "file",
-        "md5": "60f340c5a9b8e423ca711652376eceb6"
+        "md5": "cb7cd5f7f76bcea20534802d5dd7cf60"
     },
     {
         "path": "atari-lynx-lynx",
@@ -222,7 +222,7 @@
     {
         "path": "/atari-lynx-lynx/index.html",
         "type": "file",
-        "md5": "a9b23147f3fa78045ee4be61500b6346"
+        "md5": "30926338e0da271941758842a0f14353"
     },
     {
         "path": "atomiswave-atomiswave",
@@ -232,7 +232,7 @@
     {
         "path": "/atomiswave-atomiswave/index.html",
         "type": "file",
-        "md5": "8bbd61018ce85daa60f337ff58b2b94e"
+        "md5": "cf4386f2a9a73acabb461385194ecd44"
     },
     {
         "path": "authors",
@@ -247,7 +247,7 @@
     {
         "path": "/authors/g-spawn/index.html",
         "type": "file",
-        "md5": "4c888b057189f4e89e80ca2e0c328453"
+        "md5": "19f3b0499ac11d3de694b1152cce350c"
     },
     {
         "path": "authors/rapsteruk",
@@ -257,7 +257,7 @@
     {
         "path": "/authors/rapsteruk/index.html",
         "type": "file",
-        "md5": "c0c643aad58441482d73fb1654908c78"
+        "md5": "81517d8db783764add8fc45c5be58526"
     },
     {
         "path": "authors/rgs",
@@ -267,7 +267,22 @@
     {
         "path": "/authors/rgs/index.html",
         "type": "file",
-        "md5": "511a2fd2e6a606225581662c23bb08dc"
+        "md5": "c4594343b95589f1b06015cbb241a49b"
+    },
+    {
+        "path": "authors/rgs/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/rgs/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/rgs/page/2/index.html",
+        "type": "file",
+        "md5": "ac01d6b9611fa650eaf724a5ba9d3a40"
     },
     {
         "path": "authors/spirit",
@@ -277,7 +292,47 @@
     {
         "path": "/authors/spirit/index.html",
         "type": "file",
-        "md5": "788a6c47eabe2c162c132002aff9b22e"
+        "md5": "fa644a40ef26131ac5e224bdb163fde9"
+    },
+    {
+        "path": "boom-3-boom3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/boom-3-boom3/index.html",
+        "type": "file",
+        "md5": "6a6d0887455b1eb6d98246634e2318dc"
+    },
+    {
+        "path": "capcom-play-system-i-cps1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/capcom-play-system-i-cps1/index.html",
+        "type": "file",
+        "md5": "cd581e06cea1acd5f39ae9bcdf96609f"
+    },
+    {
+        "path": "capcom-play-system-ii-cps2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/capcom-play-system-ii-cps2/index.html",
+        "type": "file",
+        "md5": "21bfb532a474e423b2a38d5f00cc5466"
+    },
+    {
+        "path": "capcom-play-system-iii-cps3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/capcom-play-system-iii-cps3/index.html",
+        "type": "file",
+        "md5": "304413bb9e38eafe3ea00b1265a5300f"
     },
     {
         "path": "commodore-dynamic-total-vision-amigacdtv",
@@ -287,7 +342,7 @@
     {
         "path": "/commodore-dynamic-total-vision-amigacdtv/index.html",
         "type": "file",
-        "md5": "25f6a5ab5e5919ababf6472ed64c72b9"
+        "md5": "03a418682558666f683da1b6c452f9c9"
     },
     {
         "path": "daphne-daphne",
@@ -297,7 +352,7 @@
     {
         "path": "/daphne-daphne/index.html",
         "type": "file",
-        "md5": "e0194bec8a913d5f63cbc18a04c08e45"
+        "md5": "96ebd35bb924b1c4de54cdc9d68be2ff"
     },
     {
         "path": "datach-joint-rom-system-datach",
@@ -307,7 +362,7 @@
     {
         "path": "/datach-joint-rom-system-datach/index.html",
         "type": "file",
-        "md5": "04ea4902f74fbe97f09a88990f44fdbb"
+        "md5": "850f0d395edece1ba59a7b4777f8f5b3"
     },
     {
         "path": "elektronika-im-elektronika",
@@ -317,7 +372,7 @@
     {
         "path": "/elektronika-im-elektronika/index.html",
         "type": "file",
-        "md5": "6a510af2cb5c32ad24e3ef3ba2dcb35e"
+        "md5": "3d05691cf09afa2713354f77ddec1e1b"
     },
     {
         "path": "enabling-autoresize-at-next-boot",
@@ -327,17 +382,17 @@
     {
         "path": "/enabling-autoresize-at-next-boot/index.html",
         "type": "file",
-        "md5": "946b21bd502ab76d423d83b4d75dfc3d"
+        "md5": "100d3a2bf511f0e9d8f89427678cdcf6"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "5967e011317f2a5e4bafd07dbcc1fc47"
+        "md5": "5ca047ac2087730ed0c1643e6483bf7f"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "fe29b3273ae0d8fea99659418ea0d83f"
+        "md5": "44c12df488fa70e33703fda5f8c67702"
     },
     {
         "path": "fix-ryujinx-after-the-631-update",
@@ -347,7 +402,7 @@
     {
         "path": "/fix-ryujinx-after-the-631-update/index.html",
         "type": "file",
-        "md5": "e334403ec9a828d5e9abea5c59dc48c1"
+        "md5": "38a7528042282421e9774a50a38edb43"
     },
     {
         "path": "future-pinball-fpinball",
@@ -357,7 +412,7 @@
     {
         "path": "/future-pinball-fpinball/index.html",
         "type": "file",
-        "md5": "cfb7e9f0f868c981bcc61a095aebe64a"
+        "md5": "4fce0f16b0a2083d3f6fb3bec79bb429"
     },
     {
         "path": "game-boy-color-gbc",
@@ -367,7 +422,7 @@
     {
         "path": "/game-boy-color-gbc/index.html",
         "type": "file",
-        "md5": "65bc51e336c0e04e3f822341cb049272"
+        "md5": "5ffe7d24d0f5600c532cd9453ea9790e"
     },
     {
         "path": "gamegear-gamegear",
@@ -377,7 +432,7 @@
     {
         "path": "/gamegear-gamegear/index.html",
         "type": "file",
-        "md5": "a97da1b6be882466b67f40663eb23607"
+        "md5": "17ac4a250636aa31553d2c98e966ef09"
     },
     {
         "path": "general-startup",
@@ -387,7 +442,7 @@
     {
         "path": "/general-startup/index.html",
         "type": "file",
-        "md5": "de542a6653c43ffa167ed0a1c9a2fca1"
+        "md5": "7af12c0f766af8a7e5be956faa102aa5"
     },
     {
         "path": "how-to-download",
@@ -397,7 +452,7 @@
     {
         "path": "/how-to-download/index.html",
         "type": "file",
-        "md5": "f1c6756c3969555d0ae4b4c9baf583b9"
+        "md5": "c74a9202aa07e21b41fc124b634cb98c"
     },
     {
         "path": "hypseus-singe-singe",
@@ -407,12 +462,12 @@
     {
         "path": "/hypseus-singe-singe/index.html",
         "type": "file",
-        "md5": "0741cafcbbd0d94840b5f9c9bb305bf6"
+        "md5": "355280ad6583aed129c68837204c4131"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1661da240e3b5d1388eaa1e95921fa06"
+        "md5": "dc5ed45d6c8a40469846b09293bf6cd7"
     },
     {
         "path": "mame-arcade-mame",
@@ -422,7 +477,7 @@
     {
         "path": "/mame-arcade-mame/index.html",
         "type": "file",
-        "md5": "44a9bd8c3bcb9464790b30351ce70040"
+        "md5": "7b7ded0a60fd4d5420f2e37037c21922"
     },
     {
         "path": "media",
@@ -1340,9 +1395,9 @@
         "md5": "4f464d1735ff09a692f3bc769de1ee79"
     },
     {
-        "path": "/media/posts/25/gamegear-logo.png",
+        "path": "/media/posts/25/gamegear-w-logo.png",
         "type": "file",
-        "md5": "77324b7e9af151f47167e6afcd8441fe"
+        "md5": "21847f15ad0dfaa65c7a5c92c8d55bfe"
     },
     {
         "path": "/media/posts/25/gamegear.webp",
@@ -1355,26 +1410,6 @@
         "md5": false
     },
     {
-        "path": "/media/posts/25/responsive/gamegear-logo-md.webp",
-        "type": "file",
-        "md5": "c7f34ac08564cde96ec4a01a31e81185"
-    },
-    {
-        "path": "/media/posts/25/responsive/gamegear-logo-sm.webp",
-        "type": "file",
-        "md5": "3b76f748b9fb75495c477c11e1cfbc4a"
-    },
-    {
-        "path": "/media/posts/25/responsive/gamegear-logo-xl.webp",
-        "type": "file",
-        "md5": "f438524b1c21f7e13425d318d1fc37f5"
-    },
-    {
-        "path": "/media/posts/25/responsive/gamegear-logo-xs.webp",
-        "type": "file",
-        "md5": "192b0cb4a12db009f53e0b21296bcef1"
-    },
-    {
         "path": "/media/posts/25/responsive/gamegear-md.webp",
         "type": "file",
         "md5": "06e702238143fa5ff6b59c391d42206f"
@@ -1383,6 +1418,26 @@
         "path": "/media/posts/25/responsive/gamegear-sm.webp",
         "type": "file",
         "md5": "251e21d9d009cf7ee171566b501f0968"
+    },
+    {
+        "path": "/media/posts/25/responsive/gamegear-w-logo-md.webp",
+        "type": "file",
+        "md5": "33e108aedf8d118af60f2324d61f5339"
+    },
+    {
+        "path": "/media/posts/25/responsive/gamegear-w-logo-sm.webp",
+        "type": "file",
+        "md5": "d218a128a0a6cf82430df193cc668cf7"
+    },
+    {
+        "path": "/media/posts/25/responsive/gamegear-w-logo-xl.webp",
+        "type": "file",
+        "md5": "33e108aedf8d118af60f2324d61f5339"
+    },
+    {
+        "path": "/media/posts/25/responsive/gamegear-w-logo-xs.webp",
+        "type": "file",
+        "md5": "63684824d39f0ac90a1e1ba81f15bbcc"
     },
     {
         "path": "/media/posts/25/responsive/gamegear-xl.webp",
@@ -3885,6 +3940,571 @@
         "md5": "536daf8e6acc9e1da5fa1a5a78c3e5d6"
     },
     {
+        "path": "media/posts/61",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/61/boom3-2.webp",
+        "type": "file",
+        "md5": "0184e1c9452ac0d37b3c53a7c5058eed"
+    },
+    {
+        "path": "/media/posts/61/boom3.png",
+        "type": "file",
+        "md5": "20af38ee10c7ba3370bdad88d37a1339"
+    },
+    {
+        "path": "/media/posts/61/boom3.webp",
+        "type": "file",
+        "md5": "0e86bb86643df01ff205416b7253be2c"
+    },
+    {
+        "path": "media/posts/61/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/61/responsive/boom3-2-md.webp",
+        "type": "file",
+        "md5": "f6ef1f9453349d0dfe153d223e6dcd9c"
+    },
+    {
+        "path": "/media/posts/61/responsive/boom3-2-sm.webp",
+        "type": "file",
+        "md5": "6cf15dbc26590b6855b90da52a687bdb"
+    },
+    {
+        "path": "/media/posts/61/responsive/boom3-2-xl.webp",
+        "type": "file",
+        "md5": "b0d73b0828e76926c5ec46b8a3f59334"
+    },
+    {
+        "path": "/media/posts/61/responsive/boom3-2-xs.webp",
+        "type": "file",
+        "md5": "4dacf0165bfae6b438c5c11cbf97ab1c"
+    },
+    {
+        "path": "/media/posts/61/responsive/boom3-md.webp",
+        "type": "file",
+        "md5": "cf665d72893a17669d06046c3a7d0faf"
+    },
+    {
+        "path": "/media/posts/61/responsive/boom3-sm.webp",
+        "type": "file",
+        "md5": "9e739a0cdea27abdf2bd4e3eb8019964"
+    },
+    {
+        "path": "/media/posts/61/responsive/boom3-xl.webp",
+        "type": "file",
+        "md5": "cf665d72893a17669d06046c3a7d0faf"
+    },
+    {
+        "path": "/media/posts/61/responsive/boom3-xs.webp",
+        "type": "file",
+        "md5": "38e6d5a654366c8a696a2038ba16aa24"
+    },
+    {
+        "path": "media/posts/62",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/62/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/62/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/62/responsive/zxspectrum-2-md.webp",
+        "type": "file",
+        "md5": "eddd05a88c2fa3dd9d8cb954d62e05d4"
+    },
+    {
+        "path": "/media/posts/62/responsive/zxspectrum-2-sm.webp",
+        "type": "file",
+        "md5": "c8518dd7c14103764845365bb9fbe881"
+    },
+    {
+        "path": "/media/posts/62/responsive/zxspectrum-2-xl.webp",
+        "type": "file",
+        "md5": "37b127d8b4fadd6c3ebfcb033e94c00f"
+    },
+    {
+        "path": "/media/posts/62/responsive/zxspectrum-2-xs.webp",
+        "type": "file",
+        "md5": "c4d644f3078b551a9c048d26e169938f"
+    },
+    {
+        "path": "/media/posts/62/responsive/zxspectrum-md.webp",
+        "type": "file",
+        "md5": "1313dfd4c24e9151dc55409039d11cc4"
+    },
+    {
+        "path": "/media/posts/62/responsive/zxspectrum-sm.webp",
+        "type": "file",
+        "md5": "c1484311f4ea26055dbe7049c3a76ab3"
+    },
+    {
+        "path": "/media/posts/62/responsive/zxspectrum-w-logo-md.webp",
+        "type": "file",
+        "md5": "e219401912be164faa3a859c091cd0d8"
+    },
+    {
+        "path": "/media/posts/62/responsive/zxspectrum-w-logo-sm.webp",
+        "type": "file",
+        "md5": "49fc5de9719dd6f301af1caef0da4672"
+    },
+    {
+        "path": "/media/posts/62/responsive/zxspectrum-w-logo-xl.webp",
+        "type": "file",
+        "md5": "e219401912be164faa3a859c091cd0d8"
+    },
+    {
+        "path": "/media/posts/62/responsive/zxspectrum-w-logo-xs.webp",
+        "type": "file",
+        "md5": "bc63ae2253367fb886d508b6903a1b3f"
+    },
+    {
+        "path": "/media/posts/62/responsive/zxspectrum-xl.webp",
+        "type": "file",
+        "md5": "1313dfd4c24e9151dc55409039d11cc4"
+    },
+    {
+        "path": "/media/posts/62/responsive/zxspectrum-xs.webp",
+        "type": "file",
+        "md5": "0eb88193194d798b36d8e7d0f586c203"
+    },
+    {
+        "path": "/media/posts/62/zxspectrum-2.webp",
+        "type": "file",
+        "md5": "a2abe7d4b323db045421b28d7214237b"
+    },
+    {
+        "path": "/media/posts/62/zxspectrum-w-logo.png",
+        "type": "file",
+        "md5": "fe8e934fb99fb4a16d3ccffab73e2876"
+    },
+    {
+        "path": "/media/posts/62/zxspectrum.webp",
+        "type": "file",
+        "md5": "0450215935ef94a2451a2d65b1c94bb5"
+    },
+    {
+        "path": "media/posts/63",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/63/cdi-logo-2.png",
+        "type": "file",
+        "md5": "e5f80a0b11bbf1c24df17e9068a811b3"
+    },
+    {
+        "path": "/media/posts/63/cdi.webp",
+        "type": "file",
+        "md5": "3a4635923c996b48f191ec85fe79eb66"
+    },
+    {
+        "path": "/media/posts/63/philips-cd-i.webp",
+        "type": "file",
+        "md5": "789f6b40099b544cd66d40939ce5c996"
+    },
+    {
+        "path": "media/posts/63/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/63/responsive/cdi-logo-2-md.webp",
+        "type": "file",
+        "md5": "61927754022f54ace13588f954694a9b"
+    },
+    {
+        "path": "/media/posts/63/responsive/cdi-logo-2-sm.webp",
+        "type": "file",
+        "md5": "974850d1bf8642253d023f6cf9017db2"
+    },
+    {
+        "path": "/media/posts/63/responsive/cdi-logo-2-xl.webp",
+        "type": "file",
+        "md5": "5c427f28aeef369929798597c063f25a"
+    },
+    {
+        "path": "/media/posts/63/responsive/cdi-logo-2-xs.webp",
+        "type": "file",
+        "md5": "d5e77af50fcb8ef4ff813241fd27bbfd"
+    },
+    {
+        "path": "/media/posts/63/responsive/cdi-md.webp",
+        "type": "file",
+        "md5": "7ac3d1092e3cb6d276e1768b389fd893"
+    },
+    {
+        "path": "/media/posts/63/responsive/cdi-sm.webp",
+        "type": "file",
+        "md5": "1acc67f228a4289971ecef60f07ee7a9"
+    },
+    {
+        "path": "/media/posts/63/responsive/cdi-xl.webp",
+        "type": "file",
+        "md5": "7ac3d1092e3cb6d276e1768b389fd893"
+    },
+    {
+        "path": "/media/posts/63/responsive/cdi-xs.webp",
+        "type": "file",
+        "md5": "9261cff778ed9dc1c0344b6be548769c"
+    },
+    {
+        "path": "/media/posts/63/responsive/philips-cd-i-md.webp",
+        "type": "file",
+        "md5": "c8ea6dc419a3ac5580f35988bcd2d2cd"
+    },
+    {
+        "path": "/media/posts/63/responsive/philips-cd-i-sm.webp",
+        "type": "file",
+        "md5": "1d0f608c97c6e68271db8a1bf1f44759"
+    },
+    {
+        "path": "/media/posts/63/responsive/philips-cd-i-xl.webp",
+        "type": "file",
+        "md5": "e935556fcfc0d6cfc4ad503c4f977b50"
+    },
+    {
+        "path": "/media/posts/63/responsive/philips-cd-i-xs.webp",
+        "type": "file",
+        "md5": "9b007419a018c7e2ac0ac06c2f1d4234"
+    },
+    {
+        "path": "media/posts/64",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/64/Arcade-Capcom-Play-System.png",
+        "type": "file",
+        "md5": "658036c8e62ed43d018b592bccc25f18"
+    },
+    {
+        "path": "/media/posts/64/cps1-logo-2.png",
+        "type": "file",
+        "md5": "72a9668eb83b37854069ac4650be235e"
+    },
+    {
+        "path": "/media/posts/64/cps1.webp",
+        "type": "file",
+        "md5": "6f5db0acdec82738c4866fabf57ef702"
+    },
+    {
+        "path": "media/posts/64/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/64/gallery/Zrzut-ekranu-2024-12-15-112223-thumbnail.webp",
+        "type": "file",
+        "md5": "22fbf0b3f7f1d032d766b8570cdfef45"
+    },
+    {
+        "path": "/media/posts/64/gallery/Zrzut-ekranu-2024-12-15-112223.png",
+        "type": "file",
+        "md5": "26328ed5c3cc35b1b23d8b314375bb90"
+    },
+    {
+        "path": "media/posts/64/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/64/responsive/Arcade-Capcom-Play-System-md.webp",
+        "type": "file",
+        "md5": "dfb8bc35646335a80e298f3c83e29214"
+    },
+    {
+        "path": "/media/posts/64/responsive/Arcade-Capcom-Play-System-sm.webp",
+        "type": "file",
+        "md5": "1908bde92bcdd77479a8e7374124a8e4"
+    },
+    {
+        "path": "/media/posts/64/responsive/Arcade-Capcom-Play-System-xl.webp",
+        "type": "file",
+        "md5": "42454582b206a96805cb262125c27000"
+    },
+    {
+        "path": "/media/posts/64/responsive/Arcade-Capcom-Play-System-xs.webp",
+        "type": "file",
+        "md5": "43acc72f3177eba45bc84f2e8c51dffe"
+    },
+    {
+        "path": "/media/posts/64/responsive/cps1-logo-2-md.webp",
+        "type": "file",
+        "md5": "ee43965065ddfef4302c63d63e18398a"
+    },
+    {
+        "path": "/media/posts/64/responsive/cps1-logo-2-sm.webp",
+        "type": "file",
+        "md5": "1979015d5d7a08c716e81a36848e7af2"
+    },
+    {
+        "path": "/media/posts/64/responsive/cps1-logo-2-xl.webp",
+        "type": "file",
+        "md5": "ccdeed6f57b7d171f8a9eed3ff247105"
+    },
+    {
+        "path": "/media/posts/64/responsive/cps1-logo-2-xs.webp",
+        "type": "file",
+        "md5": "a6e932fc5975d07db4a581fe8b5d09ff"
+    },
+    {
+        "path": "/media/posts/64/responsive/cps1-md.webp",
+        "type": "file",
+        "md5": "f5cb37bf339bbdcd03c65d6f129e65c4"
+    },
+    {
+        "path": "/media/posts/64/responsive/cps1-sm.webp",
+        "type": "file",
+        "md5": "09802d7a30b612cf711a71eb11a95890"
+    },
+    {
+        "path": "/media/posts/64/responsive/cps1-xl.webp",
+        "type": "file",
+        "md5": "f5cb37bf339bbdcd03c65d6f129e65c4"
+    },
+    {
+        "path": "/media/posts/64/responsive/cps1-xs.webp",
+        "type": "file",
+        "md5": "119056f4f159abcff6a98a1d6c32ee99"
+    },
+    {
+        "path": "/media/posts/64/responsive/Zrzut-ekranu-2024-12-15-112223-md.webp",
+        "type": "file",
+        "md5": "22fbf0b3f7f1d032d766b8570cdfef45"
+    },
+    {
+        "path": "/media/posts/64/responsive/Zrzut-ekranu-2024-12-15-112223-sm.webp",
+        "type": "file",
+        "md5": "53a860c2e21f09467b9ea082825e9f88"
+    },
+    {
+        "path": "/media/posts/64/responsive/Zrzut-ekranu-2024-12-15-112223-xl.webp",
+        "type": "file",
+        "md5": "daab4c13d0aca18ae7c39cbc30de5086"
+    },
+    {
+        "path": "/media/posts/64/responsive/Zrzut-ekranu-2024-12-15-112223-xs.webp",
+        "type": "file",
+        "md5": "57ba42084e66d8a7e50d6dc885666ed5"
+    },
+    {
+        "path": "/media/posts/64/Zrzut-ekranu-2024-12-15-112223.png",
+        "type": "file",
+        "md5": "26328ed5c3cc35b1b23d8b314375bb90"
+    },
+    {
+        "path": "media/posts/65",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/65/Arcade-Capcom-Play-System-II.png",
+        "type": "file",
+        "md5": "d0f56f3128e04b892a9a3b9aae213634"
+    },
+    {
+        "path": "/media/posts/65/cps2-logo.png",
+        "type": "file",
+        "md5": "e53244b435d368d80d54069b29fb0773"
+    },
+    {
+        "path": "/media/posts/65/cps2.webp",
+        "type": "file",
+        "md5": "9496f3ac14f90335e3f6bbde3ef485be"
+    },
+    {
+        "path": "media/posts/65/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/65/gallery/Zrzut-ekranu-2024-12-15-112353-thumbnail.webp",
+        "type": "file",
+        "md5": "04ca07a35ca35b7fdd8217b47ad6da31"
+    },
+    {
+        "path": "/media/posts/65/gallery/Zrzut-ekranu-2024-12-15-112353.png",
+        "type": "file",
+        "md5": "85d4b5683fcc73f2e50c226c3f117092"
+    },
+    {
+        "path": "media/posts/65/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/65/responsive/Arcade-Capcom-Play-System-II-md.webp",
+        "type": "file",
+        "md5": "28b2e8e9d4560b92fe4fa00f819fa539"
+    },
+    {
+        "path": "/media/posts/65/responsive/Arcade-Capcom-Play-System-II-sm.webp",
+        "type": "file",
+        "md5": "006d77c666e4b8ce27f9cc070d761d9b"
+    },
+    {
+        "path": "/media/posts/65/responsive/Arcade-Capcom-Play-System-II-xl.webp",
+        "type": "file",
+        "md5": "39b0e1be9c6d1a922f7fcae880ea159a"
+    },
+    {
+        "path": "/media/posts/65/responsive/Arcade-Capcom-Play-System-II-xs.webp",
+        "type": "file",
+        "md5": "ac326ed32aa0ca4c239d59c307276d83"
+    },
+    {
+        "path": "/media/posts/65/responsive/cps2-logo-md.webp",
+        "type": "file",
+        "md5": "dc8fd56b7773098276ad962d963241f2"
+    },
+    {
+        "path": "/media/posts/65/responsive/cps2-logo-sm.webp",
+        "type": "file",
+        "md5": "fc1df5beb1a978c0540459466e2942bd"
+    },
+    {
+        "path": "/media/posts/65/responsive/cps2-logo-xl.webp",
+        "type": "file",
+        "md5": "93e541f44316f3c81acdb79e0e9e35e1"
+    },
+    {
+        "path": "/media/posts/65/responsive/cps2-logo-xs.webp",
+        "type": "file",
+        "md5": "ba85d09813f516f58f6d2dda4dc66f1c"
+    },
+    {
+        "path": "/media/posts/65/responsive/cps2-md.webp",
+        "type": "file",
+        "md5": "4d281234e1a781c14525a687235ba250"
+    },
+    {
+        "path": "/media/posts/65/responsive/cps2-sm.webp",
+        "type": "file",
+        "md5": "b803c7e9bf0d1eb7256f92bbf6bf6cac"
+    },
+    {
+        "path": "/media/posts/65/responsive/cps2-xl.webp",
+        "type": "file",
+        "md5": "4d281234e1a781c14525a687235ba250"
+    },
+    {
+        "path": "/media/posts/65/responsive/cps2-xs.webp",
+        "type": "file",
+        "md5": "f91939496a30da482753e036d3aa2508"
+    },
+    {
+        "path": "media/posts/66",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/66/Arcade-Capcom-Play-System-III-2.png",
+        "type": "file",
+        "md5": "0cafe5a04cd94f0327f24b1f383f5e26"
+    },
+    {
+        "path": "/media/posts/66/cps3-logo.png",
+        "type": "file",
+        "md5": "5a768da06c1c34784df892d107667a30"
+    },
+    {
+        "path": "/media/posts/66/cps3.webp",
+        "type": "file",
+        "md5": "37dd7cd238764cf24935dfacb098ae66"
+    },
+    {
+        "path": "media/posts/66/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/66/gallery/Zrzut-ekranu-2024-12-15-112526-thumbnail.webp",
+        "type": "file",
+        "md5": "4b628b401976a1edee9d086c02d9324a"
+    },
+    {
+        "path": "/media/posts/66/gallery/Zrzut-ekranu-2024-12-15-112526.png",
+        "type": "file",
+        "md5": "8e999a7625262c6390d420d1d7b1189f"
+    },
+    {
+        "path": "media/posts/66/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/66/responsive/Arcade-Capcom-Play-System-III-2-md.webp",
+        "type": "file",
+        "md5": "3ef81629c0f3b70b7e14c685f0a9c8ba"
+    },
+    {
+        "path": "/media/posts/66/responsive/Arcade-Capcom-Play-System-III-2-sm.webp",
+        "type": "file",
+        "md5": "1860ba5aefa0a7e50f93ad4e24443a46"
+    },
+    {
+        "path": "/media/posts/66/responsive/Arcade-Capcom-Play-System-III-2-xl.webp",
+        "type": "file",
+        "md5": "c64b49c8e3b5306905db2443018ea1a2"
+    },
+    {
+        "path": "/media/posts/66/responsive/Arcade-Capcom-Play-System-III-2-xs.webp",
+        "type": "file",
+        "md5": "f9dbf2fef1f4167d777ac62e6aab8ce3"
+    },
+    {
+        "path": "/media/posts/66/responsive/cps3-logo-md.webp",
+        "type": "file",
+        "md5": "d1181e9d3ae227302a5ff1501203018e"
+    },
+    {
+        "path": "/media/posts/66/responsive/cps3-logo-sm.webp",
+        "type": "file",
+        "md5": "1a72801c65cd7da3b58a518aa10a9a3c"
+    },
+    {
+        "path": "/media/posts/66/responsive/cps3-logo-xl.webp",
+        "type": "file",
+        "md5": "3ec3a17c780f65cc1636051790338f18"
+    },
+    {
+        "path": "/media/posts/66/responsive/cps3-logo-xs.webp",
+        "type": "file",
+        "md5": "0a94e0cf50c23592ca05b13a0b8815ea"
+    },
+    {
+        "path": "/media/posts/66/responsive/cps3-md.webp",
+        "type": "file",
+        "md5": "93d08b044433e03690e3ea625ed16a81"
+    },
+    {
+        "path": "/media/posts/66/responsive/cps3-sm.webp",
+        "type": "file",
+        "md5": "4aab46a8893db23ccb4f1941972fb632"
+    },
+    {
+        "path": "/media/posts/66/responsive/cps3-xl.webp",
+        "type": "file",
+        "md5": "93d08b044433e03690e3ea625ed16a81"
+    },
+    {
+        "path": "/media/posts/66/responsive/cps3-xs.webp",
+        "type": "file",
+        "md5": "fb3fcb6112722dc3ba347aee9330e8d7"
+    },
+    {
         "path": "media/posts/8",
         "type": "directory",
         "md5": false
@@ -4027,7 +4647,7 @@
     {
         "path": "/naomi-2-naomi2/index.html",
         "type": "file",
-        "md5": "c2d33bf37771610efa840d249b41331e"
+        "md5": "a58369de1d5105c831715ae524f6eba9"
     },
     {
         "path": "naomi-naomi",
@@ -4037,7 +4657,7 @@
     {
         "path": "/naomi-naomi/index.html",
         "type": "file",
-        "md5": "6c5af47f00b618b86ab0645af3a84219"
+        "md5": "5cd0749de44c04e17efc7fc0d0d3e12c"
     },
     {
         "path": "nintendo-3ds-3ds",
@@ -4047,7 +4667,7 @@
     {
         "path": "/nintendo-3ds-3ds/index.html",
         "type": "file",
-        "md5": "2de3cfa7feefdabbfa2cdd7491df7581"
+        "md5": "037bb42e44ffecff82873496e31f99f4"
     },
     {
         "path": "nintendo-entertainment-system-nes",
@@ -4057,7 +4677,7 @@
     {
         "path": "/nintendo-entertainment-system-nes/index.html",
         "type": "file",
-        "md5": "40c36bd3f5af4c121e678359ad1039dd"
+        "md5": "ddbe9d186e4d1559b7586e4947f9e6b2"
     },
     {
         "path": "nintendo-gamecube-gamecube",
@@ -4067,7 +4687,7 @@
     {
         "path": "/nintendo-gamecube-gamecube/index.html",
         "type": "file",
-        "md5": "1efaf140e5800b6ac542ddeb255b12d0"
+        "md5": "af8e3c3f6187087f5191c15c7a6d91f3"
     },
     {
         "path": "page",
@@ -4082,7 +4702,27 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "5f5bd1ed835ba6fc14d2ea4466a22d8b"
+        "md5": "67741d5d8814141544a2a91e8adc98b8"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "71e40d58b68cb813288e5d2e4d217ce6"
+    },
+    {
+        "path": "philips-cd-i-cdi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/philips-cd-i-cdi/index.html",
+        "type": "file",
+        "md5": "18d5a453324747bf979119b79770e1bf"
     },
     {
         "path": "pinball-fx-pinballfx-2",
@@ -4092,7 +4732,7 @@
     {
         "path": "/pinball-fx-pinballfx-2/index.html",
         "type": "file",
-        "md5": "d500418f29f046ee717fd328b9a009ee"
+        "md5": "8f983f5570ddf1a1f673c25453e2233b"
     },
     {
         "path": "pinball-fx2-pinballfx2",
@@ -4102,7 +4742,7 @@
     {
         "path": "/pinball-fx2-pinballfx2/index.html",
         "type": "file",
-        "md5": "dc45db123831006f97ad23d1ca0d7bcd"
+        "md5": "57b249e02144b1e802c6f181e679a82e"
     },
     {
         "path": "pinball-fx3-pinballfx3",
@@ -4112,7 +4752,7 @@
     {
         "path": "/pinball-fx3-pinballfx3/index.html",
         "type": "file",
-        "md5": "a461af5e98a72c960c6ee9ac50ab54d7"
+        "md5": "c4e60f8b836c17ea140b08fb5f618c59"
     },
     {
         "path": "pinball-m-pinballm",
@@ -4122,7 +4762,7 @@
     {
         "path": "/pinball-m-pinballm/index.html",
         "type": "file",
-        "md5": "6bef332ce0615b8ef2dfc91d04ec5a7e"
+        "md5": "cddd74230b0597d1139d16dd9b7a9c44"
     },
     {
         "path": "robots.txt",
@@ -4137,12 +4777,12 @@
     {
         "path": "/sega-model-2-model2/index.html",
         "type": "file",
-        "md5": "61be78416fd128caa1b8dacaaa440dd9"
+        "md5": "1eb5679bb24813fd51c79cb2ba735a86"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "455aa4c7ddceeb845b8f49531efa657c"
+        "md5": "01785c77e276195959b3621d78c6e48f"
     },
     {
         "path": "sitemap.xsl",
@@ -4157,7 +4797,7 @@
     {
         "path": "/super-nintendo-entertainment-system-snes/index.html",
         "type": "file",
-        "md5": "76aa1388be9bb9190290dc62fe6d80b6"
+        "md5": "c962f6a13c7d5d293885385d2eb54d48"
     },
     {
         "path": "tags",
@@ -4172,7 +4812,7 @@
     {
         "path": "/tags/arcade/index.html",
         "type": "file",
-        "md5": "055652192f89a0e37e12ac1109207c8d"
+        "md5": "38645a0ef6ec7efd4000c9daafef18db"
     },
     {
         "path": "tags/batocera",
@@ -4182,7 +4822,7 @@
     {
         "path": "/tags/batocera/index.html",
         "type": "file",
-        "md5": "89fedc8ae30f2cae05219f37bad83040"
+        "md5": "334de8172f149b620d03244349cbf8da"
     },
     {
         "path": "tags/batocera/page",
@@ -4197,7 +4837,17 @@
     {
         "path": "/tags/batocera/page/2/index.html",
         "type": "file",
-        "md5": "9d12ff9c9a71a56979b3ea7b57b8c27a"
+        "md5": "b228e4a8701754f6b122f02bf5a478df"
+    },
+    {
+        "path": "tags/batocera/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/batocera/page/3/index.html",
+        "type": "file",
+        "md5": "f0cdf58d4e576f5308b78b964ef6c2ad"
     },
     {
         "path": "tags/computer",
@@ -4207,7 +4857,7 @@
     {
         "path": "/tags/computer/index.html",
         "type": "file",
-        "md5": "e66c7aa7336e8883445685d1c76cf292"
+        "md5": "20c46b01b808b5cc7a5fa407df512229"
     },
     {
         "path": "tags/console",
@@ -4217,7 +4867,7 @@
     {
         "path": "/tags/console/index.html",
         "type": "file",
-        "md5": "7dccd6d62f375844ac52399b1ae805fc"
+        "md5": "104ec65661cd854ab85e85bcd44cbf33"
     },
     {
         "path": "tags/custom",
@@ -4227,7 +4877,7 @@
     {
         "path": "/tags/custom/index.html",
         "type": "file",
-        "md5": "5ece167cdb425707c4ee94bddc38aefa"
+        "md5": "fda2f3e8c11cf21e8a441d791deef80a"
     },
     {
         "path": "tags/extension",
@@ -4237,7 +4887,7 @@
     {
         "path": "/tags/extension/index.html",
         "type": "file",
-        "md5": "4ad433eed0010dc038441d6664032fee"
+        "md5": "727dd07198b14d735baa28813e93bdd3"
     },
     {
         "path": "tags/faq",
@@ -4247,7 +4897,7 @@
     {
         "path": "/tags/faq/index.html",
         "type": "file",
-        "md5": "fe4922bd59edaaa9f275afd8ff0bf122"
+        "md5": "4ba15b4e0154d2f0a8a0e6fc95020864"
     },
     {
         "path": "tags/faq-batocera",
@@ -4257,7 +4907,7 @@
     {
         "path": "/tags/faq-batocera/index.html",
         "type": "file",
-        "md5": "962c44ae445ef2bbe05fbb338a3cb20c"
+        "md5": "c5b3cf65864aa91e1f8390e8c114b258"
     },
     {
         "path": "tags/faq-retrobat",
@@ -4267,7 +4917,7 @@
     {
         "path": "/tags/faq-retrobat/index.html",
         "type": "file",
-        "md5": "ab981b6a5326cfb422b7284b8a927b4d"
+        "md5": "643613f9d233593c6c2c9be9cd5c409a"
     },
     {
         "path": "tags/hacks",
@@ -4277,12 +4927,12 @@
     {
         "path": "/tags/hacks/index.html",
         "type": "file",
-        "md5": "2ad071c9718cc055156b4e0925736890"
+        "md5": "cbc19969e8a9a70510200b2832a475dc"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "dd268af54590cdfbbcd9be28bad841c5"
+        "md5": "4be041c02182e93635042aa07eae36e2"
     },
     {
         "path": "tags/lite-package",
@@ -4292,7 +4942,7 @@
     {
         "path": "/tags/lite-package/index.html",
         "type": "file",
-        "md5": "f39186c90e431da110d7814ba22e4348"
+        "md5": "f1cb15e15cf87b0022f1ba90ee003ad2"
     },
     {
         "path": "tags/pi4",
@@ -4302,7 +4952,7 @@
     {
         "path": "/tags/pi4/index.html",
         "type": "file",
-        "md5": "f36d514c26e39eb34f1f313b71155b5b"
+        "md5": "d11dacbb704653287f6c3d41e0507a70"
     },
     {
         "path": "tags/pi4/page",
@@ -4317,7 +4967,7 @@
     {
         "path": "/tags/pi4/page/2/index.html",
         "type": "file",
-        "md5": "7da9dd7efc91e74851018616cf0bd00d"
+        "md5": "5f46d7977a00362a2669f30a288e5f3b"
     },
     {
         "path": "tags/pi5",
@@ -4327,7 +4977,7 @@
     {
         "path": "/tags/pi5/index.html",
         "type": "file",
-        "md5": "ac200400e160fcda95245c8393079306"
+        "md5": "aeb9632cff5fd986c9f8623e53e90668"
     },
     {
         "path": "tags/pi5/page",
@@ -4342,7 +4992,7 @@
     {
         "path": "/tags/pi5/page/2/index.html",
         "type": "file",
-        "md5": "b58b2dd22e7e8884cced5e44f7a5d029"
+        "md5": "aaaac5944f6ae7d4f02a4643a9902e90"
     },
     {
         "path": "tags/pinball",
@@ -4352,7 +5002,7 @@
     {
         "path": "/tags/pinball/index.html",
         "type": "file",
-        "md5": "278676dd6210731ff6e712d21073ed59"
+        "md5": "d8b0951e7d10e68004cb938974c9fc91"
     },
     {
         "path": "tags/port",
@@ -4362,7 +5012,7 @@
     {
         "path": "/tags/port/index.html",
         "type": "file",
-        "md5": "b2f9a8000a1b6c1586d83bbf56ba6e09"
+        "md5": "c274787430406f794efe693a8b1bb6d3"
     },
     {
         "path": "tags/portable",
@@ -4372,7 +5022,7 @@
     {
         "path": "/tags/portable/index.html",
         "type": "file",
-        "md5": "0d31bed98f28855832c907a7e22219f1"
+        "md5": "642497e7c4312952de3105b4a1209c9b"
     },
     {
         "path": "tags/retrobat",
@@ -4382,7 +5032,7 @@
     {
         "path": "/tags/retrobat/index.html",
         "type": "file",
-        "md5": "bd76cfaabf03e8d87c8257080781b2f4"
+        "md5": "8dbf2d2efebca00617d80e920aaa0a6f"
     },
     {
         "path": "tags/retrobat/page",
@@ -4397,7 +5047,17 @@
     {
         "path": "/tags/retrobat/page/2/index.html",
         "type": "file",
-        "md5": "b9f069bae9a88f341696720d7b6360f1"
+        "md5": "3efab4c890879c119c4d1b0f7836d30d"
+    },
+    {
+        "path": "tags/retrobat/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/retrobat/page/3/index.html",
+        "type": "file",
+        "md5": "60db436577b7b98abbb58b8169bf5c48"
     },
     {
         "path": "tags/x86",
@@ -4407,7 +5067,7 @@
     {
         "path": "/tags/x86/index.html",
         "type": "file",
-        "md5": "e62bc09322855def003b69e227404241"
+        "md5": "0b3a321d464800e3cef4a40c48fe7aec"
     },
     {
         "path": "tags/x86/page",
@@ -4422,7 +5082,17 @@
     {
         "path": "/tags/x86/page/2/index.html",
         "type": "file",
-        "md5": "e596eacfb990bf0f16216123dec9ae2c"
+        "md5": "a97eed2f4fd91cd510e023edb214b375"
+    },
+    {
+        "path": "tags/x86/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/x86/page/3/index.html",
+        "type": "file",
+        "md5": "6dbec509b8806c11b61b7c8be8640d04"
     },
     {
         "path": "the-one-build-install",
@@ -4432,7 +5102,7 @@
     {
         "path": "/the-one-build-install/index.html",
         "type": "file",
-        "md5": "a3c6217557a703285b5dfb510ea1e024"
+        "md5": "8e8d4c257e08d9e75c907a0acb957816"
     },
     {
         "path": "updating-to-v631",
@@ -4442,7 +5112,7 @@
     {
         "path": "/updating-to-v631/index.html",
         "type": "file",
-        "md5": "2273031d4f37d9ad6ea588fce9631928"
+        "md5": "c59e6f4975b20690f6b0876f83efd48e"
     },
     {
         "path": "visual-pinball-vpinball",
@@ -4452,7 +5122,7 @@
     {
         "path": "/visual-pinball-vpinball/index.html",
         "type": "file",
-        "md5": "63ec306b0af2b7bc70a40d90de5c6aa6"
+        "md5": "abe302e48393bb409f2b888f120f14fd"
     },
     {
         "path": "welcome",
@@ -4462,7 +5132,7 @@
     {
         "path": "/welcome/index.html",
         "type": "file",
-        "md5": "12fbf12a571176b381638b0072bcfc0c"
+        "md5": "26e3bbc7ca106461352be048916eb452"
     },
     {
         "path": "xbox-original-xbox",
@@ -4472,7 +5142,7 @@
     {
         "path": "/xbox-original-xbox/index.html",
         "type": "file",
-        "md5": "e52e5df4b4c08b0091e473f954cd8e4a"
+        "md5": "bd1225b8d695a37963a7c2b03de1273f"
     },
     {
         "path": "zaccaria-pinball-zaccariapinball",
@@ -4482,6 +5152,16 @@
     {
         "path": "/zaccaria-pinball-zaccariapinball/index.html",
         "type": "file",
-        "md5": "c22b50f06f207b127325b93b614da5bc"
+        "md5": "1244ed4aaac84bce544ae46f94fece67"
+    },
+    {
+        "path": "zx-spectrum-zxspectrum",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/zx-spectrum-zxspectrum/index.html",
+        "type": "file",
+        "md5": "021c90bdb4a37e9c34ebbf587393f462"
     }
 ]
