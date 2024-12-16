@@ -11,6 +11,70 @@
     },
     "items": [
         {
+            "id": "https://pixelnostalgia.github.io/sega-mega-drive-msu-msu-md/index.html",
+            "url": "https://pixelnostalgia.github.io/sega-mega-drive-msu-msu-md/index.html",
+            "title": "Sega Mega Drive MSU (msu-md)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/81/megadrivemsu.svg\" alt=\"\" width=\"320\" height=\"148\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/81/msu-md.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/81/responsive/msu-md-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/81/responsive/msu-md-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/81/responsive/msu-md-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/81/responsive/msu-md-xl.webp 1200w\"></figure>\n<p>MSU-MD is a driver that allows CD quality music for properly patched Sega Megadrive games, mimicing the behavior of the CD hardware.<br><br>Instead of basing the work on proprietary APIs like md+, MSU-MD is developed as a nice tiny driver which makes interfacing with the Sega CD hardware easier and all using official bios calls. This means that these hacks could run also on official unmodified hardware.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">55 games (~20 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=946678\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>\n<p class=\"msg msg--highlight \"><strong>How to install in Batocera:</strong><br>Drag and drop the \"msu-md\" folder to the \"roms\" directory</p>\n<p class=\"msg msg--highlight \"><strong>How to install in Retrobat:</strong><br>Drag and drop the \"megadrive-msu\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/81/megadrive-msu.webp",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Extension",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-16T22:46:02+01:00",
+            "date_modified": "2024-12-16T22:55:09+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/sega-mega-drive-megadrive/index.html",
+            "url": "https://pixelnostalgia.github.io/sega-mega-drive-megadrive/index.html",
+            "title": "Sega Mega Drive (megadrive)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/80/megadrive.svg\" alt=\"\" width=\"377\" height=\"60\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/80/Sega-MegaDrive-JAP.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/80/responsive/Sega-MegaDrive-JAP-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/80/responsive/Sega-MegaDrive-JAP-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/80/responsive/Sega-MegaDrive-JAP-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/80/responsive/Sega-MegaDrive-JAP-xl.webp 1200w\"></figure>\n<p>The Sega Genesis, known as the Mega Drive outside North America, is a 16-bit fourth-generation home video game console developed and sold by Sega. The Genesis is Sega's third console and the successor to the Master System. Sega released it as the Mega Drive in Japan in 1988, and later as the Genesis in North America in 1989. In 1990, it was distributed as the Mega Drive by Virgin Mastertronic in Europe, Ozisoft in Australasia, and Tec Toy in Brazil. In South Korea, it was distributed by Samsung as the Super Gam*Boy and later the Super Aladdin Boy.<br><br>Designed by an R&amp;MegaD team supervised by Hideki Sato and Masami Ishikawa, the Genesis was adapted from Sega's System 16 arcade board, centered on a Motorola 68000 processor as the CPU, a Zilog Z80 as a sound controller, and a video system supporting hardware sprites, tiles, and scrolling. It plays a library of more than 900 games created by Sega and a wide array of third-party publishers delivered on ROM-based cartridges. Several add-ons were released, including a Power Base Converter to play Master System games. It was released in several different versions, some created by third parties. Sega created two network services to support the Genesis: Sega Meganet and Sega Channel.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">782 games (~16 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957532\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"megadrive\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/80/megadrive.webp",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-16T22:26:16+01:00",
+            "date_modified": "2024-12-16T22:56:01+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/sega-master-system-mastersystem/index.html",
+            "url": "https://pixelnostalgia.github.io/sega-master-system-mastersystem/index.html",
+            "title": "Sega Master System (mastersystem)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/79/mastersystem.svg\" alt=\"\" width=\"377\" height=\"139\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/79/sega-master-system.webp\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/79/responsive/sega-master-system-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/79/responsive/sega-master-system-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/79/responsive/sega-master-system-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/79/responsive/sega-master-system-xl.webp 1200w\"></figure>\n<p>The Sega Master System is a third-generation 8-bit home video game console manufactured by Sega. It was originally a remodeled export version of the Sega Mark III, the third iteration of the SG-1000 series of consoles, which was released in Japan in 1985 and featured enhanced graphical capabilities over its predecessors. The Master System launched in North America in 1986, followed by Europe in 1987, and Brazil in 1989. A Japanese version of the Master System was also launched in 1987, which features a few enhancements over the export models (and by proxy the original Mark III): a built-in FM audio chip, a rapid-fire switch, and a dedicated port for the 3D glasses. The Master System II, a cheaper model, was released in 1990 in North America and Europe.<br><br>The original Master System models use both cartridges and a credit card-sized format known as Sega Cards. Accessories for the consoles include a light gun and 3D glasses that work with a range of specially designed games. The later Master System II redesign removed the card slot, turning it into a strictly cartridge-only system and is incompatible with the 3D glasses.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">277 games (~5 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957596\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"mastersystem\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/79/mastersystem.webp",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-16T22:08:15+01:00",
+            "date_modified": "2024-12-16T22:13:05+01:00"
+        },
+        {
             "id": "https://pixelnostalgia.github.io/atari-jaguar-cd-jaguarcd/index.html",
             "url": "https://pixelnostalgia.github.io/atari-jaguar-cd-jaguarcd/index.html",
             "title": "Atari Jaguar CD (jaguarcd)",
@@ -156,68 +220,6 @@
             ],
             "date_published": "2024-12-15T21:19:00+01:00",
             "date_modified": "2024-12-15T21:48:20+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/nintendo-family-computer-disk-system-fds/index.html",
-            "url": "https://pixelnostalgia.github.io/nintendo-family-computer-disk-system-fds/index.html",
-            "title": "Nintendo Family Computer Disk System (fds)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/71/fds-w-logo.png\" alt=\"\" width=\"377\" height=\"67\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/71/responsive/fds-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/71/responsive/fds-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/71/responsive/fds-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/71/responsive/fds-w-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/71/nintendo-famicom-disk-system.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/71/responsive/nintendo-famicom-disk-system-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/71/responsive/nintendo-famicom-disk-system-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/71/responsive/nintendo-famicom-disk-system-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/71/responsive/nintendo-famicom-disk-system-xl.webp 1200w\"></figure>\n<p>The Family Computer Disk System is a peripheral for Nintendo's Family Computer home video game console, released only in Japan on February 21, 1986. It uses proprietary floppy disks called \"Disk Cards\" for cheaper data storage and it adds a new high-fidelity sound channel for supporting Disk System games.<br><br>Fundamentally, the Disk System serves simply to enhance some aspects already inherent to the base Famicom system, with better sound and cheaper games—though with the disadvantages of high initial price, slow speed, and lower reliability. However, this boost to the market of affordable and writable mass storage temporarily served as an enabling technology for the creation of new types of video games. This includes the vast, open world, progress-saving adventures of the best-selling The Legend of Zelda (1986) and Metroid (1986), games with a cost-effective and swift release such as the best-selling Super Mario Bros. 2, and nationwide leaderboards and contests via the in-store Disk Fax kiosks, which are considered to be forerunners of today's online achievement and distribution systems.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">311 games (~3 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957601\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/71/gallery/Zrzut-ekranu-2024-12-15-150941.png\" data-size=\"3070x1725\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/71/gallery/Zrzut-ekranu-2024-12-15-150941-thumbnail.webp\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"fds\" folder to the \"roms\" directory</p>\n<p> </p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/71/fds.webp",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Console",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-15T15:00:05+01:00",
-            "date_modified": "2024-12-15T22:35:05+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/final-burn-neo-fbneo/index.html",
-            "url": "https://pixelnostalgia.github.io/final-burn-neo-fbneo/index.html",
-            "title": "Final Burn Neo (fbneo)",
-            "summary": "<p>for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat<br><span style=\"color: #ffffff;\"><strong>Version: 23 Feb 2024</strong></span><br></span></p>\n",
-            "content_html": "<p>for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat<br><span style=\"color: #ffffff;\"><strong>Version: 23 Feb 2024</strong></span><br></span></p>\n\n<figure class=\"post__image post__image--center\"><img  src=\"https://pixelnostalgia.github.io/media/posts/70/fbn-logo.png\" alt=\"\" width=\"377\" height=\"165\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/70/responsive/fbn-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/70/responsive/fbn-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/70/responsive/fbn-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/70/responsive/fbn-logo-xl.webp 1200w\"></figure><br><figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/70/fbneo-2.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/70/responsive/fbneo-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/70/responsive/fbneo-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/70/responsive/fbneo-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/70/responsive/fbneo-2-xl.webp 1200w\"></figure>Final Burn Neo (aka FBNeo) is the new official branch of the Final Burn Alpha emulator, which is compatible with hundreds of arcade and console games. The libretro core of FBNeo brings its library of compatible titles to RetroArch, where the core's tight integration with the libretro API allows it to work with RetroArch's advanced time-bending features like rollback-based netplay and runahead latency reduction. It includes input presets for automatic mapping of buttons for different games, including fighting game layouts for both modern and old-school arcade controls (aka fightsticks).</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">2283 games (~29 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=954690\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/70/gallery/Zrzut-ekranu-2024-12-15-145409.png\" data-size=\"3078x1728\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/70/gallery/Zrzut-ekranu-2024-12-15-145409-thumbnail.webp\" alt=\"\" width=\"768\" height=\"431\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install:<br></strong>Remove 'fbneo' from the 'roms' directory<br>Drag and drop the \"fbneo\" folder into the 'roms' directory and Enjoy!</p>\n<p class=\"msg msg--warning\">- Use this rompack if you update RGS v39 to minimum v40<br>- This set is already included in RGS v40 IMG or RGS RetroBat update 1</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/70/fbneo.webp",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Batocera",
-                   "Arcade"
-            ],
-            "date_published": "2024-12-15T14:44:43+01:00",
-            "date_modified": "2024-12-15T14:57:34+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/nintendo-family-computer-famicom/index.html",
-            "url": "https://pixelnostalgia.github.io/nintendo-family-computer-famicom/index.html",
-            "title": "Nintendo Family Computer (famicom)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/69/famicom.svg\" alt=\"\" width=\"377\" height=\"68\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/69/nintendo-famicom.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/69/responsive/nintendo-famicom-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/69/responsive/nintendo-famicom-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/69/responsive/nintendo-famicom-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/69/responsive/nintendo-famicom-xl.webp 1200w\"></figure>\n<p>The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console produced by Nintendo. Nintendo first released it in Japan as the Family Computer, commonly known as the Famicom, in 1983. The NES, a remodelled version, was released internationally in the following years.<br><br>The NES featured a number of groundbreaking games, such as the platform game Super Mario Bros, the action-adventure game The Legend of Zelda and the action game Metroid. As one of the best-selling gaming consoles of its time, the NES helped revitalize the US video game industry following the video game crash of 1983. Nintendo introduced a now-standard business model of licensing third-party developers to produce and distribute games for the NES. The NES was succeeded by the Super Nintendo Entertainment System.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">386 games (~4 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957638\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/69/gallery/Zrzut-ekranu-2024-12-15-143543.png\" data-size=\"3077x1725\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/69/gallery/Zrzut-ekranu-2024-12-15-143543-thumbnail.webp\" alt=\"\" width=\"768\" height=\"431\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight  msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"famicom\" folder to the \"roms\" directory</p>\n<p> </p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/69/famicom_new.png",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "PC x86",
-                   "Custom",
-                   "Console",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-15T14:32:20+01:00",
-            "date_modified": "2024-12-15T14:42:19+01:00"
         }
     ]
 }
