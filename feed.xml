@@ -3,12 +3,53 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2024-12-17T23:25:36+01:00</updated>
+    <updated>2024-12-18T17:47:56+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>NEC PC-FX (pcfx)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/nec-pc-fx-pcfx/index.html"/>
+        <id>https://pixelnostalgia.github.io/nec-pc-fx-pcfx/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/107/pcfx.webp" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Console"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-18T17:37:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/107/pcfx.webp" alt="pcfx" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/107/pcfx.webp" class="type:primaryImage" alt="pcfx" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/107/PC-FX-logo.png" alt="" width="377" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/107/responsive/PC-FX-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/107/responsive/PC-FX-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/107/responsive/PC-FX-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/107/responsive/PC-FX-logo-xl.webp 1200w"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/107/nec-pc-fx.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/107/responsive/nec-pc-fx-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/107/responsive/nec-pc-fx-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/107/responsive/nec-pc-fx-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/107/responsive/nec-pc-fx-xl.webp 1200w"></figure>
+<p>The PC-FX is a 32-bit home video game console developed by both NEC and Hudson Soft and released in Japan in 1994. Powered by an NEC V810 CPU and using CD-ROMs, the PC-FX was intended as the successor to the PC Engine and its international counterpart the TurboGrafx-16, two successful video game consoles from the late 1980s. It is NEC's final foray into the home console market.<br><br>The console is shaped like a tower PC and was meant to be similarly upgradeable. However the PC-FX lacked a 3D polygon-based graphics chip which rendered the system underpowered in comparison to its competitors. It was also expensive and lacked developer support, and as a result it was unable to compete effectively with its fifth generation peers. The PC-FX was NEC's last home video game console, and was discontinued in February 1998. It was considered a commercial failure.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">64 games (~24 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=946666" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "pcfx" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>NEC PC Engine CD (pcenginecd)</title>
         <author>
@@ -391,49 +432,6 @@
 </div></div>
 <p class="msg msg--highlight "><strong>How to install JP pack:</strong><br>Drag and drop the "n64-jp" folder to the "roms" directory</p>
 <p class="msg msg--warning">Make sure you have run the PiXN/RGS Update Service to get the configuration settings required for this n64-jp custom system.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Lutro (lutro)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/lutro-lutro/index.html"/>
-        <id>https://pixelnostalgia.github.io/lutro-lutro/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/86/lutro.webp" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-17T21:14:11+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/86/lutro.webp" alt="lutro" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/86/lutro.webp" class="type:primaryImage" alt="lutro" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/86/lutro-logo.png" alt="" width="377" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/86/responsive/lutro-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/86/responsive/lutro-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/86/responsive/lutro-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/86/responsive/lutro-logo-xl.webp 1200w"></figure>
-<figure class="post__image post__image--right"><img loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/86/lutro-art-up.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/86/responsive/lutro-art-up-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/86/responsive/lutro-art-up-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/86/responsive/lutro-art-up-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/86/responsive/lutro-art-up-xl.webp 1200w"></figure>
-<p>Lutro is an experimental lua game framework that follows the LOVE API.<br><br>Lutro games can be played with LibRetro/RetroArch through the Lutro core.</p>
-<p> </p>
-<p> </p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">9 games (~22 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957669" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "lutro" folder into the 'roms' directory and Enjoy!</p>
             ]]>
         </content>
     </entry>
