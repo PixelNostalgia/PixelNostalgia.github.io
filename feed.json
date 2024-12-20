@@ -11,6 +11,70 @@
     },
     "items": [
         {
+            "id": "https://pixelnostalgia.github.io/apple-ii-apple2/index.html",
+            "url": "https://pixelnostalgia.github.io/apple-ii-apple2/index.html",
+            "title": "Apple II (apple2)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/136/apple2-w-logo.png\" alt=\"\" width=\"377\" height=\"111\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/136/responsive/apple2-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/136/responsive/apple2-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/136/responsive/apple2-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/136/responsive/apple2-w-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/136/Apple-II.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/136/responsive/Apple-II-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/136/responsive/Apple-II-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/136/responsive/Apple-II-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/136/responsive/Apple-II-xl.webp 1200w\"></figure>\n<p>The Apple II (stylized as apple ][) is an 8-bit home computer and one of the world's first highly successful mass-produced microcomputer products. It was designed primarily by Steve Wozniak; Steve Jobs oversaw the development of the Apple II's foam-molded plastic case and Rod Holt developed the switching power supply. It was introduced by Jobs and Wozniak at the 1977 West Coast Computer Faire and marks Apple's first launch of a personal computer aimed at a consumer market—branded toward American households rather than businessmen or computer hobbyists.<br><br>The three computers that Byte Magazine referred to as the \"1977 Trinity\" of home computing: the Commodore PET 2001, the Apple II, and the TRS-80 Model I.<br>Byte magazine referred to the Apple II, Commodore PET 2001 and the TRS-80 as the \"1977 Trinity.\" The Apple II had the defining feature of being able to display color graphics, and this was why the Apple logo was redesigned to have a spectrum of colors.<br><br>The Apple II is the first model in the Apple II series, followed by the Apple II+, Apple IIe, Apple IIc, and the 16-bit Apple IIgs–all of which remained compatible. Production of the last available model, the Apple IIe, ceased in November 1993.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">985 games (~6 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957592\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"apple2\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/136/apple2_system.png",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Computer",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-20T23:43:43+01:00",
+            "date_modified": "2024-12-20T23:48:07+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/apf-electronics-m-1000-apfm1000/index.html",
+            "url": "https://pixelnostalgia.github.io/apf-electronics-m-1000-apfm1000/index.html",
+            "title": "APF Electronics M-1000 (apfm1000)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/135/apfm1000.svg\" alt=\"\" width=\"377\" height=\"61\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/135/APF-Imagination-Machine.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/135/responsive/APF-Imagination-Machine-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/135/responsive/APF-Imagination-Machine-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/135/responsive/APF-Imagination-Machine-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/135/responsive/APF-Imagination-Machine-xl.webp 1200w\"></figure>\n<p>The APF Microcomputer System is a second generation 8-bit cartridge-based home video game console released in October 1978 by APF Electronics Inc. with six cartridges. The console is often referred to M-1000 or MP-1000, which are the two model numbers of the console. The APF-MP1000 comes built-in with the game Rocket Patrol. The APF-MP1000 is a part of the APF Imagination Machine.<br><br>It is the successor to the APF TV Fun line of first generation consoles.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">11 games (~7 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957615\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\" data-columns=\"1\"> </div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"apfm1000\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/135/apfm1000_system.png",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-20T23:37:19+01:00",
+            "date_modified": "2024-12-20T23:43:04+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/commodore-amiga-4000-amiga4000/index.html",
+            "url": "https://pixelnostalgia.github.io/commodore-amiga-4000-amiga4000/index.html",
+            "title": "Commodore Amiga 4000 (amiga4000)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/134/amiga4000-logo.png\" alt=\"\" width=\"377\" height=\"165\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/134/responsive/amiga4000-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/134/responsive/amiga4000-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/134/responsive/amiga4000-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/134/responsive/amiga4000-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/134/amiga4000.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/134/responsive/amiga4000-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/134/responsive/amiga4000-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/134/responsive/amiga4000-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/134/responsive/amiga4000-xl.webp 1200w\"></figure>\n<p>The Commodore Amiga 4000, or A4000, is the successor of the A2000 and A3000 computers. There are two models: the A4000/040 released in October 1992 with a Motorola 68040 CPU, and the A4000/030 released in April 1993 with a Motorola 68EC030.<br><br>The Amiga 4000 system design was generally similar to that of the A3000, but introduced the Advanced Graphics Architecture (AGA) chipset with enhanced graphics. The SCSI system from previous Amigas was replaced by the lower-cost Parallel ATA.<br><br>The original A4000 is housed in a beige horizontal desktop box with a separate keyboard. Later, Commodore released an expanded tower version called the A4000T.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">1 game (~4 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957733\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"amiga4000\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/134/commodore_amiga4000.png",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Custom",
+                   "Computer",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-20T23:32:20+01:00",
+            "date_modified": "2024-12-20T23:36:40+01:00"
+        },
+        {
             "id": "https://pixelnostalgia.github.io/sharp-x68000-x68000/index.html",
             "url": "https://pixelnostalgia.github.io/sharp-x68000-x68000/index.html",
             "title": "Sharp X68000 (x68000)",
@@ -151,69 +215,6 @@
             ],
             "date_published": "2024-12-19T00:00:58+01:00",
             "date_modified": "2024-12-19T00:06:19+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/vectrex-vectrex/index.html",
-            "url": "https://pixelnostalgia.github.io/vectrex-vectrex/index.html",
-            "title": "Vectrex (vectrex)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/125/vectrex-w-logo.png\" alt=\"\" width=\"377\" height=\"113\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/125/responsive/vectrex-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/125/responsive/vectrex-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/125/responsive/vectrex-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/125/responsive/vectrex-w-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/125/gce-vectrex.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/125/responsive/gce-vectrex-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/125/responsive/gce-vectrex-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/125/responsive/gce-vectrex-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/125/responsive/gce-vectrex-xl.webp 1200w\"></figure>\n<p>The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering. It was first released for the North America market in November 1982 and then Europe and Japan in 1983. Originally manufactured by General Consumer Electronics, it was later licensed to Milton Bradley after they acquired the company. Bandai released the system in Japan.<br><br>The Vectrex, in contrast to other video-game systems available at the time, featured an integrated monochrome CRT monitor and did not need to be hooked up to a television set as it provided its own built-in display. A detachable wired control pad was mounted at, and could be folded into, the lower base of the console. Games included translucent color sheet overlays that could be placed over the monochrome screen. A number of peripherals were produced, such as a pair of 3D goggles known as the \"3D Imager\" and a \"light-pen\" that allowed the player to draw directly on the screen. A built-in game, Mine Storm, was playable without inserting a cartridge.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">23 games (~110 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957711\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\" data-columns=\"1\"> </div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"vectrex\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/125/vectrex.webp",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Console",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-18T23:51:46+01:00",
-            "date_modified": "2024-12-18T23:59:48+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/nec-supergrafx-supergrafx/index.html",
-            "url": "https://pixelnostalgia.github.io/nec-supergrafx-supergrafx/index.html",
-            "title": "NEC PC Engine SuperGrafx (supergrafx)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/124/supergrafx.svg\" alt=\"\" width=\"377\" height=\"184\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/124/pc-engine-supergrafx.webp\" alt=\"\" width=\"1256\" height=\"1256\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/124/responsive/pc-engine-supergrafx-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/124/responsive/pc-engine-supergrafx-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/124/responsive/pc-engine-supergrafx-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/124/responsive/pc-engine-supergrafx-xl.webp 1200w\"></figure>\n<p>The PC Engine SuperGrafx (PCエンジンスーパーグラフィックス, Pī Shī Enjin SūpāGurafikkusu), also known as simply the SuperGrafx, is a fourth-generation home video game console manufactured by NEC Home Electronics and released in Japan and France in 1989. It is the successor system to the PC Engine, released two years prior. Originally known as the PC Engine 2 during production stages, it was purported as a true 16-bit home console, featuring improved graphics and audio capabilities over its predecessor.<br><br>The console was rushed to market, released several months before its initial release date of 1990, only having modest updates to the hardware. With only six retail games released that took advantage of the console's hardware updates, the SuperGrafx was a commercial failure, selling only 75,000 units total in both regions. None of the hardware advancements it possessed were carried over to NEC's later consoles, such as the TurboDuo.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">5 games (~37 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957701\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\" data-columns=\"1\"> </div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"supergrafx\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/124/supergrafx.webp",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Console",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-18T23:41:37+01:00",
-            "date_modified": "2024-12-18T23:50:33+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/super-nintendo-msu-1-snes-msu1/index.html",
-            "url": "https://pixelnostalgia.github.io/super-nintendo-msu-1-snes-msu1/index.html",
-            "title": "Super Nintendo MSU-1 (snes-msu1)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/121/snes-msu1-w-logo.png\" alt=\"\" width=\"377\" height=\"61\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/121/responsive/snes-msu1-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/121/responsive/snes-msu1-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/121/responsive/snes-msu1-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/121/responsive/snes-msu1-w-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/121/Super-Nintendo-Entertainment-System-MSU-1.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/121/responsive/Super-Nintendo-Entertainment-System-MSU-1-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/121/responsive/Super-Nintendo-Entertainment-System-MSU-1-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/121/responsive/Super-Nintendo-Entertainment-System-MSU-1-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/121/responsive/Super-Nintendo-Entertainment-System-MSU-1-xl.webp 1200w\"></figure>\n<p>The MSU-1 is a cartridge addon chip (similar to the SuperFx chip) that allows for many enhancements to SNES games including, but not limited to, full-motion video and CD quality sound by adding up to 4GB (yes, 4 gigabytes) of storage for extra content.<br><br>Some examples of MSU-1 modded games would be:<br><br>Zelda: A Link to the Past done with a fully orchistrated CD quality soundtrack.<br>Chrono Trigger with all the video cutscenes from the PlayStation version inserted.<br>Mega Man X with a new CD quality soundtrack.<br><br>The MSU-1 chip itself only needs to be in the game cartridge to run on an actual unmodded SNES system. Emulators, on the other hand, need to be modified to support playback of MSU-1 modded games. This is due to the emulator needing to access files outside the ROM while playing the ROM.<br>The chip does have some limitations, such as only being able to stream one data track at a time, but it essentially turns the SNES into what it could have been with a CD attachment.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">54 games (~28 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=946676\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/121/gallery/Zrzut-ekranu-2024-12-18-232630.png\" data-size=\"3073x1723\"><img loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/121/gallery/Zrzut-ekranu-2024-12-18-232630-thumbnail.webp\" alt=\"\" width=\"768\" height=\"431\"></a></figure>\n</div></div>\n<p class=\"msg msg--info msg--warning\"><strong>NOTE:</strong><br>The folder in RetroBat is called snes-msu the folder in Batocera is called snes-msu1</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"snes-msu1\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/121/snes-msu.webp",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Extension",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-18T23:08:43+01:00",
-            "date_modified": "2024-12-18T23:27:47+01:00"
         }
     ]
 }
