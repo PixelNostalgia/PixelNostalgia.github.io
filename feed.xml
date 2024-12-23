@@ -3,351 +3,233 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2024-12-22T22:36:19+01:00</updated>
+    <updated>2024-12-23T23:19:22+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
     <entry>
-        <title>Dinothawr (dinothawr)</title>
+        <title>Camerica Aladdin Deck Enhancer (nes_aladdin)</title>
         <author>
-            <name>RapsterUK</name>
+            <name>RGS</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/dinothawr-dinothawr/index.html"/>
-        <id>https://pixelnostalgia.github.io/dinothawr-dinothawr/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/175/dinothawr_system.png" medium="image" />
+        <link href="https://pixelnostalgia.github.io/camerica-aladdin-deck-enhancer-nes_aladdin/index.html"/>
+        <id>https://pixelnostalgia.github.io/camerica-aladdin-deck-enhancer-nes_aladdin/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/196/nes_aladdin_system.png" medium="image" />
             <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
-            <category term="Port"/>
             <category term="PC x86"/>
+            <category term="Extension"/>
             <category term="Custom"/>
             <category term="Batocera"/>
 
-        <updated>2024-12-22T21:54:43+01:00</updated>
+        <updated>2024-12-23T23:09:06+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/175/dinothawr_system.png" alt="dinothawr" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/196/nes_aladdin_system.png" alt="nes_aladdin" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/175/dinothawr_system.png" class="type:primaryImage" alt="dinothawr" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/196/nes_aladdin_system.png" class="type:primaryImage" alt="nes_aladdin" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/175/dinothawr-2.png" alt="" width="377" height="112" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/175/responsive/dinothawr-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/175/responsive/dinothawr-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/175/responsive/dinothawr-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/175/responsive/dinothawr-2-xl.webp 1200w"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/175/dinothawr.png" alt="" width="316" height="316" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/175/responsive/dinothawr-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/175/responsive/dinothawr-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/175/responsive/dinothawr-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/175/responsive/dinothawr-xl.webp 1200w"></figure>
-<p><br>Dinothawr is a block pushing puzzle game on slippery surfaces. Our hero is a dinosaur whose friends are trapped in ice. Through puzzles it is your task to free the dinos from their ice prison.<br><br>The Dinothawr core has been authored by<br>- Themaister (programming, music, some level design)<br>- Runar Heyer (art, level design, some code)</p>
+<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/196/nes_aladdin-2.png" alt="" width="377" height="118" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/196/responsive/nes_aladdin-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/196/responsive/nes_aladdin-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/196/responsive/nes_aladdin-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/196/responsive/nes_aladdin-2-xl.webp 1200w"></figure><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/196/nes_aladdin.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/196/responsive/nes_aladdin-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/196/responsive/nes_aladdin-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/196/responsive/nes_aladdin-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/196/responsive/nes_aladdin-xl.webp 1200w"></figure>
+<p>The Aladdin Deck Enhancer is a system-enhancing adaptor to use Compact Cartridges on the Nintendo Entertainment System. It was produced by Camerica and developed by Codemasters but not licensed by Nintendo.<br> <br>The Aladdin Deck Enhancer contains a bypass Security Circuit Chip, a Memory Control Chip, and a Graphics Chip, which work with the lock-out chip and other features inside the NES. First, the Compact Cartridge is inserted into the Aladdin Deck Enhancer, which is shaped the same as a standard NES cartridge, and then this is inserted into the Control Deck. Inside the slot where the Compact Cartridge is placed is a recessed switch, which changes the Security/Region settings from position A to position B.<br>It contains 8 kilobytes of RAM for graphics use, and provides a cheaper means with which to make the game cartridges, mainly because each cartridge requires its own 10NES lock-out chip, RAM, and extra circuitry.</p>
 
 <h5>The package includes:</h5>
-<p class="msg msg--success">1 game (~8 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957747" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<p class="msg msg--success">20 games (~122 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957624" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/196/gallery/Zrzut-ekranu-2024-12-23-231739.png" data-size="3073x1723"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/196/gallery/Zrzut-ekranu-2024-12-23-231739-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "nes_aladdin" folder into the 'roms' directory and Enjoy!</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>SNK Hyper Neo Geo 64 (neogeo64)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/snk-hyper-neo-geo-64-neogeo64/index.html"/>
+        <id>https://pixelnostalgia.github.io/snk-hyper-neo-geo-64-neogeo64/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/195/neogeo64_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+            <category term="Arcade"/>
+
+        <updated>2024-12-23T23:00:35+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/195/neogeo64_system.png" alt="neogeo64" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/195/neogeo64_system.png" class="type:primaryImage" alt="neogeo64" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/195/neogeo64.svg" alt="" width="377" height="97"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/195/neogeo64.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/195/responsive/neogeo64-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/195/responsive/neogeo64-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/195/responsive/neogeo64-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/195/responsive/neogeo64-xl.webp 1200w"></figure>
+<p>Arcade system created by SNK, and released in September 1997, as the successor of the Neo Geo MVS, within the Neo Geo family.<br><br>It is the first and only SNK hardware set capable of rendering in 3D, and was meant to replace SNK's older MVS system on the market. Company executives planned for the project to bring SNK into the new era of 3D gaming that had arisen during the mid-1990s, and had planned for a corresponding home system to replace the aging and expensive AES home console.<br><br>However it never managed to match the huge success of the MVS, and reached its end of life in 1999. Only seven games were produced for the arcade variation of the system, none of which proved particularly popular, and the project was discontinued. The proposed home system never got beyond initial planning stages and only one of the arcade games, Fatal Fury: Wild Ambition, has been ported to home systems.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">7 games (~423 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=954706" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "dinothawr" folder into the 'roms' directory and Enjoy!</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Delete the "neogeo64" folder from the 'roms' directory<br>Drag and drop the "neogeo64" folder to the "roms" directory</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>GamePark 32 (gp32)</title>
+        <title>Namco System ES3 (namcoes3)</title>
         <author>
             <name>RGS</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/gamepark-gp32-gp32/index.html"/>
-        <id>https://pixelnostalgia.github.io/gamepark-gp32-gp32/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/174/gp32_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Portable"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-22T21:47:39+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/174/gp32_system.png" alt="gp32" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/174/gp32_system.png" class="type:primaryImage" alt="gp32" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/174/gp32.svg" alt="" width="377" height="95"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/174/gp32.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/174/responsive/gp32-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/174/responsive/gp32-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/174/responsive/gp32-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/174/responsive/gp32-xl.webp 1200w"></figure>
-<p>The GP32 (GamePark 32) is a handheld game console developed by the South Korean company Game Park. It was released on November 23, 2001, in South Korea and distributed in some parts of Europe.<br><br>The overall design is not unlike the original version of the Game Boy Advance. The GP32 is based on a 133 MHz ARM 9 CPU and 8 MB of SDRAM. Unlike other handheld gaming systems, which tend to be proprietary cartridge-based, the GP32 uses SmartMedia cards (SMC) for storing programs and data, making it accessible for amateur developers as no further development hardware is required.<br><br>The console has a eight-way microswitch based mini-joystick controller, two main buttons ('A' and 'B'), two shoulder buttons on each side of the SMC slot ('L' and 'R') and two other menu buttons on each side of the screen ('SELECT' and 'START'), made from a softer, translucent rubber. The console also has a USB 1.1 port for connection with a host computer, a serial expansion port, a 3.3 V power adapter input, a headphone connector and a rear compartment that holds two AA-sized batteries.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">20 games (~171 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957659" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gp32" folder into the 'roms' directory and Enjoy!</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hartung Game Master (gmaster)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/hartung-game-master-gmaster/index.html"/>
-        <id>https://pixelnostalgia.github.io/hartung-game-master-gmaster/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/173/gamemaster_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Portable"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-22T21:39:56+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/173/gamemaster_system.png" alt="gmaster" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/173/gamemaster_system.png" class="type:primaryImage" alt="gmaster" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/173/gamemaster-logo.png" alt="" width="377" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/173/responsive/gamemaster-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/173/responsive/gamemaster-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/173/responsive/gamemaster-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/173/responsive/gamemaster-logo-xl.webp 1200w"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/173/gmaster.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/173/responsive/gmaster-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/173/responsive/gmaster-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/173/responsive/gmaster-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/173/responsive/gmaster-xl.webp 1200w"></figure>
-<p>The Game Master is a handheld game console manufactured by Hartung, and designed to compete with the Nintendo Game Boy. In Germany, it was marketed by Hartung itself, while in the UK it was released as the Systema 2000 by the already well-established maker of cheap LCD games Systema. It was also sold a few under alternate names in France, including the Videojet Game Master as well as for a few released by Hartung as the Hartung Super Game and the Hartung Game Tronic. The Game Master has a 64 x 64 monochrome LCD screen.<br><br>The design was much like the Sega Game Gear with a D-Pad and two action buttons, although another variation, the Game Plus, features a more Game Boy-like design which is backed by a company called Caterpillar and was sold by Delplay in France. The cartridges resemble those used by the Watara Supervision, with the card edge of the cartridge jutted out past the plastic of the cartridge. The Game Master utilizes a 40-pin cartridge port like the Supervision but is not compatible with Supervision games.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">11 games (~12 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957655" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gmaster" folder into the 'roms' directory and Enjoy!</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Epoch Game Pocket Computer (gamepock)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/epoch-game-pocket-computer-gamepock/index.html"/>
-        <id>https://pixelnostalgia.github.io/epoch-game-pocket-computer-gamepock/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/172/gamepock_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Portable"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-22T21:24:55+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/172/gamepock_system.png" alt="gamepock" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/172/gamepock_system.png" class="type:primaryImage" alt="gamepock" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/172/gamepock.svg" alt="" width="377" height="170"></figure><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/172/Epoch-Game-Pocket-Computer.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/172/responsive/Epoch-Game-Pocket-Computer-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/172/responsive/Epoch-Game-Pocket-Computer-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/172/responsive/Epoch-Game-Pocket-Computer-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/172/responsive/Epoch-Game-Pocket-Computer-xl.webp 1200w"></figure>
-<p> </p>
-<p>The Game.com is a fifth-generation handheld game console released by Tiger Electronics in August 1997. A smaller version, the Game.com Pocket Pro, was released in mid-1999.<br>The first version of the Game.com can be connected to a 14.4 kbit/s modem for Internet connectivity, hence its name referencing the top level domain .com.<br><br>It was the first video game console to include a touchscreen and the first handheld console to include Internet connectivity.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">5 games (~13 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957656" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gamepock" folder into the 'roms' directory and Enjoy!</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tiger Electronics Game.com (gamecom)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/tiger-electronics-gamecom-gamecom/index.html"/>
-        <id>https://pixelnostalgia.github.io/tiger-electronics-gamecom-gamecom/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/171/gamecom_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Portable"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-22T21:18:48+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/171/gamecom_system.png" alt="gamecom" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/171/gamecom_system.png" class="type:primaryImage" alt="gamecom" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/171/gamecom.svg" alt="" width="377" height="106"></figure><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/171/Tiger-Game.com.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/171/responsive/Tiger-Game.com-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/171/responsive/Tiger-Game.com-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/171/responsive/Tiger-Game.com-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/171/responsive/Tiger-Game.com-xl.webp 1200w"></figure>
-<p> </p>
-<p>The Game.com is a fifth-generation handheld game console released by Tiger Electronics in August 1997. A smaller version, the Game.com Pocket Pro, was released in mid-1999.<br>The first version of the Game.com can be connected to a 14.4 kbit/s modem for Internet connectivity, hence its name referencing the top level domain .com.<br><br>It was the first video game console to include a touchscreen and the first handheld console to include Internet connectivity.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">20 games (~120 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957657" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gamecom" folder into the 'roms' directory and Enjoy!</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bit Corporation Gamate (gamate)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/bit-corporation-gamate-gamate/index.html"/>
-        <id>https://pixelnostalgia.github.io/bit-corporation-gamate-gamate/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/170/gamate_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Portable"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-22T21:08:13+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/170/gamate_system.png" alt="gamate" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/170/gamate_system.png" class="type:primaryImage" alt="gamate" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/170/gamate.svg" alt="" width="377" height="42"></figure><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/170/gamate.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/170/responsive/gamate-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/170/responsive/gamate-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/170/responsive/gamate-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/170/responsive/gamate-xl.webp 1200w"></figure>
-<p> </p>
-<p>The Gamate, known as 超級小子 (pinyin: chāojí xiǎozi, literally "Super Boy") in Taiwan and 超级神童 (pinyin: chāojí shéntóng, literally "Super Child Prodigy") in China, is a handheld game console manufactured by Bit Corporation in the early 1990s, and released in Australia, some parts of Europe, Asia (Taiwan and China), Argentina, and the United States.<br><br>The only emulator that supports it is MESS. Over 70 games, not all dumped, are known to have been produced for the system.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">57 games (~881 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957640" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gamate" folder into the 'roms' directory and Enjoy!</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Gaelco (gaelco)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/gaelco-gaelco/index.html"/>
-        <id>https://pixelnostalgia.github.io/gaelco-gaelco/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/169/gaelco_system.png" medium="image" />
+        <link href="https://pixelnostalgia.github.io/namco-system-es3-namcoes3/index.html"/>
+        <id>https://pixelnostalgia.github.io/namco-system-es3-namcoes3/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/194/namcoes3_system.png" medium="image" />
             <category term="Retrobat"/>
             <category term="PC x86"/>
             <category term="Custom"/>
             <category term="Batocera"/>
             <category term="Arcade"/>
 
-        <updated>2024-12-22T21:01:57+01:00</updated>
+        <updated>2024-12-23T22:37:50+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/169/gaelco_system.png" alt="gaelco" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/194/namcoes3_system.png" alt="namcoes3" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/169/gaelco_system.png" class="type:primaryImage" alt="gaelco" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/194/namcoes3_system.png" class="type:primaryImage" alt="namcoes3" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/169/gaelco-logo.png" alt="" width="377" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/169/responsive/gaelco-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/169/responsive/gaelco-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/169/responsive/gaelco-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/169/responsive/gaelco-logo-xl.webp 1200w"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/169/gaelco.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/169/responsive/gaelco-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/169/responsive/gaelco-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/169/responsive/gaelco-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/169/responsive/gaelco-xl.webp 1200w"></figure>
-<p>Gabinete Electrónico Consultivo, S.A., is a trademark and better known as Gaelco, S.A.. It is a Spanish company that develops and publishes arcade games and video games. Since 2007, Gaelco also develops electronic dart machines under the name "Gaelco Darts".</p>
+<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/194/namcoes3.svg" alt="" width="377" height="79"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/194/namcoes3.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/194/responsive/namcoes3-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/194/responsive/namcoes3-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/194/responsive/namcoes3-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/194/responsive/namcoes3-xl.webp 1200w"></figure>
+<p>The Namco ES3 arcade platform runs on an nForce2-based motherboard that NVIDIA developed. It is based on a NVIDIA GeForce graphics card, using the OpenGL API. It uses a modified Japanese version of Windows Embedded Standard 7 as the operating system.<br><br>Namco ES3 games run in an arcade game cabinet designed by Bandai Namco Games.</p>
 
 <h5>The package includes:</h5>
-<p class="msg msg--success">4 games (~213 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=954705" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<p class="msg--success msg msg--info">14 games in pack for Batocera (~122 GB)<br>19 games in pack for Retrobat (~145 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=957594" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Pack for Batocera</a>  <a href="https://back-ups.me/details.php?id=964805" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Pack for Retrobat</a>  </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/194/gallery/Zrzut-ekranu-2024-12-23-225654.png" data-size="3070x1719"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/194/gallery/Zrzut-ekranu-2024-12-23-225654-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/Kp3ZnfL4DQg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="msg msg--info"><strong>Batocera pack NOTE:</strong><br>Requirements: RGS Batocera v40 with latest updates (check discord how to update)<br><br>Instructions: Drag and drop the "namcoes3" folder into the Roms directory.<br><br>Q: What is Arcade PC?<br>A: Arcade PC games are modern arcade games not playable with MAME, such as the BlazBlue series.<br><br>Q: Is this Teknoparrot?<br>A: Not quite. Teknoparrot is only a game launcher, and unfortunately, it does not work on Batocera/Linux.<br><br>Q: How does it work?<br>A: Launching Arcade PC games in Batocera is achieved using JConfig through Wine.<br><br>Q: What are JConfig and Wine?<br>A: JConfig is not just a program for launching recent arcade games; it includes a wide collection of launchers, tools, emulators, and patched executables for a better "arcade at home" experience. Wine enables Windows games/applications to run on Linux (Batocera).<br><br>Q: Does this sound complicated? Should we be worried?<br>A1: No need to worry! We've packaged the games to launch on most systems (Intel i5 / AMD Zen1).<br>A2: Namco ES3 games have been tested and working on AMD iGPU 3000 series and up, Intel i5/i7, RTX 2060. However Intel iGPU is no go.<br><br>Q: Is there anything else we need to know?<br>A: Yes, a few minor details:<br><br>- Most lightgun games require an actual lightgun (e.g., Sinden).<br>- Some lightgun games can be played with a mouse (a mouse indicator icon is present in the wheel).<br>- All games use a custom Wine GE runner and manual pad2key made by SPiRiT!<br>- A lot of Boxart is fictional as these games does not have boxart, missing boxart is custom created by G-spawn! ty ty!</p>
+<p class="msg msg--highlight "><strong>How to install Batocera pack:</strong><br>Drag and drop the "namcoes3" folder into the 'roms' directory and Enjoy!</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
-<p class="msg msg--info">Gaelco uses Demul emulator that only has 4 working game:, atvtrack.zip, atvtracka.zip, gfootbal.zip, smashdrv.zip. atvtracka.zip is hidden (duplicate, clone)</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gaelco" folder into the 'roms' directory and Enjoy!</p>
+<p class="msg msg--info"><strong>Retrobat pack NOTE:<br></strong>- Teknoparrot on RetroBat will auto configure controllers more info: https://wiki.retrobat.org/systems-and-emulators/supported-game-systems/arcade/teknoparrot<br>- If you want to setup your own controller, lightgun or steering wheel from Teknoparrot UI, you must disable autoconfigure controllers in RetroBat menu first RetroBat &gt; Advanced Emualtor settings &gt; autoconfigure controllers to OFF.<br>- To setup your APM3ID you have to go into RetroBat &gt; Advanced Emualtor settings &gt; User Interface and put in your profile name.<br>- All games have been tested and working to run on a i5 9th gen, Nvidia GTX 1050, RTX 3050<br>- The Teknoparrot launcher has been setup on R: but also tested on other drives, so far everything is portable<br><br>- When extracting or launching games your AV will trigger (Windows Defender), this almost always happens with teknoparrot games because there are patched .exe files. This is a false positive and you should exclude the RetroBat directory and Teknoparrot game files (including where you download it)<br>- Team Pixel Nostalgia can't support Teknoparrot, this has its own community with patches for GPU's etc.<strong><br></strong></p>
+<p class="msg msg--warning">Requirements: Windows 10,11 with VisualC runtime and Directplay, RetroBat 6.3.1 with RGS Latest update<br><br>VisualC AIO runtime: https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/<br><br>DirectPlay: open a CMD as Admin,run:<br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">CODE:</span></p>
+<div class="codeeditor">
+<pre id="code_tag" class="codemain" dir="ltr">dism /online /Enable-Feature /FeatureName:DirectPlay /All</pre>
+</div>
+<p class="msg msg--highlight "><strong>How to install Retrobat pack:</strong><br>Drag and drop the "namcoes3" folder into the 'roms' directory and Enjoy!</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Fujitsu Micro 7 (fm7)</title>
+        <title>Nichibutsu My Vision (myvision)</title>
         <author>
             <name>RGS</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/fujitsu-micro-7-fm7/index.html"/>
-        <id>https://pixelnostalgia.github.io/fujitsu-micro-7-fm7/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/168/fm7_system.png" medium="image" />
+        <link href="https://pixelnostalgia.github.io/nichibutsu-my-vision-myvision/index.html"/>
+        <id>https://pixelnostalgia.github.io/nichibutsu-my-vision-myvision/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/193/myvision_system.png" medium="image" />
             <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
             <category term="PC x86"/>
-            <category term="Computer"/>
+            <category term="Custom"/>
+            <category term="Console"/>
             <category term="Batocera"/>
 
-        <updated>2024-12-22T19:04:09+01:00</updated>
+        <updated>2024-12-23T22:31:06+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/168/fm7_system.png" alt="fm7" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/193/myvision_system.png" alt="myvision" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/168/fm7_system.png" class="type:primaryImage" alt="fm7" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/193/myvision_system.png" class="type:primaryImage" alt="myvision" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/168/fm7.svg" alt="" width="377" height="179"></figure>
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/193/myvision-2.png" alt="" width="377" height="188" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/193/responsive/myvision-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/193/responsive/myvision-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/193/responsive/myvision-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/193/responsive/myvision-2-xl.webp 1200w"></figure>
 <p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/168/fm7-2.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/168/responsive/fm7-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/168/responsive/fm7-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/168/responsive/fm7-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/168/responsive/fm7-2-xl.webp 1200w"></figure>
-<p>The FM-7 ("Fujitsu Micro 7") is a home computer created by Fujitsu. It was first released in 1982 and was sold in Japan and Spain. It is a stripped-down version of Fujitsu's earlier FM-8 computer, and during development it was referred to as the "FM-8 Jr.".<br><br>Although it was designed to be a cut-down version of the FM-8, most notably removing the (expensive) bubble memory technology, the FM-7 was given a more advanced AY-3-8910 sound chip capable of three voice sound synthesis, leading to a strong uptake among the hobbyist computer market in Japan and making it a more popular system than the FM-8.<br><br>The FM-7 primarily competed with the NEC PC-8801 and Sharp X1 series of computers in the early 1980s. It was succeeded by the FM-77 series of computers in 1984, which featured backwards compatibility with the FM-7. The FM-77 series was later succeeded by the 32-bit FM Towns in 1989.<br><br>The FM-7 is based around the 6809 chip, which was also used in home computers such as the TRS-80 Color Computer and Dragon 32/64, as well as several arcade games.</p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/193/myvision.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/193/responsive/myvision-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/193/responsive/myvision-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/193/responsive/myvision-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/193/responsive/myvision-xl.webp 1200w"></figure>
+<p>The My Vision (Japanese: マイビジョン, Hepburn: Mai bijon) is a home video game console developed by Nichibutsu and released in Japan in 1983. The system was dedicated solely to playing video versions of popular board games.<br><br>My Vision came equipped with the same Texas Instruments graphics chip used in the ColecoVision and allowed both RF &amp;amp; composite video output. The console had no controllers; instead, players used a keyboard on the front of the console to input their actions.</p>
 
 <h5>The package includes:</h5>
-<p class="msg msg--success">82 games (~79 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957639" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "fm7" folder to the "roms" directory</p>
+<p class="msg msg--success">4 games (~21 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=954533" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="2"> </div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Delete the "myvision" folder from the 'roms' directory<br>Drag and drop the "myvision" folder to the "roms" directory</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Exelvision EXL 100 (exl100)</title>
+        <title>M.U.G.E.N. (mugen)</title>
         <author>
             <name>RGS</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/exelvision-exl-100-exl100/index.html"/>
-        <id>https://pixelnostalgia.github.io/exelvision-exl-100-exl100/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/167/exl100_system.png" medium="image" />
+        <link href="https://pixelnostalgia.github.io/mugen-mugen/index.html"/>
+        <id>https://pixelnostalgia.github.io/mugen-mugen/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/192/mugen_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-23T22:24:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/192/mugen_system.png" alt="mugen" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/192/mugen_system.png" class="type:primaryImage" alt="mugen" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/192/mugen.svg" alt="" width="377" height="55"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/192/mugen.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/192/responsive/mugen-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/192/responsive/mugen-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/192/responsive/mugen-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/192/responsive/mugen-xl.webp 1200w"></figure>
+<p><br>M.U.G.E.N - a freeware program to create your own 2D games (brawlers), written in C. The game engine was released in 1999 by Elecbyte and was developed for the next four years. Since 2003 the company discontinued support for the engine, however Elecbyte returned to the engine development and released a new version in 2009. Updates released between 2004 and 2008 were unofficial versions of the original engine.<br><br>The word "mugen" probably comes from the Japanese language where it means dream, fantasy, or infinity. Officially Elecbyte claims to have forgotten what the acronym they chose for the name means, but the included documentation suggests that the engine was originally intended for use in shoot'em ups.<br><br>The engine is easily configurable. You can modify many elements of the game, including characters, arenas and the look of the engine itself. M.U.G.E.N community is centered around Internet themed forums, where users share the games they have created, as well as characters, which often represent characters from popular computer games.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">85 game (~68 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=946263" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "mugen" folder into the 'roms' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Memotech MTX512 (mtx512)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/memotech-mtx512-mtx512/index.html"/>
+        <id>https://pixelnostalgia.github.io/memotech-mtx512-mtx512/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/191/mtx512_system.png" medium="image" />
             <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
@@ -356,72 +238,202 @@
             <category term="Computer"/>
             <category term="Batocera"/>
 
-        <updated>2024-12-22T18:58:45+01:00</updated>
+        <updated>2024-12-23T22:19:08+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/167/exl100_system.png" alt="exl100" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/191/mtx512_system.png" alt="mtx512" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/167/exl100_system.png" class="type:primaryImage" alt="exl100" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/191/mtx512_system.png" class="type:primaryImage" alt="mtx512" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/167/exl100-w.svg" alt="" width="377" height="189"></figure>
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/191/mtx512-2.png" alt="" width="377" height="86" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/191/responsive/mtx512-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/191/responsive/mtx512-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/191/responsive/mtx512-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/191/responsive/mtx512-2-xl.webp 1200w"></figure>
 <p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/167/exl100.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/167/responsive/exl100-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/167/responsive/exl100-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/167/responsive/exl100-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/167/responsive/exl100-xl.webp 1200w"></figure>
-<p>The EXL 100 is a computer released in 1984 by the French brand Exelvision, based on the TMS 7020 microprocessor from Texas Instruments. This was an uncommon design choice (at the time almost all home computers either used 6502 or Z80 microprocessors) but justified by the fact that the engineering team behind the machine (Jacques Palpacuer, Victor Zebrouck and Christian Petiot) came from Texas instruments. It was part of the government Computing for All plan and 9000 units were used in schools.<br><br>The design is unusual compared with similar machines of the time, as it had a separate central processing unit. Two keyboards are available: one with rubber keys and another with a more standard touch. Keyboard and joystick were not connected to the central unit by a cable but by infrared link, and are battery powered. Many extensions were available: modem, floppy disk drive and a 16 KB CMOS RAM powered by an integrated lithium battery. Its TMS 5220 sound processor was capable of French speech synthesis, another unusual feature.<br><br>The machine came with a BASIC version on cartridge named ExelBasic.</p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/191/mtx512.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/191/responsive/mtx512-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/191/responsive/mtx512-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/191/responsive/mtx512-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/191/responsive/mtx512-xl.webp 1200w"></figure>
+<p>The Memotech MTX500 and MTX512 were a range of 8-bit Zilog Z80A based home computers released by the British company Memotech in 1983 and sold mainly in the UK, France, Germany and Scandinavia. Originally a manufacturer of memory add-ons for Sinclair machines, Memotech developed their own competing computer when it was perceived the expansion pack business would no longer be viable.<br><br>The Memotech machines were technically similar to, although not compatible with, the MSX standard, making use of the same CPU and video chip. The machines were particularly distinguished from other microcomputers available at the time by the generous maximum memory ceiling. The 500 and 512 models could be expanded internally up to 512K, an unusually large amount of RAM in 1983 for a computer aimed at home use.</p>
 
 <h5>The package includes:</h5>
-<p class="msg msg--success">5 games (~15 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=954538" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--highlight "><strong>How to install:<br></strong>Delete the "exl100" folder from the 'roms' directory<br>Drag and drop the "exl100" folder to the "roms" directory</p>
+<p class="msg msg--success">42 games (~44 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957673" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "mtx512" folder to the "roms" directory</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Dragon Data Dragon 32 (dragon32)</title>
+        <title>Microsoft MSX Turbo R (msxturbor)</title>
         <author>
             <name>RGS</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/dragon-data-dragon-32-dragon32/index.html"/>
-        <id>https://pixelnostalgia.github.io/dragon-data-dragon-32-dragon32/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/166/dragon32_system.png" medium="image" />
+        <link href="https://pixelnostalgia.github.io/microsoft-msx-turbo-r-msxturbor/index.html"/>
+        <id>https://pixelnostalgia.github.io/microsoft-msx-turbo-r-msxturbor/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/190/msxturbor.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Computer"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-23T22:08:35+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/190/msxturbor.png" alt="msxturbor" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/190/msxturbor.png" class="type:primaryImage" alt="msxturbor" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/190/msxturbor.svg" alt="" width="377" height="136"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/190/msxturbor-2.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/190/responsive/msxturbor-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/190/responsive/msxturbor-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/190/responsive/msxturbor-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/190/responsive/msxturbor-2-xl.webp 1200w"></figure>
+<p>The MSX Turbo R is the last generation of MSX computers that was put to market by a household electronic brand. Only Panasonic was brave enough to put faith in the standard once again, by releasing two different models: the Panasonic FS-A1ST and the Panasonic FS-A1GT. MSX Turbo R computers were produced until 1994.<br>New features include: a new PCM sound chip which can produce digitized sound up to 44 KHz (in assembly language) and a new Z80 downward compatible R800 processor. The user can select the CPU (Z80 or R800) by software.<br><br>According to Kay Nishi, the R on the MSX Turbo R stands for RISC (Reduced instruction set computing).<br><br>There is not a lot of software specific for the MSX Turbo R, although a lot of MSX games can run smoother and/or faster on an MSX Turbo R. As with the MSX2+, some software uses the optional scroll features or higher screens.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">42 games (~163 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957674" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "msxturbor" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Palcom MSX Laserdisc (msxlaserdisk)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/palcom-msx-laserdisc-msxlaserdisk/index.html"/>
+        <id>https://pixelnostalgia.github.io/palcom-msx-laserdisc-msxlaserdisk/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/189/msxlaserdisc_system.png" medium="image" />
             <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
             <category term="PC x86"/>
             <category term="Custom"/>
-            <category term="Computer"/>
+            <category term="Console"/>
             <category term="Batocera"/>
 
-        <updated>2024-12-22T18:52:51+01:00</updated>
+        <updated>2024-12-23T21:56:45+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/166/dragon32_system.png" alt="dragon32" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/189/msxlaserdisc_system.png" alt="msxlaserdisk" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/166/dragon32_system.png" class="type:primaryImage" alt="dragon32" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/189/msxlaserdisc_system.png" class="type:primaryImage" alt="msxlaserdisk" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/166/dragon32-w.svg" alt="" width="377" height="55"></figure>
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/189/msxlaserdisk.svg" alt="" width="334" height="161"></figure>
 <p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/166/dragon32.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/166/responsive/dragon32-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/166/responsive/dragon32-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/166/responsive/dragon32-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/166/responsive/dragon32-xl.webp 1200w"></figure>
-<p>The Dragon 32 and Dragon 64 are home computers that were built in the 1980s. The Dragons are very similar to the TRS-80 Color Computer, and were produced for the European market by Dragon Data, Ltd., initially in Swansea, Wales before moving to Port Talbot, Wales (until 1984) and by Eurohard S.A. in Casar de Cáceres, Spain (from 1984 to 1987), and for the US market by Tano of New Orleans, Louisiana.<br><br>The model numbers reflect the primary difference between the two machines, which have 32 and 64 kilobytes (32,768 and 65,536 bytes) of RAM, respectively.</p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/189/Microsoft-MSX-LaserDisc.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/189/responsive/Microsoft-MSX-LaserDisc-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/189/responsive/Microsoft-MSX-LaserDisc-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/189/responsive/Microsoft-MSX-LaserDisc-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/189/responsive/Microsoft-MSX-LaserDisc-xl.webp 1200w"></figure>
+<p>LaserDisc is an optical disc technology, and looks like a very large CD-ROM. It was envisioned to be the future of Multimedia and was backed by amongst others Sony, Philips and Pioneer. While Philips never did anything with MSX and LaserDisc, Pioneer launched several MSX computers with integrated LaserDisc control ability, and various LaserDisc players.<br><br>While LaserDisc capable MSX systems from Pioneer were available in Japan, Europe and the US, commercially available software for the system was only published in Japan from 1984-1986 by the LaserDisc Corporation, a Pioneer subsidiary.<br><br>Later, Sony released exclusively in Europe a series of professional MSX2 computers with LaserDisc support, but no compatible software has been publicly released. One possible explanation is that this support was only used in-house by large media organisations which used these systems.</p>
 
 <h5>The package includes:</h5>
-<p class="msg msg--success">385 games (~717 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957635" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
+<p class="msg msg--success">20 games (~16 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=956847" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/189/gallery/Zrzut-ekranu-2024-12-23-220217.png" data-size="3072x1723"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/189/gallery/Zrzut-ekranu-2024-12-23-220217-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/189/gallery/Zrzut-ekranu-2024-12-23-220309.png" data-size="3072x1721"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/189/gallery/Zrzut-ekranu-2024-12-23-220309-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "msxlaserdisk" folder to the Roms directory<br>For RetroBat set the emulator to “OpenMSX” And ungroup from MSX in the game collection menu.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Microsoft MSX 2+ (msx2+)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/microsoft-msx-2-msx2/index.html"/>
+        <id>https://pixelnostalgia.github.io/microsoft-msx-2-msx2/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/187/msx2_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Computer"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-23T21:49:08+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/187/msx2_system.png" alt="msx2+" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/187/msx2_system.png" class="type:primaryImage" alt="msx2+" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/187/msx2-w.svg" alt="" width="377" height="102"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/187/Microsoft-MSX2.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/187/responsive/Microsoft-MSX2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/187/responsive/Microsoft-MSX2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/187/responsive/Microsoft-MSX2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/187/responsive/Microsoft-MSX2-xl.webp 1200w"></figure>
+<p>MSX 2 was an 8-bit computer standard introduced in 1985, a development of the MSX standard (later called MSX 1). Compared to its predecessor, it had enhanced graphics capabilities and the MSX DOS 2.0 operating system.<br><br>The MSX 2 standard did not gain much popularity, or even as much as MSX 1. After its introduction, Microsoft left the MSX project, but ASCII Corporation continued the work and in 1988 another improved MSX 2+ standard was presented, available only in Japan. In 1991 Panasonic unveiled a computer of the improved MSX Turbo R standard, but ceased their production as early as 1992. MSX computers were pushed out of the market with the dusk of 8-bit computers.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">71 games (~383 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957675" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
 <p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "dragon32" folder to the "roms" directory</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "msx2+" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Microsoft MSX (msx)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/microsoft-msx-msx/index.html"/>
+        <id>https://pixelnostalgia.github.io/microsoft-msx-msx/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/186/msx_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Computer"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-23T21:38:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/186/msx_system.png" alt="msx" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/186/msx_system.png" class="type:primaryImage" alt="msx" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/186/msx.svg" alt="" width="370" height="150"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/186/Microsoft-MSX.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/186/responsive/Microsoft-MSX-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/186/responsive/Microsoft-MSX-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/186/responsive/Microsoft-MSX-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/186/responsive/Microsoft-MSX-xl.webp 1200w"></figure>
+<p>MSX is a standardized home computer architecture, announced by Microsoft and ASCII Corporation on June 16, 1983. It was initially conceived by Microsoft as a product for the Eastern sector, and jointly marketed by Kazuhiko Nishi, then vice-president at Microsoft and director at ASCII Corporation. Microsoft and Nishi conceived the project as an attempt to create unified standards among various home computing system manufacturers of the period, in the same fashion as the VHS standard for home video tape machines.<br><br>MSX systems were popular in Japan and several other countries. Sony was the primary manufacturer of MSX systems at the time of release, and throughout most of the products lifespan, producing more units than any other manufacturer. Eventually 5 million MSX-based units were sold in Japan alone. Despite Microsoft's involvement, few MSX-based machines were released in the United States.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">404 games (~1,22 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=957729" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install in Batocera:</strong><br>Drag and drop the "msx1" folder to the "roms" directory</p>
+<p class="msg msg--highlight "><strong>How to install in Retrobat:</strong><br>Drag and drop the "msx1" folder into the 'roms' directory<br>Rename the "msx1" folder to "msx"</p>
             ]]>
         </content>
     </entry>
