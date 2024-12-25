@@ -3,356 +3,193 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2024-12-25T00:35:56+01:00</updated>
+    <updated>2024-12-26T00:23:30+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
     <entry>
-        <title>Sega Ringwide (segarw)</title>
+        <title>Nec TurboGrafx-CD (tgcd)</title>
         <author>
             <name>RGS</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/sega-ringwide-segarw/index.html"/>
-        <id>https://pixelnostalgia.github.io/sega-ringwide-segarw/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/221/segarw_system.png" medium="image" />
+        <link href="https://pixelnostalgia.github.io/nec-turbografx-cd-tgcd/index.html"/>
+        <id>https://pixelnostalgia.github.io/nec-turbografx-cd-tgcd/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/249/tgcd_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
             <category term="PC x86"/>
+            <category term="Extension"/>
             <category term="Custom"/>
             <category term="Batocera"/>
-            <category term="Arcade"/>
 
-        <updated>2024-12-25T00:28:11+01:00</updated>
+        <updated>2024-12-25T22:37:03+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/221/segarw_system.png" alt="segarw" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> only</p>
+                        <img src="https://pixelnostalgia.github.io/media/posts/249/tgcd_system.png" alt="tgcd" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/221/segarw_system.png" class="type:primaryImage" alt="segarw" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> only</p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/249/tgcd_system.png" class="type:primaryImage" alt="tgcd" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/221/segarw_logo.png" alt="" width="377" height="74" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/221/responsive/segarw_logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/221/responsive/segarw_logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/221/responsive/segarw_logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/221/responsive/segarw_logo-xl.webp 1200w"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/221/segarw.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/221/responsive/segarw-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/221/responsive/segarw-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/221/responsive/segarw-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/221/responsive/segarw-xl.webp 1200w"></figure>
-<p>The Sega Ringwide arcade system is an arcade platform developed by Sega as one half of their Ring series (the other half being Sega Ringedge). Both machines are based on PC architecture, using Microsoft Windows Embedded Standard 2009 as their operating system.<br><br>The Ringwide is a versatile board that offers a range of price points. It has an Intel CPU and an AMD GPU. Some of the games released for the Ringwide are Chaos Code, Operation G.H.O.S.T. and Sega Racing Classic.</p>
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/249/tg16cd.svg" alt="" width="377" height="85"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/249/NEC-TurboGrafx-CD.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/249/responsive/NEC-TurboGrafx-CD-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/249/responsive/NEC-TurboGrafx-CD-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/249/responsive/NEC-TurboGrafx-CD-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/249/responsive/NEC-TurboGrafx-CD-xl.webp 1200w"></figure>
+<p>The CD-ROM² (pronounced CD-ROM-ROM) is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988. The add-on allows the core versions of the console to play PC Engine games in CD-ROM format in addition to standard HuCards. This made the PC Engine the first video game console to use CD-ROMs as a storage media. The add-on consisted of two devices - the CD player itself and the interface unit, which connects the CD player to the console and provides a unified power supply and output for both.<br><br>It was later released as the TurboGrafx-CD in the United States in November 1989, with a remodeled interface unit in order to suit the different shape of the TurboGrafx-16 console. The TurboGrafx-CD had a launch price of $399.99 and did not include any bundled games. Fighting Street and Monster Lair were the TurboGrafx-CD launch titles; Ys Book I and II soon followed.</p>
 
 <h5>The package includes:</h5>
-<p class="msg--success msg msg--info">6 games in pack for Batocera (~8,05 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=964622" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Pack for Batocera</a>   </p>
+<p class="msg msg--success">46 games (~11,62 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=946249" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/221/gallery/Zrzut-ekranu-2024-12-25-003454.png" data-size="3075x1728"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/221/gallery/Zrzut-ekranu-2024-12-25-003454-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/249/gallery/Zrzut-ekranu-2024-12-26-001747.png" data-size="3074x1724"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/249/gallery/Zrzut-ekranu-2024-12-26-001747-thumbnail.webp" alt="" width="768" height="431"></a></figure>
 </div></div>
-<p class="msg msg--info"><strong>Batocera pack NOTE:</strong><br>Requirements: minimum RGS Batocera v40 with latest updates (check discord how to update), a modern GPU or iGPU with 4GB vram, sadly we don't recommend Intel iGPU. (check discord how to update)<br><br>Q: What is Arcade PC?<br>A: Arcade PC games are modern arcade games not playable with MAME, such as the BlazBlue series.<br><br>Q: Is this Teknoparrot?<br>A: Not quite. Teknoparrot is only a game launcher, and unfortunately, it does not work on Batocera/Linux.<br><br>Q: How does it work?<br>A: Launching Arcade PC games in Batocera is achieved using JConfig through Wine.<br><br>Q: What are JConfig and Wine?<br>A: JConfig is not just a program for launching recent arcade games; it includes a wide collection of launchers, tools, emulators, and patched executables for a better "arcade at home" experience. Wine enables Windows games/applications to run on Linux (Batocera).<br><br>Q: Does this sound complicated? Should we be worried?<br>A1: No need to worry! We've packaged the games to launch on most systems (Intel i5 / AMD Zen1).<br><br>Q: Is there anything else we need to know?<br>A: Yes, a few minor details:<br><br>- Most lightgun games require an actual lightgun (e.g., Sinden).<br>- Some lightgun games can be played with a mouse (a mouse indicator icon is present in the wheel).<br>- All games use a custom Wine GE runner and manual pad2key made by SPiRiT! (That is why this pack only works on RGS Batocera update)<br>- A lot of Boxart is fictional as these games does not have boxart, missing boxart is custom created by G-spawn! ty ty!</p>
-<p class="msg msg--highlight "><strong>How to install Batocera pack:</strong><br>Drag and drop the "segarw" folder into the 'roms' directory and Enjoy!</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "tgcd" folder to the "roms" directory</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Sega Titan Video (segastv)</title>
+        <title>Nec TurboGrafx-16 (tg16)</title>
         <author>
             <name>RGS</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/sega-titan-video-segastv/index.html"/>
-        <id>https://pixelnostalgia.github.io/sega-titan-video-segastv/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/220/segastv_system.png" medium="image" />
+        <link href="https://pixelnostalgia.github.io/nec-turbografx-16-tg16/index.html"/>
+        <id>https://pixelnostalgia.github.io/nec-turbografx-16-tg16/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/248/tg16_system.png" medium="image" />
             <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
             <category term="PC x86"/>
             <category term="Custom"/>
-            <category term="Batocera"/>
-            <category term="Arcade"/>
-
-        <updated>2024-12-25T00:17:45+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/220/segastv_system.png" alt="segastv" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/220/segastv_system.png" class="type:primaryImage" alt="segastv" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/220/segastv.svg" alt="" width="328" height="94"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/220/segastv.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/220/responsive/segastv-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/220/responsive/segastv-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/220/responsive/segastv-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/220/responsive/segastv-xl.webp 1200w"></figure>
-<p>ST-V (Sega Titan Video) is an arcade system board released by Sega, in 1994 for Japan and 1995 worldwide. Departing from their usual process of building custom arcade hardware, Sega's ST-V is essentially identical to the Sega Saturn home console system. The only difference is the media; ST-V used ROM cartridges instead of CD-ROM discs to store games, with the exception of Sports Fishing 2. Being derived from the Saturn hardware, the ST-V was presumably named after the moon Titan, a satellite of Saturn.<br><br>The majority of ST-V titles were released only in Japan, but a notable exception was the port of Dynamite Deka, which became Die Hard Arcade. Games released for the ST-V include the arcade versions of Virtua Fighter Remix, Radiant Silvergun, Golden Axe: The Duel, and Final Fight Revenge. The shared hardware between Saturn and ST-V allowed for very "pure" ports for the Saturn console.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">60 games (~1,35 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=957607" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="2"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "segastv" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sega Computer 3000 (sc3000)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/sega-computer-3000-sc3000/index.html"/>
-        <id>https://pixelnostalgia.github.io/sega-computer-3000-sc3000/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/219/sc-3000_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Computer"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-25T00:07:56+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/219/sc-3000_system.png" alt="sc3000" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/219/sc-3000_system.png" class="type:primaryImage" alt="sc3000" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/219/sc3000.svg" alt="" width="377" height="100"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/219/sc-3000.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/219/responsive/sc-3000-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/219/responsive/sc-3000-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/219/responsive/sc-3000-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/219/responsive/sc-3000-xl.webp 1200w"></figure>
-<p>The SC-3000 (Sega Computer 3000) is the first and only computer to be designed and manufactured by Sega. It was first released in July of 1983 in Japan, and serves as the home computer equivalent of the SG-1000 cartridge-based video game console. The SC-3000, often known simply as the "Sega Computer" or even just the "Sega", is an 8-bit home computer almost identical in nature to the SG-1000, but with a built-in keyboard and support for more hardware expansions.<br><br>Unlike later Sega systems, the SC-3000 did not receive a worldwide release, but in markets where it did compete, including Japan, Australia, New Zealand, France, Italy and Finland, the computer fared well as a low price, entry-level machine for the home. By 1985, the SC-3000 had been displaced by more popular computer standards, but is nevertheless said to have fared better than the SG-1000 console on the global stage, and has a strong group of followers to this day.<br><br>The SC-3000 was also Sega's last home computer to be released to the general public. The company would partner with Amstrad and IBM for the Amstrad Mega PC and TeraDrive respectively in later years, but other endeavours such as the extremely rare Sega AI Computer saw only a small fraction of the success the SC-3000 received, and were built with very different aims.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">25 games (~339 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957692" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="2"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "sc3000" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>MGT SAM Coupé (samcoupe)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/mgt-sam-coupe-samcoupe/index.html"/>
-        <id>https://pixelnostalgia.github.io/mgt-sam-coupe-samcoupe/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/218/ssamcoupe_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Computer"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-24T23:57:50+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/218/ssamcoupe_system.png" alt="samcoupe" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/218/ssamcoupe_system.png" class="type:primaryImage" alt="samcoupe" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/218/samcoupe.svg" alt="" width="377" height="81"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/218/samcoupe.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/218/responsive/samcoupe-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/218/responsive/samcoupe-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/218/responsive/samcoupe-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/218/responsive/samcoupe-xl.webp 1200w"></figure>
-<p>The SAM Coupé is an 8-bit British home computer that was first released in late 1989. It was designed to have compatibility with the Sinclair ZX Spectrum, albeit in 48K mode only.<br><br>It features a compatible screen mode and emulated compatibility, and was marketed as a logical upgrade from the Spectrum. It was originally manufactured by Miles Gordon Technology (MGT), based in Swansea in the United Kingdom.<br><br>Its release at a time when 16-bit home computers were more prevalent, and a lack of commercial software titles, led to it being a commercial failure.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">30 games (~64 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957688" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="2"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "samcoupe" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Raw Thrills (rawthrills)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/raw-thrills-rawthrills/index.html"/>
-        <id>https://pixelnostalgia.github.io/raw-thrills-rawthrills/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/217/rawthrills_system.png" medium="image" />
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Batocera"/>
-            <category term="Arcade"/>
-
-        <updated>2024-12-24T23:41:11+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/217/rawthrills_system.png" alt="rawthrills" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> only</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/217/rawthrills_system.png" class="type:primaryImage" alt="rawthrills" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> only</p>
-
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/217/rawthrills-logo.png" alt="" width="377" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/217/responsive/rawthrills-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/217/responsive/rawthrills-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/217/responsive/rawthrills-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/217/responsive/rawthrills-logo-xl.webp 1200w"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/217/rawthrills.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/217/responsive/rawthrills-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/217/responsive/rawthrills-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/217/responsive/rawthrills-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/217/responsive/rawthrills-xl.webp 1200w"></figure>
-<p>Raw Thrills, Inc. is an arcade video game entertainment company based in Skokie, Illinois. It is best known for developing arcade games based on films.<br><br>Raw Thrills was founded in 2001 by Eugene Jarvis, Deepak Deo, and Andrew Eloff. Early on, the staff also consisted largely of other former Midway Games employees.<br><br>At the beginning, the company made game designs for IGT including Super Times Pay Poker, Multi-Play Blackjack, and Turbo Reelette.<br><br>Raw Thrills' first independent coin-op game was Target: Terror, a light-gun shooter game which was later upgraded to Target: Terror Gold (also known as Target: Force) featuring bonus levels, end-of-round awards, and other performance enhancements. Target: Terror was the first gun game designed under the direction of Eugene Jarvis.</p>
-
-<h5>The package includes:</h5>
-<p class="msg--success msg msg--info">18 games in pack for Batocera (~54 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=964612" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Pack for Batocera</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/217/gallery/Zrzut-ekranu-2024-12-24-235320.png" data-size="3083x1725"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/217/gallery/Zrzut-ekranu-2024-12-24-235320-thumbnail.webp" alt="" width="768" height="430"></a></figure>
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/217/gallery/Zrzut-ekranu-2024-12-24-235417.png" data-size="3072x1727"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/217/gallery/Zrzut-ekranu-2024-12-24-235417-thumbnail.webp" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/217/gallery/Zrzut-ekranu-2024-12-24-235053.png" data-size="3071x1727"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/217/gallery/Zrzut-ekranu-2024-12-24-235053-thumbnail.webp" alt="" width="768" height="432"></a></figure>
-</div></div>
-<p class="msg msg--info"><strong>Batocera pack NOTE:</strong><br>Requirements: minimum RGS Batocera v40 with latest updates (check discord how to update), a modern GPU or iGPU with 4GB vram, sadly we don't recommend Intel iGPU. (check discord how to update)<br><br>Q: What is Arcade PC?<br>A: Arcade PC games are modern arcade games not playable with MAME, such as the BlazBlue series.<br><br>Q: Is this Teknoparrot?<br>A: Not quite. Teknoparrot is only a game launcher, and unfortunately, it does not work on Batocera/Linux.<br><br>Q: How does it work?<br>A: Launching Arcade PC games in Batocera is achieved using JConfig through Wine.<br><br>Q: What are JConfig and Wine?<br>A: JConfig is not just a program for launching recent arcade games; it includes a wide collection of launchers, tools, emulators, and patched executables for a better "arcade at home" experience. Wine enables Windows games/applications to run on Linux (Batocera).<br><br>Q: Does this sound complicated? Should we be worried?<br>A1: No need to worry! We've packaged the games to launch on most systems (Intel i5 / AMD Zen1).<br><br>Q: Is there anything else we need to know?<br>A: Yes, a few minor details:<br><br>- Most lightgun games require an actual lightgun (e.g., Sinden).<br>- Some lightgun games can be played with a mouse (a mouse indicator icon is present in the wheel).<br>- All games use a custom Wine GE runner and manual pad2key made by SPiRiT! (That is why this pack only works on RGS Batocera update)<br>- A lot of Boxart is fictional as these games does not have boxart, missing boxart is custom created by G-spawn! ty ty!</p>
-<p class="msg msg--highlight "><strong>How to install Batocera pack:</strong><br>Drag and drop the "rawthrills" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Casio PV-2000 (pv2000)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/casio-pv-2000-pv2000/index.html"/>
-        <id>https://pixelnostalgia.github.io/casio-pv-2000-pv2000/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/216/pv2000_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Computer"/>
-            <category term="Batocera"/>
-
-        <updated>2024-12-24T23:30:24+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/216/pv2000_system.png" alt="pv2000" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/216/pv2000_system.png" class="type:primaryImage" alt="pv2000" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/216/pv2000-w.png" alt="" width="268" height="168" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/216/responsive/pv2000-w-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/216/responsive/pv2000-w-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/216/responsive/pv2000-w-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/216/responsive/pv2000-w-xl.webp 1200w"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/216/pv2000.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/216/responsive/pv2000-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/216/responsive/pv2000-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/216/responsive/pv2000-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/216/responsive/pv2000-xl.webp 1200w"></figure>
-<p>Also called "RakuGaki" in Japan, the PV-2000 is a very obscure japanese system released in 1983 at the same time of the PV-1000 gaming system. These two systems are not compatible with each other, as they have very different architecure. The PV-2000 is closer to MSX systems than to its little brother PV-1000. The PV-2000 is crude little computer marketed as an initiation and gaming machine.<br><br>The keyboard uses a flat plastic membrane just like the Sinclair ZX-81 for example. 8 direction keys act as a game controller along with two special "fire" keys next to the spacebar. Of course it had no great success. Only 11 cartridges seem to have been released for it, mainly popular Arcade hits (Pac &amp;amp; Pal, Rock'n Rope, Pooyan, Galaga, Super Cobra, etc).</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">11 games (~17 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957628" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="2"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "pv2000" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Casio PV-1000 (pv1000)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/casio-pv-1000-pv1000/index.html"/>
-        <id>https://pixelnostalgia.github.io/casio-pv-1000-pv1000/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/215/pv1000_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
             <category term="Console"/>
             <category term="Batocera"/>
 
-        <updated>2024-12-24T23:25:39+01:00</updated>
+        <updated>2024-12-25T22:29:16+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/215/pv1000_system.png" alt="pv1000" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/248/tg16_system.png" alt="tg16" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/215/pv1000_system.png" class="type:primaryImage" alt="pv1000" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/248/tg16_system.png" class="type:primaryImage" alt="tg16" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/215/pv1000.svg" alt="" width="377" height="153"></figure>
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/248/tg16.svg" alt="" width="377" height="81"></figure>
 <p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/215/Casio-PV-1000.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/215/responsive/Casio-PV-1000-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/215/responsive/Casio-PV-1000-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/215/responsive/Casio-PV-1000-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/215/responsive/Casio-PV-1000-xl.webp 1200w"></figure>
-<p>The Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) is a third-generation home video game console manufactured by Casio and released in Japan in 1983. It was discontinued less than a year after release.<br><br>The PV-1000 was released in October 1983. It was only released in Japan where it sold for 14,800 yen. Casio failed to achieve a significant market share. According to retrogames.co.uk the console was pulled after several weeks; due to low sales.<br><br>The PV-1000 is powered by a Zilog Z80 CPU, with 2 KB RAM, with 1 KB allocated as VRAM. It also has an additional 1 KB devoted to a character generator. Graphics were provided by a Texas Instruments TMS9918, generating a 256x192 pixel resolution with 8 colours. The console contains a NEC D65010G031 chip used to output video and sound. It had three square wave voices with 6 bits to control the period.</p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/248/NEC-TurboGrafx-16.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/248/responsive/NEC-TurboGrafx-16-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/248/responsive/NEC-TurboGrafx-16-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/248/responsive/NEC-TurboGrafx-16-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/248/responsive/NEC-TurboGrafx-16-xl.webp 1200w"></figure>
+<p>The TurboGrafx-16, known as the PC Engine in Japan and France, is a 16-bit fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was released in Japan in 1987 and in North America in 1989. The Japanese model was imported and distributed in France in 1989, and the United Kingdom and Spain received a version based on the American model known as simply TurboGrafx. It was the first console released in the 16-bit era, although it used a modified 8-bit CPU. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super Nintendo Entertainment System.<br><br>The TurboGrafx-16 has an 8-bit CPU, a 16-bit video color encoder, and a 16-bit video display controller. The GPUs are capable of displaying 482 colors simultaneously, out of 512. With dimensions of just 14 cm × 14 cm × 3.8 cm (5.5 in × 5.5 in × 1.5 in), the Japanese PC Engine is the smallest major home game console ever made. Games were released on HuCard cartridges and later the CD-ROM optical format with the TurboGrafx-CD add-on.</p>
 
 <h5>The package includes:</h5>
-<p class="msg msg--success">12 games (~37 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957627" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="2"> </div></div>
+<p class="msg msg--success">94 games (~656 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957708" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/248/gallery/Zrzut-ekranu-2024-12-25-223239.png" data-size="3071x1724"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/248/gallery/Zrzut-ekranu-2024-12-25-223239-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
 <p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "pv1000" folder to the "roms" directory</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "tg16" folder to the "roms" directory</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Sony PlayStation 3 (ps3)</title>
+        <title>Thomson MO5 (thomson)</title>
         <author>
             <name>RGS</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/sony-playstation-3-ps3/index.html"/>
-        <id>https://pixelnostalgia.github.io/sony-playstation-3-ps3/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/214/ps3_logo.png" medium="image" />
+        <link href="https://pixelnostalgia.github.io/thomson-mo5-thomson/index.html"/>
+        <id>https://pixelnostalgia.github.io/thomson-mo5-thomson/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/247/thomson_system.png" medium="image" />
             <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
             <category term="PC x86"/>
-            <category term="Lite package"/>
-            <category term="Console"/>
+            <category term="Computer"/>
             <category term="Batocera"/>
 
-        <updated>2024-12-24T23:02:22+01:00</updated>
+        <updated>2024-12-25T22:23:49+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/214/ps3_logo.png" alt="ps3" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/247/thomson_system.png" alt="thomson" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/214/ps3_logo.png" class="type:primaryImage" alt="ps3" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/247/thomson_system.png" class="type:primaryImage" alt="thomson" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/214/ps3-w.svg" alt="" width="377" height="158"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/214/Sony-Playstation-3.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/214/responsive/Sony-Playstation-3-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/214/responsive/Sony-Playstation-3-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/214/responsive/Sony-Playstation-3-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/214/responsive/Sony-Playstation-3-xl.webp 1200w"></figure>The PlayStation 3 (PS3) is a home video game console developed by Sony Computer Entertainment. It is the successor to PlayStation 2, and is part of the PlayStation brand of consoles. It was first released on November 11, 2006 in Japan, November 17, 2006 in North America, and March 23, 2007 in Europe and Australia. The PlayStation 3 competed primarily against Microsoft's Xbox 360 and Nintendo's Wii as part of the seventh generation of video game consoles.<br><br>The console was first officially announced at E3 2005, and was released at the end of 2006. It was the first console to use Blu-ray Disc as its primary storage medium. The console was the first PlayStation to integrate social gaming services, including the PlayStation Network, as well as the first to be controllable from a handheld console, through its remote connectivity with PlayStation Portable and PlayStation Vita. In September 2009, the Slim model of the PlayStation 3 was released. It no longer provided the hardware ability to run PS2 games. It was lighter and thinner than the original version, and featured a redesigned logo and marketing design, as well as a minor start-up change in software. A Super Slim variation was then released in late 2012, further refining and redesigning the console.</p>
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/247/thomsonmo5-logo.png" alt="" width="377" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/247/responsive/thomsonmo5-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/247/responsive/thomsonmo5-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/247/responsive/thomsonmo5-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/247/responsive/thomsonmo5-logo-xl.webp 1200w"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/247/thomson.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/247/responsive/thomson-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/247/responsive/thomson-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/247/responsive/thomson-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/247/responsive/thomson-xl.webp 1200w"></figure>
+<p>The Thomson MO5 is a home computer introduced in France in June 1984 to compete against systems such as the ZX Spectrum and Commodore 64. At the same time, Thomson also released the up-market Thomson TO7/70 machine.<br><br>The MO5 was not sold in vast quantities outside France and was largely discontinued in favour of the improved Thomson MO6 in 1986. MO5s were used as educational tools in French schools for a period. The computer boots directly to the built-in Microsoft BASIC interpreter (MO5 Basic 1.0).<br><br>The Thomson MO5 runs on a Motorola 6809E processor clocked at 1 MHz. It originally featured 48 KB of RAM, a EFGJ03L gate array generating a 40×25 text display. Around 200 pieces of software are known to exist for the MO5.</p>
+
 <h5>The package includes:</h5>
-<p class="msg msg--success">293 games (~1,39 TB)<br>25 games in Lite pack (~185 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=947005" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   <a href="https://back-ups.me/details.php?id=957854" target="_blank" rel="nofollow noopener noreferrer" class="btn">Lite pack</a>   </p>
+<p class="msg msg--success">178 games (~432 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957703" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong><br>This pack is based on Core Type-R all PS3 releases and converted to Batocera/RetroBat, thank you so much!</p>
-<p class="msg msg--highlight "><strong>How to install in Batocera:</strong><br>Drag and drop the "ps3" folder into the 'roms' directory<br>Copy the contents of \dev_hdd0\ to \userdata\system\configs\rpcs3\dev_hdd0\ (or via the network share \\batocera\share\system\configs\rpcs3\dev_hdd0\)<br>If asked to replace any files say "Yes to all"</p>
-<p class="msg msg--highlight "><strong>How to install in Retrobat:</strong><br>Drag and drop the "ps3" folder into the 'roms' directory<br><br>For RetroBat v6.3.1 copy the contents of \dev_hdd0\ to \RetroBat\saves\ps3\rpcs3\dev_hdd0\<br><br>For previous versions of RetroBat copy the contents of \dev_hdd0\ to: \RetroBat\emulators\rpcs3\dev_hdd0\<br><br>If asked to replace any files say "Yes to all"</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/EheW9n_gw_s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p class="msg msg--info"><strong>Lite pack Info:</strong><br>This is the first of our 'Lite' packs for the RGS builds (RetroBat and Batocera)<br><br>Lite pack is a collection of the 'best' games for this system. It has been created using several sources, such as various Top xx games lists available online and console/system exclusives. It also includes some of the teams personal favorites. Of course everyone has different tastes and likes, but this will hopefully be a good starting point for most people or be a nice curated set for those with less storage space.<br><br>The number of games in our 'Lite' packs varies, this is down to having the right balance of content versus size. Those disc-based systems that can take up a lot of storage have lower numbers of games, whereas as ROM, Cartridge, Cassette, Floppy etc based systems, will generally have more games. The aim is to have great content, but keep the total size of the packs manageable.</p>
-<p> </p>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "thomson" folder to the "roms" directory</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Nintendo Pokémon mini (pokemini)</title>
+        <title>Texas Instruments TI-99/4A (ti99)</title>
         <author>
             <name>RGS</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/nintendo-pokemon-mini-pokemini/index.html"/>
-        <id>https://pixelnostalgia.github.io/nintendo-pokemon-mini-pokemini/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/213/pokemonmini_system.png" medium="image" />
+        <link href="https://pixelnostalgia.github.io/texas-instruments-ti-994a-ti99/index.html"/>
+        <id>https://pixelnostalgia.github.io/texas-instruments-ti-994a-ti99/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/246/ti99_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Computer"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-25T22:19:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/246/ti99_system.png" alt="ti99" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/246/ti99_system.png" class="type:primaryImage" alt="ti99" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/246/ti99.svg" alt="" width="377" height="91"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/246/ti99.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/246/responsive/ti99-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/246/responsive/ti99-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/246/responsive/ti99-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/246/responsive/ti99-xl.webp 1200w"></figure>
+<p>The TI-99/4 is a home computer released in late 1979 by Texas Instruments. Based on the Texas Instruments TMS9900 microprocessor originally used in minicomputers, it was the first 16-bit home computer. The associated video display controller provides color graphics and among the best sprite support of its era.<br><br>It includes a simplified internal design, a full-travel keyboard, improved graphics, and a unique expansion system. At half the price of the original model, sales picked up significantly. TI supported the 4A with peripherals, including a speech synthesizer and a "Peripheral Expansion System" box to contain hardware add-ons. TI released developer information and tools, but the insistence on remaining sole publisher continued to starve the platform of software.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">108 games (~585 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957704" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "ti99" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TIC-80 (tic80)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/tic-80-tic80/index.html"/>
+        <id>https://pixelnostalgia.github.io/tic-80-tic80/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/245/tic80_system.png" medium="image" />
             <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
@@ -360,71 +197,241 @@
             <category term="PC x86"/>
             <category term="Batocera"/>
 
-        <updated>2024-12-24T17:06:03+01:00</updated>
+        <updated>2024-12-25T22:11:04+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/213/pokemonmini_system.png" alt="pokemini" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/245/tic80_system.png" alt="tic80" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/213/pokemonmini_system.png" class="type:primaryImage" alt="pokemini" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/245/tic80_system.png" class="type:primaryImage" alt="tic80" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/213/pokemini.svg" alt="" width="377" height="65"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/213/pokemini.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/213/responsive/pokemini-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/213/responsive/pokemini-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/213/responsive/pokemini-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/213/responsive/pokemini-xl.webp 1200w"></figure>
-<p>The Pokémon Mini (officially stylized as Pokémon mini) is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokémon media franchise. It is the smallest game system with interchangeable cartridges ever produced by Nintendo, weighing just under two and a half ounces (71 grams). It was first released in North America on November 16, 2001, (two days before the GameCube was released) then in Japan on December 14, 2001, and in Europe on March 15, 2002. The systems were released in three colors: Wooper Blue, Chikorita Green, and Smoochum Purple.<br><br>Features of the Pokémon mini include an internal real-time clock, an infrared port used to facilitate multiplayer gaming, a reed switch for detecting shakes, and a motor used to implement force feedback. Pokémon Channel features playable emulated demo versions of Pokémon Mini games, including the console exclusive "Snorlax's Lunch Time". Games such as "Togepi's Adventure" were only released in Japan.</p>
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/245/tic80.svg" alt="" width="377" height="108"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/245/tic80.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/245/responsive/tic80-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/245/responsive/tic80-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/245/responsive/tic80-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/245/responsive/tic80-xl.webp 1200w"></figure>
+<p>TIC-80 is a fantasy computer for making, playing and sharing tiny games.<br><br>There are built-in tools for development: code, sprites, maps, sound editors and the command line, which is enough to create a mini retro game. At the exit you will get a cartridge file, which can be stored and played on the website.<br><br>Also, the game can be packed into a player that works on all popular platforms and distribute as you wish. To make a retro styled game the whole process of creation takes place under some technical limitations: 240x136 pixels display, 16 color palette, 256 8x8 color sprites, 4 channel sound and etc.</p>
 
 <h5>The package includes:</h5>
-<p class="msg msg--success">10 games (~64 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957686" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
+<p class="msg msg--success">10 games (~140 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957705" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
 <p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "pokemini" folder into the 'roms' directory and Enjoy!</p>
-<p> </p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "tic80" folder to the "roms" directory</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Sony PocketStation (pockstat)</title>
+        <title>Bandai Super Vision 8000 (sv8000)</title>
         <author>
             <name>RGS</name>
         </author>
-        <link href="https://pixelnostalgia.github.io/sony-pocketstation-pockstat/index.html"/>
-        <id>https://pixelnostalgia.github.io/sony-pocketstation-pockstat/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/212/pockstat_system.png" medium="image" />
+        <link href="https://pixelnostalgia.github.io/bandai-super-vision-8000-sv8000/index.html"/>
+        <id>https://pixelnostalgia.github.io/bandai-super-vision-8000-sv8000/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/244/sv8000_system.png" medium="image" />
             <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
-            <category term="Portable"/>
             <category term="PC x86"/>
             <category term="Custom"/>
+            <category term="Console"/>
             <category term="Batocera"/>
 
-        <updated>2024-12-24T17:00:56+01:00</updated>
+        <updated>2024-12-25T21:54:03+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/212/pockstat_system.png" alt="pockstat" />
+                        <img src="https://pixelnostalgia.github.io/media/posts/244/sv8000_system.png" alt="sv8000" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/212/pockstat_system.png" class="type:primaryImage" alt="pockstat" /></p>
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/244/sv8000_system.png" class="type:primaryImage" alt="sv8000" /></p>
                 <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
 
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/212/pocketstation-logo.png" alt="" width="377" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/212/responsive/pocketstation-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/212/responsive/pocketstation-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/212/responsive/pocketstation-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/212/responsive/pocketstation-logo-xl.webp 1200w"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/212/Sony-Pocketstation.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/212/responsive/Sony-Pocketstation-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/212/responsive/Sony-Pocketstation-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/212/responsive/Sony-Pocketstation-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/212/responsive/Sony-Pocketstation-xl.webp 1200w"></figure>
-<p>The PocketStation is a Memory Card peripheral by Sony Computer Entertainment for the PlayStation home video game console. Categorized by Sony as a combination of a Memory Card and a miniature personal digital assistant, the device features a monochrome liquid crystal display (LCD), infrared communication capability, a real-time clock, built-in flash memory, and sound capability. To use the device's memory card functionality, it must be connected to a PlayStation through a memory card slot. It was released exclusively in Japan on January 23, 1999.<br><br>Software for the PocketStation was typically distributed as extras for PlayStation games, included in the CD-ROM, enhancing the games with added features. Stand-alone software could also be downloaded through the PlayStation console. The software is then transferred to the PocketStation for use. A built-in infrared data interface allows direct transfer of data such as game saves between PocketStation units, as well as multiplayer gaming.</p>
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/244/sv8000.svg" alt="" width="377" height="128"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/244/sv8000.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/244/responsive/sv8000-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/244/responsive/sv8000-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/244/responsive/sv8000-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/244/responsive/sv8000-xl.webp 1200w"></figure>
+<p>The Bandai Super Vision 8000, also known as the TV Jack 8000, is a home video game console released by Bandai in 1979 belonging to the second generation. The console can be directly connected to a TV.<br><br>This console was the last of the Bandai TV Jack console series but was completely different from the other consoles of the series. The Super Vision 8000 had a central CPU. The other consoles belonged to the first generation: they didn't feature a microprocessor, and were based on custom codeless state machine computers consisting of discrete logic circuits comprising each element of the game itself (Pong-style console).</p>
 
 <h5>The package includes:</h5>
-<p class="msg msg--success">75 games (~55 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=957686" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>  </p>
+<p class="msg msg--success">7 games (~29 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=954536" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
+<p class="msg msg--highlight "><strong>How to install:<br></strong>Delete the "sv8000" folder from the 'roms' directory<br>Drag and drop the "sv8000" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Namco / Sega / Nintendo Triforce (triforce)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/namco-sega-nintendo-triforce-triforce/index.html"/>
+        <id>https://pixelnostalgia.github.io/namco-sega-nintendo-triforce-triforce/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/243/triforce_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+            <category term="Arcade"/>
+
+        <updated>2024-12-25T21:44:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/243/triforce_system.png" alt="triforce" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/243/triforce_system.png" class="type:primaryImage" alt="triforce" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/243/triforce.svg" alt="" width="372" height="157"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/243/triforce.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/243/responsive/triforce-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/243/responsive/triforce-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/243/responsive/triforce-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/243/responsive/triforce-xl.webp 1200w"></figure>
+<p>The Triforce (トライフォース) is an arcade board developed in a joint venture between Sega, Nintendo, and Namco. It is based upon the Nintendo GameCube video game console to reduce development costs, and allowed for arcade ports of home console games, and vice versa. It is named after the magical, often sought-after object in Nintendo's popular The Legend of Zelda series.<br><br>The system hardware is based on the Nintendo GameCube with several differences, like provisions for add-ons such as Sega's GD-ROM system and upgradeable RAM modules.<br><br>While the platform was shared between the three companies, Nintendo was not in the business of producing arcade games at the time, so licensed its properties to Sega and Namco. Sega were the first to launch a game for the system with Virtua Striker 2002 in the Autumn of 2002, which shipped on Sega's propietary GD-ROM format (with later releases doing the same). Namco would not release a game for the system until 2005, and would ship its software on bespoke ROM cartridges.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">8 games (~1,51 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=961549" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/243/gallery/Zrzut-ekranu-2024-12-25-214759.png" data-size="3071x1725"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/243/gallery/Zrzut-ekranu-2024-12-25-214759-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/243/gallery/Zrzut-ekranu-2024-12-25-214857.png" data-size="3073x1725"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/243/gallery/Zrzut-ekranu-2024-12-25-214857-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This V3.0 pack contains the same games, but has additional and improved frontend artwork.</p>
+<p class="msg msg--highlight "><strong>How to install:<br></strong>Delete the "triforce" folder from the 'roms' directory<br>Drag and drop the "triforce" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Tomy Tutor (tutor)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/tomy-tutor-tutor/index.html"/>
+        <id>https://pixelnostalgia.github.io/tomy-tutor-tutor/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/242/tutor_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Computer"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-25T18:45:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/242/tutor_system.png" alt="tutor" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/242/tutor_system.png" class="type:primaryImage" alt="tutor" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/242/tutor.svg" alt="" width="303" height="165"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/242/tutor.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/242/responsive/tutor-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/242/responsive/tutor-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/242/responsive/tutor-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/242/responsive/tutor-xl.webp 1200w"></figure>
+<p>The Tomy Tutor, originally sold in Japan as the Pyūta (ぴゅう太) and in the UK as the Grandstand Tutor, is a home computer produced by the Japanese toymaker Tomy. It was architecturally similar, but not identical, to the Texas Instruments TI-99/4A, and used a similar Texas Instruments 16-bit CPU.<br><br>The computer was launched in Japan in 1982, and in the UK and the United States in the next year.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">9 games (~34 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957706" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="2"> </div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "tutor" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Uzebox (uzebox)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/uzebox-uzebox/index.html"/>
+        <id>https://pixelnostalgia.github.io/uzebox-uzebox/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/241/uzebox_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Console"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-25T18:42:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/241/uzebox_system.png" alt="uzebox" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/241/uzebox_system.png" class="type:primaryImage" alt="uzebox" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/241/uzebox-w.svg" alt="" width="377" height="111"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/241/uzebox.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/241/responsive/uzebox-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/241/responsive/uzebox-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/241/responsive/uzebox-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/241/responsive/uzebox-xl.webp 1200w"></figure>
+<p>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it uses an interrupt driven kernel and has no frame buffer. Functions such as video signal generation, tile rendering and music mixing is done in realtime by a background task so your game can easily be developed in C.<br><br>The design goal was to be as simple as possible yet have good enough sound and graphics to implement interesting games. Emphasis was put on making it easy and fun to assemble and program for any hobbyists. The final design contains only two chips: an ATmega644 and an AD725 RGB-to-NTSC converter.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">74 games (~57 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957732" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
 <p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "pockstat" folder into the 'roms' directory and Enjoy!</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "uzebox" folder to the "roms" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Interton Video Computer 4000 (vc4000)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/interton-video-computer-4000-vc4000/index.html"/>
+        <id>https://pixelnostalgia.github.io/interton-video-computer-4000-vc4000/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/240/vc4000_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Console"/>
+            <category term="Batocera"/>
+
+        <updated>2024-12-25T18:37:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/240/vc4000_system.png" alt="vc4000" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/240/vc4000_system.png" class="type:primaryImage" alt="vc4000" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/240/vc4000-w.svg" alt="" width="377" height="101"></figure>
 <p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/240/vc4000.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/240/responsive/vc4000-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/240/responsive/vc4000-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/240/responsive/vc4000-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/240/responsive/vc4000-xl.webp 1200w"></figure>
+<p>The Interton Video Computer 4000 (officially abbreviated as Interton VC 4000) is an early 8-bit ROM cartridge-based second-generation home video game console that was released in Germany, England, France, Spain, Austria, the Netherlands and Australia in 1978 by German hearing aid manufacturer Interton. The console is the successor of the Interton Video 3001 and was sold for 298 Deutsche Mark and discontinued in 1983.<br><br>The Interton VC 4000's power comes from a Signetics 2650 CPU (which is the same as an Arcadia 2001) and a Signetics 2636 gaming controller. Both controllers contain a 12-button keypad, two fire buttons, and a joystick. Inside the systems control panel, there are four different buttons. The ON/OFF switch, RESET, SELECT, and START.<br><br>The console was produced by different companies and sold with different names. Not every console is compatible with others due to differences in the shapes and dimensions of the cartridge slots, but all of the systems are software compatible.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">37 games (~111 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=957666" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "vc4000" folder to the "roms" directory</p>
             ]]>
         </content>
     </entry>
