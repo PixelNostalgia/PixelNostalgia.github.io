@@ -73,8 +73,8 @@
                    "Custom",
                    "Batocera"
             ],
-            "date_published": "2024-12-25T22:37:03+01:00",
-            "date_modified": "2024-12-26T00:23:30+01:00"
+            "date_published": "2024-12-25T21:37:03+00:00",
+            "date_modified": "2024-12-25T23:23:30+00:00"
         },
         {
             "id": "https://pixelnostalgia.github.io/nec-turbografx-16-tg16/index.html",
@@ -95,8 +95,8 @@
                    "Console",
                    "Batocera"
             ],
-            "date_published": "2024-12-25T22:29:16+01:00",
-            "date_modified": "2024-12-25T22:46:23+01:00"
+            "date_published": "2024-12-25T21:29:16+00:00",
+            "date_modified": "2024-12-25T21:46:23+00:00"
         },
         {
             "id": "https://pixelnostalgia.github.io/thomson-mo5-thomson/index.html",
@@ -116,8 +116,8 @@
                    "Computer",
                    "Batocera"
             ],
-            "date_published": "2024-12-25T22:23:49+01:00",
-            "date_modified": "2024-12-25T22:28:30+01:00"
+            "date_published": "2024-12-25T21:23:49+00:00",
+            "date_modified": "2024-12-25T21:28:30+00:00"
         },
         {
             "id": "https://pixelnostalgia.github.io/texas-instruments-ti-994a-ti99/index.html",
@@ -137,8 +137,8 @@
                    "Computer",
                    "Batocera"
             ],
-            "date_published": "2024-12-25T22:19:32+01:00",
-            "date_modified": "2024-12-25T22:23:12+01:00"
+            "date_published": "2024-12-25T21:19:32+00:00",
+            "date_modified": "2024-12-25T21:23:12+00:00"
         },
         {
             "id": "https://pixelnostalgia.github.io/tic-80-tic80/index.html",
@@ -158,8 +158,8 @@
                    "PC x86",
                    "Batocera"
             ],
-            "date_published": "2024-12-25T22:11:04+01:00",
-            "date_modified": "2024-12-25T22:19:00+01:00"
+            "date_published": "2024-12-25T21:11:04+00:00",
+            "date_modified": "2024-12-25T21:19:00+00:00"
         },
         {
             "id": "https://pixelnostalgia.github.io/bandai-super-vision-8000-sv8000/index.html",
@@ -180,8 +180,8 @@
                    "Console",
                    "Batocera"
             ],
-            "date_published": "2024-12-25T21:54:03+01:00",
-            "date_modified": "2024-12-25T22:00:37+01:00"
+            "date_published": "2024-12-25T20:54:03+00:00",
+            "date_modified": "2024-12-25T21:00:37+00:00"
         },
         {
             "id": "https://pixelnostalgia.github.io/namco-sega-nintendo-triforce-triforce/index.html",
@@ -199,8 +199,8 @@
                    "Batocera",
                    "Arcade"
             ],
-            "date_published": "2024-12-25T21:44:14+01:00",
-            "date_modified": "2024-12-25T21:53:20+01:00"
+            "date_published": "2024-12-25T20:44:14+00:00",
+            "date_modified": "2024-12-25T20:53:20+00:00"
         },
         {
             "id": "https://pixelnostalgia.github.io/tomy-tutor-tutor/index.html",
@@ -220,8 +220,55 @@
                    "Computer",
                    "Batocera"
             ],
+<<<<<<< HEAD
             "date_published": "2024-12-25T18:45:40+01:00",
             "date_modified": "2024-12-25T18:49:16+01:00"
+=======
+            "date_published": "2024-12-25T17:45:40+00:00",
+            "date_modified": "2024-12-25T17:49:16+00:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/uzebox-uzebox/index.html",
+            "url": "https://pixelnostalgia.github.io/uzebox-uzebox/index.html",
+            "title": "Uzebox (uzebox)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/241/uzebox-w.svg\" alt=\"\" width=\"377\" height=\"111\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/241/uzebox.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/241/responsive/uzebox-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/241/responsive/uzebox-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/241/responsive/uzebox-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/241/responsive/uzebox-xl.webp 1200w\"></figure>\n<p>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it uses an interrupt driven kernel and has no frame buffer. Functions such as video signal generation, tile rendering and music mixing is done in realtime by a background task so your game can easily be developed in C.<br><br>The design goal was to be as simple as possible yet have good enough sound and graphics to implement interesting games. Emphasis was put on making it easy and fun to assemble and program for any hobbyists. The final design contains only two chips: an ATmega644 and an AD725 RGB-to-NTSC converter.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">74 games (~57 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957732\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>     </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\" data-columns=\"1\"> </div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"uzebox\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/241/uzebox_system.png",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-25T17:42:05+00:00",
+            "date_modified": "2024-12-25T17:45:21+00:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/interton-video-computer-4000-vc4000/index.html",
+            "url": "https://pixelnostalgia.github.io/interton-video-computer-4000-vc4000/index.html",
+            "title": "Interton Video Computer 4000 (vc4000)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/240/vc4000-w.svg\" alt=\"\" width=\"377\" height=\"101\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/240/vc4000.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/240/responsive/vc4000-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/240/responsive/vc4000-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/240/responsive/vc4000-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/240/responsive/vc4000-xl.webp 1200w\"></figure>\n<p>The Interton Video Computer 4000 (officially abbreviated as Interton VC 4000) is an early 8-bit ROM cartridge-based second-generation home video game console that was released in Germany, England, France, Spain, Austria, the Netherlands and Australia in 1978 by German hearing aid manufacturer Interton. The console is the successor of the Interton Video 3001 and was sold for 298 Deutsche Mark and discontinued in 1983.<br><br>The Interton VC 4000's power comes from a Signetics 2650 CPU (which is the same as an Arcadia 2001) and a Signetics 2636 gaming controller. Both controllers contain a 12-button keypad, two fire buttons, and a joystick. Inside the systems control panel, there are four different buttons. The ON/OFF switch, RESET, SELECT, and START.<br><br>The console was produced by different companies and sold with different names. Not every console is compatible with others due to differences in the shapes and dimensions of the cartridge slots, but all of the systems are software compatible.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">37 games (~111 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957666\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>     </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\" data-columns=\"1\"> </div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"vc4000\" folder to the \"roms\" directory</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/240/vc4000_system.png",
+            "author": {
+                "name": "RGS"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2024-12-25T17:37:32+00:00",
+            "date_modified": "2024-12-25T17:41:40+00:00"
+>>>>>>> 41e78c212410e38c95e484e72f6482b6a656777f
         }
     ]
 }
