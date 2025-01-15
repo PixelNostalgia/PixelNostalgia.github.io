@@ -11,6 +11,50 @@
     },
     "items": [
         {
+            "id": "https://pixelnostalgia.github.io/sega-video-driver-videodriver/index.html",
+            "url": "https://pixelnostalgia.github.io/sega-video-driver-videodriver/index.html",
+            "title": "Sega Video Driver (videodriver)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/252/videodriver-logo.png\" alt=\"\" width=\"400\" height=\"156\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/252/responsive/videodriver-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/252/responsive/videodriver-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/252/responsive/videodriver-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/252/responsive/videodriver-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/252/videodriver.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/252/responsive/videodriver-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/252/responsive/videodriver-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/252/responsive/videodriver-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/252/responsive/videodriver-xl.webp 1200w\"></figure>\n<p>The Sega Family Driver (also called Video Driver in the US) is a unique hybrid console developed in collaboration between Sega and Tyco in 1988. This VHS-driven system combines elements of video games and classic toys. It features a tiny toy car that players control using a mechanical steering wheel.<br><br>The console works by playing a VHS tape that displays a street scene with corners and obstacles on the TV screen, creating the illusion that the toy car is driving on the road. The Video Driver does not need to be connected to the television, making it a charming and innovative blend of analog and digital entertainment.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">6 games (~700 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=964900\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/252/gallery/Zrzut-ekranu-2025-01-02-182744.png\" data-size=\"3071x1724\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/252/gallery/Zrzut-ekranu-2025-01-02-182744-thumbnail.webp\" alt=\"\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/252/gallery/Zrzut-ekranu-2025-01-04-013445.png\" data-size=\"3074x1726\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/252/gallery/Zrzut-ekranu-2025-01-04-013445-thumbnail.webp\" alt=\"\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install in Batocera:</strong><br>Drag and drop the \"videodriver\" &amp; \"singe\" folder to the roms directory.<br>If prompted to overwrite files/folders, say YES.</p>\n<p class=\"msg msg--warning\">*Singe has some videodriver directories that are hidden needed to run the games.</p>\n<p class=\"msg msg--highlight \"><strong>How to install in Retrobat:</strong><br>Drag and drop the \"videodriver\" folder only to the roms directory.</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/252/videodriver_system.png",
+            "author": {
+                "name": "g-spawn"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Custom",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2025-01-15T00:22:00+01:00",
+            "date_modified": "2025-01-15T20:53:50+01:00"
+        },
+        {
+            "id": "https://pixelnostalgia.github.io/mattel-captain-power-captpower/index.html",
+            "url": "https://pixelnostalgia.github.io/mattel-captain-power-captpower/index.html",
+            "title": "Mattel Captain Power (captpower)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/251/captpower-logo-2.png\" alt=\"\" width=\"396\" height=\"154\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/251/responsive/captpower-logo-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/251/responsive/captpower-logo-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/251/responsive/captpower-logo-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/251/responsive/captpower-logo-2-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/251/captpower.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/251/responsive/captpower-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/251/responsive/captpower-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/251/responsive/captpower-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/251/responsive/captpower-xl.webp 1200w\"></figure>\n<p>The Saturday morning TV program Captain Power and the Soldiers of the Future, which aired from 1987-88, was a science fiction/action television series that ran for 22 episodes in Canadian/American syndication. A toy line was also produced by Mattel, and during each episode there was a segment that included visual and audio material which interacted with the toys.<br><br>The first interactive toy and game for the series was a toy XT-7 jet with a video cassette. There were three tapes in all: \"<em>Future Force Training</em>\", \"<em>Bio-Dread Strike Mission</em>\", \"<em>Raid On Volcania</em>\". The tapes had openings and closings in live action with the cast of the television show. The actual mission itself was animated and took place in the jet cockpit from the first-person point of view of the pilot/player.<br>The XT-7 also could interact with the live-action television broadcast in the same manner. Since the \"game\" was only a VHS tape, the missions played out the same way every time.<br><br>Other interactive objects in this series were the \"<em>Phantom Stryker</em>\" Bio-Dread ship, the \"<em>Interlocker Throne</em>\" for Lord Dread, which consisted of a stationary tank on a tripod and an optional target viewer that could be taken on and off, and the \"Power On\" platform in which one could plug the Captain Power figure. Whenever the transformation was triggered on the television screen or the base was fired at by one of the other vehicles, the toy would immediately trigger the \"Power On\" sequence causing the chest of the figure to glow.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">5 games (~3.4 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=964899\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>  </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/251/gallery/image1.png\" data-size=\"3079x1736\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/251/gallery/image1-thumbnail.webp\" alt=\"\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/251/gallery/image2.png\" data-size=\"3087x1781\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/251/gallery/image2-thumbnail.webp\" alt=\"\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/251/gallery/image3.png\" data-size=\"3076x1720\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/251/gallery/image3-thumbnail.webp\" alt=\"\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install in Batocera:</strong><br>Drag and drop the \"captpower\" &amp; \"singe\" folder to the roms directory.<br>If prompted to overwrite files/folders, say YES.</p>\n<p class=\"msg msg--warning\">*Singe has some captpower directories that are hidden needed to run the games.</p>\n<p class=\"msg msg--highlight \"><strong>How to install in Retrobat:</strong><br>Drag and drop the \"captpower\" folder only to the roms directory.</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/251/captpower_system.png",
+            "author": {
+                "name": "g-spawn"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "PC x86",
+                   "Custom",
+                   "Console",
+                   "Batocera"
+            ],
+            "date_published": "2025-01-14T23:58:04+01:00",
+            "date_modified": "2025-01-15T20:52:05+01:00"
+        },
+        {
             "id": "https://pixelnostalgia.github.io/nec-turbografx-cd-tgcd/index.html",
             "url": "https://pixelnostalgia.github.io/nec-turbografx-cd-tgcd/index.html",
             "title": "Nec TurboGrafx-CD (tgcd)",
@@ -178,48 +222,6 @@
             ],
             "date_published": "2024-12-25T18:45:40+01:00",
             "date_modified": "2024-12-25T18:49:16+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/uzebox-uzebox/index.html",
-            "url": "https://pixelnostalgia.github.io/uzebox-uzebox/index.html",
-            "title": "Uzebox (uzebox)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/241/uzebox-w.svg\" alt=\"\" width=\"377\" height=\"111\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/241/uzebox.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/241/responsive/uzebox-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/241/responsive/uzebox-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/241/responsive/uzebox-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/241/responsive/uzebox-xl.webp 1200w\"></figure>\n<p>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it uses an interrupt driven kernel and has no frame buffer. Functions such as video signal generation, tile rendering and music mixing is done in realtime by a background task so your game can easily be developed in C.<br><br>The design goal was to be as simple as possible yet have good enough sound and graphics to implement interesting games. Emphasis was put on making it easy and fun to assemble and program for any hobbyists. The final design contains only two chips: an ATmega644 and an AD725 RGB-to-NTSC converter.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">74 games (~57 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957732\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>     </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\" data-columns=\"1\"> </div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"uzebox\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/241/uzebox_system.png",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Console",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-25T18:42:05+01:00",
-            "date_modified": "2024-12-25T18:45:21+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/interton-video-computer-4000-vc4000/index.html",
-            "url": "https://pixelnostalgia.github.io/interton-video-computer-4000-vc4000/index.html",
-            "title": "Interton Video Computer 4000 (vc4000)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/240/vc4000-w.svg\" alt=\"\" width=\"377\" height=\"101\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/240/vc4000.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/240/responsive/vc4000-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/240/responsive/vc4000-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/240/responsive/vc4000-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/240/responsive/vc4000-xl.webp 1200w\"></figure>\n<p>The Interton Video Computer 4000 (officially abbreviated as Interton VC 4000) is an early 8-bit ROM cartridge-based second-generation home video game console that was released in Germany, England, France, Spain, Austria, the Netherlands and Australia in 1978 by German hearing aid manufacturer Interton. The console is the successor of the Interton Video 3001 and was sold for 298 Deutsche Mark and discontinued in 1983.<br><br>The Interton VC 4000's power comes from a Signetics 2650 CPU (which is the same as an Arcadia 2001) and a Signetics 2636 gaming controller. Both controllers contain a 12-button keypad, two fire buttons, and a joystick. Inside the systems control panel, there are four different buttons. The ON/OFF switch, RESET, SELECT, and START.<br><br>The console was produced by different companies and sold with different names. Not every console is compatible with others due to differences in the shapes and dimensions of the cartridge slots, but all of the systems are software compatible.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">37 games (~111 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=957666\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>     </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\" data-columns=\"1\"> </div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"vc4000\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/240/vc4000_system.png",
-            "author": {
-                "name": "RGS"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Console",
-                   "Batocera"
-            ],
-            "date_published": "2024-12-25T18:37:32+01:00",
-            "date_modified": "2024-12-25T18:41:40+01:00"
         }
     ]
 }
