@@ -3,7 +3,7 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2025-01-19T22:45:52+01:00</updated>
+    <updated>2025-01-21T17:51:11+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
@@ -17,7 +17,6 @@
         <link href="https://pixelnostalgia.github.io/videobrain-family-computer-vidbrain/index.html"/>
         <id>https://pixelnostalgia.github.io/videobrain-family-computer-vidbrain/index.html</id>
         <media:content url="https://pixelnostalgia.github.io/media/posts/279/vidbrain_system.png" medium="image" />
-            <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
             <category term="PC x86"/>
@@ -29,14 +28,14 @@
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/279/vidbrain_system.png" alt="vidbrain" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://pixelnostalgia.github.io/media/posts/279/vidbrain_system.png" class="type:primaryImage" alt="vidbrain" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
 
 <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/279/vidbrain-w-logo.png" alt="" width="377" height="46" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/279/responsive/vidbrain-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/279/responsive/vidbrain-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/279/responsive/vidbrain-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/279/responsive/vidbrain-w-logo-xl.webp 1200w"></figure>
 <p> </p>
@@ -146,7 +145,6 @@
         <link href="https://pixelnostalgia.github.io/bandai-rx-78-rx78/index.html"/>
         <id>https://pixelnostalgia.github.io/bandai-rx-78-rx78/index.html</id>
         <media:content url="https://pixelnostalgia.github.io/media/posts/276/rx78_system.png" medium="image" />
-            <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
             <category term="PC x86"/>
@@ -158,14 +156,14 @@
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/276/rx78_system.png" alt="rx78" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://pixelnostalgia.github.io/media/posts/276/rx78_system.png" class="type:primaryImage" alt="rx78" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
 
 <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/276/rx78-logo.png" alt="" width="325" height="161" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/276/responsive/rx78-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/276/responsive/rx78-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/276/responsive/rx78-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/276/responsive/rx78-logo-xl.webp 1200w"></figure>
 <p> </p>
@@ -189,7 +187,6 @@
         <link href="https://pixelnostalgia.github.io/pecom-64-pecom64/index.html"/>
         <id>https://pixelnostalgia.github.io/pecom-64-pecom64/index.html</id>
         <media:content url="https://pixelnostalgia.github.io/media/posts/275/pecom64_system.png" medium="image" />
-            <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
             <category term="PC x86"/>
@@ -201,14 +198,14 @@
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/275/pecom64_system.png" alt="pecom64" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://pixelnostalgia.github.io/media/posts/275/pecom64_system.png" class="type:primaryImage" alt="pecom64" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
 
 <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/275/pecom-64-logo.png" alt="" width="490" height="81" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/275/responsive/pecom-64-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/275/responsive/pecom-64-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/275/responsive/pecom-64-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/275/responsive/pecom-64-logo-xl.webp 1200w"></figure>
 <p> </p>
@@ -232,7 +229,6 @@
         <link href="https://pixelnostalgia.github.io/philips-p2000t-p2000t/index.html"/>
         <id>https://pixelnostalgia.github.io/philips-p2000t-p2000t/index.html</id>
         <media:content url="https://pixelnostalgia.github.io/media/posts/274/p2000t_system.png" medium="image" />
-            <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
             <category term="PC x86"/>
@@ -244,14 +240,14 @@
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/274/p2000t_system.png" alt="p2000t" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://pixelnostalgia.github.io/media/posts/274/p2000t_system.png" class="type:primaryImage" alt="p2000t" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
 
 <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/274/p2000t-logo.png" alt="" width="302" height="173" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/274/responsive/p2000t-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/274/responsive/p2000t-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/274/responsive/p2000t-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/274/responsive/p2000t-logo-xl.webp 1200w"></figure>
 <p> </p>
@@ -317,7 +313,6 @@
         <link href="https://pixelnostalgia.github.io/applied-technology-microbee-mbee/index.html"/>
         <id>https://pixelnostalgia.github.io/applied-technology-microbee-mbee/index.html</id>
         <media:content url="https://pixelnostalgia.github.io/media/posts/272/mbee_system.png" medium="image" />
-            <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
             <category term="PC x86"/>
@@ -329,14 +324,14 @@
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/272/mbee_system.png" alt="mbee" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://pixelnostalgia.github.io/media/posts/272/mbee_system.png" class="type:primaryImage" alt="mbee" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
 
 <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/272/mbee-w-logo.png" alt="" width="310" height="163" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/272/responsive/mbee-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/272/responsive/mbee-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/272/responsive/mbee-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/272/responsive/mbee-w-logo-xl.webp 1200w"></figure>
 <p> </p>
@@ -399,7 +394,6 @@
         <link href="https://pixelnostalgia.github.io/vtech-laser-310-laser310/index.html"/>
         <id>https://pixelnostalgia.github.io/vtech-laser-310-laser310/index.html</id>
         <media:content url="https://pixelnostalgia.github.io/media/posts/270/laser310_system.png" medium="image" />
-            <category term="Retrobat"/>
             <category term="RPi5"/>
             <category term="RPi4"/>
             <category term="PC x86"/>
@@ -410,14 +404,14 @@
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/270/laser310_system.png" alt="laser310" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://pixelnostalgia.github.io/media/posts/270/laser310_system.png" class="type:primaryImage" alt="laser310" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
 
 <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/270/laser310-w-logo.png" alt="" width="377" height="127" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/270/responsive/laser310-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/270/responsive/laser310-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/270/responsive/laser310-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/270/responsive/laser310-w-logo-xl.webp 1200w"></figure>
 <p> </p>
