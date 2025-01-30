@@ -11,6 +11,27 @@
     },
     "items": [
         {
+            "id": "https://pixelnostalgia.github.io/ion-fury-fury/index.html",
+            "url": "https://pixelnostalgia.github.io/ion-fury-fury/index.html",
+            "title": "Ion Fury (fury)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/281/Ion-Fury.png\" alt=\"\" width=\"377\" height=\"98\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/281/responsive/Ion-Fury-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/281/responsive/Ion-Fury-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/281/responsive/Ion-Fury-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/281/responsive/Ion-Fury-xl.webp 1200w\"></figure>\n<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/281/fury_new.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/281/responsive/fury_new-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/281/responsive/fury_new-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/281/responsive/fury_new-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/281/responsive/fury_new-xl.webp 1200w\"></figure>\n<p>Ion Fury is a new Build Engine game from the creators of the EDuke32 source port.<br><br>3D Realms and Voidpoint are proud to bring back the Build engine, which powered Duke Nukem 3D, Blood, and Shadow Warrior, in all of its hand-crafted pixelated glory. They’ve spent a lot of time tinkering under the hood to take advantage of new technology and techniques. Bigger levels, hundreds of new colors, and morphing maps that transform mid-level are all just a few of the advancements made to the engine.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">2 games (~261 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=965026\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/281/gallery/Zrzut-ekranu-2025-01-18-164533.png\" data-size=\"3071x1726\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/281/gallery/Zrzut-ekranu-2025-01-18-164533-thumbnail.webp\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"fury\" folder into the 'roms' directory and Enjoy!</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/281/fury_system.png",
+            "author": {
+                "name": "g-spawn"
+            },
+            "tags": [
+                   "Retrobat",
+                   "RPi5",
+                   "RPi4",
+                   "Port",
+                   "PC x86",
+                   "Batocera"
+            ],
+            "date_published": "2025-01-30T20:35:56+01:00",
+            "date_modified": "2025-01-30T20:58:22+01:00"
+        },
+        {
             "id": "https://pixelnostalgia.github.io/videobrain-family-computer-vidbrain/index.html",
             "url": "https://pixelnostalgia.github.io/videobrain-family-computer-vidbrain/index.html",
             "title": "VideoBrain Family Computer (vidbrain)",
@@ -197,26 +218,6 @@
             ],
             "date_published": "2025-01-19T21:19:18+01:00",
             "date_modified": "2025-01-19T21:24:27+01:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/vtech-laser-310-laser310/index.html",
-            "url": "https://pixelnostalgia.github.io/vtech-laser-310-laser310/index.html",
-            "title": "VTech Laser 310 (laser310)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/270/laser310-w-logo.png\" alt=\"\" width=\"377\" height=\"127\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/270/responsive/laser310-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/270/responsive/laser310-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/270/responsive/laser310-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/270/responsive/laser310-w-logo-xl.webp 1200w\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/270/laser310.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/270/responsive/laser310-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/270/responsive/laser310-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/270/responsive/laser310-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/270/responsive/laser310-xl.webp 1200w\"></figure>\n<p>VTech Laser 310 (also known as VZ-310). It is an all-in-one computer with a Z80, 3.54 MHz microprocessor. VTech (short for Video Technology Ltd.) was a Hong Kong electronics company that also sold the Laser in other countries through various retail chains. The Laser 310 was sold by Dick Smith Electronics , for example, so instead of VTech the Laser 310 was then called the Dick Smith Laser VZ-310 or VZ-310 for short (sold from 1983 to 1989). The Laser 310 is comparable to the previous model Laser200 (VZ-200), except for a modified keyboard and a rather unusual memory size of 18 KiB (2 KiB of which is video RAM) and is fully compatible with it. The machine ran basic games on the cartridge, such as Hoppy (Frogger's version), Cosmic Rescue (Scramble), VZ Invaders (Space Invaders), Dawn Patrol (Chopper) and Moon Patrol.<br><br>Technical specifications:<br>- Processor: Z80A processor, 3.54 MHz<br>- RAM: 16KiB<br>- RAM: 2KiB<br>- Motorola 6807 video processor<br>- Text resolution: 32 x 16 characters (8 colors)<br>- Graphics resolution: 128 x 64 pixels (4 colors)</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">117 games (~338 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=964917\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>     </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\" data-columns=\"1\"> </div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future \"Barebones\" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If \"Barebones\" editions of our builds are now available, please download as needed.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"laser310\" folder to the \"roms\" directory</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/270/laser310_system.png",
-            "author": {
-                "name": "g-spawn"
-            },
-            "tags": [
-                   "RPi5",
-                   "RPi4",
-                   "PC x86",
-                   "Computer",
-                   "Batocera"
-            ],
-            "date_published": "2025-01-19T21:01:05+01:00",
-            "date_modified": "2025-01-21T17:50:27+01:00"
         }
     ]
 }
