@@ -1,1345 +1,5 @@
 [
     {
-        "path": "3do-interactive-multiplayer-3do",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/3do-interactive-multiplayer-3do/index.html",
-        "type": "file",
-        "md5": "4738b994be25b9297685a83a2313dd89"
-    },
-    {
-        "path": "3dsen-3dsen",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/3dsen-3dsen/index.html",
-        "type": "file",
-        "md5": "eee6173d03947b7630612ee7abb59b11"
-    },
-    {
-        "path": "404.html",
-        "type": "file",
-        "md5": "9fd2af625d93a5b75a89fb47ece842d1"
-    },
-    {
-        "path": "aamber-pegasus-pegasus",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/aamber-pegasus-pegasus/index.html",
-        "type": "file",
-        "md5": "25c7fc8eb6a878aa79ed3706bb21947d"
-    },
-    {
-        "path": "acorn-archimedes-archimedes",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/acorn-archimedes-archimedes/index.html",
-        "type": "file",
-        "md5": "b237c9b583cbb4c887a628bb15f73314"
-    },
-    {
-        "path": "acorn-atom-atom",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/acorn-atom-atom/index.html",
-        "type": "file",
-        "md5": "664e0ad93920fb60607d1bfd39ac38f4"
-    },
-    {
-        "path": "acorn-bbc-micro-bbc",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/acorn-bbc-micro-bbc/index.html",
-        "type": "file",
-        "md5": "a66dd1c552da6e71dab4ded32d9caa92"
-    },
-    {
-        "path": "acorn-electron-electron",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/acorn-electron-electron/index.html",
-        "type": "file",
-        "md5": "09a0f04bd58d1c761e916d384b5eb279"
-    },
-    {
-        "path": "action-max-actionmax",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/action-max-actionmax/index.html",
-        "type": "file",
-        "md5": "478230855ad3ccc4b6259ed50c05ca7c"
-    },
-    {
-        "path": "adam-coleco-adam",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/adam-coleco-adam/index.html",
-        "type": "file",
-        "md5": "3a8e341a26a563f5322204d648920a6d"
-    },
-    {
-        "path": "adobe-flash-flash",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/adobe-flash-flash/index.html",
-        "type": "file",
-        "md5": "05e81ca7608e227e600b0464e8ad8c02"
-    },
-    {
-        "path": "adventure-vision-advision",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/adventure-vision-advision/index.html",
-        "type": "file",
-        "md5": "00dc894fad2a326d565d2858914375fb"
-    },
-    {
-        "path": "aleck-64-aleck64",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/aleck-64-aleck64/index.html",
-        "type": "file",
-        "md5": "710951553a648b8e26d075cb27f0aa55"
-    },
-    {
-        "path": "alice-32-alice32",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/alice-32-alice32/index.html",
-        "type": "file",
-        "md5": "32e16476d72d25e47682efdd4b07ef73"
-    },
-    {
-        "path": "amiga-1200-amiga1200",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amiga-1200-amiga1200/index.html",
-        "type": "file",
-        "md5": "ba19f51ba7c633a4443f92f832585a32"
-    },
-    {
-        "path": "amiga-500-amiga500-2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amiga-500-amiga500-2/index.html",
-        "type": "file",
-        "md5": "bd3d63757d08f715661ce6b565da4db7"
-    },
-    {
-        "path": "amiga-cd32-amigacd32",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amiga-cd32-amigacd32/index.html",
-        "type": "file",
-        "md5": "5dc2a7e801be26eacf02e1d26a246378"
-    },
-    {
-        "path": "amstrad-cpc-amstradcpc",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amstrad-cpc-amstradcpc/index.html",
-        "type": "file",
-        "md5": "6451faad211741624bce6536a6e007fc"
-    },
-    {
-        "path": "amstrad-gx4000-gx4000",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amstrad-gx4000-gx4000/index.html",
-        "type": "file",
-        "md5": "c0ce55cb26ff0ad34a4cb5ba055c6a49"
-    },
-    {
-        "path": "apf-electronics-m-1000-apfm1000",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/apf-electronics-m-1000-apfm1000/index.html",
-        "type": "file",
-        "md5": "ed8e16a8ba93945ebd05815f8773ff5b"
-    },
-    {
-        "path": "apple-ii-apple2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/apple-ii-apple2/index.html",
-        "type": "file",
-        "md5": "5a53749fd4d22a1979be5eec87565a8b"
-    },
-    {
-        "path": "apple-iigs-apple2gs",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/apple-iigs-apple2gs/index.html",
-        "type": "file",
-        "md5": "1521f205cb2ac6038ad9dc32e4644dfc"
-    },
-    {
-        "path": "applied-technology-microbee-mbee",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/applied-technology-microbee-mbee/index.html",
-        "type": "file",
-        "md5": "a71a714aab1edd1b810d068acacb41f1"
-    },
-    {
-        "path": "arduboy-arduboy",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/arduboy-arduboy/index.html",
-        "type": "file",
-        "md5": "6fe7e9a56a1e5d92a8510d1811de079a"
-    },
-    {
-        "path": "assets",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "assets/css",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/css/editor.css",
-        "type": "file",
-        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
-    },
-    {
-        "path": "/assets/css/main.css",
-        "type": "file",
-        "md5": "aa35269e23ea63498dc068ceb36b11e7"
-    },
-    {
-        "path": "/assets/css/photoswipe.css",
-        "type": "file",
-        "md5": "151447f0cf3c9ef292a571bc74c9472c"
-    },
-    {
-        "path": "/assets/css/style.css",
-        "type": "file",
-        "md5": "63ec9b3a23992b90e078eb03f0e4fd55"
-    },
-    {
-        "path": "assets/dynamic",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "assets/js",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/js/photoswipe-ui-default.min.js",
-        "type": "file",
-        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
-    },
-    {
-        "path": "/assets/js/photoswipe.min.js",
-        "type": "file",
-        "md5": "017385b552f7e0d979e2e2fe6f324015"
-    },
-    {
-        "path": "/assets/js/scripts.js",
-        "type": "file",
-        "md5": "bd19e1795647692f2fe6f2249792391f"
-    },
-    {
-        "path": "/assets/js/scripts.min.js",
-        "type": "file",
-        "md5": "8680a80b5605dca08d4eef4416e29e9f"
-    },
-    {
-        "path": "/assets/js/svg-fix.js",
-        "type": "file",
-        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
-    },
-    {
-        "path": "/assets/js/svg-map.js",
-        "type": "file",
-        "md5": "aa1ff23a8df2377a60f48f5b4d433ab5"
-    },
-    {
-        "path": "assets/svg",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/svg/gallery-icons-dark.svg",
-        "type": "file",
-        "md5": "0c70735af58190b563b2940b7a07007a"
-    },
-    {
-        "path": "/assets/svg/gallery-icons-light.svg",
-        "type": "file",
-        "md5": "0bb1f41e2e459d23628833c37d8532f0"
-    },
-    {
-        "path": "/assets/svg/svg-map.svg",
-        "type": "file",
-        "md5": "c8df4110c4ebd38fbb95093ee7b4e317"
-    },
-    {
-        "path": "atari-2600-atari2600",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/atari-2600-atari2600/index.html",
-        "type": "file",
-        "md5": "55d833705b9fa6d4ae493122a08a5d6e"
-    },
-    {
-        "path": "atari-5200-atari5200",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/atari-5200-atari5200/index.html",
-        "type": "file",
-        "md5": "1ebf8d7f8b067019386b86b57ad03df8"
-    },
-    {
-        "path": "atari-7800-atari7800",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/atari-7800-atari7800/index.html",
-        "type": "file",
-        "md5": "ca30cfa35c77f3f084965c3765560955"
-    },
-    {
-        "path": "atari-800-atari800",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/atari-800-atari800/index.html",
-        "type": "file",
-        "md5": "fe4de09fc7c00c718f77c4a85fe31115"
-    },
-    {
-        "path": "atari-jaguar-cd-jaguarcd",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/atari-jaguar-cd-jaguarcd/index.html",
-        "type": "file",
-        "md5": "ef3b0118f28f92cf844fb7dfa961f822"
-    },
-    {
-        "path": "atari-jaguar-jaguar",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/atari-jaguar-jaguar/index.html",
-        "type": "file",
-        "md5": "6b1b579f20d9033bf54ba0a6c9e4f7fd"
-    },
-    {
-        "path": "atari-lynx-lynx",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/atari-lynx-lynx/index.html",
-        "type": "file",
-        "md5": "d71e5dd089b215bb967ec2b9a164f45f"
-    },
-    {
-        "path": "atari-st-atarist",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/atari-st-atarist/index.html",
-        "type": "file",
-        "md5": "6d2e59a57cc696a2bb0d259e607b6acf"
-    },
-    {
-        "path": "atari-xe-video-game-system-xegs",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/atari-xe-video-game-system-xegs/index.html",
-        "type": "file",
-        "md5": "90ed9e23c05225d1ce3f173ce1eb9055"
-    },
-    {
-        "path": "authors",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "authors/g-spawn",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/g-spawn/index.html",
-        "type": "file",
-        "md5": "aa9748cd619e8aac307aedb1159a5db7"
-    },
-    {
-        "path": "authors/g-spawn/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "authors/g-spawn/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/g-spawn/page/2/index.html",
-        "type": "file",
-        "md5": "2d1736f8e5b663d0cea3072dfa6941f7"
-    },
-    {
-        "path": "authors/rapsteruk",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rapsteruk/index.html",
-        "type": "file",
-        "md5": "6bc72a1512f53ef0c0c21504ad7d1b28"
-    },
-    {
-        "path": "authors/rgs",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rgs/index.html",
-        "type": "file",
-        "md5": "233e9d0612aabfd7a56b6f9abd64b8c9"
-    },
-    {
-        "path": "authors/rgs/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "authors/rgs/page/10",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rgs/page/10/index.html",
-        "type": "file",
-        "md5": "901cd3d54c79a5f11632f631035a9f65"
-    },
-    {
-        "path": "authors/rgs/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rgs/page/2/index.html",
-        "type": "file",
-        "md5": "fa38a52766a9c8e614af4d2a62de728b"
-    },
-    {
-        "path": "authors/rgs/page/3",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rgs/page/3/index.html",
-        "type": "file",
-        "md5": "e7742e9cc593d267af79dced32096472"
-    },
-    {
-        "path": "authors/rgs/page/4",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rgs/page/4/index.html",
-        "type": "file",
-        "md5": "f8adc489f2782012b2ffba27978ee0e7"
-    },
-    {
-        "path": "authors/rgs/page/5",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rgs/page/5/index.html",
-        "type": "file",
-        "md5": "221abeae098b19bcf124c156f489615c"
-    },
-    {
-        "path": "authors/rgs/page/6",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rgs/page/6/index.html",
-        "type": "file",
-        "md5": "02c27eb6e28ca91afc3454b06244aadb"
-    },
-    {
-        "path": "authors/rgs/page/7",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rgs/page/7/index.html",
-        "type": "file",
-        "md5": "b7850f1dce8debd59d54d4fbd3b97c86"
-    },
-    {
-        "path": "authors/rgs/page/8",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rgs/page/8/index.html",
-        "type": "file",
-        "md5": "e8477b4c6847d92e7cff6f758ffa2f93"
-    },
-    {
-        "path": "authors/rgs/page/9",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/rgs/page/9/index.html",
-        "type": "file",
-        "md5": "ed27701d8a3a2c96eb0a676ec2287abd"
-    },
-    {
-        "path": "authors/spirit",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/spirit/index.html",
-        "type": "file",
-        "md5": "5a5373e636c57a83972e3f5ac13602ba"
-    },
-    {
-        "path": "bally-astrocade-astrocade",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/bally-astrocade-astrocade/index.html",
-        "type": "file",
-        "md5": "3622391da87bf49a57e5d8e05a8517ff"
-    },
-    {
-        "path": "bandai-rx-78-rx78",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/bandai-rx-78-rx78/index.html",
-        "type": "file",
-        "md5": "4bc08c308874b16f2facf383065db31c"
-    },
-    {
-        "path": "bandai-sufami-turbo-sufami",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/bandai-sufami-turbo-sufami/index.html",
-        "type": "file",
-        "md5": "50c426b61328cb941b88bea63bb3f767"
-    },
-    {
-        "path": "bandai-super-vision-8000-sv8000",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/bandai-super-vision-8000-sv8000/index.html",
-        "type": "file",
-        "md5": "47636e75ccf7b615fcfd823069431b7e"
-    },
-    {
-        "path": "bit-corporation-gamate-gamate",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/bit-corporation-gamate-gamate/index.html",
-        "type": "file",
-        "md5": "937b202f843a85957b8c86861ba25aee"
-    },
-    {
-        "path": "boom-3-boom3",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/boom-3-boom3/index.html",
-        "type": "file",
-        "md5": "939017e7ec7fd2fec0c66e4750c37a1d"
-    },
-    {
-        "path": "camerica-aladdin-deck-enhancer-nes_aladdin",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/camerica-aladdin-deck-enhancer-nes_aladdin/index.html",
-        "type": "file",
-        "md5": "570387e845360d2a39a23eb1e8b9afab"
-    },
-    {
-        "path": "camputers-lynx-camplynx",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/camputers-lynx-camplynx/index.html",
-        "type": "file",
-        "md5": "4caac32946c0bb9189c76907606168d9"
-    },
-    {
-        "path": "cannonball-cannonball",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/cannonball-cannonball/index.html",
-        "type": "file",
-        "md5": "f799ff509ca12c5805bbd963df0f4feb"
-    },
-    {
-        "path": "capcom-play-system-i-cps1",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/capcom-play-system-i-cps1/index.html",
-        "type": "file",
-        "md5": "e223a47db81ee46517b2cd47c27758a5"
-    },
-    {
-        "path": "capcom-play-system-ii-cps2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/capcom-play-system-ii-cps2/index.html",
-        "type": "file",
-        "md5": "ab495bea60b289950284a5010f7bb198"
-    },
-    {
-        "path": "capcom-play-system-iii-cps3",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/capcom-play-system-iii-cps3/index.html",
-        "type": "file",
-        "md5": "5a5f8d36b0c148994ba0111dddcee55a"
-    },
-    {
-        "path": "casio-loopy-loopy",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/casio-loopy-loopy/index.html",
-        "type": "file",
-        "md5": "2a529cfa3b30db00d875a04849049ca2"
-    },
-    {
-        "path": "casio-pv-1000-pv1000",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/casio-pv-1000-pv1000/index.html",
-        "type": "file",
-        "md5": "ecc154af1683bf08e2d2dc16eafcf638"
-    },
-    {
-        "path": "casio-pv-2000-pv2000",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/casio-pv-2000-pv2000/index.html",
-        "type": "file",
-        "md5": "a8d94b14139725739b8d332986e637ea"
-    },
-    {
-        "path": "cave-story-cavestory",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/cave-story-cavestory/index.html",
-        "type": "file",
-        "md5": "45fb3d41524c370754563dfd6503786e"
-    },
-    {
-        "path": "colecovision-colecovision",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/colecovision-colecovision/index.html",
-        "type": "file",
-        "md5": "6b0815ffa086e849ac45e3dec4c64d12"
-    },
-    {
-        "path": "commodore-128-c128",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/commodore-128-c128/index.html",
-        "type": "file",
-        "md5": "4f447358948c24c5d226e54d46cd4c46"
-    },
-    {
-        "path": "commodore-64-c64",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/commodore-64-c64/index.html",
-        "type": "file",
-        "md5": "fe81cb8bef871b03a708563f5a1f45b1"
-    },
-    {
-        "path": "commodore-amiga-4000-amiga4000",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/commodore-amiga-4000-amiga4000/index.html",
-        "type": "file",
-        "md5": "c42850dc070ba7e37060008775993e2c"
-    },
-    {
-        "path": "commodore-dynamic-total-vision-amigacdtv",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/commodore-dynamic-total-vision-amigacdtv/index.html",
-        "type": "file",
-        "md5": "57be82288e2ba79c71c0fb924a5b063c"
-    },
-    {
-        "path": "commodore-pet-pet",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/commodore-pet-pet/index.html",
-        "type": "file",
-        "md5": "5acf9deb42976fd394d5054898cdb66d"
-    },
-    {
-        "path": "commodore-plus4-cplus4",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/commodore-plus4-cplus4/index.html",
-        "type": "file",
-        "md5": "f9ed15c78ddff571b269cb859094cab7"
-    },
-    {
-        "path": "commodore-vic-20-c20",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/commodore-vic-20-c20/index.html",
-        "type": "file",
-        "md5": "774bea7d3c93fe2208e2ad70ecaf9ded"
-    },
-    {
-        "path": "computer-art-visual-entertainment-cave",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/computer-art-visual-entertainment-cave/index.html",
-        "type": "file",
-        "md5": "db80cb4e65d7da56474af916d16121de"
-    },
-    {
-        "path": "creatonicvideojettimlex-mega-duck-megaduck",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/creatonicvideojettimlex-mega-duck-megaduck/index.html",
-        "type": "file",
-        "md5": "65dc0281b53d32fa6071b68ebe0b5c15"
-    },
-    {
-        "path": "daphne-daphne",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/daphne-daphne/index.html",
-        "type": "file",
-        "md5": "afeaa4846b8dcd8d834661c3dfdb8a2c"
-    },
-    {
-        "path": "datach-joint-rom-system-datach",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/datach-joint-rom-system-datach/index.html",
-        "type": "file",
-        "md5": "be34b5f3ffd72e6b016786d9eb78fe50"
-    },
-    {
-        "path": "devilutionx-devilutionx",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/devilutionx-devilutionx/index.html",
-        "type": "file",
-        "md5": "82ae2782536e1990e8691a07766109d9"
-    },
-    {
-        "path": "digital-equipment-corporation-pdp-1-pdp1",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/digital-equipment-corporation-pdp-1-pdp1/index.html",
-        "type": "file",
-        "md5": "c296d99e471c1b42811395f935d62cf9"
-    },
-    {
-        "path": "dinothawr-dinothawr",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/dinothawr-dinothawr/index.html",
-        "type": "file",
-        "md5": "8684e3894c9cf1724fc056949efeac90"
-    },
-    {
-        "path": "dragon-data-dragon-32-dragon32",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/dragon-data-dragon-32-dragon32/index.html",
-        "type": "file",
-        "md5": "abf08c36dd08b850fc7331ba05220ddf"
-    },
-    {
-        "path": "dreamcast-visual-memory-unit-svmu",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/dreamcast-visual-memory-unit-svmu/index.html",
-        "type": "file",
-        "md5": "996c69a2575671961bdf74034fc491ed"
-    },
-    {
-        "path": "eaca-eg2000-colour-genie-cgenie",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/eaca-eg2000-colour-genie-cgenie/index.html",
-        "type": "file",
-        "md5": "d78842f75fdc7a3ae3da9fd243e5498f"
-    },
-    {
-        "path": "easyrpg-easyrpg",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/easyrpg-easyrpg/index.html",
-        "type": "file",
-        "md5": "71f1e1e1ed3017abede8adc2a8e45922"
-    },
-    {
-        "path": "elektronika-im-elektronika",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/elektronika-im-elektronika/index.html",
-        "type": "file",
-        "md5": "fdf8f88c79b7b3b82ee197e09daea64c"
-    },
-    {
-        "path": "elektronika-inzenjering-galaksija-galaxy",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/elektronika-inzenjering-galaksija-galaxy/index.html",
-        "type": "file",
-        "md5": "1123bd4ce8ad41813fcf74ef0b49d7dc"
-    },
-    {
-        "path": "emerson-arcadia-2001-arcadia",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/emerson-arcadia-2001-arcadia/index.html",
-        "type": "file",
-        "md5": "e1fccb2c623ac41bb03cb1fa5127e860"
-    },
-    {
-        "path": "enabling-autoresize-at-next-boot",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/enabling-autoresize-at-next-boot/index.html",
-        "type": "file",
-        "md5": "9f8e01c08298cb30c9a3d66274b27470"
-    },
-    {
-        "path": "epoch-game-pocket-computer-gamepock",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/epoch-game-pocket-computer-gamepock/index.html",
-        "type": "file",
-        "md5": "044ef2b4d819e421e72b11577f74950f"
-    },
-    {
-        "path": "epoch-super-cassette-vision-scv",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/epoch-super-cassette-vision-scv/index.html",
-        "type": "file",
-        "md5": "ceea3fc35ac01f970fdd8d0610df81b5"
-    },
-    {
-        "path": "exelvision-exl-100-exl100",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/exelvision-exl-100-exl100/index.html",
-        "type": "file",
-        "md5": "80e38187cfeb744854ef4fadab723027"
-    },
-    {
-        "path": "exidy-sorcerer-sorcerer",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/exidy-sorcerer-sorcerer/index.html",
-        "type": "file",
-        "md5": "dc7e725cd85f289dbbdb93691bd9034f"
-    },
-    {
-        "path": "fairchild-channel-f-channelf",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/fairchild-channel-f-channelf/index.html",
-        "type": "file",
-        "md5": "b0d27e8da43ae8bc08f7f61aadc9048a"
-    },
-    {
-        "path": "favicon.ico",
-        "type": "file",
-        "md5": "fb52ce0bd82338248e48ac7b994a2832"
-    },
-    {
-        "path": "feed.json",
-        "type": "file",
-        "md5": "23a36ca47902a11f5cdabd38fc474751"
-    },
-    {
-        "path": "feed.xml",
-        "type": "file",
-        "md5": "c0a2ee7719eee50e01ab52540250ed8d"
-    },
-    {
-        "path": "final-burn-neo-fbneo",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/final-burn-neo-fbneo/index.html",
-        "type": "file",
-        "md5": "36eea441ec3485374e7b10be31a688be"
-    },
-    {
-        "path": "fix-ryujinx-after-the-631-update",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/fix-ryujinx-after-the-631-update/index.html",
-        "type": "file",
-        "md5": "3f672723fb34617b610d17c5ad265bf5"
-    },
-    {
-        "path": "fujitsu-fm-towns-marty-fmtowns",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/fujitsu-fm-towns-marty-fmtowns/index.html",
-        "type": "file",
-        "md5": "7fdda5e9fba6b9bc6990c1ee34a4b1f6"
-    },
-    {
-        "path": "fujitsu-micro-7-fm7",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/fujitsu-micro-7-fm7/index.html",
-        "type": "file",
-        "md5": "e2eb1267346a4222301387b4ac026092"
-    },
-    {
-        "path": "funtech-super-acan-supracan",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/funtech-super-acan-supracan/index.html",
-        "type": "file",
-        "md5": "884fe9e79b67f5eaff8a808816d19b69"
-    },
-    {
-        "path": "future-pinball-fpinball",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/future-pinball-fpinball/index.html",
-        "type": "file",
-        "md5": "01b769c1df59bb172e6313918a0112a7"
-    },
-    {
-        "path": "gaelco-gaelco",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/gaelco-gaelco/index.html",
-        "type": "file",
-        "md5": "68174377bf74d3d4c8f723bfe80760b0"
-    },
-    {
-        "path": "gamepark-gp32-gp32",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/gamepark-gp32-gp32/index.html",
-        "type": "file",
-        "md5": "428b1dd70bd33917547238c8151aec32"
-    },
-    {
-        "path": "gemrb-gemrb",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/gemrb-gemrb/index.html",
-        "type": "file",
-        "md5": "3f4d8fb217f1cbcfb2e5ecf3610f2487"
-    },
-    {
-        "path": "general-startup",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/general-startup/index.html",
-        "type": "file",
-        "md5": "8efdd54c95f45d8c4f60dfaddc5a9561"
-    },
-    {
-        "path": "hartung-game-master-gmaster",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/hartung-game-master-gmaster/index.html",
-        "type": "file",
-        "md5": "b94e1948690f8e27f268dd259e6900ec"
-    },
-    {
-        "path": "hector-2hr-hec2hrx",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/hector-2hr-hec2hrx/index.html",
-        "type": "file",
-        "md5": "5eee8759a25bb467446bb6c3fea2c24d"
-    },
-    {
-        "path": "how-to-download",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/how-to-download/index.html",
-        "type": "file",
-        "md5": "a1212e243ce3c894dac3deba9c08cea3"
-    },
-    {
-        "path": "hypseus-singe-singe",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/hypseus-singe-singe/index.html",
-        "type": "file",
-        "md5": "a759b7a99b52121483f7e0d5529cf885"
-    },
-    {
-        "path": "ibm-pc-junior-ibmpcjr",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/ibm-pc-junior-ibmpcjr/index.html",
-        "type": "file",
-        "md5": "617e73009edc0be2cb9fc147b8355abd"
-    },
-    {
-        "path": "igs-polygame-master-igspgm",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/igs-polygame-master-igspgm/index.html",
-        "type": "file",
-        "md5": "eba4b0433210242ea6fea7dfbd3676b8"
-    },
-    {
-        "path": "ikemen-ikemen",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/ikemen-ikemen/index.html",
-        "type": "file",
-        "md5": "a66e24e129dfb577709293a789cc2fc0"
-    },
-    {
-        "path": "index.html",
-        "type": "file",
-        "md5": "c0e964fee195800054a8cb7e63dc828d"
-    },
-    {
-        "path": "interton-video-computer-4000-vc4000",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/interton-video-computer-4000-vc4000/index.html",
-        "type": "file",
-        "md5": "8861ffdc28d6fa5ea0855736a3f463e6"
-    },
-    {
-        "path": "ion-fury-fury",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/ion-fury-fury/index.html",
-        "type": "file",
-        "md5": "201d39b8ea933c755c76c4459a833766"
-    },
-    {
-        "path": "ique-player-iqueplayer",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/ique-player-iqueplayer/index.html",
-        "type": "file",
-        "md5": "f9193223383b224a3286b6c1013cfdc3"
-    },
-    {
-        "path": "konami-lcd-handhelds-konamilcd",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/konami-lcd-handhelds-konamilcd/index.html",
-        "type": "file",
-        "md5": "24b919b7c7dd699e6b97e178756329a5"
-    },
-    {
-        "path": "lcd-games-lcdgames",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/lcd-games-lcdgames/index.html",
-        "type": "file",
-        "md5": "288856d086ed8d51c9bbd5e4f3568df0"
-    },
-    {
-        "path": "loeve-love",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/loeve-love/index.html",
-        "type": "file",
-        "md5": "f3be05ab6383cf627e590456c0d4b720"
-    },
-    {
-        "path": "lowres-nx-lowresnx",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/lowres-nx-lowresnx/index.html",
-        "type": "file",
-        "md5": "3d110b8b01f0b10206c6ddad085b7f1a"
-    },
-    {
-        "path": "lutro-lutro",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/lutro-lutro/index.html",
-        "type": "file",
-        "md5": "7b22eb2bab490a3a46d326706b2bb30d"
-    },
-    {
-        "path": "magnavox-odyssey2-philips-videopac-g7000-o2em",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/magnavox-odyssey2-philips-videopac-g7000-o2em/index.html",
-        "type": "file",
-        "md5": "5d439c99873d4027655c3f8d7a73c938"
-    },
-    {
-        "path": "magnavox-odyssey2-philips-videopac-g7000-o2em-2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/magnavox-odyssey2-philips-videopac-g7000-o2em-2/index.html",
-        "type": "file",
-        "md5": "7148950e6d03fb0d53616bcb9d6a54ef"
-    },
-    {
-        "path": "mame-arcade-mame",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/mame-arcade-mame/index.html",
-        "type": "file",
-        "md5": "826880a98847ad3ea83dab186a701258"
-    },
-    {
-        "path": "mattel-aquarius-home-computer-system-aquarius",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/mattel-aquarius-home-computer-system-aquarius/index.html",
-        "type": "file",
-        "md5": "d9957925a3784e52020e0e977ad071d5"
-    },
-    {
-        "path": "mattel-captain-power-captpower",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/mattel-captain-power-captpower/index.html",
-        "type": "file",
-        "md5": "75611af2846bdd244e39d5fa0f404389"
-    },
-    {
-        "path": "mattel-intellivision-intellivision",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/mattel-intellivision-intellivision/index.html",
-        "type": "file",
-        "md5": "27b9f4a61ef20de741bf8cea4b3db73e"
-    },
-    {
         "path": "media",
         "type": "directory",
         "md5": false
@@ -20680,474 +19340,9 @@
         "md5": "20ae64e11c1f861622e8339ed6e0c3c4"
     },
     {
-        "path": "memotech-mtx512-mtx512",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/memotech-mtx512-mtx512/index.html",
+        "path": "index.html",
         "type": "file",
-        "md5": "610c6e17d817b361c6132280bff5ca28"
-    },
-    {
-        "path": "mgt-sam-coupe-samcoupe",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/mgt-sam-coupe-samcoupe/index.html",
-        "type": "file",
-        "md5": "f1f117d2797f14d8401769df27d20d92"
-    },
-    {
-        "path": "microsoft-disk-operating-system-dos",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/microsoft-disk-operating-system-dos/index.html",
-        "type": "file",
-        "md5": "881ba815dfda6e58fa2cbef02b7c5149"
-    },
-    {
-        "path": "microsoft-msx-2-msx2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/microsoft-msx-2-msx2/index.html",
-        "type": "file",
-        "md5": "a15a885379189b640b46b850695397ac"
-    },
-    {
-        "path": "microsoft-msx-msx",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/microsoft-msx-msx/index.html",
-        "type": "file",
-        "md5": "e9ceaafac2942ca8545c92b4e4a78f04"
-    },
-    {
-        "path": "microsoft-msx-turbo-r-msxturbor",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/microsoft-msx-turbo-r-msxturbor/index.html",
-        "type": "file",
-        "md5": "0db8aa1d148f465679ed763496627833"
-    },
-    {
-        "path": "microsoft-xbox-360-xbox360",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/microsoft-xbox-360-xbox360/index.html",
-        "type": "file",
-        "md5": "525aea9227269bbebd4cdfdd301fc536"
-    },
-    {
-        "path": "microsoft-xbox-xbox",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/microsoft-xbox-xbox/index.html",
-        "type": "file",
-        "md5": "228681c1765893c8fe8d1087682083e3"
-    },
-    {
-        "path": "milton-bradley-microvision-microvsn",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/milton-bradley-microvision-microvsn/index.html",
-        "type": "file",
-        "md5": "1117bcf86d453f90eb017e9864343212"
-    },
-    {
-        "path": "msx-2-msx2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/msx-2-msx2/index.html",
-        "type": "file",
-        "md5": "e31825fa7766668d8b3d34a4acc2a0d1"
-    },
-    {
-        "path": "mugen-mugen",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/mugen-mugen/index.html",
-        "type": "file",
-        "md5": "e741416621a9fc8e3cdaa5cd4ee9fb26"
-    },
-    {
-        "path": "namco-sega-nintendo-triforce-triforce",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/namco-sega-nintendo-triforce-triforce/index.html",
-        "type": "file",
-        "md5": "38b2ee1c6f0f32853622031e9f499f24"
-    },
-    {
-        "path": "namco-system-es3-namcoes3",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/namco-system-es3-namcoes3/index.html",
-        "type": "file",
-        "md5": "95272036a8b2d5ef5e3e8bd9c4135893"
-    },
-    {
-        "path": "nec-pc-8800-series-pc88",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nec-pc-8800-series-pc88/index.html",
-        "type": "file",
-        "md5": "53cae6ba09fb42fe1bf792d0a8e9a6cb"
-    },
-    {
-        "path": "nec-pc-9800-series-pc98",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nec-pc-9800-series-pc98/index.html",
-        "type": "file",
-        "md5": "b98569021fa7a93fd179c3dab223955c"
-    },
-    {
-        "path": "nec-pc-engine-cd-pcenginecd",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nec-pc-engine-cd-pcenginecd/index.html",
-        "type": "file",
-        "md5": "443ae0398aba53398ed7756c07d86139"
-    },
-    {
-        "path": "nec-pc-engine-pcengine",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nec-pc-engine-pcengine/index.html",
-        "type": "file",
-        "md5": "61c15a395720cdf11a77d4a6da21e435"
-    },
-    {
-        "path": "nec-pc-fx-pcfx",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nec-pc-fx-pcfx/index.html",
-        "type": "file",
-        "md5": "5246805c283dd7485e5406e51c1e27c5"
-    },
-    {
-        "path": "nec-supergrafx-supergrafx",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nec-supergrafx-supergrafx/index.html",
-        "type": "file",
-        "md5": "4d2ed79e36fcd2f15b662556c69df663"
-    },
-    {
-        "path": "nec-turbografx-16-tg16",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nec-turbografx-16-tg16/index.html",
-        "type": "file",
-        "md5": "fca5c511b24bf724e32e17aa352beacc"
-    },
-    {
-        "path": "nec-turbografx-cd-tgcd",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nec-turbografx-cd-tgcd/index.html",
-        "type": "file",
-        "md5": "baf79c7c106d7711f83a4d8bcda98a2b"
-    },
-    {
-        "path": "nichibutsu-my-vision-myvision",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nichibutsu-my-vision-myvision/index.html",
-        "type": "file",
-        "md5": "41315276e83b5368b69d78270552e71e"
-    },
-    {
-        "path": "nintendo-3ds-3ds",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-3ds-3ds/index.html",
-        "type": "file",
-        "md5": "d5c266f6a12e7decd374608a744b2e26"
-    },
-    {
-        "path": "nintendo-64-dd-n64dd",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-64-dd-n64dd/index.html",
-        "type": "file",
-        "md5": "bcd6a4bc8092c1b323d5a122cf85c75f"
-    },
-    {
-        "path": "nintendo-64-n64",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-64-n64/index.html",
-        "type": "file",
-        "md5": "9bfddf3478e043f68e1ddaffd016dd11"
-    },
-    {
-        "path": "nintendo-ds-nds",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-ds-nds/index.html",
-        "type": "file",
-        "md5": "5f258579b6d17e628a995304e48d21d4"
-    },
-    {
-        "path": "nintendo-entertainment-system-msu-1-nes-msu",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-entertainment-system-msu-1-nes-msu/index.html",
-        "type": "file",
-        "md5": "83f2ae029b9401345ca62e93ed1d000d"
-    },
-    {
-        "path": "nintendo-entertainment-system-nes",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-entertainment-system-nes/index.html",
-        "type": "file",
-        "md5": "1723b5b5e06ff95c54b6e19274a14d98"
-    },
-    {
-        "path": "nintendo-family-computer-disk-system-fds",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-family-computer-disk-system-fds/index.html",
-        "type": "file",
-        "md5": "c87e45838d193854c3c29d943b9dd8a9"
-    },
-    {
-        "path": "nintendo-family-computer-famicom",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-family-computer-famicom/index.html",
-        "type": "file",
-        "md5": "1ebe8a7748c023e54ae84e0767e09c13"
-    },
-    {
-        "path": "nintendo-game-and-watch-gameandwatch",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-game-and-watch-gameandwatch/index.html",
-        "type": "file",
-        "md5": "81707e883a1945ed3f0d5bf81819fe62"
-    },
-    {
-        "path": "nintendo-game-boy-2-players-gb2players",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-game-boy-2-players-gb2players/index.html",
-        "type": "file",
-        "md5": "85e42caeb8b59e40093ef5f16610f649"
-    },
-    {
-        "path": "nintendo-game-boy-advance-gba",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-game-boy-advance-gba/index.html",
-        "type": "file",
-        "md5": "1fa02459c31281265cb231eb6d42712d"
-    },
-    {
-        "path": "nintendo-game-boy-color-gbc",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-game-boy-color-gbc/index.html",
-        "type": "file",
-        "md5": "b5516db6f2872e5921e6465032287005"
-    },
-    {
-        "path": "nintendo-game-boy-gb",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-game-boy-gb/index.html",
-        "type": "file",
-        "md5": "bebb5dcc183f29568031643737c97d8b"
-    },
-    {
-        "path": "nintendo-gamecube-gamecube",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-gamecube-gamecube/index.html",
-        "type": "file",
-        "md5": "8f2579c6e1af5c6d2289b8d2d24c7cc1"
-    },
-    {
-        "path": "nintendo-pokemon-mini-pokemini",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-pokemon-mini-pokemini/index.html",
-        "type": "file",
-        "md5": "f2f0fd5aaf236aace2af9e64658b0364"
-    },
-    {
-        "path": "nintendo-satellaview-satellaview",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-satellaview-satellaview/index.html",
-        "type": "file",
-        "md5": "ee1aa66e9e3604d9eb0d2695eab60977"
-    },
-    {
-        "path": "nintendo-super-famicom-sfc",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-super-famicom-sfc/index.html",
-        "type": "file",
-        "md5": "115b9884994dc9f7d650b208da355bf5"
-    },
-    {
-        "path": "nintendo-super-game-boy-sgb",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-super-game-boy-sgb/index.html",
-        "type": "file",
-        "md5": "e55739d70a2038bf1e1bf19134d26758"
-    },
-    {
-        "path": "nintendo-virtual-boy-virtualboy",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-virtual-boy-virtualboy/index.html",
-        "type": "file",
-        "md5": "2bb9e72e1d1026e57359ae968f630029"
-    },
-    {
-        "path": "nintendo-wii-u-wiiu",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-wii-u-wiiu/index.html",
-        "type": "file",
-        "md5": "9bf9eac2b2daf03d3c982e3956341bb3"
-    },
-    {
-        "path": "nintendo-wii-wii",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-wii-wii/index.html",
-        "type": "file",
-        "md5": "cc9f332910010c138efcbe3c3ccc32a0"
-    },
-    {
-        "path": "nintendo-wiiware-wiiware",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nintendo-wiiware-wiiware/index.html",
-        "type": "file",
-        "md5": "698959c066e40937cf35ba7600ef1f9c"
-    },
-    {
-        "path": "nokia-n-gage-ngage",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/nokia-n-gage-ngage/index.html",
-        "type": "file",
-        "md5": "c8b09d47a913dfe2ee9110af846a137d"
-    },
-    {
-        "path": "oric-atmos-oricatmos",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/oric-atmos-oricatmos/index.html",
-        "type": "file",
-        "md5": "6e87ef9a4e85243dd63f47822c13e0d7"
-    },
-    {
-        "path": "othello-multivision-multivision",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/othello-multivision-multivision/index.html",
-        "type": "file",
-        "md5": "fc967705661e18b6dd9db54bf24af042"
+        "md5": "c0e964fee195800054a8cb7e63dc828d"
     },
     {
         "path": "page",
@@ -21265,139 +19460,34 @@
         "md5": "42f289b8265500f0d0659a3b29567a47"
     },
     {
-        "path": "palcom-msx-laserdisc-msxlaserdisk",
+        "path": "3do-interactive-multiplayer-3do",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/palcom-msx-laserdisc-msxlaserdisk/index.html",
+        "path": "/3do-interactive-multiplayer-3do/index.html",
         "type": "file",
-        "md5": "d6366366f539dd78718daaec8018c89a"
+        "md5": "4738b994be25b9297685a83a2313dd89"
     },
     {
-        "path": "pecom-64-pecom64",
+        "path": "welcome",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/pecom-64-pecom64/index.html",
+        "path": "/welcome/index.html",
         "type": "file",
-        "md5": "446fdf3c3b00cd7a797dbcb9d99ce9e6"
+        "md5": "66b2c3370e89ef98a35080fd99525e19"
     },
     {
-        "path": "philips-cd-i-cdi",
+        "path": "nintendo-entertainment-system-nes",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/philips-cd-i-cdi/index.html",
+        "path": "/nintendo-entertainment-system-nes/index.html",
         "type": "file",
-        "md5": "9a225e55df035053cd5b7246bb66d234"
-    },
-    {
-        "path": "philips-p2000t-p2000t",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/philips-p2000t-p2000t/index.html",
-        "type": "file",
-        "md5": "22125cb325b9a3818fa84330d90adfe6"
-    },
-    {
-        "path": "philips-vg-5000-m-vg5k",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/philips-vg-5000-m-vg5k/index.html",
-        "type": "file",
-        "md5": "ed03f3e4b9c2063eb55019557534183c"
-    },
-    {
-        "path": "philips-videopac-g7400-videopacplus",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/philips-videopac-g7400-videopacplus/index.html",
-        "type": "file",
-        "md5": "7b40d107330130c69e01ef4c9890dab5"
-    },
-    {
-        "path": "pico-8-pico8",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/pico-8-pico8/index.html",
-        "type": "file",
-        "md5": "45e74952e2b07e5247dc301ba64f81f1"
-    },
-    {
-        "path": "pinball-fx-pinballfx-2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/pinball-fx-pinballfx-2/index.html",
-        "type": "file",
-        "md5": "614fcba35ea91de6ed64ebde673df606"
-    },
-    {
-        "path": "pinball-fx2-pinballfx2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/pinball-fx2-pinballfx2/index.html",
-        "type": "file",
-        "md5": "c30ed41c8a9a0a58615b7f6614cf7fae"
-    },
-    {
-        "path": "pinball-fx3-pinballfx3",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/pinball-fx3-pinballfx3/index.html",
-        "type": "file",
-        "md5": "a26553294bd46dd803e68dd923010f3b"
-    },
-    {
-        "path": "pinball-m-pinballm",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/pinball-m-pinballm/index.html",
-        "type": "file",
-        "md5": "7b3ea263e5de47cec309aa689e7e28f9"
-    },
-    {
-        "path": "prboom-prboom",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/prboom-prboom/index.html",
-        "type": "file",
-        "md5": "8c5184f2e633385f279b57365c8c1b08"
-    },
-    {
-        "path": "raw-thrills-rawthrills",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/raw-thrills-rawthrills/index.html",
-        "type": "file",
-        "md5": "d14c11bd4fa13cc743648ba8680a80e7"
-    },
-    {
-        "path": "robots.txt",
-        "type": "file",
-        "md5": "16eb385b398e05251fb9078799f6fa1e"
+        "md5": "ed2b48709949d8dcddc3580247a507bb"
     },
     {
         "path": "sammy-atomiswave-atomiswave",
@@ -21410,136 +19500,6 @@
         "md5": "8c72f5f0d2754f154fca836914db85fa"
     },
     {
-        "path": "sega-32x-sega32x",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-32x-sega32x/index.html",
-        "type": "file",
-        "md5": "8c0d64dacbda5bf37eaaaa56ee48b7af"
-    },
-    {
-        "path": "sega-cd-32x-sega32xcd",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-cd-32x-sega32xcd/index.html",
-        "type": "file",
-        "md5": "5b0cff09ce660a0b6e10b3df12d0d988"
-    },
-    {
-        "path": "sega-cd-segacd",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-cd-segacd/index.html",
-        "type": "file",
-        "md5": "b60c7b86dafc7ec4364815edfea9adca"
-    },
-    {
-        "path": "sega-chihiro-chihiro",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-chihiro-chihiro/index.html",
-        "type": "file",
-        "md5": "f758b4d2770a12d812a08ada3e74d6ca"
-    },
-    {
-        "path": "sega-computer-3000-sc3000",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-computer-3000-sc3000/index.html",
-        "type": "file",
-        "md5": "c68326c84855e0f530569d50920ea0be"
-    },
-    {
-        "path": "sega-dreamcast-dreamcast",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-dreamcast-dreamcast/index.html",
-        "type": "file",
-        "md5": "9bd3327180874e9eb121829f9a7b80ec"
-    },
-    {
-        "path": "sega-europa-r-segaer",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-europa-r-segaer/index.html",
-        "type": "file",
-        "md5": "7f460c1a0e76bb29ec4802182776db54"
-    },
-    {
-        "path": "sega-game-gear-gamegear",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-game-gear-gamegear/index.html",
-        "type": "file",
-        "md5": "20dab3a40664d3d35df8935e561dd4ff"
-    },
-    {
-        "path": "sega-mark-iii-markiii",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-mark-iii-markiii/index.html",
-        "type": "file",
-        "md5": "1ed857f8a1308df4a292ebba73f4f219"
-    },
-    {
-        "path": "sega-master-system-mastersystem",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-master-system-mastersystem/index.html",
-        "type": "file",
-        "md5": "86fe43a361a7a77b403b6bb67a3c2c69"
-    },
-    {
-        "path": "sega-mega-cd-megacd",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-mega-cd-megacd/index.html",
-        "type": "file",
-        "md5": "100c7da180ce2d53ad5f6e0c6a706708"
-    },
-    {
-        "path": "sega-mega-drive-megadrive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-mega-drive-megadrive/index.html",
-        "type": "file",
-        "md5": "98ad6eb3ee1755977e4434c1b89fb126"
-    },
-    {
-        "path": "sega-mega-drive-msu-msu-md",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sega-mega-drive-msu-msu-md/index.html",
-        "type": "file",
-        "md5": "814607c8ed751987aafc3388fb4cfc47"
-    },
-    {
         "path": "sega-model-2-model2",
         "type": "directory",
         "md5": false
@@ -21547,27 +19507,37 @@
     {
         "path": "/sega-model-2-model2/index.html",
         "type": "file",
-        "md5": "c8bbc1b055848f0a32cc7b585b45a44d"
+        "md5": "acc05cf55bd8f9a40325f93bad3c7456"
     },
     {
-        "path": "sega-model-3-model3",
+        "path": "nintendo-game-boy-color-gbc",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/sega-model-3-model3/index.html",
+        "path": "/nintendo-game-boy-color-gbc/index.html",
         "type": "file",
-        "md5": "3bd32b1c40e2893d8572976d4be657bf"
+        "md5": "c7ba673f4f09223c7eddcfaa1ae6a841"
     },
     {
-        "path": "sega-naomi-2-naomi2",
+        "path": "atari-lynx-lynx",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/sega-naomi-2-naomi2/index.html",
+        "path": "/atari-lynx-lynx/index.html",
         "type": "file",
-        "md5": "e24f915efd8a3d8b49b0f0cba5edd874"
+        "md5": "e9e04fe636d7a44a53972bda9c65a302"
+    },
+    {
+        "path": "future-pinball-fpinball",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/future-pinball-fpinball/index.html",
+        "type": "file",
+        "md5": "1de6cf283acb8066617ea4e7ce5bfe25"
     },
     {
         "path": "sega-naomi-naomi",
@@ -21577,97 +19547,367 @@
     {
         "path": "/sega-naomi-naomi/index.html",
         "type": "file",
-        "md5": "956c5638ab79cbe98e533d3f64cab03e"
+        "md5": "7280f262787db016667898dcb6b9beb4"
     },
     {
-        "path": "sega-nomad-nomad",
+        "path": "elektronika-im-elektronika",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/sega-nomad-nomad/index.html",
+        "path": "/elektronika-im-elektronika/index.html",
         "type": "file",
-        "md5": "5c3ae95e60c896ce2311c3828d188b8e"
+        "md5": "fdf8f88c79b7b3b82ee197e09daea64c"
     },
     {
-        "path": "sega-ringwide-segarw",
+        "path": "nintendo-gamecube-gamecube",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/sega-ringwide-segarw/index.html",
+        "path": "/nintendo-gamecube-gamecube/index.html",
         "type": "file",
-        "md5": "cfd7557cfb83a572000fe4115a3e3749"
+        "md5": "4ae5b5de5cf2ccc8120e08876fc033ea"
     },
     {
-        "path": "sega-saturn-saturn",
+        "path": "super-nintendo-entertainment-system-snes",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/sega-saturn-saturn/index.html",
+        "path": "/super-nintendo-entertainment-system-snes/index.html",
         "type": "file",
-        "md5": "4f55e663caa7d16c0b472e94a1af5399"
+        "md5": "96f3210922fa751875b0a0e7085cc977"
     },
     {
-        "path": "sega-sg-1000-sg1000",
+        "path": "microsoft-xbox-360-xbox360",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/sega-sg-1000-sg1000/index.html",
+        "path": "/microsoft-xbox-360-xbox360/index.html",
         "type": "file",
-        "md5": "a3c0659f4dfc2e40331e3d9f733634fb"
+        "md5": "93a9f058644848e3a6afd4483fe2521b"
     },
     {
-        "path": "sega-titan-video-segastv",
+        "path": "microsoft-xbox-xbox",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/sega-titan-video-segastv/index.html",
+        "path": "/microsoft-xbox-xbox/index.html",
         "type": "file",
-        "md5": "5469b5b621c6c25ff7805849e31df2b7"
+        "md5": "e2c27cd30aeb988564e879c9a26b2741"
     },
     {
-        "path": "sega-video-driver-videodriver",
+        "path": "mame-arcade-mame",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/sega-video-driver-videodriver/index.html",
+        "path": "/mame-arcade-mame/index.html",
         "type": "file",
-        "md5": "adaecd5dcce05b9e577a75462e296718"
+        "md5": "826880a98847ad3ea83dab186a701258"
     },
     {
-        "path": "sharp-x1-x1",
+        "path": "sega-game-gear-gamegear",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/sharp-x1-x1/index.html",
+        "path": "/sega-game-gear-gamegear/index.html",
         "type": "file",
-        "md5": "d38c449ed30cbf61f5fb7d2dbc4bf0d7"
+        "md5": "589ba6af670c9b8c330ee9214e42fd00"
     },
     {
-        "path": "sharp-x68000-x68000",
+        "path": "pinball-fx-pinballfx-2",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/sharp-x68000-x68000/index.html",
+        "path": "/pinball-fx-pinballfx-2/index.html",
         "type": "file",
-        "md5": "c09567bd4c3b8df26cf9ed780d8b24fd"
+        "md5": "ff2fd61bd80f2340d4cd011a342a6393"
     },
     {
-        "path": "sinclair-zx-81-zx81",
+        "path": "pinball-fx2-pinballfx2",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/sinclair-zx-81-zx81/index.html",
+        "path": "/pinball-fx2-pinballfx2/index.html",
         "type": "file",
-        "md5": "c07c164ce6e7f9b0b615c2dd8eb51f6f"
+        "md5": "2fac4527604d30b30ea26472dd7ad518"
+    },
+    {
+        "path": "pinball-fx3-pinballfx3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pinball-fx3-pinballfx3/index.html",
+        "type": "file",
+        "md5": "e0bdbaf93721dfc92094c75ee41394aa"
+    },
+    {
+        "path": "pinball-m-pinballm",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pinball-m-pinballm/index.html",
+        "type": "file",
+        "md5": "cf8edeebd006f1e80db6b999d807a864"
+    },
+    {
+        "path": "daphne-daphne",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/daphne-daphne/index.html",
+        "type": "file",
+        "md5": "afeaa4846b8dcd8d834661c3dfdb8a2c"
+    },
+    {
+        "path": "hypseus-singe-singe",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hypseus-singe-singe/index.html",
+        "type": "file",
+        "md5": "a759b7a99b52121483f7e0d5529cf885"
+    },
+    {
+        "path": "enabling-autoresize-at-next-boot",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/enabling-autoresize-at-next-boot/index.html",
+        "type": "file",
+        "md5": "9f8e01c08298cb30c9a3d66274b27470"
+    },
+    {
+        "path": "the-one-build-install",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-one-build-install/index.html",
+        "type": "file",
+        "md5": "ff664ae7319178c17254ee4fadedd4e6"
+    },
+    {
+        "path": "general-startup",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/general-startup/index.html",
+        "type": "file",
+        "md5": "8efdd54c95f45d8c4f60dfaddc5a9561"
+    },
+    {
+        "path": "sega-naomi-2-naomi2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-naomi-2-naomi2/index.html",
+        "type": "file",
+        "md5": "1fc18464622f4d934d824beb515aad10"
+    },
+    {
+        "path": "updating-to-v631",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/updating-to-v631/index.html",
+        "type": "file",
+        "md5": "32843c7199010c03dad38bc16fa022ea"
+    },
+    {
+        "path": "fix-ryujinx-after-the-631-update",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fix-ryujinx-after-the-631-update/index.html",
+        "type": "file",
+        "md5": "3f672723fb34617b610d17c5ad265bf5"
+    },
+    {
+        "path": "nintendo-3ds-3ds",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-3ds-3ds/index.html",
+        "type": "file",
+        "md5": "78c8b8800d6a202c4ff833cbf691b503"
+    },
+    {
+        "path": "zaccaria-pinball-zaccariapinball",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/zaccaria-pinball-zaccariapinball/index.html",
+        "type": "file",
+        "md5": "a76444facbdd2469d4ae235a2e4b9900"
+    },
+    {
+        "path": "3dsen-3dsen",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/3dsen-3dsen/index.html",
+        "type": "file",
+        "md5": "eee6173d03947b7630612ee7abb59b11"
+    },
+    {
+        "path": "action-max-actionmax",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/action-max-actionmax/index.html",
+        "type": "file",
+        "md5": "478230855ad3ccc4b6259ed50c05ca7c"
+    },
+    {
+        "path": "adam-coleco-adam",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/adam-coleco-adam/index.html",
+        "type": "file",
+        "md5": "3a8e341a26a563f5322204d648920a6d"
+    },
+    {
+        "path": "adventure-vision-advision",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/adventure-vision-advision/index.html",
+        "type": "file",
+        "md5": "cffe8c2306cb0473239de59525c0c2d1"
+    },
+    {
+        "path": "aleck-64-aleck64",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/aleck-64-aleck64/index.html",
+        "type": "file",
+        "md5": "710951553a648b8e26d075cb27f0aa55"
+    },
+    {
+        "path": "alice-32-alice32",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/alice-32-alice32/index.html",
+        "type": "file",
+        "md5": "32e16476d72d25e47682efdd4b07ef73"
+    },
+    {
+        "path": "amiga-1200-amiga1200",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amiga-1200-amiga1200/index.html",
+        "type": "file",
+        "md5": "fada2c99807cab1e32b6312e66069820"
+    },
+    {
+        "path": "amiga-500-amiga500-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amiga-500-amiga500-2/index.html",
+        "type": "file",
+        "md5": "bd4f9e611a0b804bfad6d204e65213f5"
+    },
+    {
+        "path": "amiga-cd32-amigacd32",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amiga-cd32-amigacd32/index.html",
+        "type": "file",
+        "md5": "3f3c698eeb75dc5ac5603ea40304c62f"
+    },
+    {
+        "path": "commodore-dynamic-total-vision-amigacdtv",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/commodore-dynamic-total-vision-amigacdtv/index.html",
+        "type": "file",
+        "md5": "07ad5c44fd7613db837f2aea3509c25d"
+    },
+    {
+        "path": "datach-joint-rom-system-datach",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/datach-joint-rom-system-datach/index.html",
+        "type": "file",
+        "md5": "ac44abecd4ac044239e083c25a021547"
+    },
+    {
+        "path": "visual-pinball-vpinball",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/visual-pinball-vpinball/index.html",
+        "type": "file",
+        "md5": "7e4e5f9884eb5b09b28d38fdfca76ef5"
+    },
+    {
+        "path": "amstrad-cpc-amstradcpc",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amstrad-cpc-amstradcpc/index.html",
+        "type": "file",
+        "md5": "6451faad211741624bce6536a6e007fc"
+    },
+    {
+        "path": "atari-7800-atari7800",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/atari-7800-atari7800/index.html",
+        "type": "file",
+        "md5": "08c48252f6fc2c5d2f8c70541079d310"
+    },
+    {
+        "path": "boom-3-boom3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/boom-3-boom3/index.html",
+        "type": "file",
+        "md5": "939017e7ec7fd2fec0c66e4750c37a1d"
     },
     {
         "path": "sinclair-zx-spectrum-zxspectrum",
@@ -21680,34 +19920,274 @@
         "md5": "f686c1f7bce459d881d2de7cda969032"
     },
     {
-        "path": "sitemap.xml",
-        "type": "file",
-        "md5": "13d3b0b693322cd79d3fcef969b78b62"
-    },
-    {
-        "path": "sitemap.xsl",
-        "type": "file",
-        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
-    },
-    {
-        "path": "snk-hyper-neo-geo-64-neogeo64",
+        "path": "philips-cd-i-cdi",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/snk-hyper-neo-geo-64-neogeo64/index.html",
+        "path": "/philips-cd-i-cdi/index.html",
         "type": "file",
-        "md5": "2c4f18ba64e1cc8c7987017e1a976ff6"
+        "md5": "b082d190358bfc346b4ba1c91b18caac"
     },
     {
-        "path": "snk-neo-geo-cd-neogeocd",
+        "path": "capcom-play-system-i-cps1",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/snk-neo-geo-cd-neogeocd/index.html",
+        "path": "/capcom-play-system-i-cps1/index.html",
         "type": "file",
-        "md5": "18783b067cae2de96a45b41ef8126ff4"
+        "md5": "b625ad1c2548d86ae1de564942e7a3b4"
+    },
+    {
+        "path": "capcom-play-system-ii-cps2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/capcom-play-system-ii-cps2/index.html",
+        "type": "file",
+        "md5": "361017369e216bc753f407011980eb3f"
+    },
+    {
+        "path": "capcom-play-system-iii-cps3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/capcom-play-system-iii-cps3/index.html",
+        "type": "file",
+        "md5": "5163bc747e558dee74953aa6c7f530af"
+    },
+    {
+        "path": "microsoft-disk-operating-system-dos",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/microsoft-disk-operating-system-dos/index.html",
+        "type": "file",
+        "md5": "52b0f6bb4f8585dafca6e1b4d08a6e4b"
+    },
+    {
+        "path": "sega-dreamcast-dreamcast",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-dreamcast-dreamcast/index.html",
+        "type": "file",
+        "md5": "9c1fc1e8a31b3758a4db8a84bc42e97e"
+    },
+    {
+        "path": "nintendo-family-computer-famicom",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-family-computer-famicom/index.html",
+        "type": "file",
+        "md5": "5986c9baf67c0255efed8fc45359f6ea"
+    },
+    {
+        "path": "final-burn-neo-fbneo",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/final-burn-neo-fbneo/index.html",
+        "type": "file",
+        "md5": "36eea441ec3485374e7b10be31a688be"
+    },
+    {
+        "path": "nintendo-family-computer-disk-system-fds",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-family-computer-disk-system-fds/index.html",
+        "type": "file",
+        "md5": "cedea724816f36050ced3011c96116bb"
+    },
+    {
+        "path": "fujitsu-fm-towns-marty-fmtowns",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fujitsu-fm-towns-marty-fmtowns/index.html",
+        "type": "file",
+        "md5": "7fdda5e9fba6b9bc6990c1ee34a4b1f6"
+    },
+    {
+        "path": "nintendo-game-and-watch-gameandwatch",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-game-and-watch-gameandwatch/index.html",
+        "type": "file",
+        "md5": "0ad6f13336d36cf5c50e20a6312e427d"
+    },
+    {
+        "path": "nintendo-game-boy-gb",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-game-boy-gb/index.html",
+        "type": "file",
+        "md5": "83f011dbd65d86b1201de473d1de8654"
+    },
+    {
+        "path": "nintendo-game-boy-advance-gba",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-game-boy-advance-gba/index.html",
+        "type": "file",
+        "md5": "16c685b173a05ff51b93547e9c7d142c"
+    },
+    {
+        "path": "amstrad-gx4000-gx4000",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amstrad-gx4000-gx4000/index.html",
+        "type": "file",
+        "md5": "c0ce55cb26ff0ad34a4cb5ba055c6a49"
+    },
+    {
+        "path": "atari-jaguar-jaguar",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/atari-jaguar-jaguar/index.html",
+        "type": "file",
+        "md5": "918e0d5e5239d9063bf1142b9f8122cb"
+    },
+    {
+        "path": "atari-jaguar-cd-jaguarcd",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/atari-jaguar-cd-jaguarcd/index.html",
+        "type": "file",
+        "md5": "01ecb7a3cfe7c8b5884b84057edc6e77"
+    },
+    {
+        "path": "sega-master-system-mastersystem",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-master-system-mastersystem/index.html",
+        "type": "file",
+        "md5": "237e9a8c212aecf8fd3b915d5b53312e"
+    },
+    {
+        "path": "sega-mega-drive-megadrive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-mega-drive-megadrive/index.html",
+        "type": "file",
+        "md5": "3281303e501707b380e0e43d21c9a598"
+    },
+    {
+        "path": "sega-mega-drive-msu-msu-md",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-mega-drive-msu-msu-md/index.html",
+        "type": "file",
+        "md5": "5fb6d1b9a94081019a6b9db7b1f8573f"
+    },
+    {
+        "path": "msx-2-msx2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/msx-2-msx2/index.html",
+        "type": "file",
+        "md5": "1965a88323f52c82bb99a223582f2138"
+    },
+    {
+        "path": "sega-model-3-model3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-model-3-model3/index.html",
+        "type": "file",
+        "md5": "2eddeb7d2885476e4cef30c8d3a37dd7"
+    },
+    {
+        "path": "prboom-prboom",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/prboom-prboom/index.html",
+        "type": "file",
+        "md5": "8c5184f2e633385f279b57365c8c1b08"
+    },
+    {
+        "path": "tyrquake-tyrquake",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tyrquake-tyrquake/index.html",
+        "type": "file",
+        "md5": "eaa25b9681218f8a2358f4ffaacbe093"
+    },
+    {
+        "path": "lutro-lutro",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/lutro-lutro/index.html",
+        "type": "file",
+        "md5": "7b22eb2bab490a3a46d326706b2bb30d"
+    },
+    {
+        "path": "nintendo-64-n64",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-64-n64/index.html",
+        "type": "file",
+        "md5": "e90da753738b3312d8ff5ff810f62000"
+    },
+    {
+        "path": "nintendo-64-dd-n64dd",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-64-dd-n64dd/index.html",
+        "type": "file",
+        "md5": "36120feb5a14bde67d090593eb6b1773"
+    },
+    {
+        "path": "nintendo-ds-nds",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-ds-nds/index.html",
+        "type": "file",
+        "md5": "26fc89d9cc2a7d5c86911ebcccd268a7"
     },
     {
         "path": "snk-neo-geo-neogeo",
@@ -21720,14 +20200,14 @@
         "md5": "b57a6314856b016aaeb38a5efd3e79e1"
     },
     {
-        "path": "snk-neo-geo-pocket-color-ngpc",
+        "path": "snk-neo-geo-cd-neogeocd",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/snk-neo-geo-pocket-color-ngpc/index.html",
+        "path": "/snk-neo-geo-cd-neogeocd/index.html",
         "type": "file",
-        "md5": "c2ab1bf4b41974d959caac7b96c6363e"
+        "md5": "18783b067cae2de96a45b41ef8126ff4"
     },
     {
         "path": "snk-neo-geo-pocket-ngp",
@@ -21740,6 +20220,76 @@
         "md5": "123d2de7db6ec9baa314742455218744"
     },
     {
+        "path": "snk-neo-geo-pocket-color-ngpc",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/snk-neo-geo-pocket-color-ngpc/index.html",
+        "type": "file",
+        "md5": "8e57e825eaf7e0c00d6e7dc876559dde"
+    },
+    {
+        "path": "nokia-n-gage-ngage",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nokia-n-gage-ngage/index.html",
+        "type": "file",
+        "md5": "c8b09d47a913dfe2ee9110af846a137d"
+    },
+    {
+        "path": "nec-pc-engine-pcengine",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nec-pc-engine-pcengine/index.html",
+        "type": "file",
+        "md5": "61c15a395720cdf11a77d4a6da21e435"
+    },
+    {
+        "path": "nec-pc-engine-cd-pcenginecd",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nec-pc-engine-cd-pcenginecd/index.html",
+        "type": "file",
+        "md5": "443ae0398aba53398ed7756c07d86139"
+    },
+    {
+        "path": "easyrpg-easyrpg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/easyrpg-easyrpg/index.html",
+        "type": "file",
+        "md5": "71f1e1e1ed3017abede8adc2a8e45922"
+    },
+    {
+        "path": "adobe-flash-flash",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/adobe-flash-flash/index.html",
+        "type": "file",
+        "md5": "05e81ca7608e227e600b0464e8ad8c02"
+    },
+    {
+        "path": "nec-pc-fx-pcfx",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nec-pc-fx-pcfx/index.html",
+        "type": "file",
+        "md5": "5246805c283dd7485e5406e51c1e27c5"
+    },
+    {
         "path": "sony-playstation-2-ps2",
         "type": "directory",
         "md5": false
@@ -21747,27 +20297,7 @@
     {
         "path": "/sony-playstation-2-ps2/index.html",
         "type": "file",
-        "md5": "565d6874944121e522ac80e5336236c8"
-    },
-    {
-        "path": "sony-playstation-3-ps3",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sony-playstation-3-ps3/index.html",
-        "type": "file",
-        "md5": "bae4fe52d0c8a93dec8635f3a2e9e374"
-    },
-    {
-        "path": "sony-playstation-minis-pspminis",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/sony-playstation-minis-pspminis/index.html",
-        "type": "file",
-        "md5": "ccedbd0313fdee345f01f7675004a11d"
+        "md5": "8a22f971cff90798f1bf47384d51c8e5"
     },
     {
         "path": "sony-playstation-portable-psp",
@@ -21777,7 +20307,17 @@
     {
         "path": "/sony-playstation-portable-psp/index.html",
         "type": "file",
-        "md5": "be30206b7f480ee038883e7babf457fb"
+        "md5": "f07e6bace29d1246b300b5aefd8933f2"
+    },
+    {
+        "path": "sony-playstation-minis-pspminis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sony-playstation-minis-pspminis/index.html",
+        "type": "file",
+        "md5": "70acc2528423e8e0ab7b51378bfd87ed"
     },
     {
         "path": "sony-playstation-psx",
@@ -21787,17 +20327,637 @@
     {
         "path": "/sony-playstation-psx/index.html",
         "type": "file",
-        "md5": "cbcda0ac04a89c4051bbd08eac83258f"
+        "md5": "73105259f5150a3ac230394a0cf60fc5"
     },
     {
-        "path": "sony-pocketstation-pockstat",
+        "path": "nintendo-satellaview-satellaview",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/sony-pocketstation-pockstat/index.html",
+        "path": "/nintendo-satellaview-satellaview/index.html",
         "type": "file",
-        "md5": "da075ebdf044b0bdbcfb719d664113aa"
+        "md5": "db3ea0a90ffe727eb2e82ea3742bf759"
+    },
+    {
+        "path": "sega-saturn-saturn",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-saturn-saturn/index.html",
+        "type": "file",
+        "md5": "7eb8b0f7dc8c88f828fe802d2682f591"
+    },
+    {
+        "path": "sega-32x-sega32x",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-32x-sega32x/index.html",
+        "type": "file",
+        "md5": "2e7034e787a0a27fdbaedbe52cc4240a"
+    },
+    {
+        "path": "sega-mega-cd-megacd",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-mega-cd-megacd/index.html",
+        "type": "file",
+        "md5": "ee08e412de0f0713b6412be70848b4c9"
+    },
+    {
+        "path": "sega-cd-segacd",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-cd-segacd/index.html",
+        "type": "file",
+        "md5": "9c659a55f776e72168ef4ee757a68c69"
+    },
+    {
+        "path": "nintendo-super-game-boy-sgb",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-super-game-boy-sgb/index.html",
+        "type": "file",
+        "md5": "10746c3cf010285b520bf2fcc8e122ba"
+    },
+    {
+        "path": "super-nintendo-msu-1-snes-msu1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/super-nintendo-msu-1-snes-msu1/index.html",
+        "type": "file",
+        "md5": "cd9ffeb2a0464e3ca8b000883bf80731"
+    },
+    {
+        "path": "nec-supergrafx-supergrafx",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nec-supergrafx-supergrafx/index.html",
+        "type": "file",
+        "md5": "4d2ed79e36fcd2f15b662556c69df663"
+    },
+    {
+        "path": "vectrex-vectrex",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/vectrex-vectrex/index.html",
+        "type": "file",
+        "md5": "9c000fe0ac8343116e9fb897d0690265"
+    },
+    {
+        "path": "nintendo-virtual-boy-virtualboy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-virtual-boy-virtualboy/index.html",
+        "type": "file",
+        "md5": "a4ad7510c54ca68509347482babd4de7"
+    },
+    {
+        "path": "nintendo-wii-wii",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-wii-wii/index.html",
+        "type": "file",
+        "md5": "1d1fa746319441ff3e309e7e8631b1d7"
+    },
+    {
+        "path": "nintendo-wii-u-wiiu",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-wii-u-wiiu/index.html",
+        "type": "file",
+        "md5": "8200c7cf35ffe9e15a1e36da27c39acc"
+    },
+    {
+        "path": "nintendo-wiiware-wiiware",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-wiiware-wiiware/index.html",
+        "type": "file",
+        "md5": "a22c6a672642dfeb33b566eb0615a362"
+    },
+    {
+        "path": "wonderswan-wswan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/wonderswan-wswan/index.html",
+        "type": "file",
+        "md5": "8f591aa3d8eefc77a94f9c99481e6b90"
+    },
+    {
+        "path": "wonderswan-color-wswanc",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/wonderswan-color-wswanc/index.html",
+        "type": "file",
+        "md5": "c80257c91b13e1bc20eb11cf378857d9"
+    },
+    {
+        "path": "sharp-x68000-x68000",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sharp-x68000-x68000/index.html",
+        "type": "file",
+        "md5": "c09567bd4c3b8df26cf9ed780d8b24fd"
+    },
+    {
+        "path": "commodore-amiga-4000-amiga4000",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/commodore-amiga-4000-amiga4000/index.html",
+        "type": "file",
+        "md5": "2992f866b5b996b4c06def24933a5aea"
+    },
+    {
+        "path": "apf-electronics-m-1000-apfm1000",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/apf-electronics-m-1000-apfm1000/index.html",
+        "type": "file",
+        "md5": "ed8e16a8ba93945ebd05815f8773ff5b"
+    },
+    {
+        "path": "apple-ii-apple2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/apple-ii-apple2/index.html",
+        "type": "file",
+        "md5": "5a53749fd4d22a1979be5eec87565a8b"
+    },
+    {
+        "path": "apple-iigs-apple2gs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/apple-iigs-apple2gs/index.html",
+        "type": "file",
+        "md5": "1521f205cb2ac6038ad9dc32e4644dfc"
+    },
+    {
+        "path": "mattel-aquarius-home-computer-system-aquarius",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mattel-aquarius-home-computer-system-aquarius/index.html",
+        "type": "file",
+        "md5": "1d08f51173d96b0b6b3c258da110a9f3"
+    },
+    {
+        "path": "emerson-arcadia-2001-arcadia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/emerson-arcadia-2001-arcadia/index.html",
+        "type": "file",
+        "md5": "e1fccb2c623ac41bb03cb1fa5127e860"
+    },
+    {
+        "path": "acorn-archimedes-archimedes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/acorn-archimedes-archimedes/index.html",
+        "type": "file",
+        "md5": "9bb3e3bdeb6c6e53cb98ad77cd04d846"
+    },
+    {
+        "path": "arduboy-arduboy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/arduboy-arduboy/index.html",
+        "type": "file",
+        "md5": "6fe7e9a56a1e5d92a8510d1811de079a"
+    },
+    {
+        "path": "bally-astrocade-astrocade",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bally-astrocade-astrocade/index.html",
+        "type": "file",
+        "md5": "3622391da87bf49a57e5d8e05a8517ff"
+    },
+    {
+        "path": "atari-2600-atari2600",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/atari-2600-atari2600/index.html",
+        "type": "file",
+        "md5": "fc90aba1fbdea3526c789aba0b318f6f"
+    },
+    {
+        "path": "atari-5200-atari5200",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/atari-5200-atari5200/index.html",
+        "type": "file",
+        "md5": "679e99af1326a754020a3b1962cc052a"
+    },
+    {
+        "path": "atari-800-atari800",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/atari-800-atari800/index.html",
+        "type": "file",
+        "md5": "332c3e4c60e5fe6abecbb08daafb3a96"
+    },
+    {
+        "path": "atari-st-atarist",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/atari-st-atarist/index.html",
+        "type": "file",
+        "md5": "647f8c81e68420aa1d66d11f99cb4a85"
+    },
+    {
+        "path": "acorn-atom-atom",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/acorn-atom-atom/index.html",
+        "type": "file",
+        "md5": "ab7778b63a7ecba379a845fef4e9d19c"
+    },
+    {
+        "path": "acorn-bbc-micro-bbc",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/acorn-bbc-micro-bbc/index.html",
+        "type": "file",
+        "md5": "e7285fccb81011262e67a5f60d9aa949"
+    },
+    {
+        "path": "commodore-128-c128",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/commodore-128-c128/index.html",
+        "type": "file",
+        "md5": "3152335761ce30599e20a170ab7046ab"
+    },
+    {
+        "path": "commodore-vic-20-c20",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/commodore-vic-20-c20/index.html",
+        "type": "file",
+        "md5": "5d2ca4b38a7f2ee7f3085e13d072030d"
+    },
+    {
+        "path": "commodore-64-c64",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/commodore-64-c64/index.html",
+        "type": "file",
+        "md5": "67ed359190fc65f616411ae48286a6bb"
+    },
+    {
+        "path": "camputers-lynx-camplynx",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/camputers-lynx-camplynx/index.html",
+        "type": "file",
+        "md5": "4caac32946c0bb9189c76907606168d9"
+    },
+    {
+        "path": "cannonball-cannonball",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cannonball-cannonball/index.html",
+        "type": "file",
+        "md5": "f799ff509ca12c5805bbd963df0f4feb"
+    },
+    {
+        "path": "casio-loopy-loopy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/casio-loopy-loopy/index.html",
+        "type": "file",
+        "md5": "2a529cfa3b30db00d875a04849049ca2"
+    },
+    {
+        "path": "computer-art-visual-entertainment-cave",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/computer-art-visual-entertainment-cave/index.html",
+        "type": "file",
+        "md5": "23525de35d2e4211734c662f8325a778"
+    },
+    {
+        "path": "cave-story-cavestory",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cave-story-cavestory/index.html",
+        "type": "file",
+        "md5": "45fb3d41524c370754563dfd6503786e"
+    },
+    {
+        "path": "eaca-eg2000-colour-genie-cgenie",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/eaca-eg2000-colour-genie-cgenie/index.html",
+        "type": "file",
+        "md5": "d78842f75fdc7a3ae3da9fd243e5498f"
+    },
+    {
+        "path": "fairchild-channel-f-channelf",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fairchild-channel-f-channelf/index.html",
+        "type": "file",
+        "md5": "b0d27e8da43ae8bc08f7f61aadc9048a"
+    },
+    {
+        "path": "sega-chihiro-chihiro",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-chihiro-chihiro/index.html",
+        "type": "file",
+        "md5": "c1c7b1650058e6f94474fb72a12e3b34"
+    },
+    {
+        "path": "tandy-trs-80-color-computer-coco",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tandy-trs-80-color-computer-coco/index.html",
+        "type": "file",
+        "md5": "dc14f59a3da7fa134cb039d9641574a1"
+    },
+    {
+        "path": "colecovision-colecovision",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/colecovision-colecovision/index.html",
+        "type": "file",
+        "md5": "6b0815ffa086e849ac45e3dec4c64d12"
+    },
+    {
+        "path": "commodore-plus4-cplus4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/commodore-plus4-cplus4/index.html",
+        "type": "file",
+        "md5": "77b4966bb0cf3483611ded77d6e668ba"
+    },
+    {
+        "path": "vtech-creativision-crvision",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/vtech-creativision-crvision/index.html",
+        "type": "file",
+        "md5": "22e433a948c092f00387476f3f057332"
+    },
+    {
+        "path": "devilutionx-devilutionx",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/devilutionx-devilutionx/index.html",
+        "type": "file",
+        "md5": "82ae2782536e1990e8691a07766109d9"
+    },
+    {
+        "path": "dragon-data-dragon-32-dragon32",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dragon-data-dragon-32-dragon32/index.html",
+        "type": "file",
+        "md5": "abf08c36dd08b850fc7331ba05220ddf"
+    },
+    {
+        "path": "exelvision-exl-100-exl100",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/exelvision-exl-100-exl100/index.html",
+        "type": "file",
+        "md5": "80e38187cfeb744854ef4fadab723027"
+    },
+    {
+        "path": "fujitsu-micro-7-fm7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fujitsu-micro-7-fm7/index.html",
+        "type": "file",
+        "md5": "1e28f3961734d7918e356efca87f7f9e"
+    },
+    {
+        "path": "gaelco-gaelco",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/gaelco-gaelco/index.html",
+        "type": "file",
+        "md5": "68174377bf74d3d4c8f723bfe80760b0"
+    },
+    {
+        "path": "bit-corporation-gamate-gamate",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bit-corporation-gamate-gamate/index.html",
+        "type": "file",
+        "md5": "937b202f843a85957b8c86861ba25aee"
+    },
+    {
+        "path": "tiger-electronics-gamecom-gamecom",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tiger-electronics-gamecom-gamecom/index.html",
+        "type": "file",
+        "md5": "1e7b7f867bbdd22f53f668b309023184"
+    },
+    {
+        "path": "epoch-game-pocket-computer-gamepock",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/epoch-game-pocket-computer-gamepock/index.html",
+        "type": "file",
+        "md5": "a55b026bf0960b2dbfe868312a362c6a"
+    },
+    {
+        "path": "hartung-game-master-gmaster",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hartung-game-master-gmaster/index.html",
+        "type": "file",
+        "md5": "de77dfcba35e52c9262265e200d2d573"
+    },
+    {
+        "path": "gamepark-gp32-gp32",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/gamepark-gp32-gp32/index.html",
+        "type": "file",
+        "md5": "428b1dd70bd33917547238c8151aec32"
+    },
+    {
+        "path": "dinothawr-dinothawr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dinothawr-dinothawr/index.html",
+        "type": "file",
+        "md5": "8684e3894c9cf1724fc056949efeac90"
+    },
+    {
+        "path": "nintendo-game-boy-2-players-gb2players",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-game-boy-2-players-gb2players/index.html",
+        "type": "file",
+        "md5": "360b2609b8edb52f2afa0b03de7bc201"
+    },
+    {
+        "path": "igs-polygame-master-igspgm",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/igs-polygame-master-igspgm/index.html",
+        "type": "file",
+        "md5": "eba4b0433210242ea6fea7dfbd3676b8"
+    },
+    {
+        "path": "ikemen-ikemen",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ikemen-ikemen/index.html",
+        "type": "file",
+        "md5": "a66e24e129dfb577709293a789cc2fc0"
+    },
+    {
+        "path": "mattel-intellivision-intellivision",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mattel-intellivision-intellivision/index.html",
+        "type": "file",
+        "md5": "4a126b69b9ba62a1758c01a21dfb404e"
+    },
+    {
+        "path": "lcd-games-lcdgames",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/lcd-games-lcdgames/index.html",
+        "type": "file",
+        "md5": "288856d086ed8d51c9bbd5e4f3568df0"
+    },
+    {
+        "path": "lowres-nx-lowresnx",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/lowres-nx-lowresnx/index.html",
+        "type": "file",
+        "md5": "3d110b8b01f0b10206c6ddad085b7f1a"
     },
     {
         "path": "sord-m5-m5",
@@ -21810,6 +20970,446 @@
         "md5": "cda69a1471022c4c87117098019d62b3"
     },
     {
+        "path": "sega-mark-iii-markiii",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-mark-iii-markiii/index.html",
+        "type": "file",
+        "md5": "37a0df1cff2d8b111e44620a60d10f88"
+    },
+    {
+        "path": "creatonicvideojettimlex-mega-duck-megaduck",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creatonicvideojettimlex-mega-duck-megaduck/index.html",
+        "type": "file",
+        "md5": "fefb77dcfd4dc209aa4cd15836fb8f72"
+    },
+    {
+        "path": "milton-bradley-microvision-microvsn",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/milton-bradley-microvision-microvsn/index.html",
+        "type": "file",
+        "md5": "1117bcf86d453f90eb017e9864343212"
+    },
+    {
+        "path": "microsoft-msx-msx",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/microsoft-msx-msx/index.html",
+        "type": "file",
+        "md5": "c4b24364b9da51aab9dcde892afbdb54"
+    },
+    {
+        "path": "microsoft-msx-2-msx2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/microsoft-msx-2-msx2/index.html",
+        "type": "file",
+        "md5": "280153af9286c5233fcffc991c69f95a"
+    },
+    {
+        "path": "palcom-msx-laserdisc-msxlaserdisk",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/palcom-msx-laserdisc-msxlaserdisk/index.html",
+        "type": "file",
+        "md5": "d6366366f539dd78718daaec8018c89a"
+    },
+    {
+        "path": "microsoft-msx-turbo-r-msxturbor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/microsoft-msx-turbo-r-msxturbor/index.html",
+        "type": "file",
+        "md5": "e9eb983564d7dd92422982b97d6fe144"
+    },
+    {
+        "path": "memotech-mtx512-mtx512",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/memotech-mtx512-mtx512/index.html",
+        "type": "file",
+        "md5": "610c6e17d817b361c6132280bff5ca28"
+    },
+    {
+        "path": "mugen-mugen",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mugen-mugen/index.html",
+        "type": "file",
+        "md5": "e741416621a9fc8e3cdaa5cd4ee9fb26"
+    },
+    {
+        "path": "nichibutsu-my-vision-myvision",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nichibutsu-my-vision-myvision/index.html",
+        "type": "file",
+        "md5": "f719d13335572e1b1b5fb4b267b48894"
+    },
+    {
+        "path": "namco-system-es3-namcoes3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/namco-system-es3-namcoes3/index.html",
+        "type": "file",
+        "md5": "3726844f4f64e0da2f9cb5866b11b65a"
+    },
+    {
+        "path": "snk-hyper-neo-geo-64-neogeo64",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/snk-hyper-neo-geo-64-neogeo64/index.html",
+        "type": "file",
+        "md5": "2c4f18ba64e1cc8c7987017e1a976ff6"
+    },
+    {
+        "path": "camerica-aladdin-deck-enhancer-nes_aladdin",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/camerica-aladdin-deck-enhancer-nes_aladdin/index.html",
+        "type": "file",
+        "md5": "570387e845360d2a39a23eb1e8b9afab"
+    },
+    {
+        "path": "taito-nesicaxlive-nesicax",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/taito-nesicaxlive-nesicax/index.html",
+        "type": "file",
+        "md5": "98033224d84f5940de352b664beed578"
+    },
+    {
+        "path": "taito-nesicaxlive-2-nesicax2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/taito-nesicaxlive-2-nesicax2/index.html",
+        "type": "file",
+        "md5": "d0288d82f9555cea01591354bb2f189e"
+    },
+    {
+        "path": "nintendo-entertainment-system-msu-1-nes-msu",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-entertainment-system-msu-1-nes-msu/index.html",
+        "type": "file",
+        "md5": "ea2faab839baa281400de6548c1f9a62"
+    },
+    {
+        "path": "taito-typex-2-typex2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/taito-typex-2-typex2/index.html",
+        "type": "file",
+        "md5": "84d201ff8551aebbc3f9177ab37a2de7"
+    },
+    {
+        "path": "taito-type-x-typex",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/taito-type-x-typex/index.html",
+        "type": "file",
+        "md5": "54a68f82c006dc5211da5fbb7609d478"
+    },
+    {
+        "path": "sega-nomad-nomad",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-nomad-nomad/index.html",
+        "type": "file",
+        "md5": "e5b3d6194421cc328ce26f1abfdff6be"
+    },
+    {
+        "path": "magnavox-odyssey2-philips-videopac-g7000-o2em",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/magnavox-odyssey2-philips-videopac-g7000-o2em/index.html",
+        "type": "file",
+        "md5": "a3cbbe80660dc1c5966500fca71aa74d"
+    },
+    {
+        "path": "oric-atmos-oricatmos",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/oric-atmos-oricatmos/index.html",
+        "type": "file",
+        "md5": "6e87ef9a4e85243dd63f47822c13e0d7"
+    },
+    {
+        "path": "nec-pc-8800-series-pc88",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nec-pc-8800-series-pc88/index.html",
+        "type": "file",
+        "md5": "53cae6ba09fb42fe1bf792d0a8e9a6cb"
+    },
+    {
+        "path": "nec-pc-9800-series-pc98",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nec-pc-9800-series-pc98/index.html",
+        "type": "file",
+        "md5": "b98569021fa7a93fd179c3dab223955c"
+    },
+    {
+        "path": "digital-equipment-corporation-pdp-1-pdp1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/digital-equipment-corporation-pdp-1-pdp1/index.html",
+        "type": "file",
+        "md5": "c296d99e471c1b42811395f935d62cf9"
+    },
+    {
+        "path": "aamber-pegasus-pegasus",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/aamber-pegasus-pegasus/index.html",
+        "type": "file",
+        "md5": "25c7fc8eb6a878aa79ed3706bb21947d"
+    },
+    {
+        "path": "commodore-pet-pet",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/commodore-pet-pet/index.html",
+        "type": "file",
+        "md5": "cab2b3bc77bac95d02d166500d6abe12"
+    },
+    {
+        "path": "magnavox-odyssey2-philips-videopac-g7000-o2em-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/magnavox-odyssey2-philips-videopac-g7000-o2em-2/index.html",
+        "type": "file",
+        "md5": "f93bc31a8bea8b7c4bc0c590f782c9d4"
+    },
+    {
+        "path": "pico-8-pico8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pico-8-pico8/index.html",
+        "type": "file",
+        "md5": "45e74952e2b07e5247dc301ba64f81f1"
+    },
+    {
+        "path": "sony-pocketstation-pockstat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sony-pocketstation-pockstat/index.html",
+        "type": "file",
+        "md5": "db7023dc25be4f63b2c39bdd7fa9b684"
+    },
+    {
+        "path": "nintendo-pokemon-mini-pokemini",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-pokemon-mini-pokemini/index.html",
+        "type": "file",
+        "md5": "18aee8454da9bd05c1c22161aa4dfb9f"
+    },
+    {
+        "path": "sony-playstation-3-ps3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sony-playstation-3-ps3/index.html",
+        "type": "file",
+        "md5": "3056631df49e5dffc1fe9484f4d91669"
+    },
+    {
+        "path": "casio-pv-1000-pv1000",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/casio-pv-1000-pv1000/index.html",
+        "type": "file",
+        "md5": "ecc154af1683bf08e2d2dc16eafcf638"
+    },
+    {
+        "path": "casio-pv-2000-pv2000",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/casio-pv-2000-pv2000/index.html",
+        "type": "file",
+        "md5": "a8d94b14139725739b8d332986e637ea"
+    },
+    {
+        "path": "raw-thrills-rawthrills",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/raw-thrills-rawthrills/index.html",
+        "type": "file",
+        "md5": "d14c11bd4fa13cc743648ba8680a80e7"
+    },
+    {
+        "path": "mgt-sam-coupe-samcoupe",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mgt-sam-coupe-samcoupe/index.html",
+        "type": "file",
+        "md5": "f1f117d2797f14d8401769df27d20d92"
+    },
+    {
+        "path": "sega-computer-3000-sc3000",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-computer-3000-sc3000/index.html",
+        "type": "file",
+        "md5": "25d4cae89246a36d557da82dd471d047"
+    },
+    {
+        "path": "sega-titan-video-segastv",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-titan-video-segastv/index.html",
+        "type": "file",
+        "md5": "6a9dfe658a12bde1d5aef653ef9933c6"
+    },
+    {
+        "path": "sega-ringwide-segarw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-ringwide-segarw/index.html",
+        "type": "file",
+        "md5": "acebc39ecbe405c4fc15442489f53be7"
+    },
+    {
+        "path": "epoch-super-cassette-vision-scv",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/epoch-super-cassette-vision-scv/index.html",
+        "type": "file",
+        "md5": "0e4a3789af036ed6353d40ae732720af"
+    },
+    {
+        "path": "sega-cd-32x-sega32xcd",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-cd-32x-sega32xcd/index.html",
+        "type": "file",
+        "md5": "b3db2a4aeac9b4cf34de0ffe43f7f80d"
+    },
+    {
+        "path": "nintendo-super-famicom-sfc",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nintendo-super-famicom-sfc/index.html",
+        "type": "file",
+        "md5": "38a53fd8274ba91642a00d56b9932d00"
+    },
+    {
+        "path": "sega-sg-1000-sg1000",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-sg-1000-sg1000/index.html",
+        "type": "file",
+        "md5": "8c557dad73edf6d21b7aeae9dde8ac16"
+    },
+    {
+        "path": "vtech-socrates-socrates",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/vtech-socrates-socrates/index.html",
+        "type": "file",
+        "md5": "604bd03c95805b2fc1ff5e10e89c1343"
+    },
+    {
+        "path": "exidy-sorcerer-sorcerer",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/exidy-sorcerer-sorcerer/index.html",
+        "type": "file",
+        "md5": "dc7e725cd85f289dbbdb93691bd9034f"
+    },
+    {
         "path": "spectravideo-sv-318-spectravideo",
         "type": "directory",
         "md5": false
@@ -21820,6 +21420,16 @@
         "md5": "17dba460193509dffae982ae844c703a"
     },
     {
+        "path": "bandai-sufami-turbo-sufami",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bandai-sufami-turbo-sufami/index.html",
+        "type": "file",
+        "md5": "6f8c0ad1f40883afa1d5c63d1f0cc425"
+    },
+    {
         "path": "super-mario-war-superbroswar",
         "type": "directory",
         "md5": false
@@ -21827,27 +21437,427 @@
     {
         "path": "/super-mario-war-superbroswar/index.html",
         "type": "file",
-        "md5": "53c51f36714a18609507c3c7d5e5b481"
+        "md5": "33ea2405cf0f119fc9e21aa950bbc498"
     },
     {
-        "path": "super-nintendo-entertainment-system-snes",
+        "path": "sinclair-zx-81-zx81",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/super-nintendo-entertainment-system-snes/index.html",
+        "path": "/sinclair-zx-81-zx81/index.html",
         "type": "file",
-        "md5": "18426691212ae4fee673367f4b8a766b"
+        "md5": "c07c164ce6e7f9b0b615c2dd8eb51f6f"
     },
     {
-        "path": "super-nintendo-msu-1-snes-msu1",
+        "path": "atari-xe-video-game-system-xegs",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/super-nintendo-msu-1-snes-msu1/index.html",
+        "path": "/atari-xe-video-game-system-xegs/index.html",
         "type": "file",
-        "md5": "86545f332548596d371ecae5b64f54f1"
+        "md5": "a35074fbbbc54a10ec094c0f5060065f"
+    },
+    {
+        "path": "sharp-x1-x1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sharp-x1-x1/index.html",
+        "type": "file",
+        "md5": "d38c449ed30cbf61f5fb7d2dbc4bf0d7"
+    },
+    {
+        "path": "wasm-4-wasm4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/wasm-4-wasm4/index.html",
+        "type": "file",
+        "md5": "438a572203a8c95d35c6322a58158d3c"
+    },
+    {
+        "path": "vtech-vsmile-vsmile",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/vtech-vsmile-vsmile/index.html",
+        "type": "file",
+        "md5": "7e6a29c9cd2bfa23b43d02bd368f0901"
+    },
+    {
+        "path": "watara-supervision-supervision",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/watara-supervision-supervision/index.html",
+        "type": "file",
+        "md5": "adf1d1fb3c56457fb3f75ef6d4b8e2be"
+    },
+    {
+        "path": "funtech-super-acan-supracan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/funtech-super-acan-supracan/index.html",
+        "type": "file",
+        "md5": "ed810ade3a19359e8bb491929d2de268"
+    },
+    {
+        "path": "philips-videopac-g7400-videopacplus",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/philips-videopac-g7400-videopacplus/index.html",
+        "type": "file",
+        "md5": "01665810383ecc88a8576b92aa502c15"
+    },
+    {
+        "path": "philips-vg-5000-m-vg5k",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/philips-vg-5000-m-vg5k/index.html",
+        "type": "file",
+        "md5": "d4e9d845646269d3822c3b1babc9c0dc"
+    },
+    {
+        "path": "interton-video-computer-4000-vc4000",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/interton-video-computer-4000-vc4000/index.html",
+        "type": "file",
+        "md5": "b90a359e343e7f6a459e58effd187d66"
+    },
+    {
+        "path": "uzebox-uzebox",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/uzebox-uzebox/index.html",
+        "type": "file",
+        "md5": "c4ff496c2672016966e34798ad6592e2"
+    },
+    {
+        "path": "tomy-tutor-tutor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tomy-tutor-tutor/index.html",
+        "type": "file",
+        "md5": "84c39624cea6d11d122363f5c41bccb5"
+    },
+    {
+        "path": "namco-sega-nintendo-triforce-triforce",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/namco-sega-nintendo-triforce-triforce/index.html",
+        "type": "file",
+        "md5": "4dac25e7bac0a554b7e48829ff5f0a30"
+    },
+    {
+        "path": "bandai-super-vision-8000-sv8000",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bandai-super-vision-8000-sv8000/index.html",
+        "type": "file",
+        "md5": "52f81c2fb0fcd138ea70ef2a1694733e"
+    },
+    {
+        "path": "tic-80-tic80",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tic-80-tic80/index.html",
+        "type": "file",
+        "md5": "13c4dfa89e4ec95a8034f27edda76876"
+    },
+    {
+        "path": "texas-instruments-ti-994a-ti99",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/texas-instruments-ti-994a-ti99/index.html",
+        "type": "file",
+        "md5": "722331024c391c2d8c58468a600dafa2"
+    },
+    {
+        "path": "thomson-mo5-thomson",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/thomson-mo5-thomson/index.html",
+        "type": "file",
+        "md5": "960711e7c9d3e237f1da79612e228237"
+    },
+    {
+        "path": "nec-turbografx-16-tg16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nec-turbografx-16-tg16/index.html",
+        "type": "file",
+        "md5": "fca5c511b24bf724e32e17aa352beacc"
+    },
+    {
+        "path": "nec-turbografx-cd-tgcd",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nec-turbografx-cd-tgcd/index.html",
+        "type": "file",
+        "md5": "baf79c7c106d7711f83a4d8bcda98a2b"
+    },
+    {
+        "path": "mattel-captain-power-captpower",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mattel-captain-power-captpower/index.html",
+        "type": "file",
+        "md5": "75611af2846bdd244e39d5fa0f404389"
+    },
+    {
+        "path": "sega-video-driver-videodriver",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-video-driver-videodriver/index.html",
+        "type": "file",
+        "md5": "396c61097d019d2e1d56374f91ec7a02"
+    },
+    {
+        "path": "sega-europa-r-segaer",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sega-europa-r-segaer/index.html",
+        "type": "file",
+        "md5": "34f9934d3713f052d44ce7e05b91d7ba"
+    },
+    {
+        "path": "acorn-electron-electron",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/acorn-electron-electron/index.html",
+        "type": "file",
+        "md5": "f8e075cee8018e9bb42b300335a92701"
+    },
+    {
+        "path": "elektronika-inzenjering-galaksija-galaxy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elektronika-inzenjering-galaksija-galaxy/index.html",
+        "type": "file",
+        "md5": "1123bd4ce8ad41813fcf74ef0b49d7dc"
+    },
+    {
+        "path": "gemrb-gemrb",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/gemrb-gemrb/index.html",
+        "type": "file",
+        "md5": "3f4d8fb217f1cbcfb2e5ecf3610f2487"
+    },
+    {
+        "path": "hector-2hr-hec2hrx",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hector-2hr-hec2hrx/index.html",
+        "type": "file",
+        "md5": "5eee8759a25bb467446bb6c3fea2c24d"
+    },
+    {
+        "path": "ibm-pc-junior-ibmpcjr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ibm-pc-junior-ibmpcjr/index.html",
+        "type": "file",
+        "md5": "617e73009edc0be2cb9fc147b8355abd"
+    },
+    {
+        "path": "ique-player-iqueplayer",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ique-player-iqueplayer/index.html",
+        "type": "file",
+        "md5": "f9193223383b224a3286b6c1013cfdc3"
+    },
+    {
+        "path": "konami-lcd-handhelds-konamilcd",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/konami-lcd-handhelds-konamilcd/index.html",
+        "type": "file",
+        "md5": "24b919b7c7dd699e6b97e178756329a5"
+    },
+    {
+        "path": "vtech-laser-310-laser310",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/vtech-laser-310-laser310/index.html",
+        "type": "file",
+        "md5": "2940f3b93f9b70a3df31fcb2335c85bc"
+    },
+    {
+        "path": "loeve-love",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/loeve-love/index.html",
+        "type": "file",
+        "md5": "f3be05ab6383cf627e590456c0d4b720"
+    },
+    {
+        "path": "applied-technology-microbee-mbee",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/applied-technology-microbee-mbee/index.html",
+        "type": "file",
+        "md5": "a71a714aab1edd1b810d068acacb41f1"
+    },
+    {
+        "path": "othello-multivision-multivision",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/othello-multivision-multivision/index.html",
+        "type": "file",
+        "md5": "fc967705661e18b6dd9db54bf24af042"
+    },
+    {
+        "path": "philips-p2000t-p2000t",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/philips-p2000t-p2000t/index.html",
+        "type": "file",
+        "md5": "b495be8df22f100ad5af9bedf5a3a7c0"
+    },
+    {
+        "path": "pecom-64-pecom64",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pecom-64-pecom64/index.html",
+        "type": "file",
+        "md5": "446fdf3c3b00cd7a797dbcb9d99ce9e6"
+    },
+    {
+        "path": "bandai-rx-78-rx78",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bandai-rx-78-rx78/index.html",
+        "type": "file",
+        "md5": "4bc08c308874b16f2facf383065db31c"
+    },
+    {
+        "path": "dreamcast-visual-memory-unit-svmu",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dreamcast-visual-memory-unit-svmu/index.html",
+        "type": "file",
+        "md5": "39a1317f9b2ee6bf7c0292e2b6f61667"
+    },
+    {
+        "path": "tiger-lcd-handhelds-tiger",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tiger-lcd-handhelds-tiger/index.html",
+        "type": "file",
+        "md5": "cc1c351f75d5e993d5e6c0c42496ad3e"
+    },
+    {
+        "path": "videobrain-family-computer-vidbrain",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/videobrain-family-computer-vidbrain/index.html",
+        "type": "file",
+        "md5": "4a6ccd7cfaf3ba7350625ccc0c23b2e6"
+    },
+    {
+        "path": "ion-fury-fury",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ion-fury-fury/index.html",
+        "type": "file",
+        "md5": "201d39b8ea933c755c76c4459a833766"
+    },
+    {
+        "path": "how-to-download",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-download/index.html",
+        "type": "file",
+        "md5": "a1212e243ce3c894dac3deba9c08cea3"
+    },
+    {
+        "path": "which-build",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/which-build/index.html",
+        "type": "file",
+        "md5": "e8fa50361e1ad5a0e8cd6f65e5bc98f3"
     },
     {
         "path": "tags",
@@ -22730,293 +22740,283 @@
         "md5": "6e72ad42ae4e8f152bbffafff6eb9f66"
     },
     {
-        "path": "taito-nesicaxlive-2-nesicax2",
+        "path": "authors",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/taito-nesicaxlive-2-nesicax2/index.html",
-        "type": "file",
-        "md5": "0ae04cf1cca462113e3949d6d093818b"
-    },
-    {
-        "path": "taito-nesicaxlive-nesicax",
+        "path": "authors/g-spawn",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/taito-nesicaxlive-nesicax/index.html",
+        "path": "/authors/g-spawn/index.html",
         "type": "file",
-        "md5": "6262da0b3fe53568621c7a28a3b98a52"
+        "md5": "aa9748cd619e8aac307aedb1159a5db7"
     },
     {
-        "path": "taito-type-x-typex",
+        "path": "authors/g-spawn/page",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/taito-type-x-typex/index.html",
-        "type": "file",
-        "md5": "9fe54627f7ddb112d28641c75925f0a9"
-    },
-    {
-        "path": "taito-typex-2-typex2",
+        "path": "authors/g-spawn/page/2",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/taito-typex-2-typex2/index.html",
+        "path": "/authors/g-spawn/page/2/index.html",
         "type": "file",
-        "md5": "12c46b9c5d50ec2b84ba6d1766abedcc"
+        "md5": "2d1736f8e5b663d0cea3072dfa6941f7"
     },
     {
-        "path": "tandy-trs-80-color-computer-coco",
+        "path": "authors/rapsteruk",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tandy-trs-80-color-computer-coco/index.html",
+        "path": "/authors/rapsteruk/index.html",
         "type": "file",
-        "md5": "cb4831bb2f74d2c012edcca20368c30e"
+        "md5": "6bc72a1512f53ef0c0c21504ad7d1b28"
     },
     {
-        "path": "texas-instruments-ti-994a-ti99",
+        "path": "authors/rgs",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/texas-instruments-ti-994a-ti99/index.html",
+        "path": "/authors/rgs/index.html",
         "type": "file",
-        "md5": "722331024c391c2d8c58468a600dafa2"
+        "md5": "233e9d0612aabfd7a56b6f9abd64b8c9"
     },
     {
-        "path": "the-one-build-install",
+        "path": "authors/rgs/page",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/the-one-build-install/index.html",
-        "type": "file",
-        "md5": "ff664ae7319178c17254ee4fadedd4e6"
-    },
-    {
-        "path": "thomson-mo5-thomson",
+        "path": "authors/rgs/page/10",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/thomson-mo5-thomson/index.html",
+        "path": "/authors/rgs/page/10/index.html",
         "type": "file",
-        "md5": "960711e7c9d3e237f1da79612e228237"
+        "md5": "901cd3d54c79a5f11632f631035a9f65"
     },
     {
-        "path": "tic-80-tic80",
+        "path": "authors/rgs/page/2",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tic-80-tic80/index.html",
+        "path": "/authors/rgs/page/2/index.html",
         "type": "file",
-        "md5": "13c4dfa89e4ec95a8034f27edda76876"
+        "md5": "fa38a52766a9c8e614af4d2a62de728b"
     },
     {
-        "path": "tiger-electronics-gamecom-gamecom",
+        "path": "authors/rgs/page/3",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tiger-electronics-gamecom-gamecom/index.html",
+        "path": "/authors/rgs/page/3/index.html",
         "type": "file",
-        "md5": "1e7b7f867bbdd22f53f668b309023184"
+        "md5": "e7742e9cc593d267af79dced32096472"
     },
     {
-        "path": "tiger-lcd-handhelds-tiger",
+        "path": "authors/rgs/page/4",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tiger-lcd-handhelds-tiger/index.html",
+        "path": "/authors/rgs/page/4/index.html",
         "type": "file",
-        "md5": "aebe17c8e71412aedfe00be6c4ca0293"
+        "md5": "f8adc489f2782012b2ffba27978ee0e7"
     },
     {
-        "path": "tomy-tutor-tutor",
+        "path": "authors/rgs/page/5",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tomy-tutor-tutor/index.html",
+        "path": "/authors/rgs/page/5/index.html",
         "type": "file",
-        "md5": "84c39624cea6d11d122363f5c41bccb5"
+        "md5": "221abeae098b19bcf124c156f489615c"
     },
     {
-        "path": "tyrquake-tyrquake",
+        "path": "authors/rgs/page/6",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tyrquake-tyrquake/index.html",
+        "path": "/authors/rgs/page/6/index.html",
         "type": "file",
-        "md5": "eaa25b9681218f8a2358f4ffaacbe093"
+        "md5": "02c27eb6e28ca91afc3454b06244aadb"
     },
     {
-        "path": "updating-to-v631",
+        "path": "authors/rgs/page/7",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/updating-to-v631/index.html",
+        "path": "/authors/rgs/page/7/index.html",
         "type": "file",
-        "md5": "32843c7199010c03dad38bc16fa022ea"
+        "md5": "b7850f1dce8debd59d54d4fbd3b97c86"
     },
     {
-        "path": "uzebox-uzebox",
+        "path": "authors/rgs/page/8",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/uzebox-uzebox/index.html",
+        "path": "/authors/rgs/page/8/index.html",
         "type": "file",
-        "md5": "c4ff496c2672016966e34798ad6592e2"
+        "md5": "e8477b4c6847d92e7cff6f758ffa2f93"
     },
     {
-        "path": "vectrex-vectrex",
+        "path": "authors/rgs/page/9",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/vectrex-vectrex/index.html",
+        "path": "/authors/rgs/page/9/index.html",
         "type": "file",
-        "md5": "9c000fe0ac8343116e9fb897d0690265"
+        "md5": "ed27701d8a3a2c96eb0a676ec2287abd"
     },
     {
-        "path": "videobrain-family-computer-vidbrain",
+        "path": "authors/spirit",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/videobrain-family-computer-vidbrain/index.html",
+        "path": "/authors/spirit/index.html",
         "type": "file",
-        "md5": "221eff09b05763f0d4ded629f05d50f4"
+        "md5": "5a5373e636c57a83972e3f5ac13602ba"
     },
     {
-        "path": "visual-pinball-vpinball",
+        "path": "404.html",
+        "type": "file",
+        "md5": "9fd2af625d93a5b75a89fb47ece842d1"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "c0a2ee7719eee50e01ab52540250ed8d"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "23a36ca47902a11f5cdabd38fc474751"
+    },
+    {
+        "path": "favicon.ico",
+        "type": "file",
+        "md5": "fb52ce0bd82338248e48ac7b994a2832"
+    },
+    {
+        "path": "assets",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/visual-pinball-vpinball/index.html",
-        "type": "file",
-        "md5": "dd5cbfe6adbe68b6d8ff00e1c3f2ed58"
-    },
-    {
-        "path": "vtech-creativision-crvision",
+        "path": "assets/css",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/vtech-creativision-crvision/index.html",
+        "path": "/assets/css/editor.css",
         "type": "file",
-        "md5": "6bfb32e8b2cf15fab4aca813b70cd104"
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
     },
     {
-        "path": "vtech-laser-310-laser310",
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "aa35269e23ea63498dc068ceb36b11e7"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "151447f0cf3c9ef292a571bc74c9472c"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "63ec9b3a23992b90e078eb03f0e4fd55"
+    },
+    {
+        "path": "assets/dynamic",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/vtech-laser-310-laser310/index.html",
-        "type": "file",
-        "md5": "97122f87e7642665ec84d062074c3061"
-    },
-    {
-        "path": "vtech-socrates-socrates",
+        "path": "assets/js",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/vtech-socrates-socrates/index.html",
+        "path": "/assets/js/photoswipe-ui-default.min.js",
         "type": "file",
-        "md5": "1657d189b9e5e20376c85e1d0f25b4c5"
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
     },
     {
-        "path": "vtech-vsmile-vsmile",
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "bd19e1795647692f2fe6f2249792391f"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "8680a80b5605dca08d4eef4416e29e9f"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "aa1ff23a8df2377a60f48f5b4d433ab5"
+    },
+    {
+        "path": "assets/svg",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/vtech-vsmile-vsmile/index.html",
+        "path": "/assets/svg/gallery-icons-dark.svg",
         "type": "file",
-        "md5": "7e6a29c9cd2bfa23b43d02bd368f0901"
+        "md5": "0c70735af58190b563b2940b7a07007a"
     },
     {
-        "path": "wasm-4-wasm4",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/wasm-4-wasm4/index.html",
+        "path": "/assets/svg/gallery-icons-light.svg",
         "type": "file",
-        "md5": "438a572203a8c95d35c6322a58158d3c"
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
     },
     {
-        "path": "watara-supervision-supervision",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/watara-supervision-supervision/index.html",
+        "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "adf1d1fb3c56457fb3f75ef6d4b8e2be"
+        "md5": "c8df4110c4ebd38fbb95093ee7b4e317"
     },
     {
-        "path": "welcome",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/welcome/index.html",
+        "path": "sitemap.xml",
         "type": "file",
-        "md5": "66b2c3370e89ef98a35080fd99525e19"
+        "md5": "0dbbfaca3623a479baa000992c2c61c2"
     },
     {
-        "path": "which-build",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/which-build/index.html",
+        "path": "sitemap.xsl",
         "type": "file",
-        "md5": "e8fa50361e1ad5a0e8cd6f65e5bc98f3"
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
     },
     {
-        "path": "wonderswan-color-wswanc",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/wonderswan-color-wswanc/index.html",
+        "path": "robots.txt",
         "type": "file",
-        "md5": "32b0a96370d01d247b5f8852cb3a9d42"
-    },
-    {
-        "path": "wonderswan-wswan",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/wonderswan-wswan/index.html",
-        "type": "file",
-        "md5": "8f591aa3d8eefc77a94f9c99481e6b90"
-    },
-    {
-        "path": "zaccaria-pinball-zaccariapinball",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/zaccaria-pinball-zaccariapinball/index.html",
-        "type": "file",
-        "md5": "26503cc5f5e0d368bd78db5d12a40b12"
+        "md5": "16eb385b398e05251fb9078799f6fa1e"
     }
 ]
