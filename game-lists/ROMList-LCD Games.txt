@@ -1,0 +1,20 @@
+﻿System: LCD Games
+====================
+Telko: Bassmate
+Konami: The Adventures of Bayou Billy
+Konami: Blades of Steel
+Konami: Bucky O'Hare
+Konami: Contra
+Konami: Garfield
+Konami: Gradius
+Konami: Lone Ranger
+Konami: Teenage Mutant Ninja Turtles
+Simon
+Texas: Speak & Spell
+Tamagotchi
+Tronica: Thief in Garden
+Tronica: Shuttle Voyage
+Tronica: Space Rescue
+Electronika: Nu, pogodi!
+====================
+Total Games: 16

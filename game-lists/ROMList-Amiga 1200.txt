@@ -1,0 +1,188 @@
+﻿System: Amiga 1200
+====================
+AlienBreed3D2 v1.10280
+ArcadeSnooker v1.1 AGA
+Banshee v3.30633
+Blobz v1.0 AGA
+BreakOutRevolution v1.0 AGA
+Breathless v1.168060 0178
+BrutalFootball v1.211837
+BubbleAndSqueak v2.1-B0210
+Burnout v1.0 AGA
+Burntime v1.22213
+CenterCourt v1.02765
+CenterCourt2 v1.1 AGA
+ChaosEngine v2.11324
+ChaosEngine2 v2.60173
+CharlieJCool v1.2 AGA
+Civilization v1.11633
+Clockwiser v1.11900
+Clue v1.1 AGA
+Coala v2.00242
+Colonization v1.10452
+CyberPunks 2 (AGA)
+DangerousStreets v1.31020
+DeathMask v1.21326
+Deconstruction v1.2 AGA
+DeluxeGalaga v1.3 AGA
+DeluxePacMan v1.0 AGA
+Dennis v1.5.2 AGA
+Dennis v1.5.2DesktopDynamite
+Detroit v1.0 AGA
+DGeneration v2.30457
+Diggers v1.01172
+DonkTheSamuraiDuck v1.20647
+DragonTiles v1.0 AGA
+DreamWeb v1.11815
+Exile v1.10885
+FantasticDizzy v2.2 AGA
+FantasyFlyer v1.0 AGA
+FatmanTheCapedConsumer v1.10480
+Fears v3.41288
+Fears v3.4Censored
+FightinSpirit v1.2 AGA
+FirstSamurai v2.1 A1200Version NONAGA
+FootballGlory v1.10122
+Giana Sisters SE (AGA)
+Gloom v1.40124
+Guardian v2.00835
+GunbeeF99 v1.1 AGA
+Gunship2000 v3.10371
+Heimdall2 v1.61166
+HighSeasTrader v1.02108
+Humans3 v1.12382
+ImpossibleMission2025 v2.0-B1833
+Ishar v1.4 AGA
+Ishar2 v1.40787
+Ishar3 v1.52245
+JamesPond2 v2.01354
+JamesPond3 v2.10688
+Jetstrike v1.1 AGA
+JungleStrike v1.12581
+JurassicPark v2.00836
+KickOff3 v1.011854
+KickOff3EuropeanChallenge v1.01896
+LeadingLapMPV v1.0 AGA
+LeadingLapMPV v1.0CUAmiga
+Legends v1.21346
+LordsOfTheRealm v1.0 AGA
+LordsOfTheRealm v1.0Fast
+MarvinsMarvellousAdventure v1.011152
+Minskies v2.1 AGA
+Morph v1.01070
+MortonStrikesBack v1.0 AGA
+NaughtyOnes v1.11715
+NigelMansellsWorldChampionship v1.30138
+Og v1.0 AGA
+PGAEuropeanTour v1.12435
+Pinball Fantasies
+PinballPrelude v1.22327
+PlayerManager2Extra v1.01 AGA
+PremierManager3 v1.02021
+PrimalRage v1.1 AGA
+PuttySquadDemo v1.0 AGA
+RobinsonsRequiem v1.21866
+SabreTeam v1.21158
+Seek&Destroy v1.10252
+ShadowFighter v1.00203
+ShaqFu v1.11761
+SimLife v1.00889
+SlamTilt v3.61151
+SlamTilt v3.62MB 1151
+Sleepwalker v1.20577
+Sleepwalker v1.2ComicRelief 1880
+SoccerSuperstars v1.0 AGA
+StarCrusader v1.02349
+StarTrek25thAnniversary v1.01466
+StripPot v1.1 AGA
+SuperStreetFighter2DX v1.1 AGA
+ThomasTheTankEnginePinball v1.22629
+TopGear2 v1.21858
+TotalCarnage v1.11926
+Transarctica v1.4 AGA
+Trolls v1.20996
+TubeWarriors v1.0 AGA
+TubularWorlds v1.0 AGA
+UFOEnemyUnknown v1.10157
+VirtualKarting v1.21059
+VirtualKarting2 v1.1 AGA
+Wheels On Fire
+Whizz v1.20803
+WormsDirectorsCut v1.30605
+WormsDirectorsCut v1.312MB 0605
+XTremeRacing&DataDisks v1.10164&1807
+ZombieApocalypse2 v1.1 AGA
+Zool v2.01675
+Zool2 v1.00415
+AlienBreed3D v1.30624
+AlienBreedTowerAssault v1.32331
+AllNewWorldOfLemmings v1.00625
+ArcadePool v3.00298
+BlackViper v1.1 AGA
+Blade v1.01801
+BloodNet v2.11667
+BodyBlowsGalactic v2.2a0440
+BodyBlows v2.11322
+Breathless v1.10178
+BrianTheLion v2.00843
+CapitalPunishment v1.21758
+Watchtower v1.21071
+Alfred Chicken
+1869 - Erlebte Geschichte Teil I
+Aladdin v1.80420
+AlienBreed2 v1.40044
+WembleyInternationalSoccer v1.011704
+Wiz (AGA)
+XP8 v2.1 AGA
+XTremeRacing v1.10164
+LionKing v1.00527
+Maria Renards Revenge (AGA) (Beta & Unreleased)
+MaxRally v1.3 AGA
+MegaBall v1.03 AGA
+MutantLeagueHockey v1.0 AGA
+OnTheBallLeagueEdition v2.02110
+OnTheBallWorldCupEdition v1.02595
+Oscar v2.31095
+Overkill v1.10707
+PierreLeChefIsOutToLunch v2.30548
+PinballBrainDamage v1.0 AGA
+PinballFantasies v3.2Chip 0047
+PinballIllusions v2.30710
+PinballMania v2.10896
+Pulsator
+PuttySquad v1.3 AGA
+QuikTheThunderRabbit v1.3 AGA
+RallyChampionships v1.1 AGA
+Reshoot (AGA)
+Reshoot R (AGA)
+Reunion v1.2 AGA
+RiseOfTheRobots v1.31763
+Roadkill v2.2-B1108
+Roketz v1.1 AGA
+Rygar
+Rygar v2.1Chip
+ScubaDiver v1.0 AGA
+SecondSamurai v1.3a1624
+SimonTheSorcerer v1.50898
+SkeletonKrew v3.00725
+Skidmarks v1.20204
+SoccerKid v2.11150
+SperisLegacy v2.01337
+Spirilon v1.0 AGA
+Subwar2050 v1.30146
+SuperLoopz v1.0 AGA
+SuperStardust v1.20175
+SuperStreetFighter2Turbo v1.10735
+SuperStreetFighter2 v1.1 AGA
+SurfNinjas v1.11291
+TFX v1.0 AGA
+The Dream of Rowan (AGA)
+ThemePark v3.00153
+TinToyAdventure v1.3-B AGA
+Tornado v1.1 AGA
+TowerOfSouls v1.12212
+Turbo Sprint (AGA)
+Turrican 2 (AGA) (Beta & Unreleased)
+Virocop v1.51920
+====================
+Total Games: 184

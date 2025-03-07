@@ -1,0 +1,18 @@
+﻿System: Plug & Play TV Games
+====================
+Batman
+DragonBallz
+Disney
+Dora the Explorer 1
+Dora the Explorer 2
+Fantastic Four
+Justice League
+Ms. Pacman Collection
+Nicktoons
+Winnie the Pooh
+Spongebob Squarepants
+Scooby-Doo
+Star Wars: Revenge of the Sith
+WWE Smack Down
+====================
+Total Games: 14
