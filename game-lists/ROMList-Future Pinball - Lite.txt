@@ -1,4 +1,4 @@
-﻿System: Future Pinball
+﻿System: Future Pinball - Lite
 ====================
 2001
 24
