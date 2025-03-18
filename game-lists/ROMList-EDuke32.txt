@@ -19,25 +19,5 @@ PowerSlave
 Duke Nukem Mod: Shaky Grounds
 World War II GI: Platoon Leader
 World War II GI
-DUKEDC
-NWINTER
-dukezone2
-VACATION
-pnp
-STUFF
-tw
-wt
-zerohour
-zone
-DUKE!ZON
-DUKE3D
-DUKE3D
-PENTHOUS
-PENTHOUS
-DUKE3D
-DUKE3DA
-NAM
-PLATOONL
-WW2GI
 ====================
-Total Games: 39
+Total Games: 20
