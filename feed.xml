@@ -3,12 +3,125 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2025-01-30T19:58:22+00:00</updated>
+    <updated>2025-03-24T00:04:04+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Clone Hero (clonehero)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/clone-hero-clonehero/index.html"/>
+        <id>https://pixelnostalgia.github.io/clone-hero-clonehero/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/284/clonehero_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+
+        <updated>2025-03-23T14:41:50+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/284/clonehero_system.png" alt="clonehero" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/284/clonehero_system.png" class="type:primaryImage" alt="clonehero" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/284/clonehero.svg" alt="" width="320" height="210"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/284/clonehero.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/284/responsive/clonehero-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/284/responsive/clonehero-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/284/responsive/clonehero-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/284/responsive/clonehero-xl.webp 1200w"></figure>
+<p>Clone Hero is a freeware music rhythm video game created by Ryan Foster, first released in alpha on March 1, 2017, receiving a full release on November 29, 2022.<br><br>The game is a clone of the Guitar Hero franchise with nearly identical gameplay. The main draw of the game is its ability to play community-made songs, which has resulted in a large fan community around the game as well as a resurgence in popularity for the genre.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">23 games/albums (~115 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=965260" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/284/gallery/Zrzut-ekranu-2025-03-23-223710.png" data-size="3065x1714"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/284/gallery/Zrzut-ekranu-2025-03-23-223710-thumbnail.webp" alt="" width="768" height="429"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/284/gallery/Zrzut-ekranu-2025-03-23-223735.png" data-size="3059x1714"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/284/gallery/Zrzut-ekranu-2025-03-23-223735-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p>Packs Included:</p>
+<ol>
+<li>AC-DC Live Rock Band Track Pack</li>
+<li>Band Hero</li>
+<li>The Beatles - Rock Band</li>
+<li>Green Day - Rock Band</li>
+<li>Guitar Hero</li>
+<li>Guitar Hero II</li>
+<li>Guitar Hero III - Legends of Rock</li>
+<li>Guitar Hero On Tour</li>
+<li>Guitar Hero 5</li>
+<li>Guitar Hero - Aerosmith</li>
+<li>Guitar Hero - Encore Rocks The 80s</li>
+<li>Guitar Hero - Metallica</li>
+<li>Guitar Hero - Smash Hits</li>
+<li>Guitar Hero - Van Halen</li>
+<li>Guitar Hero - Warriors of Rock</li>
+<li>Guitar Hero - World Tour</li>
+<li>LEGO Rock Band</li>
+<li>Rock Band</li>
+<li>Rock Band 2</li>
+<li>Rock Band 3</li>
+<li>Rock Band 4</li>
+<li>Rock Band Blitz</li>
+<li>Spinal Tap</li>
+</ol>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "clonehero" folder to the "roms" directory</p>
+<p class="msg msg--warning">Make sure you have run the PixN Update Service so that you have the emulator available.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nintendo Game Boy Color 2 Players (gbc2players)</title>
+        <author>
+            <name>RGS</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/nintendo-game-boy-color-2-players-gbc2players/index.html"/>
+        <id>https://pixelnostalgia.github.io/nintendo-game-boy-color-2-players-gbc2players/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/283/gbc2players_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Portable"/>
+            <category term="PC x86"/>
+            <category term="Extension"/>
+            <category term="Batocera"/>
+
+        <updated>2025-03-07T21:01:27+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/283/gbc2players_system.png" alt="gbc2players" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/283/gbc2players_system.png" class="type:primaryImage" alt="gbc2players" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/283/gbc2players.svg" alt="" width="380" height="90"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/283/gb2players.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/283/responsive/gb2players-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/283/responsive/gb2players-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/283/responsive/gb2players-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/283/responsive/gb2players-xl.webp 1200w"></figure>
+<p>The Nintendo Game Link Cable is an accessory for the Game Boy line of handheld video game systems, allowing players to connect Game Boy's of all types for multiplayer play. Depending on the games, the Game Link Cable can be used to connect two games with the same title, such as Tetris, or two compatible games, such as Pokémon Red and Blue. Games can be linked together to compete, cooperate, trade items, unlock hidden features, etc.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--info msg--success">98 games (~3 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=957599" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gbc2players" folder into the 'roms' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ion Fury (fury)</title>
         <author>
@@ -24,7 +137,7 @@
             <category term="PC x86"/>
             <category term="Batocera"/>
 
-        <updated>2025-01-30T19:35:56+00:00</updated>
+        <updated>2025-01-30T20:35:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/281/fury_system.png" alt="fury" />
@@ -66,7 +179,7 @@
             <category term="Computer"/>
             <category term="Batocera"/>
 
-        <updated>2025-01-19T21:36:36+00:00</updated>
+        <updated>2025-01-19T22:36:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/279/vidbrain_system.png" alt="vidbrain" />
@@ -109,7 +222,7 @@
             <category term="Custom"/>
             <category term="Batocera"/>
 
-        <updated>2025-01-19T21:30:22+00:00</updated>
+        <updated>2025-01-19T22:30:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/278/tiger_system.png" alt="tiger" />
@@ -152,7 +265,7 @@
             <category term="Custom"/>
             <category term="Batocera"/>
 
-        <updated>2025-01-19T21:22:22+00:00</updated>
+        <updated>2025-01-19T22:22:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/277/svmu_system.png" alt="svmu" />
@@ -194,7 +307,7 @@
             <category term="Computer"/>
             <category term="Batocera"/>
 
-        <updated>2025-01-19T21:16:25+00:00</updated>
+        <updated>2025-01-19T22:16:25+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/276/rx78_system.png" alt="rx78" />
@@ -236,7 +349,7 @@
             <category term="Computer"/>
             <category term="Batocera"/>
 
-        <updated>2025-01-19T21:03:31+00:00</updated>
+        <updated>2025-01-19T22:03:31+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/275/pecom64_system.png" alt="pecom64" />
@@ -278,7 +391,7 @@
             <category term="Computer"/>
             <category term="Batocera"/>
 
-        <updated>2025-01-19T20:54:31+00:00</updated>
+        <updated>2025-01-19T21:54:31+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/274/p2000t_system.png" alt="p2000t" />
@@ -320,7 +433,7 @@
             <category term="Computer"/>
             <category term="Batocera"/>
 
-        <updated>2025-01-19T20:44:10+00:00</updated>
+        <updated>2025-01-19T21:44:10+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/273/multivision_system.png" alt="multivision" />
@@ -344,87 +457,6 @@
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
 <p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "multivision" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Applied Technology MicroBee (mbee)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/applied-technology-microbee-mbee/index.html"/>
-        <id>https://pixelnostalgia.github.io/applied-technology-microbee-mbee/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/272/mbee_system.png" medium="image" />
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Computer"/>
-            <category term="Batocera"/>
-
-        <updated>2025-01-19T20:26:42+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/272/mbee_system.png" alt="mbee" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/272/mbee_system.png" class="type:primaryImage" alt="mbee" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/272/mbee-w-logo.png" alt="" width="310" height="163" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/272/responsive/mbee-w-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/272/responsive/mbee-w-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/272/responsive/mbee-w-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/272/responsive/mbee-w-logo-xl.webp 1200w"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/272/mbee.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/272/responsive/mbee-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/272/responsive/mbee-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/272/responsive/mbee-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/272/responsive/mbee-xl.webp 1200w"></figure>
-<p>MicroBee (or Micro Bee) was a series of networkable home computers by Applied Technology, which became publicly listed company MicroBee Systems Limited soon after its release.<br><br>The MicroBee's most distinctive features are its user configurable video display (capable of mimicking the displays of other computers and devices including the TRS-80, Sorcerer and SOL20 with later colour and graphic models 40 and 80 column terminals, Super-80, ZX Spectrum, early arcade machines, Amstrad CPC 464) and its battery backed non-volatile RAM and small size allowing it to be powered off, transported, and powered back on and resume activities on the currently loaded program or document.<br><br>It was originally packaged as a two board unit with the lower "baseboard" containing all components except the system memory which was mounted on the upper "core board".</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">170 games (~8 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=964918" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "mbee" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>LÖVE (love)</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/loeve-love/index.html"/>
-        <id>https://pixelnostalgia.github.io/loeve-love/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/271/love_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-
-        <updated>2025-01-19T20:19:18+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/271/love_system.png" alt="love" />
-                    <p class="align-left">for <span style="color: #169179;">Retrobat</span> only</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/271/love_system.png" class="type:primaryImage" alt="love" /></p>
-                <p class="align-left">for <span style="color: #169179;">Retrobat</span> only</p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/271/love_backup-logo.png" alt="" width="377" height="165" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/271/responsive/love_backup-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/271/responsive/love_backup-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/271/responsive/love_backup-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/271/responsive/love_backup-logo-xl.webp 1200w"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/271/love-2.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/271/responsive/love-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/271/responsive/love-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/271/responsive/love-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/271/responsive/love-2-xl.webp 1200w"></figure>
-<p>LÖVE (or Love2D) is an open-source cross-platform engine for developing 2D video games. The engine is written in C++ and uses Lua as its scripting language. It is published under the zlib license.<br><br>The API provided by the engine gives access to the video and sound functions of the host machine through the libraries SDL and OpenGL, or since version 0.10 also OpenGL ES 2 and 3. Fonts can be rendered by the FreeType engine.<br>It also provides a basic "sandbox" management of the files in order to avoid giving access to all its disk to the executed games.<br>In July 2018, it was the 10th game engine most used by independents on the site itch.io, holding a 1.97% share.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">4 games (~35 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=964925" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "love" folder to the "roms" directory</p>
             ]]>
         </content>
     </entry>
