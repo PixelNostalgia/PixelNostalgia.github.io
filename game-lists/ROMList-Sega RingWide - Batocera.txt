@@ -1,14 +1,12 @@
 ﻿System: Sega RingWide
 ====================
-Chaos Code
 Dream Raiders (Lightgun)
 Dream Raiders (mouse)
 K.O. Drive
-Medaru no Gunman
 Operation Ghost (mouse)
 Sega Golden Gun (Lightgun)
 Sega Golden Gun (mouse)
 Sega Racing Classic
 Sonic & Sega All-Stars Racing Arcade
 ====================
-Total Games: 10
+Total Games: 8
