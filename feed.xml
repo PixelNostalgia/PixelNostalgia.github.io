@@ -3,16 +3,55 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-<<<<<<< HEAD
-    <updated>2025-04-22T21:59:41+02:00</updated>
-=======
-    <updated>2025-04-17T17:23:13+01:00</updated>
->>>>>>> 3666ab94fd301f252d75b69b9f4f788df3065d12
+    <updated>2025-04-24T08:51:39+02:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>CorsixTH (corsixth)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/corsixth-corsixth/index.html"/>
+        <id>https://pixelnostalgia.github.io/corsixth-corsixth/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/289/corsixth_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2025-04-24T08:22:05+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/289/corsixth_system.png" alt="corsixth" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/289/corsixth_system.png" class="type:primaryImage" alt="corsixth" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/289/corsixth-w.svg" alt="" width="400" height="108"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/289/corsixth.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/289/responsive/corsixth-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/289/responsive/corsixth-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/289/responsive/corsixth-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/289/responsive/corsixth-xl.webp 1200w"></figure>
+<p> </p>
+<p>A reimplementation of the 1997 Bullfrog business sim Theme Hospital. As well as faithfully recreating the original, CorsixTH adds support for modern operating systems (Windows, macOS, Linux and BSD), high resolutions and much more.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">1 game (~120 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=965490" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/289/gallery/Zrzut-ekranu-2025-04-24-083106.png" data-size="3061x1712"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/289/gallery/Zrzut-ekranu-2025-04-24-083106-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "corsixth" folder into the 'roms' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>C-Dogs SDL (cdogs)</title>
         <author>
@@ -70,7 +109,7 @@
             <category term="Extension"/>
             <category term="Batocera"/>
 
-        <updated>2025-04-17T16:44:47+01:00</updated>
+        <updated>2025-04-17T17:44:47+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/287/supercharger_system.png" alt="supercharger" />
@@ -114,7 +153,7 @@
             <category term="Computer"/>
             <category term="Batocera"/>
 
-        <updated>2025-04-17T13:35:09+01:00</updated>
+        <updated>2025-04-17T14:35:09+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/286/mz-2500.png" alt="mz2500" />
@@ -155,7 +194,7 @@
             <category term="Lite package"/>
             <category term="Batocera"/>
 
-        <updated>2025-03-23T21:46:34+00:00</updated>
+        <updated>2025-03-23T22:46:34+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/285/switch_system.png" alt="switch" />
@@ -199,7 +238,7 @@
             <category term="Custom"/>
             <category term="Batocera"/>
 
-        <updated>2025-03-23T13:41:50+00:00</updated>
+        <updated>2025-03-23T14:41:50+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/284/clonehero_system.png" alt="clonehero" />
@@ -271,7 +310,7 @@
             <category term="Extension"/>
             <category term="Batocera"/>
 
-        <updated>2025-03-07T20:01:27+00:00</updated>
+        <updated>2025-03-07T21:01:27+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/283/gbc2players_system.png" alt="gbc2players" />
@@ -311,7 +350,7 @@
             <category term="PC x86"/>
             <category term="Batocera"/>
 
-        <updated>2025-01-30T19:35:56+00:00</updated>
+        <updated>2025-01-30T20:35:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/281/fury_system.png" alt="fury" />
@@ -353,7 +392,7 @@
             <category term="Computer"/>
             <category term="Batocera"/>
 
-        <updated>2025-01-19T21:36:36+00:00</updated>
+        <updated>2025-01-19T22:36:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/279/vidbrain_system.png" alt="vidbrain" />
@@ -396,7 +435,7 @@
             <category term="Custom"/>
             <category term="Batocera"/>
 
-        <updated>2025-01-19T21:30:22+00:00</updated>
+        <updated>2025-01-19T22:30:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/278/tiger_system.png" alt="tiger" />
@@ -423,92 +462,4 @@
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>Dreamcast Visual Memory Unit (svmu)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/dreamcast-visual-memory-unit-svmu/index.html"/>
-        <id>https://pixelnostalgia.github.io/dreamcast-visual-memory-unit-svmu/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/277/svmu_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Portable"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Batocera"/>
-
-        <updated>2025-01-19T21:22:22+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/277/svmu_system.png" alt="svmu" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/277/svmu_system.png" class="type:primaryImage" alt="svmu" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/277/vemulator-logo.svg" alt="" width="377" height="88"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/277/vemulator.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/277/responsive/vemulator-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/277/responsive/vemulator-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/277/responsive/vemulator-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/277/responsive/vemulator-xl.webp 1200w"></figure>
-<p>The Visual Memory Unit is a memory card used by Sega's Dreamcast console. Unlike other memory cards, the VMU has a small LCD display and a set of buttons that resemble those on a Game Boy portable console. The VMU plugs directly into the joypad. During play, a small screen displays game information, pictures, and hints.<br><br>Some games, such as Sonic Adventure, allow you to copy special software to the VMU so that you can play the game without connecting to a console. In addition, the memory card allows you to see the current time thanks to the built-in clock. The VMU is available in several colors, the most common being blue (made of transparent blue plastic) and white.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">40 games (~156 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=965447" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>    </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This is version 2.0.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Delete the "svmu" folder from the 'roms' directory<br>Drag and drop the "svmu" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-<<<<<<< HEAD
-=======
-    <entry>
-        <title>Bandai RX-78 (rx78)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/bandai-rx-78-rx78/index.html"/>
-        <id>https://pixelnostalgia.github.io/bandai-rx-78-rx78/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/276/rx78_system.png" medium="image" />
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Computer"/>
-            <category term="Batocera"/>
-
-        <updated>2025-01-19T21:16:25+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/276/rx78_system.png" alt="rx78" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/276/rx78_system.png" class="type:primaryImage" alt="rx78" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/276/rx78-logo.png" alt="" width="325" height="161" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/276/responsive/rx78-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/276/responsive/rx78-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/276/responsive/rx78-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/276/responsive/rx78-logo-xl.webp 1200w"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/276/rx78.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/276/responsive/rx78-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/276/responsive/rx78-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/276/responsive/rx78-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/276/responsive/rx78-xl.webp 1200w"></figure>
-<p>The Bandai RX-78 is a Japanese 8-bit microcomputer manufactured by Bandai. Its name comes from the RX-78-2 Gundam. It was released in July 1983, and employed a SHARP LH0080A (Zilog Z80A clone) CPU. It ran at a clock speed of 4.1 MHz, and shipped with 30 KB of RAM and 8KB of ROM. It had two joystick ports in a proprietary format using 8-pin DIN connectors.<br><br>The computer can generate 27 colors, created from 3 levels of intensity of each RGB channel, arranged into VRAM video planes, with a maximum resolution of 192×184 pixels, and is capable of displaying 30 x 23 text characters using a 6x8 pixel font. Sound was generated by the Texas Instruments SN76489 chip, providing 3 voices in four octaves and noise generator. Software was available on cartridges or cassettes.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">13 games (~8 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=964922" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>     </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "rx78" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
->>>>>>> 3666ab94fd301f252d75b69b9f4f788df3065d12
 </feed>
