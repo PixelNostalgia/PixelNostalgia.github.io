@@ -3,12 +3,354 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2025-06-08T12:07:13+02:00</updated>
+    <updated>2025-06-11T21:40:37+02:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Rick Dangerous (xrick)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/rick-dangerous-xrick/index.html"/>
+        <id>https://pixelnostalgia.github.io/rick-dangerous-xrick/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/299/xrick_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2025-06-11T21:30:25+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/299/xrick_system.png" alt="xrick" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/299/xrick_system.png" class="type:primaryImage" alt="xrick" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/299/xrick-data.png" alt="" width="400" height="200" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-data-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-data-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-data-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-data-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/299/xrick.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-xl.webp 1200w"></figure>
+<p>XRick is an open source implementation of the game "Rick Dangerous". Rick Dangerous is a platform game developed by Core Design for the Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64, and MS-DOS.<br><br>The game was released in 1989 and published by MicroProse on the Firebird Software label in the UK, and on the MicroPlay label in America. It was also published in Spain by Erbe Software.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">1 game (~5 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=965937" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/299/gallery/Zrzut-ekranu-2025-06-11-212521-2.png" data-size="3059x1696"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/299/gallery/Zrzut-ekranu-2025-06-11-212521-2-thumbnail.webp" alt="" width="768" height="426"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>1. If using RGS Batocera you may already have this ROMpack, if so delete the "xrick" folder from the 'roms' folder<br>2. Drag and drop the "xrick" folder into the 'roms' directory<br>3. Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>SDL Prince of Persia (sdlpop)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/sdl-prince-of-persia-sdlpop/index.html"/>
+        <id>https://pixelnostalgia.github.io/sdl-prince-of-persia-sdlpop/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/298/sdlpop_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2025-06-11T21:10:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/298/sdlpop_system.png" alt="sdlpop" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/298/sdlpop_system.png" class="type:primaryImage" alt="sdlpop" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/298/sdlpop.svg" alt="" width="523" height="129"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/298/sdlpop.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/298/responsive/sdlpop-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/298/responsive/sdlpop-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/298/responsive/sdlpop-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/298/responsive/sdlpop-xl.webp 1200w"></figure>
+<p> </p>
+<p>SDLPoP stands for "Prince of Persia" linked to SDL. It is an open-source port of Prince of Persia that runs natively on Windows and Linux.<br>SDLPoP is based on a disassembly of the DOS version, and uses SDL, extending the game with new features.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">1 game (~20 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=965936" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/298/gallery/Zrzut-ekranu-2025-06-11-212345.png" data-size="3062x1711"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/298/gallery/Zrzut-ekranu-2025-06-11-212345-thumbnail.webp" alt="" width="768" height="429"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>1. If using RGS Batocera you may already have this ROMpack, if so delete the "sdlpop" folder from the 'roms' folder<br>2. Drag and drop the "sdlpop" folder into the 'roms' directory<br>3. Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>REminiscence (reminiscence)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/reminiscence-reminiscence/index.html"/>
+        <id>https://pixelnostalgia.github.io/reminiscence-reminiscence/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/297/reminiscence_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2025-06-11T20:52:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/297/reminiscence_system.png" alt="reminiscence" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/297/reminiscence_system.png" class="type:primaryImage" alt="reminiscence" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/297/reminiscence.svg" alt="" width="400" height="65"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/297/reminiscence.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/297/responsive/reminiscence-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/297/responsive/reminiscence-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/297/responsive/reminiscence-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/297/responsive/reminiscence-xl.webp 1200w"></figure>
+<p> </p>
+<p>REminiscence is a game engine recreation of the 1992/1993 action adventure game Flashback made by Delphine Software.<br><br>It is the spiritual successor of Another World/Out Of This World and it distinguishes itself with rotoscoped graphics, polygonal cutscenes, and a Prince of Persia-style gameplay system.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">1 game (~84 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=965933" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/297/gallery/Zrzut-ekranu-2025-06-11-210455.png" data-size="3055x1711"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/297/gallery/Zrzut-ekranu-2025-06-11-210455-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>1. If you are using RetroBat and applied our "Update 1" pack, then delete the "reminiscence" folder from the 'roms' directory<br>2. Drag and drop the "reminiscence" folder into the 'roms' directory<br>3. Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Return to Castle Wolfenstein (iortcw)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/return-to-castle-wolfenstein-iortcw/index.html"/>
+        <id>https://pixelnostalgia.github.io/return-to-castle-wolfenstein-iortcw/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/296/iortcw_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2025-06-11T20:02:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/296/iortcw_system.png" alt="iortcw" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/296/iortcw_system.png" class="type:primaryImage" alt="iortcw" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/296/iortcw.png" alt="" width="400" height="200" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/296/responsive/iortcw-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/296/responsive/iortcw-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/296/responsive/iortcw-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/296/responsive/iortcw-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/296/realrtcw.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/296/responsive/realrtcw-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/296/responsive/realrtcw-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/296/responsive/realrtcw-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/296/responsive/realrtcw-xl.webp 1200w"></figure>
+<p><br>ioRTCW is an open source project that aims to create a base version of Return to Castle Wolfenstein, which can be used for further development and improvement. For example, fixing bugs of the original, provide support for widescreen resolutions and 64 bit systems, improve graphics and much more.<br><br>• SDL backend<br>• Full x86_64 support<br>• AVI video capture for demos<br>• Significantly improved console autocompletion<br>• VoIP support, both in-game and external support via Mumble.<br>• Support for compiling MinGW on Windows and cross-compiling on Linux<br>• Persistent console history<br>• Colorized terminal output<br>• Additional Ogg Vorbis support<br>• Significantly improved QVM tools<br>• OpenAL sound API support (support for multiple speakers and better sound quality)<br>• Support for various esoteric operating systems<br>• Support for cl_guid<br>• HTTP/FTP download redirection (using cURL)<br>• Multiuser support on Windows systems (game user data is stored in "My Documents\RTCW" folder)<br>• PNG support<br>• Many, many bug fixes</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">1 game (~2 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=965932" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/296/gallery/Zrzut-ekranu-2025-06-11-195635.png" data-size="3062x1722"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/296/gallery/Zrzut-ekranu-2025-06-11-195635-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/296/gallery/Zrzut-ekranu-2025-06-11-203309.png" data-size="3050x1717"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/296/gallery/Zrzut-ekranu-2025-06-11-203309-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+</div></div>
+<p class="msg msg--info"><strong>Note:</strong><br>The package contains 12 mods that can be launched from the game menu by selecting Options&gt;Mods&gt;Launch Mod button</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "iortcw" folder into the 'roms' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ET: Legacy (etlegacy)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/et-legacy-etlegacy/index.html"/>
+        <id>https://pixelnostalgia.github.io/et-legacy-etlegacy/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/295/etlegacy_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2025-06-11T19:40:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/295/etlegacy_system.png" alt="etlegacy" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/295/etlegacy_system.png" class="type:primaryImage" alt="etlegacy" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/295/etlegacy-w.svg" alt="" width="400" height="158"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/295/etlegacy.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/295/responsive/etlegacy-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/295/responsive/etlegacy-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/295/responsive/etlegacy-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/295/responsive/etlegacy-xl.webp 1200w"></figure>
+<p>Wolfenstein: Enemy Territory is a free multiplayer first-person shooter. Set during World War II and heavily focused on team work, it was initially released in 2003 by Splash Damage and id Software. More than a decade after its release, after spending countless hours of escorting tanks and trucks, stealing gold and radar parts and transmitting confidential documents, it was time to dust off the game which consistently refused to go down.<br><br>ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of GPLv3 license.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">1 game (~322 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=965928" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/295/gallery/Zrzut-ekranu-2025-06-11-195153.png" data-size="3053x1703"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/295/gallery/Zrzut-ekranu-2025-06-11-195153-thumbnail.webp" alt="" width="768" height="428"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "etlegacy" folder into the 'roms' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hurrican (hurrican)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/hurrican-hurrican/index.html"/>
+        <id>https://pixelnostalgia.github.io/hurrican-hurrican/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/294/hurrican_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2025-06-11T19:20:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/294/hurrican_system.png" alt="hurrican" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/294/hurrican_system.png" class="type:primaryImage" alt="hurrican" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/294/hurrican-logo.png" alt="" width="400" height="175" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/294/responsive/hurrican-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/294/responsive/hurrican-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/294/responsive/hurrican-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/294/responsive/hurrican-logo-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/294/hurrican.png" alt="" width="440" height="440" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/294/responsive/hurrican-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/294/responsive/hurrican-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/294/responsive/hurrican-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/294/responsive/hurrican-xl.webp 1200w"></figure>
+<p>Inspired by the epic Turrican game series, Hurrican stays by all means true to the original game while still being highly innovative.<br>Blast your way through myriads of enemies, explore the secrets of nine massive worlds and collect tons of powerups to increase your firepower in this highly explosive Run and Gun arcade game.<br><br>Hurrican is THE ultimate “Turrican Mega-Mix”, taking ideas from several installements of the original franchise while at the same time expanding on it’s universe.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">1 game (~56 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=965929" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/294/gallery/Zrzut-ekranu-2025-06-11-192616.png" data-size="3061x1715"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/294/gallery/Zrzut-ekranu-2025-06-11-192616-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "hurrican" folder into the 'roms' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Descent (dxx-rebirth)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/descent-dxx-rebirth/index.html"/>
+        <id>https://pixelnostalgia.github.io/descent-dxx-rebirth/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/293/dxx-rebirth_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2025-06-11T15:47:12+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/293/dxx-rebirth_system.png" alt="dxx-rebirth" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/293/dxx-rebirth_system.png" class="type:primaryImage" alt="dxx-rebirth" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/293/dxx-rebirth-logo.png" alt="" width="400" height="66" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-logo-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/293/dxx-rebirth.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-xl.webp 1200w"></figure>
+<p> </p>
+<p>DXX-Rebirth is an open-source source port of the Descent and Descent II game engines, with some key features such as improved OpenGL graphics and effects, advanced multiplayer, stability and enhancements.<br><br>DXX-Rebirth preserves the classic Descent gameplay while offering modern features and compatibility.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">2 games (~451 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=965922" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/293/gallery/Zrzut-ekranu-2025-06-11-185457.png" data-size="3065x1725"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/293/gallery/Zrzut-ekranu-2025-06-11-185457-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/293/gallery/Zrzut-ekranu-2025-06-11-185509.png" data-size="3058x1712"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/293/gallery/Zrzut-ekranu-2025-06-11-185509-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "abuse" folder into the 'dxx-rebirth' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Abuse (abuse)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/abuse-abuse/index.html"/>
+        <id>https://pixelnostalgia.github.io/abuse-abuse/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/292/abuse_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2025-06-11T15:26:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/292/abuse_system.png" alt="abuse" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/292/abuse_system.png" class="type:primaryImage" alt="abuse" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/292/abuse.png" alt="" width="400" height="82" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/292/responsive/abuse-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/292/responsive/abuse-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/292/responsive/abuse-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/292/responsive/abuse-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/292/abuse-2.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/292/responsive/abuse-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/292/responsive/abuse-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/292/responsive/abuse-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/292/responsive/abuse-2-xl.webp 1200w"></figure>
+<p>Abuse is a port of the classic dark 2D side-scrolling platform game originally developed by Crack dot Com and released in 1995 for MS-DOS. A Linux version was also made available at a later date. It had a few limitations the most restrictive of which was that it only ran on an 8-bit display, and only in a window.<br><br>This version of Abuse will run at any color depth and supports fullscreen mode, as well as many other new features. It features beautiful lighting, realistic animation and nasty alien-like creatures to destroy.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">1 game (~40 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=965913" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/292/gallery/Zrzut-ekranu-2025-06-11-153338.png" data-size="3065x1723"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/292/gallery/Zrzut-ekranu-2025-06-11-153338-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "abuse" folder into the 'roms' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Microsoft Windows 98 (win98)</title>
         <author>
@@ -94,374 +436,6 @@
 <figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/290/gallery/Zrzut-ekranu-2025-06-07-105807.png" data-size="3058x1706"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/290/gallery/Zrzut-ekranu-2025-06-07-105807-thumbnail.webp" alt=""></a></figure>
 </div></div>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "openjazz" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>CorsixTH (corsixth)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/corsixth-corsixth/index.html"/>
-        <id>https://pixelnostalgia.github.io/corsixth-corsixth/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/289/corsixth_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2025-04-24T08:22:05+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/289/corsixth_system.png" alt="corsixth" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/289/corsixth_system.png" class="type:primaryImage" alt="corsixth" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/289/corsixth-w.svg" alt="" width="400" height="108"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/289/corsixth.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/289/responsive/corsixth-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/289/responsive/corsixth-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/289/responsive/corsixth-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/289/responsive/corsixth-xl.webp 1200w"></figure>
-<p> </p>
-<p>A reimplementation of the 1997 Bullfrog business sim Theme Hospital. As well as faithfully recreating the original, CorsixTH adds support for modern operating systems (Windows, macOS, Linux and BSD), high resolutions and much more.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">1 game (~120 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=965490" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/289/gallery/Zrzut-ekranu-2025-04-24-083106.png" data-size="3061x1712"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/289/gallery/Zrzut-ekranu-2025-04-24-083106-thumbnail.webp" alt="" width="768" height="430"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "corsixth" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>C-Dogs SDL (cdogs)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/c-dogs-sdl-cdogs/index.html"/>
-        <id>https://pixelnostalgia.github.io/c-dogs-sdl-cdogs/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/288/cdogs_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2025-04-22T20:51:49+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/288/cdogs_system.png" alt="cdogs" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/288/cdogs_system.png" class="type:primaryImage" alt="cdogs" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/288/cdogs.svg" alt="" width="270" height="169"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/288/cdogs.png" alt="" width="453" height="453" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/288/responsive/cdogs-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/288/responsive/cdogs-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/288/responsive/cdogs-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/288/responsive/cdogs-xl.webp 1200w"></figure>
-<p>C-Dogs, the sequel to Cyberdogs, is a shoot'em up video game where players work cooperatively during missions, and against each other in "dogfight" deathmatch mode.<br>C-Dogs made changes and improvements on the original Cyberdogs game mechanics. The single-player/cooperative gameplay is separated into campaigns, each comprising many missions. Usually, each level involves the player(s) killing enemies (while avoiding harming civilians and teammates) using a variety of pre-selected weapons; collecting keys to unlock special rooms; and picking up required items to fulfill the mission objectives.<br><br>The "dog fight" gameplay is the typical deathmatch: players attempt to kill each other for points, in order to gain victory. Only two players can play against each other, by sitting at the same computer and using the keyboard, joysticks or gamepads.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">1 game (~31 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=965480" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/288/gallery/Zrzut-ekranu-2025-04-22-214534.png" data-size="3056x1713"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/288/gallery/Zrzut-ekranu-2025-04-22-214534-thumbnail.webp" alt="" width="768" height="430"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "cdogs" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Starpath Supercharger (supercharger)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/starpath-supercharger-supercharger/index.html"/>
-        <id>https://pixelnostalgia.github.io/starpath-supercharger-supercharger/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/287/supercharger_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Extension"/>
-            <category term="Batocera"/>
-
-        <updated>2025-04-17T17:44:47+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/287/supercharger_system.png" alt="supercharger" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/287/supercharger_system.png" class="type:primaryImage" alt="supercharger" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/287/supercharger.png" alt="" width="457" height="113" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/287/responsive/supercharger-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/287/responsive/supercharger-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/287/responsive/supercharger-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/287/responsive/supercharger-xl.webp 1200w"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/287/supercharger-2.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/287/responsive/supercharger-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/287/responsive/supercharger-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/287/responsive/supercharger-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/287/responsive/supercharger-2-xl.webp 1200w"></figure>
-<p>The Starpath Supercharger (originally called the Arcadia Supercharger) is an expansion peripheral cartridge created by Starpath, for playing cassette-based proprietary games on the Atari 2600 video game console.<br><br>The device consists of a long cartridge with a handle on the end, and an audio cassette cable. It adds 6 KB to the Atari 2600's 128 bytes of RAM (increasing it 49-fold to 6,272 bytes of RAM), allowing for the creation of specially compatible games which are larger and have higher resolution graphics than normal cartridges.<br>A cable coming out of the side of the cartridge plugs into the earphone jack of any standard cassette player, for loading all Supercharger games from standard audio cassettes.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">13 games (~33 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=965450" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/287/gallery/Zrzut-ekranu-2025-04-17-180221.png" data-size="3063x1708"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/287/gallery/Zrzut-ekranu-2025-04-17-180221-thumbnail.webp" alt="" width="768" height="428"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "supercharger" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sharp MZ-2500 (mz2500)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/sharp-mz-2500-mz2500/index.html"/>
-        <id>https://pixelnostalgia.github.io/sharp-mz-2500-mz2500/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/286/mz-2500.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Computer"/>
-            <category term="Batocera"/>
-
-        <updated>2025-04-17T14:35:09+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/286/mz-2500.png" alt="mz2500" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/286/mz-2500.png" class="type:primaryImage" alt="mz2500" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/286/mz2500.png" alt="" width="437" height="86" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/286/responsive/mz2500-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/286/responsive/mz2500-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/286/responsive/mz2500-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/286/responsive/mz2500-xl.webp 1200w"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/286/mz2500_system.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/286/responsive/mz2500_system-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/286/responsive/mz2500_system-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/286/responsive/mz2500_system-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/286/responsive/mz2500_system-xl.webp 1200w"></figure>
-<p>The Sharp MZ-2500, released in 1985, is an 8-bit personal computer that stood out for its advanced features and innovative design during its time. Powered by a Z80A processor, it delivered superior performance for both business applications and gaming. Its impressive graphics capabilities, including 640×200 resolution with up to 256 colors, and an excellent FM sound synthesis system, made it a pioneer in multimedia computing.<br><br>The MZ-2500 came with a range of software support and expandability options, making it highly versatile and appealing to enthusiasts. Despite being primarily popular in Japan, it earned a reputation as one of Sharp's most iconic systems in the MZ series, embodying a blend of functionality and forward-thinking technology. It played a significant role in shaping the early computing landscape of the mid-1980s.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">23 games (~166 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=964919" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong><br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "mz2500" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Nintendo Switch (switch)</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/nintendo-switch-switch/index.html"/>
-        <id>https://pixelnostalgia.github.io/nintendo-switch-switch/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/285/switch_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="Portable"/>
-            <category term="PC x86"/>
-            <category term="Lite package"/>
-            <category term="Batocera"/>
-
-        <updated>2025-03-23T22:46:34+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/285/switch_system.png" alt="switch" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/285/switch_system.png" class="type:primaryImage" alt="switch" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/285/switch.svg" alt="" width="380" height="83"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/285/Nintendo-Switch.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/285/responsive/Nintendo-Switch-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/285/responsive/Nintendo-Switch-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/285/responsive/Nintendo-Switch-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/285/responsive/Nintendo-Switch-xl.webp 1200w"></figure>
-<p>The Nintendo Switch is a video game console, developed by Nintendo and released worldwide in most regions on March 3, 2017. It is a hybrid console that can be used as either a home console or a portable device. Its wireless Joy-Con controllers, with standard buttons and directional analog sticks for user input, motion sensing, and tactile feedback, can attach to both sides of the console to support handheld-style play. They can also connect to a grip accessory to provide a traditional home console gamepad form, or be used individually in the hand like the Wii Remote and Nunchuk, supporting local multiplayer modes.<br><br>The Nintendo Switch's software supports online gaming through Internet connectivity, as well as local wireless ad hoc connectivity with other consoles. Nintendo Switch games and software are available on both physical flash-based ROM cartridges and digital distribution via Nintendo eShop; the system has no region lockout. A handheld-focused revision of the system, called the Nintendo Switch Lite, was released on September 20, 2019.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">30 games in Lite pack (~200 GB)</p>
-<p> <a href="https://rentry.org/Retro-ROMpacks" rel="nofollow" class="btn">Lite pack</a> </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/285/gallery/Zrzut-ekranu-2025-04-17-182112.png" data-size="3059x1721"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/285/gallery/Zrzut-ekranu-2025-04-17-182112-thumbnail.webp" alt="" width="768" height="432"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "switch" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Clone Hero (clonehero)</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/clone-hero-clonehero/index.html"/>
-        <id>https://pixelnostalgia.github.io/clone-hero-clonehero/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/284/clonehero_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Batocera"/>
-
-        <updated>2025-03-23T14:41:50+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/284/clonehero_system.png" alt="clonehero" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/284/clonehero_system.png" class="type:primaryImage" alt="clonehero" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/284/clonehero.svg" alt="" width="320" height="210"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/284/clonehero.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/284/responsive/clonehero-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/284/responsive/clonehero-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/284/responsive/clonehero-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/284/responsive/clonehero-xl.webp 1200w"></figure>
-<p>Clone Hero is a freeware music rhythm video game created by Ryan Foster, first released in alpha on March 1, 2017, receiving a full release on November 29, 2022.<br><br>The game is a clone of the Guitar Hero franchise with nearly identical gameplay. The main draw of the game is its ability to play community-made songs, which has resulted in a large fan community around the game as well as a resurgence in popularity for the genre.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">23 games/albums (~115 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=965260" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/284/gallery/Zrzut-ekranu-2025-03-23-223710.png" data-size="3065x1714"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/284/gallery/Zrzut-ekranu-2025-03-23-223710-thumbnail.webp" alt="" width="768" height="429"></a></figure>
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/284/gallery/Zrzut-ekranu-2025-03-23-223735.png" data-size="3059x1714"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/284/gallery/Zrzut-ekranu-2025-03-23-223735-thumbnail.webp" alt="" width="768" height="430"></a></figure>
-</div></div>
-<p>Packs Included:</p>
-<ol>
-<li>AC-DC Live Rock Band Track Pack</li>
-<li>Band Hero</li>
-<li>The Beatles - Rock Band</li>
-<li>Green Day - Rock Band</li>
-<li>Guitar Hero</li>
-<li>Guitar Hero II</li>
-<li>Guitar Hero III - Legends of Rock</li>
-<li>Guitar Hero On Tour</li>
-<li>Guitar Hero 5</li>
-<li>Guitar Hero - Aerosmith</li>
-<li>Guitar Hero - Encore Rocks The 80s</li>
-<li>Guitar Hero - Metallica</li>
-<li>Guitar Hero - Smash Hits</li>
-<li>Guitar Hero - Van Halen</li>
-<li>Guitar Hero - Warriors of Rock</li>
-<li>Guitar Hero - World Tour</li>
-<li>LEGO Rock Band</li>
-<li>Rock Band</li>
-<li>Rock Band 2</li>
-<li>Rock Band 3</li>
-<li>Rock Band 4</li>
-<li>Rock Band Blitz</li>
-<li>Spinal Tap</li>
-</ol>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "clonehero" folder to the "roms" directory</p>
-<p class="msg msg--warning">Make sure you have run the PixN Update Service so that you have the emulator available.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Nintendo Game Boy Color 2 Players (gbc2players)</title>
-        <author>
-            <name>RGS</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/nintendo-game-boy-color-2-players-gbc2players/index.html"/>
-        <id>https://pixelnostalgia.github.io/nintendo-game-boy-color-2-players-gbc2players/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/283/gbc2players_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Portable"/>
-            <category term="PC x86"/>
-            <category term="Extension"/>
-            <category term="Batocera"/>
-
-        <updated>2025-03-07T21:01:27+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/283/gbc2players_system.png" alt="gbc2players" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/283/gbc2players_system.png" class="type:primaryImage" alt="gbc2players" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/283/gbc2players.svg" alt="" width="380" height="90"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/283/gb2players.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/283/responsive/gb2players-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/283/responsive/gb2players-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/283/responsive/gb2players-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/283/responsive/gb2players-xl.webp 1200w"></figure>
-<p>The Nintendo Game Link Cable is an accessory for the Game Boy line of handheld video game systems, allowing players to connect Game Boy's of all types for multiplayer play. Depending on the games, the Game Link Cable can be used to connect two games with the same title, such as Tetris, or two compatible games, such as Pokémon Red and Blue. Games can be linked together to compete, cooperate, trade items, unlock hidden features, etc.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--info msg--success">98 games (~3 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=957599" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
-<p class="msg msg--info"><strong>NOTE:</strong> <br>This system is already included in our base builds for either RetroBat, Batocera or both.<br>It is being made available to support future "Barebones" editions of the builds that come without any ROMs.<br>If you already use one of the following, then you DO NOT need to download this.<br><br>-RetroBat v6 Base Edition 300 GB [RGS]<br>-Batocera v40 Base Edition 500 GB [RGS]<br><br>If "Barebones" editions of our builds are now available, please download as needed.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "gbc2players" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ion Fury (fury)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/ion-fury-fury/index.html"/>
-        <id>https://pixelnostalgia.github.io/ion-fury-fury/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/281/fury_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2025-01-30T20:35:56+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/281/fury_system.png" alt="fury" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/281/fury_system.png" class="type:primaryImage" alt="fury" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/281/Ion-Fury.png" alt="" width="377" height="98" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/281/responsive/Ion-Fury-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/281/responsive/Ion-Fury-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/281/responsive/Ion-Fury-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/281/responsive/Ion-Fury-xl.webp 1200w"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/281/fury_new.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/281/responsive/fury_new-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/281/responsive/fury_new-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/281/responsive/fury_new-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/281/responsive/fury_new-xl.webp 1200w"></figure>
-<p>Ion Fury is a new Build Engine game from the creators of the EDuke32 source port.<br><br>3D Realms and Voidpoint are proud to bring back the Build engine, which powered Duke Nukem 3D, Blood, and Shadow Warrior, in all of its hand-crafted pixelated glory. They’ve spent a lot of time tinkering under the hood to take advantage of new technology and techniques. Bigger levels, hundreds of new colors, and morphing maps that transform mid-level are all just a few of the advancements made to the engine.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">2 games (~261 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=965026" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/281/gallery/Zrzut-ekranu-2025-01-18-164533.png" data-size="3071x1726"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/281/gallery/Zrzut-ekranu-2025-01-18-164533-thumbnail.webp" alt="" width="768" height="432"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "fury" folder into the 'roms' directory and Enjoy!</p>
             ]]>
         </content>
     </entry>
