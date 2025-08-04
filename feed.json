@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://pixelnostalgia.github.io/microsoft-windows-windows/index.html",
+            "url": "https://pixelnostalgia.github.io/microsoft-windows-windows/index.html",
+            "title": "Microsoft Windows (windows)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/303/windows.svg\" alt=\"\" width=\"400\" height=\"87\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  style=\"margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://pixelnostalgia.github.io/media/posts/303/windows-2.png\" alt=\"\" width=\"2160\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/303/responsive/windows-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/303/responsive/windows-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/303/responsive/windows-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/303/responsive/windows-2-xl.webp 1200w\"></figure>\n<p>Microsoft Windows, commonly referred to as Windows, is a group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry.<br><br>Active Microsoft Windows families include Windows NT and Windows IoT; these may encompass subfamilies, e.g. Windows Server or Windows Embedded Compact (Windows CE). Defunct Microsoft Windows families include Windows 9x, Windows Mobile and Windows Phone.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">1446 games (~1,73 TB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=965978\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube-nocookie.com/embed/qR9E_5pzEaA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/303/gallery/ChatGPT_Image_Jun_12_2025_12_28_41_PM.png\" data-size=\"1536x1024\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/303/gallery/ChatGPT_Image_Jun_12_2025_12_28_41_PM-thumbnail.webp\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/303/gallery/Zrzut-ekranu-2025-08-03-212330-2.png\" data-size=\"3067x1718\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/303/gallery/Zrzut-ekranu-2025-08-03-212330-2-thumbnail.webp\" alt=\"\" width=\"768\" height=\"430\"></a></figure>\n</div></div>\n<p class=\"msg msg--info\"><strong>NOTE:</strong><br>This pack is handcrafted by Ransom &amp; Kazai – with mad respect to “The Legendary Amok.”<br><br>After the work of Ransom and his brother Kazai, the Windows games have been converted to .wsquashfs format by our very own SPiRiT! Awesome job on making this pack available for Batocera. SPiRiT also tested all the games on our RGS Batocera build.<br><br>.wsquashfs is fully supported on both Batocera and RetroBat. However, there is one thing you need to know: on RetroBat, a .wsquashfs file will be decompressed when first started. You’ll see a nice progress bar — so far, so good. In EmulationStation (the RetroBat menu), you can choose an option to KEEP the decompressed file so that when you start it a second time, the game will instantly boot up.<span style=\"background-color: rgba(var(--color-primary-rgb), 0.1); color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"><br><br></span>Keep in mind that for larger games, the decompression process on RetroBat can take up to 30 minutes! On Batocera, this is not an issue because .wsquashfs is natively supported.</p>\n<p class=\"msg msg--warning\">On RetroBat, for larger games, it may seem like RetroBat has frozen… but just wait — it will eventually decompress and boot your game.</p>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop \"windows\" folder to your Batocera \\share\\roms or R:\\Retrobat\\roms folder.</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/303/windows_system.png",
+            "author": {
+                "name": "Ransom"
+            },
+            "tags": [
+                   "Retrobat",
+                   "PC x86",
+                   "Computer",
+                   "Batocera"
+            ],
+            "date_published": "2025-08-03T20:42:04+02:00",
+            "date_modified": "2025-08-03T21:43:15+02:00"
+        },
+        {
             "id": "https://pixelnostalgia.github.io/namco-system-22-namco22/index.html",
             "url": "https://pixelnostalgia.github.io/namco-system-22-namco22/index.html",
             "title": "Namco System 22 (namco22)",
@@ -200,27 +219,6 @@
             ],
             "date_published": "2025-06-11T19:20:45+02:00",
             "date_modified": "2025-06-11T19:32:00+02:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/descent-dxx-rebirth/index.html",
-            "url": "https://pixelnostalgia.github.io/descent-dxx-rebirth/index.html",
-            "title": "Descent (dxx-rebirth)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/293/dxx-rebirth-logo.png\" alt=\"\" width=\"400\" height=\"66\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-logo-xl.webp 1200w\"></figure>\n<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/293/dxx-rebirth.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/293/responsive/dxx-rebirth-xl.webp 1200w\"></figure>\n<p> </p>\n<p>DXX-Rebirth is an open-source source port of the Descent and Descent II game engines, with some key features such as improved OpenGL graphics and effects, advanced multiplayer, stability and enhancements.<br><br>DXX-Rebirth preserves the classic Descent gameplay while offering modern features and compatibility.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">2 games (~451 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=965922\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/293/gallery/Zrzut-ekranu-2025-06-11-185457.png\" data-size=\"3065x1725\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/293/gallery/Zrzut-ekranu-2025-06-11-185457-thumbnail.webp\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/293/gallery/Zrzut-ekranu-2025-06-11-185509.png\" data-size=\"3058x1712\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/293/gallery/Zrzut-ekranu-2025-06-11-185509-thumbnail.webp\" alt=\"\" width=\"768\" height=\"430\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>Drag and drop the \"abuse\" folder into the 'dxx-rebirth' directory and Enjoy!</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/293/dxx-rebirth_system.png",
-            "author": {
-                "name": "g-spawn"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "Port",
-                   "PC x86",
-                   "Batocera"
-            ],
-            "date_published": "2025-06-11T15:47:12+02:00",
-            "date_modified": "2025-06-11T19:17:17+02:00"
         }
     ]
 }
