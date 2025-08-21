@@ -1,0 +1,16 @@
+﻿System: Sega Naomi 2
+====================
+Beach Spikers (GDS-0014)
+Club Kart: European Session (2003, Rev A)
+Soul Surfer (Rev A)
+Virtua Fighter 4 Version C (GDS-0012C)
+Virtua Fighter 4: Evolution (Version B) (Japan) (GDS-0024C)
+Virtua Fighter 4 Final Tuned (Rev F) (GDS-0036F)
+Wild Riders (JPN, USA, EXP, KOR, AUS)
+The King of Route 66 (Rev A)
+Initial D Arcade Stage (Export) (GDS-0025)
+Initial D Arcade Stage Ver. 2 (Export) (GDS-0027)
+Initial D Arcade Stage Ver. 3 (Export) (GDS-0033)
+Virtua Striker 3 (USA, EXP, KOR, AUS) (Rev B)
+====================
+Total Games: 12

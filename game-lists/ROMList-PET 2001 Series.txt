@@ -1,0 +1,11 @@
+﻿System: PET 2001 Series
+====================
+Bomber
+Fluglandung
+Schlange
+Space Invaders
+Space War
+Sternenfalle
+17 und 4
+====================
+Total Games: 7
