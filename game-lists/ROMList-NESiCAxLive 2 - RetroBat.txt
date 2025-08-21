@@ -1,7 +1,0 @@
-﻿System: NESiCAxLive 2
-====================
-Street Fighter V: Type Arcade
-Theatrhythm Final Fantasy: All-Star Carnival
-Ultra Street Fighter IV
-====================
-Total Games: 3

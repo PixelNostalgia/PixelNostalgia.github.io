@@ -1,9 +1,0 @@
-﻿System: Game Pocket Computer
-====================
-Block Maze
-Mahjongg
-Pocket Computer Reversi
-Sokoban (Japan)
-Astro Bomber
-====================
-Total Games: 5
