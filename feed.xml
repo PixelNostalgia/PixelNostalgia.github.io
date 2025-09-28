@@ -3,12 +3,60 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2025-08-21T12:07:48+02:00</updated>
+    <updated>2025-09-28T14:13:19+02:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>SNK Neo Geo MVS (neogeomvs)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/snk-neo-geo-mvs-neogeomvs/index.html"/>
+        <id>https://pixelnostalgia.github.io/snk-neo-geo-mvs-neogeomvs/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/305/neogeomvs_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+            <category term="Arcade"/>
+
+        <updated>2025-09-28T13:40:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/305/neogeomvs_system.png" alt="neogeomvs" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat<br><span style="color: #ffffff;"><strong>Version: 25th July 2025</strong></span><br></span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/305/neogeomvs_system.png" class="type:primaryImage" alt="neogeomvs" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat<br><span style="color: #ffffff;"><strong>Version: 25th July 2025</strong></span><br></span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/305/neogeomvs.svg" alt="" width="377" height="42"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/305/SNK-Neo-Geo-MVS.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/305/responsive/SNK-Neo-Geo-MVS-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/305/responsive/SNK-Neo-Geo-MVS-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/305/responsive/SNK-Neo-Geo-MVS-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/305/responsive/SNK-Neo-Geo-MVS-xl.webp 1200w"></figure>
+<p>The Neo Geo MVS, stylised as NEO•GEO MVS, also written as NEOGEO MVS, is a coin-operated arcade machine released in 1990 by Japanese game company SNK Corporation. Its CPU is technically a 16/32-bit 68000-based system with an 8/16-bit Z80 coprocessor, while its GPU chipset has a 24-bit graphics data bus.<br><br>The MVS offers owners the ability to put up to six different cartridges into a single cabinet, a unique feature that was also a key economic consideration for operators with limited floorspace, as well as saving money long-term. With its games stored on self-contained cartridges, a game cabinet can be exchanged for a different game title by swapping the game's ROM cartridge and cabinet artwork.<br>The Neo Geo MVS was a worldwide commercial success upon release in arcades, becoming one of the highest-earning machines at various arcades across markets.<br><br>A home console version was also made, called Advanced Entertainment System (AES). Unlike earlier systems, the Neo Geo AES was intended to reproduce the same quality of game as the arcade MVS system.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">147 games (~5,5 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=966543" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/305/gallery/Zrzut-ekranu-2025-09-17-021207.png" data-size="3070x1721"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/305/gallery/Zrzut-ekranu-2025-09-17-021207-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/305/gallery/Zrzut-ekranu-2025-09-18-080652.png" data-size="3063x1715"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/305/gallery/Zrzut-ekranu-2025-09-18-080652-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p class="msg msg--info"><strong>Note:</strong><br>Make sure you have run the PixN Update Service to get the new custom config to make this MVS specific set show up. Previously we had NeoGeo and NeoGeoMVS both using the same ROMs, but we've now split them and made them 2 separate packs as there are some difference between the 2 sets. They also have their own sets of artwork. Run the PixN Update Service (for either Batocera or RetroBat) and it will add the new config file for the new separate MVS system. Then download and copy over the MVS ROMs folder.</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/cbD2OkxQOGI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="msg msg--highlight "><strong>How to install:<br></strong>If it exists, delete the "neogeomvs" folder from the 'roms' directory<span class="hiddenVisually__27f77">,<br></span>Drag and drop the "neogeomvs" folder into the 'roms' directory<span class="hiddenVisually__27f77">,<br></span>Enjoy!</p>
+<p class="msg msg--warning">- Use this rompack if you update RGS v39 to minimum v40</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Namco System 246 &amp; 256 (namco2x6)</title>
         <author>
@@ -390,48 +438,6 @@
 </div></div>
 <p class="msg msg--info"><strong>Note:</strong><br>The package contains 12 mods that can be launched from the game menu by selecting Options&gt;Mods&gt;Launch Mod button</p>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "iortcw" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>ET: Legacy (etlegacy)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/et-legacy-etlegacy/index.html"/>
-        <id>https://pixelnostalgia.github.io/et-legacy-etlegacy/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/295/etlegacy_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2025-06-11T19:40:57+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/295/etlegacy_system.png" alt="etlegacy" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/295/etlegacy_system.png" class="type:primaryImage" alt="etlegacy" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/295/etlegacy-w.svg" alt="" width="400" height="158"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/295/etlegacy.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/295/responsive/etlegacy-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/295/responsive/etlegacy-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/295/responsive/etlegacy-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/295/responsive/etlegacy-xl.webp 1200w"></figure>
-<p>Wolfenstein: Enemy Territory is a free multiplayer first-person shooter. Set during World War II and heavily focused on team work, it was initially released in 2003 by Splash Damage and id Software. More than a decade after its release, after spending countless hours of escorting tanks and trucks, stealing gold and radar parts and transmitting confidential documents, it was time to dust off the game which consistently refused to go down.<br><br>ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of GPLv3 license.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">1 game (~322 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=965928" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/295/gallery/Zrzut-ekranu-2025-06-11-195153.png" data-size="3053x1703"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/295/gallery/Zrzut-ekranu-2025-06-11-195153-thumbnail.webp" alt="" width="768" height="428"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "etlegacy" folder into the 'roms' directory and Enjoy!</p>
             ]]>
         </content>
     </entry>
