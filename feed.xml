@@ -3,12 +3,55 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2025-09-28T14:13:19+02:00</updated>
+    <updated>2025-10-14T13:48:48+02:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Microsoft Xbox Live Arcade (xbla)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/microsoft-xbox-live-arcade-xbla/index.html"/>
+        <id>https://pixelnostalgia.github.io/microsoft-xbox-live-arcade-xbla/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/306/xbla.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="PC x86"/>
+            <category term="Extension"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+
+        <updated>2025-10-14T13:11:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/306/xbla.png" alt="xbla" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/306/xbla.png" class="type:primaryImage" alt="xbla" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/306/xbla.svg" alt="" width="400" height="117"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/306/xbla_system.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/306/responsive/xbla_system-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/306/responsive/xbla_system-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/306/responsive/xbla_system-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/306/responsive/xbla_system-xl.webp 1200w"></figure>
+<p>Xbox Live Arcade (XBLA) was a digital video game distribution service available on the Xbox 360 console. It offered a wide variety of downloadable games, ranging from classic arcade titles to innovative indie games.<br><br>XBLA provided gamers with an easy way to discover and play new games, often featuring unique and creative gameplay experiences.<br>It was known for its affordable pricing and frequent promotions, making it a popular choice for gamers looking to expand their library with diverse and entertaining titles.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">719 games (~490 GB)</p>
+<p> <a href="https://back-ups.me/details.php?id=966619" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/WP9Vp_x9BSA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>1. Inside the '<em>Xbox Live Arcade</em>' folder you have a '<em>roms</em>' folder and '<em>saves.zip</em>' file.<br><br>2. From the '<em>roms</em>' folder, copy the '<em>xbla</em>' folder to your '<em>roms</em>' folder:<br><br>Batocera: <em>/userdata/roms/</em><br>RetroBat: <em>/RetroBat/roms/</em><br><br>3. From the 'saves.zip' file, extract the '<em>0000000000000000</em>' folder to:<br><br>Batocera: <em>/userdata/saves/xbox360/</em><br>RetroBat: <em>/RetroBat/saves/xbox360/xenia/content/</em><br><br>4. Enjoy!</p>
+<p class="msg msg--highlight   msg--info"><strong>Notes:</strong><br>- This is a COMPLETE collection based on the No-Intro set.<br>- The only games removed are duplicates where the set had demo and full versions of a game, we have kept just the full version.<br>- The ROMpack has a 100% complete artwork set: 2D Boxart, 3D Boxart, Image, Logo, Fanart and Video Snap.<br>- The '0000000000000000' folder contains all the DLC, Addons and Updates for all games.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>SNK Neo Geo MVS (neogeomvs)</title>
         <author>
@@ -394,50 +437,6 @@
 <figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/297/gallery/Zrzut-ekranu-2025-06-11-210455.png" data-size="3055x1711"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/297/gallery/Zrzut-ekranu-2025-06-11-210455-thumbnail.webp" alt="" width="768" height="430"></a></figure>
 </div></div>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>1. If you are using RetroBat and applied our "Update 1" pack, then delete the "reminiscence" folder from the 'roms' directory<br>2. Drag and drop the "reminiscence" folder into the 'roms' directory<br>3. Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Return to Castle Wolfenstein (iortcw)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/return-to-castle-wolfenstein-iortcw/index.html"/>
-        <id>https://pixelnostalgia.github.io/return-to-castle-wolfenstein-iortcw/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/296/iortcw_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2025-06-11T20:02:51+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/296/iortcw_system.png" alt="iortcw" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/296/iortcw_system.png" class="type:primaryImage" alt="iortcw" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/296/iortcw.png" alt="" width="400" height="200" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/296/responsive/iortcw-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/296/responsive/iortcw-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/296/responsive/iortcw-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/296/responsive/iortcw-xl.webp 1200w"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/296/realrtcw.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/296/responsive/realrtcw-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/296/responsive/realrtcw-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/296/responsive/realrtcw-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/296/responsive/realrtcw-xl.webp 1200w"></figure>
-<p><br>ioRTCW is an open source project that aims to create a base version of Return to Castle Wolfenstein, which can be used for further development and improvement. For example, fixing bugs of the original, provide support for widescreen resolutions and 64 bit systems, improve graphics and much more.<br><br>• SDL backend<br>• Full x86_64 support<br>• AVI video capture for demos<br>• Significantly improved console autocompletion<br>• VoIP support, both in-game and external support via Mumble.<br>• Support for compiling MinGW on Windows and cross-compiling on Linux<br>• Persistent console history<br>• Colorized terminal output<br>• Additional Ogg Vorbis support<br>• Significantly improved QVM tools<br>• OpenAL sound API support (support for multiple speakers and better sound quality)<br>• Support for various esoteric operating systems<br>• Support for cl_guid<br>• HTTP/FTP download redirection (using cURL)<br>• Multiuser support on Windows systems (game user data is stored in "My Documents\RTCW" folder)<br>• PNG support<br>• Many, many bug fixes</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">1 game (~2 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=965932" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/296/gallery/Zrzut-ekranu-2025-06-11-195635.png" data-size="3062x1722"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/296/gallery/Zrzut-ekranu-2025-06-11-195635-thumbnail.webp" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/296/gallery/Zrzut-ekranu-2025-06-11-203309.png" data-size="3050x1717"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/296/gallery/Zrzut-ekranu-2025-06-11-203309-thumbnail.webp" alt="" width="768" height="432"></a></figure>
-</div></div>
-<p class="msg msg--info"><strong>Note:</strong><br>The package contains 12 mods that can be launched from the game menu by selecting Options&gt;Mods&gt;Launch Mod button</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "iortcw" folder into the 'roms' directory and Enjoy!</p>
             ]]>
         </content>
     </entry>
