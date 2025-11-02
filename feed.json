@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://pixelnostalgia.github.io/unis-arcade-machines-unis/index.html",
+            "url": "https://pixelnostalgia.github.io/unis-arcade-machines-unis/index.html",
+            "title": "UNIS Arcade Machines (unis)",
+            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> only</p>\n",
+            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> only</p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\"  src=\"https://pixelnostalgia.github.io/media/posts/307/unis.svg\" alt=\"\" width=\"334\" height=\"122\"></figure><br><figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/307/unis_system.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/307/responsive/unis_system-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/307/responsive/unis_system-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/307/responsive/unis_system-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/307/responsive/unis_system-xl.webp 1200w\"></figure>\n<p>UNIS Technology is a leading developer and manufacturer of coin-operated arcade games, known for their innovative and engaging designs.<br><br>With over 30 years of experience, UNIS has created a wide range of arcade games that cater to various interests and age groups.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg--success msg msg--info\">6 games in pack for Batocera (~15 GB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=966747\" class=\"btn btn--green\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Pack for Batocera</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/307/gallery/Zrzut-ekranu-2025-11-02-214725.png\" data-size=\"3068x1718\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/307/gallery/Zrzut-ekranu-2025-11-02-214725-thumbnail.webp\" alt=\"\" width=\"768\" height=\"430\"></a></figure>\n</div></div>\n<p class=\"msg msg--info\"><strong>Batocera pack NOTE:</strong><br>Requirements: minimum RGS Batocera v42 with latest PiXN script updates (check discord how to update), a modern GPU or iGPU with 4GB vram, sadly we don't recommend Intel iGPU. (check discord how to update)<br><br>Q: What is Arcade PC?<br>A: Arcade PC games are modern arcade games not playable with MAME, such as the BlazBlue series.<br><br>Q: Is this Teknoparrot?<br>A: Not quite. Teknoparrot is only a game launcher, and unfortunately, it does not work on Batocera/Linux.<br><br>Q: How does it work?<br>A: Launching Arcade PC games in Batocera is achieved using JConfig through Wine.<br><br>Q: What are JConfig and Wine?<br>A: JConfig is not just a program for launching recent arcade games; it includes a wide collection of launchers, tools, emulators, and patched executables for a better \"arcade at home\" experience. Wine enables Windows games/applications to run on Linux (Batocera).<br><br>Q: Does this sound complicated? Should we be worried?<br>A1: No need to worry! We've packaged the games to launch on most systems (Intel i5 / AMD Zen1).<br><br>Q: Is there anything else we need to know?<br>A: Yes, a few minor details:<br><br>- Most lightgun games require an actual lightgun (e.g., Sinden).<br>- Some lightgun games can be played with a mouse (a mouse indicator icon is present in the wheel).<br>- All games use a custom Wine GE runner and manual pad2key made by SPiRiT! (That is why this pack only works on RGS Batocera update)<br>- A lot of Boxart is fictional as these games does not have boxart, missing boxart is custom created by G-spawn! ty ty!<br><br>Games:<br>After Dark<br>Crazy Ride<br>Elevator Action Invasion<br>Night Hunter<br>Raccoon Rampage<br>Wicked Tuna</p>\n<p class=\"msg msg--highlight \"><strong>How to install Batocera pack:</strong><br>1. Drag and drop the contents of the \"v1-RGS_unis_batocera\" folder into the '/roms/unis/' folder.<br>2. Enjoy!</p>",
+            "image": "https://pixelnostalgia.github.io/media/posts/307/unis.png",
+            "author": {
+                "name": "SPiRiT"
+            },
+            "tags": [
+                   "PC x86",
+                   "Custom",
+                   "Batocera",
+                   "Arcade"
+            ],
+            "date_published": "2025-11-02T21:33:47+01:00",
+            "date_modified": "2025-11-02T22:07:34+01:00"
+        },
+        {
             "id": "https://pixelnostalgia.github.io/microsoft-xbox-live-arcade-xbla/index.html",
             "url": "https://pixelnostalgia.github.io/microsoft-xbox-live-arcade-xbla/index.html",
             "title": "Microsoft Xbox Live Arcade (xbla)",
@@ -197,27 +216,6 @@
             ],
             "date_published": "2025-06-11T21:10:29+02:00",
             "date_modified": "2025-06-11T21:26:50+02:00"
-        },
-        {
-            "id": "https://pixelnostalgia.github.io/reminiscence-reminiscence/index.html",
-            "url": "https://pixelnostalgia.github.io/reminiscence-reminiscence/index.html",
-            "title": "REminiscence (reminiscence)",
-            "summary": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n",
-            "content_html": "<p class=\"align-left\">for <span style=\"color: #b96ad9;\">Batocera</span> and <span style=\"color: #169179;\">Retrobat</span></p>\n\n<figure class=\"post__image post__image--center\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/297/reminiscence.svg\" alt=\"\" width=\"400\" height=\"65\"></figure>\n<figure class=\"post__image post__image--right\"><img decoding=\"auto\" loading=\"lazy\"  src=\"https://pixelnostalgia.github.io/media/posts/297/reminiscence.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://pixelnostalgia.github.io/media/posts/297/responsive/reminiscence-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/297/responsive/reminiscence-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/297/responsive/reminiscence-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/297/responsive/reminiscence-xl.webp 1200w\"></figure>\n<p> </p>\n<p>REminiscence is a game engine recreation of the 1992/1993 action adventure game Flashback made by Delphine Software.<br><br>It is the spiritual successor of Another World/Out Of This World and it distinguishes itself with rotoscoped graphics, polygonal cutscenes, and a Prince of Persia-style gameplay system.</p>\n\n<h5>The package includes:</h5>\n<p class=\"msg msg--success\">1 game (~84 MB)</p>\n<p><a href=\"https://back-ups.me/details.php?id=965933\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn btn--green\">Go to download</a>   </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://pixelnostalgia.github.io/media/posts/297/gallery/Zrzut-ekranu-2025-06-11-210455.png\" data-size=\"3055x1711\"><img decoding=\"auto\" loading=\"lazy\" src=\"https://pixelnostalgia.github.io/media/posts/297/gallery/Zrzut-ekranu-2025-06-11-210455-thumbnail.webp\" alt=\"\" width=\"768\" height=\"430\"></a></figure>\n</div></div>\n<p class=\"msg msg--highlight \"><strong>How to install:</strong><br>1. If you are using RetroBat and applied our \"Update 1\" pack, then delete the \"reminiscence\" folder from the 'roms' directory<br>2. Drag and drop the \"reminiscence\" folder into the 'roms' directory<br>3. Enjoy!</p>",
-            "image": "https://pixelnostalgia.github.io/media/posts/297/reminiscence_system.png",
-            "author": {
-                "name": "g-spawn"
-            },
-            "tags": [
-                   "Retrobat",
-                   "RPi5",
-                   "RPi4",
-                   "Port",
-                   "PC x86",
-                   "Batocera"
-            ],
-            "date_published": "2025-06-11T20:52:57+02:00",
-            "date_modified": "2025-06-11T21:08:29+02:00"
         }
     ]
 }
