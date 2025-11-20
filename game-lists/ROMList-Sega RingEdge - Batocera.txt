@@ -1,24 +1,30 @@
-﻿System: Sega RingEdge
+﻿System: Sega Ringedge
 ====================
 Blade Arcus from Shining
 Blade Strangers
 Caladrius AC
-Dead or Alive 5 Ultimate: Arcade
-Dengeki Bunko: Fighting Climax Ignition
-Dengeki Bunko: Fighting Climax
-Ge-Sen Love: Plus Pengo!
+Dead or Alive 5 Ultimate Arcade
+Fighting Climax Ignition
+Dengeki Bunko Fighting Climax
+Ge-Sen Love Plus Pengo!
 Guilty Gear Xrd REV 2
 Guilty Gear Xrd: Sign
 Guilty Gear XX Accent Core Plus R
+Initial D Arcade Stage 6 AA
+Initial D Arcade Stage 7 AA X (AMD)
+Initial D Arcade Stage 7 AA X (NVIDIA)
+Initial D: Arcade Stage 8 Infinity
 Koihime Enbu Ryorairai
 Melty Blood Actress Again
-Phantom Breaker: Another Code
-Let's Go Island 3D: Lost on the Island of Tropics
-Transformers: Human Alliance
-Transformers: Shadows Rising
+Phantom Breaker Another Code
+Let's Go Island 3D Lost on the Island of Tropics
+Storm Racer G
+Storm Rider
+Transformers Human Alliance
+Transformers Shadows Rising
 Under Defeat HD+
 UNDER NIGHT IN-BIRTH Exe-Late
-Under Night In-Birth Exe:Late[st]
+Under Night In-Birth ExeLate[st]
 Virtua Tennis 4
 ====================
-Total Games: 20
+Total Games: 26

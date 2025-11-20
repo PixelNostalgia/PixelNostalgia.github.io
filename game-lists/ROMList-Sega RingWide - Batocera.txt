@@ -1,12 +1,15 @@
-﻿System: Sega RingWide
+﻿System: Sega Ringwide
 ====================
-Dream Raiders (Lightgun)
-Dream Raiders (mouse)
+Chaos Code
+Dream Raiders
 K.O. Drive
-Operation Ghost (mouse)
-Sega Golden Gun (Lightgun)
-Sega Golden Gun (mouse)
+Let's Go Safari
+Medaru no Gunman
+Melty Blood Actress Again - Current Code
+Operation G.H.O.S.T.
+Sega Golden Gun
 Sega Racing Classic
 Sonic & Sega All-Stars Racing Arcade
+Super Monkey Ball: Ticket Blitz
 ====================
-Total Games: 8
+Total Games: 11

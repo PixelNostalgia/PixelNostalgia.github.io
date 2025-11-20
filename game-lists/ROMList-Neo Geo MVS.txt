@@ -1,4 +1,4 @@
-﻿System: Neo Geo
+﻿System: Neo Geo MVS
 ====================
 3 Count Bout
 Aero Fighters 2
@@ -10,85 +10,54 @@ Art of Fighting
 Art of Fighting 2
 Art of Fighting 3 - The Path of the Warrior
 Bakatonosama Mahjong Manyuuki
-Bang Bang Busters
 Bang Bead
 Baseball Stars 2
 Baseball Stars Professional
 Battle Flip Shot
 Blazing Star
-Block Panic DX
 Blue's Journey
 Bomberman: Panic Bomber
 Breakers
 Breakers Revenge
 Burning Fight
-Cabal
-Captain Barrel
 Captain Tomaday
 Chibi Maruko-chan: Deluxe Quiz
-Codename Blut Engel
-Columns
-Crossed Swords
-Crossed Swords II
-Crouching Pony: Hidden Dragon
-Crouching Tiger Hidden Dragon 2003
 Cyber-Lip
-Cyborg Force!
-Dark Seed
-Digger Man
 Double Dragon
 Eight Man
-Eye of Typhoon, The
-Far East of Eden
+Far East of Eden: Kabuki Klash
 Fatal Fury - King of Fighters
 Fatal Fury 2
 Fatal Fury 3 - Road to the Final Victory
 Fatal Fury Special
 Fight Fever
-Flappy Chicken
 Football Frenzy
-Frog Feast
 Galaxy Fight - Universal Warriors
 Ganryu
 Garou: Mark of the Wolves
 Ghost Pilots
-Ghostlop
-GladMort
 Goal! Goal! Goal!
 Gururin
-Hypernoid
-Iron Clad
 Irritating Maze, The
 Janshin Densetsu: Quest of Jongmaster
-Jockey Grand Prix
-Jonas Indiana and the Lost Temple of RA
 Karnov's Revenge
-King of Fighters 10th Anniversary 2005 Unique, The
-King of Fighters 10th Anniversary Extra Plus, The
 King of Fighters 2000, The
 King of Fighters 2001, The
-King of Fighters 2002 Magic Plus, The
-King of Fighters 2002 Plus, The
 King of Fighters 2002, The
 King of Fighters 2003, The
 King of Fighters '94, The
-King of Fighters '94, The: Team Edit Edition
 King of Fighters '95, The
 King of Fighters '96, The
 King of Fighters '97, The
 King of Fighters '98, The : The Slugfest
 King of Fighters '99, The : Millennium Battle
-King of Fighters Special Edition 2004, The
 King of the Monsters
 King of the Monsters 2 - The Next Thing
-Knight's Chance
 Last Blade 2, The
 Last Blade, The
-Last Hope
 Last Resort
 League Bowling
 Legend of Success Joe
-LoopTris Plus
 Magical Drop II
 Magical Drop III
 Magician Lord
@@ -105,19 +74,11 @@ Minasan no Okagesamadesu! Dai Sugoroku Taikai
 Money Puzzle Exchanger
 Mutation Nation
 NAM-1975
-Neo Black Tiger
 Neo Bomberman
 Neo Drift Out - New Technology
 Neo Mr. Do!
-Neo No Panepon
-Neo Pong
-Neo Super Mario Bros.
-Neo Thunder
 Neo Turf Masters
-NeoGeo 2 Player Tetris
 Neo-Geo Cup '98 - The Road to the Victory
-NeoTRIS
-NGEM2K
 Nightmare in the Dark
 Ninja Combat
 Ninja Commando
@@ -125,9 +86,7 @@ Ninja Master's
 Over Top
 Pleasure Goal
 Pochi and Nyaa
-Poker Night
 Pop 'n Bounce
-Power Instinct
 Power Spikes II
 Prehistoric Isle 2
 Pulstar
@@ -151,51 +110,42 @@ Samurai Shodown II
 Samurai Shodown III
 Samurai Shodown IV - Amakusa's Revenge
 Samurai Shodown V
-Samurai Shodown V Perfect
+Samurai Shodown V Perfect/Special
 Savage Reign
 Sengoku
 Sengoku 2
 Sengoku 3
-Shinobi
 Shock Troopers
 Shock Troopers - 2nd Squad
 SNK vs. Capcom - SVC Chaos
-SNK vs. Capcom - SVC Chaos Super Plus
 Soccer Brawl
-Soldier Girl Amazon
 Spin Master
 Stakes Winner
 Stakes Winner 2
 Street Hoop
 Strikers 1945 Plus
 Super Baseball 2020
-Super Bubble Pop
 Super Dodge Ball
 Super Sidekicks
 Super Sidekicks 2 - The World Championship
 Super Sidekicks 3 - The Next Glory
 Super Spy, The
 Super Tag Battle
-Taisen Idol Mahjong Final Romance 2
 Tecmo World Soccer '96
 Thrash Rally
 Top Hunter - Roddy & Cathy
 Top Player's Golf
-Treasure of the Caribbean
 Twinkle Star Sprites
 Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero, The
 Viewpoint
-V-Liner
 Voltage Fighter
 Waku Waku 7
 Windjammers
 World Heroes
 World Heroes 2
 World Heroes 2 Jet
-XenoCrisis
-Zed Blade
-Zintrick
-Zupapa!
 World Heroes Perfect
+Zed Blade
+Zupapa!
 ====================
-Total Games: 197
+Total Games: 147

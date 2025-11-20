@@ -1,22 +1,27 @@
-﻿System: Raw Thrills
+﻿System: RAWThrills
 ====================
 Aliens Armageddon
-America's Army
 Batman
-Big Buck Hunter Arcade
 Big Buck Hunter Pro
 Dirty Drivin'
 Disney Pixar Cars
-The Fast and the Furious
+Fast And Furious Supercars
+Frogger
+GhostBusters
 H2Overdrive
+MotoGP
+Nerf Arcade
 Nicktoons Nitro
-Super Bikes 2
 Super Alpine Racer
+Super Bikes 2
+Super Bikes 3
 Target Terror Gold
 Terminator Salvation
+The Fast and the Furious
+The Fast And The Furious Drift
 The Fast and the Furious: Super Bikes
 TMNT Arcade: Wrath of the Mutants
 Winter X-Games SnoCross
 Winter X-Games Snowboarder
 ====================
-Total Games: 18
+Total Games: 23
