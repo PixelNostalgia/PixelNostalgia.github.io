@@ -1,220 +1,360 @@
 ﻿System: 3DO Interactive Multiplayer
 ====================
-Mahjong Kyou Jidai - AV Gal Seifuku Hen (Japan)
-Mahjong Kyou Jidai - Cogal Houkago Hen (Japan)
-Pro Yakyuu Virtual Stadium - Professional Baseball (Japan)
-San Diego Zoo Presents...The Animals!, The (USA)
-Slopestyle (Usa)
-Super Real Mahjong P.V (Japan)
-Peter Frankl - Puzzle no Tou (Japan)
-Icebreaker II (USA)
-Star Fighter (USA, Europe)
-3D Atlas (USA)
-V Goal Soccer '96 (Japan)
-Putt-Putt's Fun Pack (USA)
-Burning Soldier (USA)
-Primal Rage (USA, Europe)
-Furopon World (Japan)
-Super Wing Commander (USA)
-Stellar 7 - Draxon's Revenge (USA)
-Cyberdillo (USA)
-Alfred Hitchcock Presents (Japan)
-Soccer Kid (USA)
-Space Pirates (USA)
-Shanghai - Triple-Threat (USA)
-Out of this World (USA)
-Armageddon (Korea)
-Defcon 5 - Incoming (Europe)
-Jammit (USA)
-AutoBahn Tokio (Japan)
-Ballz - The Director's Cut (USA)
-FIFA International Soccer (USA)
-Jurassic Park Interactive (USA)
-Casper (USA)
-Battle Chess (USA)
-Battle Pinball (Japan)
-BattleSport (USA)
-BC Racers (USA, Europe)
-Belzerion (Japan)
-Bust-A-Move (USA)
-C.P.U. Bach (Usa)
-N.O.B. - Neo Organic Bioform (Japan)
-ToonTime ...in the classroom (Usa)
-Club 3DO - Station Invasion (USA)
-Corpse Killer (USA)
-Crash 'n Burn (USA)
-Crime Patrol (USA)
-D (USA, Europe) (Disc 1)
-D (USA, Europe) (Disc 2)
-DeathKeep (USA)
-Digital Dreamware (USA)
-Theme Park (USA)
-Dragon Tycoon Edge (Japan)
-Dragon's Lair (USA)
-Carrier - Fortress at Sea (USA)
-Gex (USA, Europe)
-Fatty Bear's Birthday Surprise (USA)
-Fatty Bear's Funpack (USA)
-Night Trap (USA) (Disc 1)
-Night Trap (USA) (Disc 2)
-Flashback - The Quest for Identity (USA)
-Flying Nightmares (USA)
-Foes of Ali (USA)
-Lucienne's Quest (USA)
-Star Control II (USA, Europe)
-Space Ace (USA)
-Waialae Country Club (USA)
-Cannon Fodder (USA)
-Icebreaker (USA)
-Idol Mahjong Final Romance 2 - Hyper Edition (Japan)
-Twinkle Knights (Japan)
-PaTaank (USA, Europe)
-Doctor Hauzer (Japan)
-Guardian War (USA)
-Alone in the Dark 2 (USA)
-Brain Dead 13 Starring Fritz (USA) (Disc 1)
-Brain Dead 13 Starring Fritz (USA) (Disc 2)
-Samurai Shodown (USA, Europe)
-Mazer (USA)
-Onee-san to Isshoo! Kise Kae Paradise (Japan)
-Onee-san to Isshoo! Shanken Paradise (Japan)
-Quarantine (USA)
-Space Shuttle (USA)
-Strahl (USA)
-20th Century Video Almanac (USA)
-Killing Time (USA)
-Robinson's Requiem (USA)
-Immercenary (USA)
-Syndicate (USA)
-Hell - A Cyberpunk Thriller (USA)
-Cyberia (USA)
-Pyramid Intruder (Japan)
-Microcosm (USA)
-Blade Force (USA)
-Kingdom - The Far Reaches (USA, Europe)
-Gridders (USA)
-Quarterback Attack - The Professional Quarterback Simulator (USA)
-Insect War (Japan)
-Wolfenstein 3D (USA)
-Shockwave - Operation JumpGate (USA, Europe)
-Shockwave 2 - Beyond the Gate (USA) (Disc 1)
-Shockwave 2 - Beyond the Gate (USA) (Disc 2)
-Who Shot Johnny Rock (USA)
-Alone in the Dark (USA)
-J-League Virtual Stadium '95 (Japan)
-Plumbers Don't Wear Ties (USA)
-John Madden Football (USA)
-Shelley Duvall's It's A Bird's Life (USA)
-Decathlon (USA)
-Lost Eden (USA)
-Mad Dog McCree (USA)
-Masters Harukanaru Augusta 3 (Japan)
-Firewall (Korea)
-Lemmings (USA)
-Oceans Below (USA)
-Snow Job Starring Tracy Scoggins (USA) (Disc 1)
-Snow Job Starring Tracy Scoggins (USA) (Disc 2)
-Murphy Dayo Zenin Shuugou!! (Japan)
-Virtuoso (USA)
-NeuroDancer - Journey Into The Neuronet (USA)
-Totsugeki Kikan! Megadasu!! (Japan)
-DinoPark Tycoon (USA)
-Super Real Mahjong PIV + Aishou Shindan (Japan)
-Oyaji Hunter Mahjong (Japan)
-PGA Tour 96 (USA)
-Phoenix 3 (USA)
-PO'ed (USA, Europe)
-Bishoujo Senshi Sailor Moon S (Japan)
-Pro Stadium (Japan)
-F1GP (Japan)
-Putt-Putt Joins the Parade (USA)
-Real Pinball (USA)
-Return Fire (USA)
-Return Fire - Maps O' Death (USA)
-Rise of the Robots (USA)
-Scramble Cobra (USA)
-Seal of the Pharaoh (USA)
-Sewer Shark (USA)
-Twisted - The Game Show (USA)
-StarBlade (USA)
-Slam 'N Jam '95 (USA)
-Slayer (USA)
-VR Stalker (USA)
-Space Hulk - Vengeance of the Blood Angels (USA)
-J-League Virtual Stadium (Japan)
-Supreme Warrior - Ying Heung (USA) (Disc 1)
-Supreme Warrior - Ying Heung (USA) (Disc 2)
-Taiketsu! Rumii Zu (Japan)
-Drug Wars (USA)
-Iron Angel of the Apocalypse - The Return (USA)
-Creature Shock (USA) (Disc 1)
-Creature Shock (USA) (Disc 2)
-Mind Teazzer (USA)
-Captain Quazar (USA)
-Incredible Machine, The (USA)
-Daedalus Encounter, The (USA) (Disc 2)
-Daedalus Encounter, The (USA) (Disc 3)
-Daedalus Encounter, The (USA) (Disc 4)
-Last Bounty Hunter, The (USA)
-Shadow - War of Succession (USA)
-Life Stage, The - Virtual House (USA)
-Lost Files of Sherlock Holmes, The (USA)
-Johnny Bazookatone (USA)
-Cowboy Casino - Interactive Poker (USA)
-Mad Dog II - the Lost Gold (USA)
-Panzer General (USA, Europe)
-Battle Blues (Korea)
-Escape from Monster Manor - A Terrifying Hunt for the Undead (USA)
-Doom (USA)
-Wing Commander III - Heart of the Tiger (USA) (Disc 1)
-Wing Commander III - Heart of the Tiger (USA) (Disc 2)
-Wing Commander III - Heart of the Tiger (USA) (Disc 3)
-Wing Commander III - Heart of the Tiger (USA) (Disc 4)
-Olympic Summer Games (USA)
-Shockwave - Invasion Earth 2019 (USA)
-Demolition Man (USA)
-Psychic Detective (USA) (Disc 1)
-Psychic Detective (USA) (Disc 2)
-Psychic Detective (USA) (Disc 3)
-Family Feud (USA)
-Sesame Street - Numbers (USA)
-Hello Kitty Asobi no Mochabako (Japan)
-Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan)
-Road Rash (USA)
-Perfect General, The (USA)
-Fun 'n Games (USA)
-Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan)
-Total Eclipse (USA)
-Trip'd (USA, Europe)
-Uchuu Seifutsu Furopon-kun (Japan)
-Ultraman Powered (Japan)
-MegaRace (USA)
-Short Warp - Warp's Short Game Colection (Japan)
-Way of the Warrior (USA)
-Mathemagics - An Interactive Learning Cube (USA)
-Zhadnost - The Peoples Party (USA, Europe)
-Putt-Putt Goes to the Moon (USA)
-Olympic Soccer (USA)
-Wicked 18 (USA)
-Royal Pro Wrestling - Jikkyou Live!! (Japan)
-World Cup Golf - Hyatt Dorado Beach (USA)
-Striker - World Cup Special (Europe)
-Horde, The (USA)
-Dragon Lore - The Legend Begins (USA, Europe) (Disc 1)
-Dragon Lore - The Legend Begins (USA, Europe) (Disc 2)
-Dragon Lore - The Legend Begins (USA, Europe) (Disc 3)
-Myst (USA)
-Iron Angel of the Apocalypse (USA)
-Star Wars - Rebel Assault (USA, Europe)
-Off-world Interceptor (USA, Europe)
-Yuu Yuu Hakusho (Japan)
-Shootout at Old Tucson (USA)
-Nice Body - All-Star Suiei Taikai (Japan)
-Novastorm (USA)
-OnSide Soccer (Europe)
-Pebble Beach Golf Links (USA)
-Need for Speed, The (USA, Europe)
-Super Street Fighter II Turbo (USA)
-Daedalus Encounter, The (USA) (Disc 1)
+Blonde Justice
+Bodyconscious Digital Rave! Part 1 - Shinjuku & Takashi
+Coven, The
+Endlessly
+Immortal Desire
+Love Bites
+Mahjong Kuru Jidai - Av Gal Seifukuhen
+Mahjong Kuru Jidai - Ko Gal Hokagohen
+Mind Teazzer
+NeuroDancer
+Nice Body All-Star Suiei Taikai
+Oneesan to Issho! Kisekae Paradise
+Onee-san To Isshoo! Shanken Paradise
+Penthouse Interactive - Virtual Photo Shoot Vol. 1
+Psychic Detective (Disc 1)
+Psychic Detective (Disc 2)
+Psychic Detective (Disc 3)
+Secre Fuumin No Omochabako
+Sex
+Supermodel Gail McKenna
+Super Models Go Wild
+Virtual Cameraman Part 1 - Naomi Sawada And Anna Juri
+Virtual Cameraman Part 2 - Kawai Natsumi And Tachihara Kimi
+Virtual Cameraman Part 3 - Sugimoto Yumika
+Virtual Cameraman Part 4 - Toya Shiori
+Virtual Cameraman Part 5 - Anzo Ari
+Virtual Vivid
+Yakyuuken Special, The
+REAL 3DO Super Breakout
+Biofury
+Bizarro Unterground
+Evil Australians - Rise of Stupidity
+Gameblabla's Crappy Compilation
+Icebreaker 2
+Jingles Defense
+Mortal Kombat 2
+Onside Soccer
+Tomb Raider (OpenLara)
+Doom (OPTI)
+Pac Man
+Powerslide
+REAL 3DO Tetris
+REAL 3DO Tetris 2
+Space Invaders Invaders
+Tempest 3DO
+Wreckman
+20th Century Video Almanac
+3d Atlas
+3DO de Shiru Miru Asobu Nakajima Miyuki
+Agi Gongnyong Goldie
+Ai Shougi
+Alone In The Dark
+Alone in the Dark 2
+Peperon Mura no Shiki
+Aqua World - Umibi Monogatari
+Armageddon
+Autobahn Tokio
+Bakushou!! All Yoshimoto Quiz Ou Ketteisen
+Ballz : The Director's Cut
+Battle Blues
+Battle Chess
+Battle Pinball
+Battlesport
+BC Racers
+Belzerion
+Blue Forest Story - Kaze No Fuuin
+Blade Force
+Bonogurashi
+Brain Dead 13 (Disc 1)
+Brain Dead 13 (Disc 2)
+Burning Soldier
+Bust-A-Move
+Cannon Fodder
+Captain Quazar
+Carrier : Fortress at Sea
+Casper
+Chiki Chiki Machine Mou-race
+Chiki Chiki Machine Mou Race 2 - In Space
+Club 3DO: Station Invasion
+Corpse Killer
+Cowboy Casino
+Crash 'n Burn
+Crayon Shin-chan - Puzzle Daimaou no Nazo
+Creature Shock (Disc 1)
+Creature Shock (Disc 2)
+Crime Patrol
+Crystal Borg In Hyperspace
+Cyberdillo
+Cyberia
+D (Disc 1)
+D (Disc 2)
+Daedalus Encounter, The (Disc 1)
+Daedalus Encounter, The (Disc 2)
+Daedalus Encounter, The (Disc 3)
+Daedalus Encounter, The (Disc 4)
+DeathKeep
+Decathlon
+Defcon 5
+Demolition Man
+Dennis Miller : That's News to Me
+Dennou Hyouryuu - Multimedia Cruising
+Digital Dreamware
+Dinopark Tycoon
+Marine Tour - Diving Spot Guide
+Doctor Hauzer
+Doom
+Dragon Lore - The Legend Begins (Disc 1)
+Dragon Lore - The Legend Begins (Disc 2)
+Dragon Lore - The Legend Begins (Disc 3)
+Dragon Tycoon Edge
+Dragon's Lair
+Drug Wars
+D's Diner - The Director's Cut (Disc 1)
+D's Diner - The Director's Cut (Disc 2)
+D's Diner - The Director's Cut (Disc 3)
+EMIT Vol. 1 - Toki No Maigo
+EMIT Vol. 2 - Inochigake no Tabi
+EMIT Vol. 3 - Watashi Ni Sayonara O
+Escape From Monster Manor
+ESPN Baseball : Interactive Hitting
+ESPN : Step Aerobics
+ESPN Golf: Lower Your Score With Tom Kite - Shot Making (Disc 1)
+ESPN Golf: Lower Your Score With Tom Kite - Shot Making (Disc 2)
+ESPN Golf: Lower Your Score With Tom Kite - Shot Making (Disc 3)
+ESPN Golf: Lower Your Score With Tom Kite - Shot Making (Disc 4)
+ESPN : Let's Go Skiing
+ESPN : Let's Play Beach Volleyball
+ESPN : Let's Play Soccer with John Harkes and Mia Hamm
+ESPN : Let's Play Tennis with Tracy Austin
+Eye of Typhoon, The
+F1 GP
+Family Feud
+Fatty Bear's Birthday Surprise
+Fatty Bear's FunPack
+FIFA International Soccer
+Firewall
+Flashback
+Flopon World
+Flying Nightmares
+Foes Of Ali
+Footie
+Fun 'n' Games
+GakkÅ no Kowai Uwasa - Hanako-San ga Kita!!
+Game no Tatsujin
+Gateway to English: Eigo de Go!
+Gex
+Kurokishi no Kamen
+Goal Field Hunter
+Gridders
+Grimm Meisaku Gekijou Vol. 1 -  Bremen no Ongakutai
+Grimm Meisaku Gekijou Vol. 2 - Hansel To Gretel
+Grimm Meisaku Gekijou Vol. 3 - Akazukin
+Guardian War
+Hell : A Cyberpunk Thriller
+Hello Kitty - Asobi no Omochabako
+Hirata Shougo Interactive Ehon - Aesop Monogatari Vol. 1
+Hirata Shogo Interactive Ehon - Cinderella
+Hirata Shougo Interactive Ehon - Ningyo-hime
+Hirata Shougo Interactive Ehon - Ookami to Shichihiki no Koyagi
+Hirata Shougo Interactive Ehon - Sanbiki no Kobuta
+Hirata Shougo Interactive Ehon - Shirayukihime
+Hitchcock ni Chousen
+Horde, The
+Icebreaker
+Ide Yousuke Meijin No Shin Jissen Mahjong
+Idol Janshi Suchie-pai Special
+Idol Mahjong Final Romance 2 - Hyper Mahjong
+Igo Time Trial - Shikatsu Daihyakka
+Igo Time Trial - Tsumego I
+Immercenary
+Incredible Machine, The
+Insector War
+Iron Angel of the Apocalypse : The Return
+Iron Angel of The Apocalypse
+Ishida Yoshio Kudan No Igo Seiha
+J. B. Harold - Blue Chicago Blues (Disc 1)
+J. B. Harold - Blue Chicago Blues (Disc 2)
+J. League Virtual Stadium
+J.League Virtual Stadium '95
+Jammit
+Jieitai World
+Jikki Pachi Slot Simulator Vol. 1
+John Madden Football
+Johnny Bazookatone
+Jurassic Park Interactive
+Kakinoki Shogi
+Keiba Saishou No Housoku
+Kero Kero Keroppi to Origami no Tabibito
+Killing Time
+Kingdom : The Far Reaches
+Konpeki No Kantai
+Kyuusei Uranai Niyoru Heisei Kaiun Koyomi
+Last Bounty Hunter, The
+Lemmings
+Life Stage : Virtual House, The
+Little House, The
+Lost Eden
+Lost Files of Sherlock Holmes, The
+Lucienne's Quest
+Mad Dog II : The Lost Gold
+Mad Dog McCree
+Mahjong Gokuu Tenjiku
+Macaroni Houren Shou Interactive
+Mathemagics - An Interactive Learning Cube
+Mazer
+Megarace
+Microcosm
+Mirai Shounen Conan - Digital Library
+Monoshiri Jiyuugaku: Ogura Hyakunin Isshu-hen
+Montana Jones
+Ida Jiyouji Nightmare Interactive - Moon Cradle - Igyou No Hanayome
+Driving School - Futsuu Menkyo Gakka-hen
+Murphy Da Yo Zen'in Shuugou!!
+Myst
+N.O.B. - Neo Organic Bioform
+Naoko To Hide Bou - Kanji No Tensai 1
+Naoko To Hide Bou - Sansuu no Tensai 1: Wa to Sa no Bunshoudai Tsurukamezan Part I
+Naoko To Hide Bou - Kanji No Tensai 2
+Need for Speed, The
+Nemurenu Yoru no Chiisana Ohanashi
+Night Trap (Disc 1)
+Night Trap (Disc 2)
+Nishimura Kyoutarou Travel Mystery - Akugyaku No Kisetsu
+Nobunaga No Yabou - Haouden
+Nontan To Issho - Hoshi No Okurimono
+Nontan To Issho - Nohara De Asobo
+Novastorm
+Oceans Below
+Off-World Interceptor
+Ogura Hyakunin Isshu
+Olympic Soccer
+Olympic Summer Games: Atlanta 1996
+Oukoku No Grand Chef
+Out of This World
+Oyaji Hunter Mahjong
+Paddock Note '95
+Panzer General
+PaTaank
+Pebble Beach Golf Links
+Perfect General, The
+Peter Frankel - Puzzle No Tou
+PGA Tour 96
+Phoenix 3
+Plumbers Don't Wear Ties
+PO'ed
+Policenauts - Pilot Disk
+Policenauts (Disc 1)
+Policenauts (Disc 2)
+Pretty Soldier Sailor Moon S
+Primal Rage
+Princess Maker 2
+Pro Stadium
+Pro Yakyuu Virtual Stadium - Professional Baseball
+Puppet Tale
+Putt-Putt Goes to the Moon
+Putt-Putt Joins the Parade
+Putt-Putt's Fun Pack
+Pyramid Intruder
+Quarantine
+Quarterback Attack with Mike Ditka
+Real Pinball
+Return Fire : Maps O' Death
+Return Fire
+Rise Of The Robots
+Road Rash
+Robinson's Requiem
+Royal Pro Wrestling - JikkyÅ Live!!
+Samurai Shodown
+The San Diego Zoo Presents... The Animals!
+Sangokushi IV
+Scramble Cobra
+Seal Of The Pharaoh
+Seimei Handan
+Sento Monogatari - Sono I
+Sesame Street: Numbers
+Sewer Shark
+Shadow: War of Succession
+Shanghai: Triple-Threat
+Shelley Duvall's It's A Bird's Life
+Shock Wave
+Shock Wave: Operation JumpGate
+Shock Wave 2: Beyond the Gate (Disc 1)
+Shock Wave 2: Beyond the Gate (Disc 2)
+Shootout at Old Tucson
+Short Warp
+C.P.U. Bach
+Slam 'n Jam '95
+Slayer
+Slopestyle
+Snow Job (Disc 1)
+Snow Job (Disc 2)
+Soccer Kid
+SotsugyÅ - Graduation Final
+Sotsugyo 2 - Neo Generation Special
+Space Ace
+Space Hulk : Vengeance of the Blood Angels
+Space Pirates
+Space Shuttle
+Star Control II
+Star Fighter
+Star Wars - Rebel Assault
+Starblade
+Stellar 7 : Draxon's Revenge
+Strahl
+Striker : World Cup Special
+Super Real Mahjong P5
+Super Real Mahjong P4 + Aishou Shindan
+Super Street Fighter II Turbo
+Super Wing Commander
+Supreme Warrior (Disc 1)
+Supreme Warrior (Disc 2)
+Syndicate
+Masters Harukanaru Augusta 3
+Taiketsu Rumi-Zu!
+Takeru
+Tanjou Debut - Pure
+Tarot Uranai
+Theatre Wars - Goraku no Dendou
+Theme Park
+Toki o Koeta Tegami
+Tokimeki Mahjong Paradise Special
+ToonTime ...in the classroom
+Total Eclipse
+Totsugeki Kikan! Megadasu!!
+Touhaiden Akagi
+Tower, The
+Trip'd
+Twinkle Knights
+Twisted: The Game Show
+Uchuu Seifutsu Furopon-kun
+Ultraman Powered
+V Goal Soccer '96
+Virtual Puppet Reika
+Virtuoso
+VR Stalker
+True Golf Classics : Waialae Country Club
+Way of the Warrior
+Who Shot Johnny Rock
+True Golf Classics : Wicked 18
+Wing Commander III : Heart of the Tiger (Disc 1)
+Wing Commander III : Heart of the Tiger (Disc 2)
+Wing Commander III : Heart of the Tiger (Disc 3)
+Wing Commander III : Heart of the Tiger (Disc 4)
+Winning Post
+Wolfenstein 3D
+Woody Woodpecker And Friends : Volume 1
+Woody Woodpecker And Friends : Volume 3
+Woody Woodpecker And Friends : Volume 2
+World Cup Golf : Hyatt Dorado Beach
+WorldCup Super Stadium
+Yamada Kamachi Bijutsukan - Kamachi's Museum
+Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Disc 1)
+Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Disc 2)
+Yu Yu Hakusho
+Yuujou Densetsu - The Doraemons
+Zhadnost: The People's Party
 ====================
-Total Games: 216
+Total Games: 356

@@ -3,15 +3,17 @@
 Air Gallet
 Akai Katana shin
 Crusher Makochan
-DoDonPachi (Japan)
+DoDonPachi
+DoDonPachi II: Bee Storm
 DoDonPachi III
 DoDonPachi Dai-Fukkatsu Ver 1.5
 DoDonPachi Dai-Ou-Jou
 DoDonPachi Dai-Ou-Jou Black Label
 DoDonPachi SaiDaiOuJou
+Deathsmiles II: Makai no Merry Christmas
 Deathsmiles
 DoDonPachi Dai-Fukkatsu Black Label
-DonPachi (Japan)
+DonPachi
 Deathsmiles MegaBlack Label
 Espgaluda
 Espgaluda II
@@ -21,7 +23,6 @@ Mushihime-Sama Futari Ver 1.5
 Mushihime-Sama Futari Black Label - Another Ver
 Gaia Crusaders
 Guwange
-Hotdog Storm - The First Supersonics
 Ibara
 Ibara Kuro Black Label
 Ketsui Kizuna Jigoku Tachi
@@ -31,10 +32,12 @@ Muchi Muchi Pork!
 Mushihime-Sama
 Puzzle! Mushihime-Tama
 Pink Sweets Ibara Sorekara
-Gouketsuji Gaiden Legends
+Gogetsuji Legends
 Power Instinct 2
 Pretty Soldier Sailor Moon
 Thunder Heroes
 Puzzle Uo Poko
+Hotdog Storm - The First Supersonics
+Medal Mahjong Moukari Bancho
 ====================
-Total Games: 36
+Total Games: 39

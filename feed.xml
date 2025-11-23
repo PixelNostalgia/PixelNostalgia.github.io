@@ -3,12 +3,140 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2025-11-02T22:07:34+01:00</updated>
+    <updated>2025-11-22T22:17:43+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>International Game Technology Slots (igtslots)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/international-game-technology-slots-igtslots/index.html"/>
+        <id>https://pixelnostalgia.github.io/international-game-technology-slots-igtslots/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/310/igtslots_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+            <category term="Arcade"/>
+
+        <updated>2025-11-16T16:10:16+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/310/igtslots_system.png" alt="igtslots" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/310/igtslots_system.png" class="type:primaryImage" alt="igtslots" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/310/igtslots.svg" alt="" width="400" height="149"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/310/igtslots.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/310/responsive/igtslots-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/310/responsive/igtslots-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/310/responsive/igtslots-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/310/responsive/igtslots-xl.webp 1200w"></figure>IGT, short for International Game Technology, is a renowned casino industry player. Based in Nevada, IGT boasts decades of experience catering to casino enthusiasts. They specialise in designing, developing, and producing slot machines, casino games, and gaming software for online and mobile platforms. Collaborating with legal casinos, IGT is a global leader offering innovative gaming solutions worldwide.<br><br>Their physical slot machines are user-friendly, flexible, and incorporate the latest technological advancements.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">2041 games (~21 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=966776" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/310/gallery/Zrzut-ekranu-2025-11-22-113128.png" data-size="1280x718"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/310/gallery/Zrzut-ekranu-2025-11-22-113128-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
+<p class="msg msg--info"><strong>Notes:</strong><br><br>If you have a mouse connected to your system, you can use that to move the cursor and insert coins, press buttons etc.<br><br>If however you only have a gamepad, we have added mappings so the analogue stick moves the mouse and button A (south) is left click.<br><br>Hotkey + start will close the emulator<br><br>Some machines will have a welcome/info message box appear when you start them, these can be closed by doing the following:<br><br>- RetroBat: Use the mouse to click in the X in the top right corner of the box.<br><br>- Batocera: As the emulator runs under Wine, the message boxes don't have the top bar and X in the top right corner. So we have mapped Y (north) to the Escape key, so press this once to close the message box. You may then find that the main emulator window loses focus (becomes inactive), to get round this, we have mapped alt-tab to X (west), press this once and the main window will become active again.<br><br>Normally the fruit machines open in the middle of the screen with large black borders. The emulator doesn't support bezels/decorations, so we have used ReShade to add a bezel to either side of the screen.<br><br><strong>**Important note for RetroBat**</strong><br><br>The emulator stores it's settings in the registry, to apply the correct settings, please add these settings BEFORE running any fruit machines. We have provided these here:<br><br>\Retrobat\roms\igtslots\fruitmach.pc\Import-Settings.reg<br><br>Just double-click on the file and accept the prompts to import the settings.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the contents of the "v1-RGS_igtslots" into the '/roms/igtslots/' folder and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sega Hikaru (hikaru)</title>
+        <author>
+            <name>Scott (Soup or Man)</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/sega-hikaru-hikaru/index.html"/>
+        <id>https://pixelnostalgia.github.io/sega-hikaru-hikaru/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/309/hikaru_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+            <category term="Arcade"/>
+
+        <updated>2025-11-16T16:07:24+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/309/hikaru_system.png" alt="hikaru" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/309/hikaru_system.png" class="type:primaryImage" alt="hikaru" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/309/hikaru.svg" alt="" width="400" height="147"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/309/hikaru-2.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/309/responsive/hikaru-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/309/responsive/hikaru-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/309/responsive/hikaru-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/309/responsive/hikaru-2-xl.webp 1200w"></figure>
+<p>The Sega Hikaru is a successor of the Sega NAOMI and Sega Model 3 arcade systems that was developed in 1998 and debuted in 1999. The Hikaru was used for a handful of deluxe dedicated-cabinet games, beginning with 1999's Brave Fire Fighters, in which the flame and water effects were largely a showpiece for the hardware.<br><br>It was significantly more powerful and expensive than the NAOMI. The Hikaru featured a custom Sega GPU with advanced graphical capabilities, additional CPU and sound processors, various custom processors, increased memory, and faster bandwidth. It was the first game platform capable of effective hardware Phong shading, the most intensive form of shading at the time, and was capable of the most complex lighting and particle effects of its time.<br><br>It was the most powerful game system of its time (Planet Harriers, for example, was regarded as having the best video game graphics at the time), but it was very expensive and difficult to program. Since it was comparatively expensive to produce, Sega soon abandoned the Hikaru in favor of continued NAOMI development. It was succeeded by the more affordable NAOMI 2.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">6 games (~755 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=966814" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/309/gallery/Zrzut-ekranu-2025-11-22-221550.png" data-size="1280x719"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/309/gallery/Zrzut-ekranu-2025-11-22-221550-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/309/gallery/Zrzut-ekranu-2025-11-22-221622.png" data-size="1280x718"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/309/gallery/Zrzut-ekranu-2025-11-22-221622-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
+<p class="msg msg--info"><strong>Notes:</strong><br>This is version 2.0 with refreshed/updated artworks.<br>This pack was never released as a standalone pack, but was included in the original base build.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>1. If you have a previous version of this pack, delete the contents of /roms/hikaru/<br><br>2. Drag and drop the contents of the "v2-RGS_hikaru" folder into the /roms/hikaru/ folder.<br>(Create the folder is it doesn't exist)<br><br>3. Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Computer Art Visual Entertainment (cave)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/computer-art-visual-entertainment-cave-2/index.html"/>
+        <id>https://pixelnostalgia.github.io/computer-art-visual-entertainment-cave-2/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/308/cave3rd_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+            <category term="Arcade"/>
+
+        <updated>2025-11-16T15:53:36+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/308/cave3rd_system.png" alt="cave" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/308/cave3rd_system.png" class="type:primaryImage" alt="cave" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/308/cave.svg" alt="" width="400" height="113"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/308/cave.png" alt="" width="415" height="415" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/308/responsive/cave-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/308/responsive/cave-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/308/responsive/cave-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/308/responsive/cave-xl.webp 1200w"></figure>CAVE Interactive Co., Ltd. is a Japanese video game company founded in 1994 by former employees of Toaplan following its bankruptcy. They are known primarily for their "bullet hell" shoot 'em ups; from 1995 up to 2013, CAVE was one of the most prolific shoot 'em up developers in the Japanese market. Alongside this, CAVE has produced a variety of other types games for arcades, home consoles, PCs, and smartphones, also dating back to 1995.<br><br>"CAVE" is an acronym for "Computer Art Visual Entertainment".</p>
+
+<h5>The package includes:</h5>
+<p class="msg--success msg">39 games (~2,7 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=966808" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/308/gallery/Zrzut-ekranu-2025-11-22-211928.png" data-size="1280x720"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/308/gallery/Zrzut-ekranu-2025-11-22-211928-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/308/gallery/Zrzut-ekranu-2025-09-21-230419.png" data-size="1280x719"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/308/gallery/Zrzut-ekranu-2025-09-21-230419-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+</div></div>
+<p class="msg msg--info"><strong>Notes:</strong><br><br>This v2.0 pack has updated/refreshed artwork along with updated versions of the ROMs<br><br>RetroBat:<br><br>The game "Deathsmiles II: Makai no Merry Christmas" is the Windows version of the game. To run it successfully, you will need to set the emulator to "Windows".<br><br>Run the PixN Update Service to get the updated config file for this system, then follow the steps below:<br><br>- Highlight the game in the wheel,<br>- Hold the A (south) button to open the options menu,<br>- Select "Advanced Game Options",<br>- Set the emulator to "Windows",<br>- Exit back out of the menus.</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>1. If you have have an older version of this pack, delete the old roms first.<br><br>2a. RetroBat: Drag and drop the contents of the "v2-RGS_cave3rd" folder into the /roms/cave/ folder.<br><br>2b. Batocera: Drag and drop the contents of the "v2-RGS_cave3rd" folder into the /roms/cave3rd/ folder.<br><br>3. Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>UNIS Arcade Machines (unis)</title>
         <author>
@@ -23,7 +151,7 @@
             <category term="Arcade"/>
 
         <updated>2025-11-02T21:33:47+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/307/unis.png" alt="unis" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> only</p>
@@ -64,7 +192,7 @@
             <category term="Batocera"/>
 
         <updated>2025-10-14T13:11:04+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/306/xbla.png" alt="xbla" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
@@ -109,7 +237,7 @@
             <category term="Arcade"/>
 
         <updated>2025-09-28T13:40:14+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/305/neogeomvs_system.png" alt="neogeomvs" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat<br><span style="color: #ffffff;"><strong>Version: 25th July 2025</strong></span><br></span></p>
@@ -155,7 +283,7 @@
             <category term="Arcade"/>
 
         <updated>2025-08-21T11:46:40+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/304/namco2x6_system.png" alt="namco2x6" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
@@ -196,7 +324,7 @@
             <category term="Batocera"/>
 
         <updated>2025-08-03T20:42:04+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/303/windows_system.png" alt="windows" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
@@ -244,7 +372,7 @@
             <category term="Arcade"/>
 
         <updated>2025-06-13T22:18:58+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/302/namco22_system.png" alt="namco22" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
@@ -286,7 +414,7 @@
             <category term="Arcade"/>
 
         <updated>2025-06-13T21:55:02+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://pixelnostalgia.github.io/media/posts/301/namco11_system.png" alt="namco11" />
                     <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
@@ -307,133 +435,6 @@
 <figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/301/gallery/Zrzut-ekranu-2025-06-13-220723.png" data-size="3050x1711"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/301/gallery/Zrzut-ekranu-2025-06-13-220723-thumbnail.webp" alt="" width="768" height="431"></a></figure>
 </div></div>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "namco11" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tyrian (tyrian)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/tyrian-tyrian/index.html"/>
-        <id>https://pixelnostalgia.github.io/tyrian-tyrian/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/300/tyrian_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2025-06-13T21:40:39+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/300/tyrian_system.png" alt="tyrian" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/300/tyrian_system.png" class="type:primaryImage" alt="tyrian" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/300/tyrian.svg" alt="" width="400" height="141"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/300/tyrian.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/300/responsive/tyrian-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/300/responsive/tyrian-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/300/responsive/tyrian-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/300/responsive/tyrian-xl.webp 1200w"></figure>
-<p>Tyrian is a vertically scrolling shooter developed by Eclipse Software for MS-DOS and published in 1995 by Epic MegaGames. Tyrian was programmed by Jason Emery, illustrated by Daniel Cook, and its music composed by Alexander Brandon and Andras Molnar.<br><br>The game was re-released as freeware in 2004. A free and open-source port of the game started in April 2007.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">1 game (~13 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=965942" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/300/gallery/Zrzut-ekranu-2025-06-13-214219.png" data-size="3054x1719"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/300/gallery/Zrzut-ekranu-2025-06-13-214219-thumbnail.webp" alt="" width="768" height="432"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>1. Drag and drop the "tyrian" folder into the 'roms' directory<br>2. Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Rick Dangerous (xrick)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/rick-dangerous-xrick/index.html"/>
-        <id>https://pixelnostalgia.github.io/rick-dangerous-xrick/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/299/xrick_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2025-06-11T21:30:25+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/299/xrick_system.png" alt="xrick" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/299/xrick_system.png" class="type:primaryImage" alt="xrick" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/299/xrick-data.png" alt="" width="400" height="200" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-data-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-data-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-data-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-data-xl.webp 1200w"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/299/xrick.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/299/responsive/xrick-xl.webp 1200w"></figure>
-<p>XRick is an open source implementation of the game "Rick Dangerous". Rick Dangerous is a platform game developed by Core Design for the Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64, and MS-DOS.<br><br>The game was released in 1989 and published by MicroProse on the Firebird Software label in the UK, and on the MicroPlay label in America. It was also published in Spain by Erbe Software.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">1 game (~5 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=965937" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/299/gallery/Zrzut-ekranu-2025-06-11-212521-2.png" data-size="3059x1696"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/299/gallery/Zrzut-ekranu-2025-06-11-212521-2-thumbnail.webp" alt="" width="768" height="426"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>1. If using RGS Batocera you may already have this ROMpack, if so delete the "xrick" folder from the 'roms' folder<br>2. Drag and drop the "xrick" folder into the 'roms' directory<br>3. Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>SDL Prince of Persia (sdlpop)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/sdl-prince-of-persia-sdlpop/index.html"/>
-        <id>https://pixelnostalgia.github.io/sdl-prince-of-persia-sdlpop/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/298/sdlpop_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2025-06-11T21:10:29+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/298/sdlpop_system.png" alt="sdlpop" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/298/sdlpop_system.png" class="type:primaryImage" alt="sdlpop" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/298/sdlpop.svg" alt="" width="523" height="129"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/298/sdlpop.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/298/responsive/sdlpop-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/298/responsive/sdlpop-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/298/responsive/sdlpop-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/298/responsive/sdlpop-xl.webp 1200w"></figure>
-<p> </p>
-<p>SDLPoP stands for "Prince of Persia" linked to SDL. It is an open-source port of Prince of Persia that runs natively on Windows and Linux.<br>SDLPoP is based on a disassembly of the DOS version, and uses SDL, extending the game with new features.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">1 game (~20 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=965936" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/298/gallery/Zrzut-ekranu-2025-06-11-212345.png" data-size="3062x1711"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/298/gallery/Zrzut-ekranu-2025-06-11-212345-thumbnail.webp" alt="" width="768" height="429"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>1. If using RGS Batocera you may already have this ROMpack, if so delete the "sdlpop" folder from the 'roms' folder<br>2. Drag and drop the "sdlpop" folder into the 'roms' directory<br>3. Enjoy!</p>
             ]]>
         </content>
     </entry>
