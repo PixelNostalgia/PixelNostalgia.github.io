@@ -3,12 +3,51 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2025-11-22T22:17:43+01:00</updated>
+    <updated>2026-01-04T12:32:11+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Sony PlayStation 4 (ps4)</title>
+        <author>
+            <name>Erk</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/sony-playstation-4-ps4/index.html"/>
+        <id>https://pixelnostalgia.github.io/sony-playstation-4-ps4/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/311/ps4_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Console"/>
+            <category term="Batocera"/>
+
+        <updated>2026-01-04T12:05:37+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/311/ps4_system.png" alt="ps4" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/311/ps4_system.png" class="type:primaryImage" alt="ps4" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/311/ps4-w.svg" alt="" width="503" height="105"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/311/ps4.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/311/responsive/ps4-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/311/responsive/ps4-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/311/responsive/ps4-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/311/responsive/ps4-xl.webp 1200w"></figure>The PlayStation 4 (PS4) is a home video game console developed by Sony Interactive Entertainment. A console of the eighth generation, it competes with Microsoft's Xbox One and Nintendo's Wii U and Switch.<br><br>Moving away from the more complex Cell microarchitecture of its predecessor, the console features an AMD Accelerated Processing Unit (APU) built upon the x86-64 architecture, which can theoretically peak at 1.84 teraflops; AMD stated that it was the "most powerful" APU it had developed to date. The PlayStation 4 places an increased emphasis on social interaction and integration with other devices and services, including the ability to play games off-console on PlayStation Vita and other supported devices ("Remote Play"), the ability to stream gameplay online or to friends, with them controlling gameplay remotely ("Share Play"). The console's controller was also redesigned and improved over the PlayStation 3, with improved buttons and analog sticks, and an integrated touchpad among other changes. The console also supports HDR10 High-dynamic-range video and playback of 4K resolution multimedia.</p>
+<h5>The package includes:</h5>
+<p class="msg msg--success">117 games (~346 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=966942" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Go to download</a>    </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="true" data-translation="Add images" data-columns="1"> </div></div>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/dnku9ZL1EDM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="msg msg--info"><strong>NOTE:</strong><br>Complete set of artwork with many items created manually.<br><br>Custom artwork:<br>- Remastered original covers<br>- Digital release custom covers<br>- Custom boxspines<br>- Custom marquee's for missing game logos<br><br>2.5D box artwork is included:<br>If you want to use them (or the 2D versions) do the following:<br>1. Rename the 'thumbnails' folder to 'box3d'<br>2. Rename the 'box2_5d' folder to 'thumbnails'<br><br>Choice of gameplay video clips or the game trailers:<br>The default is the normal gameplay video snaps, but if you want game trailers do the following:<br>1. Rename the 'videos' folder to 'videos-gameplay'<br>2. Rename the 'videos (trailer)' folder to 'videos'<br><br>All games tested<br><br>DLC Included</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>1. Due to size and number of files, each game is supplied in it's on 7zip file. Extract each one to the /roms/ps4/ folder.<br><br>2. Place the contents of the /_saves_/ps4/ folder to:<br><br>Batocera: /userdata/saves/ps4/<br>RetroBat: /RetroBat/saves/ps4/<br><br>3. The "media" folder and "gamelist.xml" file need to be placed in the /roms/ps4/ folder.<br><br>You should end up with the following folder structure:<br>/roms/ps4/gamelist.xml<br>/roms/ps4/media<br>/roms/ps4/2Dark.ps4<br>/roms/ps4/10 Second Ninja X.ps4<br>/roms/ps4/A Hole New World.ps4<br>etc...<br><br>4. Enjoy!</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>International Game Technology Slots (igtslots)</title>
         <author>
@@ -394,47 +433,6 @@
 </div></div>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/blB7VdZcVMc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "namco22" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Namco System 11 (namco11)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/namco-system-11-namco11/index.html"/>
-        <id>https://pixelnostalgia.github.io/namco-system-11-namco11/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/301/namco11_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Batocera"/>
-            <category term="Arcade"/>
-
-        <updated>2025-06-13T21:55:02+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/301/namco11_system.png" alt="namco11" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/301/namco11_system.png" class="type:primaryImage" alt="namco11" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/301/namco11.svg" alt="" width="400" height="111"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/301/namco11.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/301/responsive/namco11-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/301/responsive/namco11-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/301/responsive/namco11-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/301/responsive/namco11-xl.webp 1200w"></figure><br>The Namco System 11 is a 32-bit arcade system board developed jointly by Namco and Sony Computer Entertainment. Released in 1994, the System 11 is based on a prototype of the PlayStation, Sony's first home video game console, using a 512 KB operating system and several custom processors.<br><br>The Namco System 12 is an upgraded version of the System 11 that was released in 1996, featuring faster processing power.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">9 games (~192 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=965943" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/301/gallery/Zrzut-ekranu-2025-06-13-220723.png" data-size="3050x1711"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/301/gallery/Zrzut-ekranu-2025-06-13-220723-thumbnail.webp" alt="" width="768" height="431"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "namco11" folder into the 'roms' directory and Enjoy!</p>
             ]]>
         </content>
     </entry>
