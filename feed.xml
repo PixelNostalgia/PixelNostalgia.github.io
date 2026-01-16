@@ -3,12 +3,54 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2026-01-04T12:32:11+01:00</updated>
+    <updated>2026-01-16T09:56:58+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Blake Stone (bstone)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/blake-stone-bstone/index.html"/>
+        <id>https://pixelnostalgia.github.io/blake-stone-bstone/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/312/bstone.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2026-01-15T23:25:08+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/312/bstone.png" alt="bstone" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/312/bstone.png" class="type:primaryImage" alt="bstone" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/312/bstone.svg" alt="" width="400" height="54"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/312/bstone-3.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/312/responsive/bstone-3-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/312/responsive/bstone-3-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/312/responsive/bstone-3-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/312/responsive/bstone-3-xl.webp 1200w"></figure>
+<p>Unofficial source port for “Blake Stone” game series: “Aliens Of Gold” and “Planet Strike”.<br><br>• High resolution vanilla rendering (SDL)<br>• 3D rendering (OpenGL 2.0, OpenGL 3.2 Core, OpenGL ES 2.0)<br>• OPL emulation (DOSBox DBOPL, Nuked OPL3)<br>• Upscale texture filter (xBRZ)<br>• Support for external textures (walls, sprites, floor and ceiling)<br>• Allows to customize control bindings<br>• 2D-audio (SDL) and 3D-audio (OpenAL)<br>• Separate volume control of sound effects and music<br>• Support Addons<br>• Auto-detection of digital content (Steam / GOG)</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">2 games (~35 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=967017" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/312/gallery/Zrzut-ekranu-2026-01-15-233858.png" data-size="3022x1688"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/312/gallery/Zrzut-ekranu-2026-01-15-233858-thumbnail.webp" alt="" width="768" height="429"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>1. Drag and drop the contents of the "v1-RGS_bstone" folder into the /roms/bstone/ folder. (Create the folder is it doesn't exist)<br>2. Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sony PlayStation 4 (ps4)</title>
         <author>
@@ -391,48 +433,6 @@
 <p class="msg msg--info"><strong>NOTE:</strong><br>This pack is handcrafted by Ransom &amp; Kazai – with mad respect to “The Legendary Amok.”<br><br>After the work of Ransom and his brother Kazai, the Windows games have been converted to .wsquashfs format by our very own SPiRiT! Awesome job on making this pack available for Batocera. SPiRiT also tested all the games on our RGS Batocera build.<br><br>.wsquashfs is fully supported on both Batocera and RetroBat. However, there is one thing you need to know: on RetroBat, a .wsquashfs file will be decompressed when first started. You’ll see a nice progress bar — so far, so good. In EmulationStation (the RetroBat menu), you can choose an option to KEEP the decompressed file so that when you start it a second time, the game will instantly boot up.<span style="background-color: rgba(var(--color-primary-rgb), 0.1); color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><br><br></span>Keep in mind that for larger games, the decompression process on RetroBat can take up to 30 minutes! On Batocera, this is not an issue because .wsquashfs is natively supported.</p>
 <p class="msg msg--warning">On RetroBat, for larger games, it may seem like RetroBat has frozen… but just wait — it will eventually decompress and boot your game.</p>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop "windows" folder to your Batocera \share\roms or R:\Retrobat\roms folder.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Namco System 22 (namco22)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/namco-system-22-namco22/index.html"/>
-        <id>https://pixelnostalgia.github.io/namco-system-22-namco22/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/302/namco22_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Batocera"/>
-            <category term="Arcade"/>
-
-        <updated>2025-06-13T22:18:58+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/302/namco22_system.png" alt="namco22" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/302/namco22_system.png" class="type:primaryImage" alt="namco22" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/302/namco22.svg" alt="" width="400" height="111"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/302/namco22.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/302/responsive/namco22-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/302/responsive/namco22-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/302/responsive/namco22-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/302/responsive/namco22-xl.webp 1200w"></figure><br>The Namco System 22 is the successor to the Namco System 21 arcade system board. It debuted in 1992 with Sim Drive in Japan, followed by a worldwide debut in 1993 with Ridge Racer.<br><br>The System 22 was designed by Namco with assistance from graphics &amp;amp; simulation company Evans &amp;amp; Sutherland. Graphical features include texture mapping, Gouraud shading, transparency effects, and depth cueing, thanks to the Evans &amp;amp; Sutherland 'TR3' chip/chipset, which stands for: Texture Mapping, Real-Time, Real-Visual, Rendering System. The main CPU provides a scene description to the TR3 graphics processing unit and a bank of DSP chips which perform 3D calculations.<br><br>A variant of the system, called the Super System 22, was released in 1995. The hardware was largely similar to the System 22, but with a slightly higher polygon rate and more special effects possible.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">18 games (~404 MB)</p>
-<p><a href="https://back-ups.me/details.php?id=965944" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/302/gallery/Zrzut-ekranu-2025-06-13-220838.png" data-size="3065x1717"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/302/gallery/Zrzut-ekranu-2025-06-13-220838-thumbnail.webp" alt="" width="768" height="430"></a></figure>
-</div></div>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/blB7VdZcVMc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "namco22" folder into the 'roms' directory and Enjoy!</p>
             ]]>
         </content>
     </entry>
