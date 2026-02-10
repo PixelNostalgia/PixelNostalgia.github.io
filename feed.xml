@@ -3,12 +3,96 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2026-01-16T09:56:58+01:00</updated>
+    <updated>2026-02-10T19:35:28+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Catacomb GL (catacomb)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/catacombgl-catacomb/index.html"/>
+        <id>https://pixelnostalgia.github.io/catacombgl-catacomb/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/325/catacombgl.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2026-02-10T19:21:46+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/325/catacombgl.png" alt="catacomb" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/325/catacombgl.png" class="type:primaryImage" alt="catacomb" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/325/catacombgl.svg" alt="" width="400" height="98"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/325/catacombgl-2.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/325/responsive/catacombgl-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/325/responsive/catacombgl-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/325/responsive/catacombgl-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/325/responsive/catacombgl-2-xl.webp 1200w"></figure>
+<p><br>CatacombGL is a source port of Catacomb 3D and the Catacomb Adventure series. These games were originally developed for MS-DOS. Catacomb 3D: The Descent was developed by Id Software in 1991. The Catacomb Adventure series was developed by Softdisk Publishing in 1992-1993 and consists of The Catacomb Abyss, The Catacomb Armageddon and The Catacomb Apocalypse. The original games visualized their 3D graphics in 16 colors and a 320x200 pixels view window. The main goal of the CatacombGL source port is to utilize OpenGL to improve the visual presentation of the Catacomb 3D games.<br><br>• Runs native on Windows 7/8/10/11 and Linux.<br>• Hardware accelerated 3D rendering via OpenGL, supporting widescreen resolutions, a customizable field of view and an uncapped frame rate.<br>• Player, projectile and monster movement with floating point precision.<br>• Configurable mouse and keyboard controls.<br>• Supports all four Catacomb 3D games as included in the Catacombs Pack from GOG.com.<br>• Supports The Catacomb Abyss version 1.13 (shareware).<br><br></p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">4 games (~49 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=967180" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/325/gallery/Zrzut-ekranu-2025-12-10-223629.png" data-size="3062x1724"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/325/gallery/Zrzut-ekranu-2025-12-10-223629-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+</div></div>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/WlHC9BT-uX0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>1. Drag and drop the contents of the "v1-RGS_catacomb" folder into the /roms/catacomb/ folder.<br><br>Note: Create the folder is it doesn't exist.<br><br>2. Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hydra Castle Labyrinth (hcl)</title>
+        <author>
+            <name>g-spawn</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/hydra-castle-labyrinth-hcl/index.html"/>
+        <id>https://pixelnostalgia.github.io/hydra-castle-labyrinth-hcl/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/324/hcl.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2026-02-10T18:29:05+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/324/hcl.png" alt="hcl" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/324/hcl.png" class="type:primaryImage" alt="hcl" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/324/hcl.svg" alt="" width="348" height="219"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/324/hcl-3.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/324/responsive/hcl-3-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/324/responsive/hcl-3-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/324/responsive/hcl-3-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/324/responsive/hcl-3-xl.webp 1200w"></figure>
+<p><br>Hydra Castle Labyrinth, originally Meikyuujou Hydra, is a freeware Indie platformer developed by E. Hashimoto, a.k.a. Buster, and released on his website. The original game was entirely in Japanese, but saw a translation patch months after its original creation.<br><br>The game hearkens back to early "Metroidvania" games like Knightmare II: The Maze of Galious and Legacy of the Wizard: the player explores an immense maze-like dungeon, collecting tools and keys that allow them to proceed deeper. Certain areas are cordoned off from the main dungeon area, and each presents a more linear zone with a boss at the end. The player can find new equipment to make themselves stronger as well.<br><br></p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">1 game (~61 MB)</p>
+<p><a href="https://back-ups.me/details.php?id=967174" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/324/gallery/Zrzut-ekranu-2025-12-07-130643.png" data-size="3064x1711"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/324/gallery/Zrzut-ekranu-2025-12-07-130643-thumbnail.webp" alt="" width="768" height="429"></a></figure>
+</div></div>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/efzM0eM_OUA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>1. Drag and drop the contents of the "v1-RGS_hcl" folder into the /roms/hcl/ folder.<br>(Create the folder is it doesn't exist)<br>2. Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Blake Stone (bstone)</title>
         <author>
@@ -287,13 +371,13 @@
 
 <figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/306/xbla.svg" alt="" width="400" height="117"></figure>
 <p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/306/xbla_system.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/306/responsive/xbla_system-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/306/responsive/xbla_system-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/306/responsive/xbla_system-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/306/responsive/xbla_system-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/306/xbla_system-2.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/306/responsive/xbla_system-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/306/responsive/xbla_system-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/306/responsive/xbla_system-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/306/responsive/xbla_system-2-xl.webp 1200w"></figure>
 <p>Xbox Live Arcade (XBLA) was a digital video game distribution service available on the Xbox 360 console. It offered a wide variety of downloadable games, ranging from classic arcade titles to innovative indie games.<br><br>XBLA provided gamers with an easy way to discover and play new games, often featuring unique and creative gameplay experiences.<br>It was known for its affordable pricing and frequent promotions, making it a popular choice for gamers looking to expand their library with diverse and entertaining titles.</p>
 
 <h5>The package includes:</h5>
 <p class="msg msg--success">719 games (~490 GB)</p>
 <p> <a href="https://back-ups.me/details.php?id=966619" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="true" data-translation="Add images"> </div></div>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/WP9Vp_x9BSA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>1. Inside the '<em>Xbox Live Arcade</em>' folder you have a '<em>roms</em>' folder and '<em>saves.zip</em>' file.<br><br>2. From the '<em>roms</em>' folder, copy the '<em>xbla</em>' folder to your '<em>roms</em>' folder:<br><br>Batocera: <em>/userdata/roms/</em><br>RetroBat: <em>/RetroBat/roms/</em><br><br>3. From the 'saves.zip' file, extract the '<em>0000000000000000</em>' folder to:<br><br>Batocera: <em>/userdata/saves/xbox360/</em><br>RetroBat: <em>/RetroBat/saves/xbox360/xenia/content/</em><br><br>4. Enjoy!</p>
 <p class="msg msg--highlight   msg--info"><strong>Notes:</strong><br>- This is a COMPLETE collection based on the No-Intro set.<br>- The only games removed are duplicates where the set had demo and full versions of a game, we have kept just the full version.<br>- The ROMpack has a 100% complete artwork set: 2D Boxart, 3D Boxart, Image, Logo, Fanart and Video Snap.<br>- The '0000000000000000' folder contains all the DLC, Addons and Updates for all games.</p>
@@ -346,93 +430,6 @@
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/cbD2OkxQOGI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="msg msg--highlight "><strong>How to install:<br></strong>If it exists, delete the "neogeomvs" folder from the 'roms' directory<span class="hiddenVisually__27f77">,<br></span>Drag and drop the "neogeomvs" folder into the 'roms' directory<span class="hiddenVisually__27f77">,<br></span>Enjoy!</p>
 <p class="msg msg--warning">- Use this rompack if you update RGS v39 to minimum v40</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Namco System 246 &amp; 256 (namco2x6)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/namco-system-246-and-256-namco2x6/index.html"/>
-        <id>https://pixelnostalgia.github.io/namco-system-246-and-256-namco2x6/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/304/namco2x6_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Batocera"/>
-            <category term="Arcade"/>
-
-        <updated>2025-08-21T11:46:40+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/304/namco2x6_system.png" alt="namco2x6" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/304/namco2x6_system.png" class="type:primaryImage" alt="namco2x6" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/304/namco2x6.svg" alt="" width="400" height="76"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/304/namco2x6.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/304/responsive/namco2x6-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/304/responsive/namco2x6-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/304/responsive/namco2x6-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/304/responsive/namco2x6-xl.webp 1200w"></figure><br>The Namco 2x6 is part of Namco's System 2 arcade hardware series, which was prominent during the late 1980s and early 1990s. The "2x6" configuration within this series represents a more advanced setup, capable of handling enhanced graphical and audio performance compared to earlier models.<br><br>This system was used in several iconic arcade games, leveraging its improved processing power to deliver smoother gameplay and richer visual experiences. The Namco 2x6 helped solidify Namco's reputation for innovation in the arcade industry, supporting the development of more complex and engaging gaming experiences.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">51 games (48 and 3 hidden) (~43 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=966253" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/304/gallery/Zrzut-ekranu-2025-08-08-190345.png" data-size="3061x1724"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/304/gallery/Zrzut-ekranu-2025-08-08-190345-thumbnail.webp" alt="" width="768" height="433"></a></figure>
-</div></div>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/Z9U5maokkuM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p class="msg msg--warning"><strong>Requirements:</strong> <br>Latest RetroBat or Batocera with latest RGS Update script Batocera (41.69) RetroBat (v1.43)</p>
-<p class="msg msg--info"><strong>Note:</strong><br>Both RetroBat and Batocera use modified versions of the Play! emulator, but some games still have graphical or audio glitches. We had to hide these three games because they are currently unplayable (a future update may render them playable):<br><br>Battle Gear 3<br>Battle Gear 3 Tuned<br>Umi Monogatari Lucky Marine Theater<br><br>For RetroBat the default Emulator is Play! but you can also use the Teknoparrot Launcher with a handful of games, all the profiles have been tested and setup on R:\RetroBat<br><br>Games supported are by the Teknoparrot launcher are: <br><br>bldyr3b<br>cobrata<br>fateulc<br>fghtjam<br>gdvsgd<br>gdvsgdnx<br>gsd<br>gundzaft<br>kinniku<br>kinniku2<br>motogp2000<br>pacmanap<br>pacmanbr<br>prdgp03<br>sbxc<br>soulclb2<br>soulclb3<br>superdbz<br>tekken4<br>tekken51<br>tekken5d<br>timecrs3<br>timecrs4<br>vnight<br>wanganmd<br>wanganmr<br>zgundm<br>zgundmdx<br>zoidiexp<br>zoidsinf</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "namco2x6" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Microsoft Windows (windows)</title>
-        <author>
-            <name>Ransom</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/microsoft-windows-windows/index.html"/>
-        <id>https://pixelnostalgia.github.io/microsoft-windows-windows/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/303/windows_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="PC x86"/>
-            <category term="Computer"/>
-            <category term="Batocera"/>
-
-        <updated>2025-08-03T20:42:04+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/303/windows_system.png" alt="windows" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/303/windows_system.png" class="type:primaryImage" alt="windows" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/303/windows.svg" alt="" width="400" height="87"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/303/windows-2.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/303/responsive/windows-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/303/responsive/windows-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/303/responsive/windows-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/303/responsive/windows-2-xl.webp 1200w"></figure>
-<p>Microsoft Windows, commonly referred to as Windows, is a group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry.<br><br>Active Microsoft Windows families include Windows NT and Windows IoT; these may encompass subfamilies, e.g. Windows Server or Windows Embedded Compact (Windows CE). Defunct Microsoft Windows families include Windows 9x, Windows Mobile and Windows Phone.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">1446 games (~1,73 TB)</p>
-<p><a href="https://back-ups.me/details.php?id=965978" target="_blank" rel="nofollow noopener noreferrer" class="btn btn--green">Go to download</a>   </p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/qR9E_5pzEaA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/303/gallery/ChatGPT_Image_Jun_12_2025_12_28_41_PM.png" data-size="1536x1024"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/303/gallery/ChatGPT_Image_Jun_12_2025_12_28_41_PM-thumbnail.webp" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/303/gallery/Zrzut-ekranu-2025-08-03-212330-2.png" data-size="3067x1718"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/303/gallery/Zrzut-ekranu-2025-08-03-212330-2-thumbnail.webp" alt="" width="768" height="430"></a></figure>
-</div></div>
-<p class="msg msg--info"><strong>NOTE:</strong><br>This pack is handcrafted by Ransom &amp; Kazai – with mad respect to “The Legendary Amok.”<br><br>After the work of Ransom and his brother Kazai, the Windows games have been converted to .wsquashfs format by our very own SPiRiT! Awesome job on making this pack available for Batocera. SPiRiT also tested all the games on our RGS Batocera build.<br><br>.wsquashfs is fully supported on both Batocera and RetroBat. However, there is one thing you need to know: on RetroBat, a .wsquashfs file will be decompressed when first started. You’ll see a nice progress bar — so far, so good. In EmulationStation (the RetroBat menu), you can choose an option to KEEP the decompressed file so that when you start it a second time, the game will instantly boot up.<span style="background-color: rgba(var(--color-primary-rgb), 0.1); color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><br><br></span>Keep in mind that for larger games, the decompression process on RetroBat can take up to 30 minutes! On Batocera, this is not an issue because .wsquashfs is natively supported.</p>
-<p class="msg msg--warning">On RetroBat, for larger games, it may seem like RetroBat has frozen… but just wait — it will eventually decompress and boot your game.</p>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop "windows" folder to your Batocera \share\roms or R:\Retrobat\roms folder.</p>
             ]]>
         </content>
     </entry>
