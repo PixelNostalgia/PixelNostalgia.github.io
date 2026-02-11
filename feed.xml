@@ -3,12 +3,54 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2026-02-10T19:35:28+01:00</updated>
+    <updated>2026-02-11T20:56:47+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Arcade PC (arcadepc)</title>
+        <author>
+            <name>SPiRiT</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/arcade-pc-arcadepc/index.html"/>
+        <id>https://pixelnostalgia.github.io/arcade-pc-arcadepc/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/326/arcadepc_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+            <category term="Arcade"/>
+
+        <updated>2026-02-10T20:26:20+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/326/arcadepc_system.png" alt="arcadepc" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/326/arcadepc_system.png" class="type:primaryImage" alt="arcadepc" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/326/arcadepc.svg" alt="" width="400" height="142"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/326/arcadepc-3.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/326/responsive/arcadepc-3-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/326/responsive/arcadepc-3-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/326/responsive/arcadepc-3-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/326/responsive/arcadepc-3-xl.webp 1200w"></figure>A collection of arcade systems built on standard PC hardware.<br><br>These cabinets are powered by PC architectures running either a customized version of Windows 7 Embedded or Linux, featuring extensive DRM and custom drivers. The games can also be played on personal computers using specialized launcher programs like the popular TeknoParrot, or through non-commercial applications, without the need for any subscription fees.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">26 games (~46 GB)</p>
+<p><a href="https://back-ups.me/details.php?id=967185" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Go to download</a>   </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/326/gallery/Zrzut-ekranu-2026-01-14-002257.png" data-size="3024x1702"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/326/gallery/Zrzut-ekranu-2026-01-14-002257-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/326/gallery/Zrzut-ekranu-2026-01-14-002337.png" data-size="3026x1702"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/326/gallery/Zrzut-ekranu-2026-01-14-002337-thumbnail.webp" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/326/gallery/Zrzut-ekranu-2026-01-14-004547.png" data-size="3025x1705"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/326/gallery/Zrzut-ekranu-2026-01-14-004547-thumbnail.webp" alt="" width="768" height="433"></a></figure>
+</div></div>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/34inJt0Mu88" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>1. Drag and drop the contents of the "v1-RGS_arcadepc_batocera" folder into the /roms/arcadepc/ folder.<br><br>Note: Create the folder if it doesn't exist.<br><br>2. Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Catacomb GL (catacomb)</title>
         <author>
@@ -382,54 +424,6 @@
 <p class="msg msg--highlight "><strong>How to install:</strong><br>1. Inside the '<em>Xbox Live Arcade</em>' folder you have a '<em>roms</em>' folder and '<em>saves.zip</em>' file.<br><br>2. From the '<em>roms</em>' folder, copy the '<em>xbla</em>' folder to your '<em>roms</em>' folder:<br><br>Batocera: <em>/userdata/roms/</em><br>RetroBat: <em>/RetroBat/roms/</em><br><br>3. From the 'saves.zip' file, extract the '<em>0000000000000000</em>' folder to:<br><br>Batocera: <em>/userdata/saves/xbox360/</em><br>RetroBat: <em>/RetroBat/saves/xbox360/xenia/content/</em><br><br>4. Enjoy!</p>
 <p class="msg msg--highlight   msg--info"><strong>Notes:</strong><br>- This is a COMPLETE collection based on the No-Intro set.<br>- The only games removed are duplicates where the set had demo and full versions of a game, we have kept just the full version.<br>- The ROMpack has a 100% complete artwork set: 2D Boxart, 3D Boxart, Image, Logo, Fanart and Video Snap.<br>- The '0000000000000000' folder contains all the DLC, Addons and Updates for all games.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>SNK Neo Geo MVS (neogeomvs)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/snk-neo-geo-mvs-neogeomvs/index.html"/>
-        <id>https://pixelnostalgia.github.io/snk-neo-geo-mvs-neogeomvs/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/305/neogeomvs_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Custom"/>
-            <category term="Batocera"/>
-            <category term="Arcade"/>
-
-        <updated>2025-09-28T13:40:14+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/305/neogeomvs_system.png" alt="neogeomvs" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat<br><span style="color: #ffffff;"><strong>Version: 25th July 2025</strong></span><br></span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/305/neogeomvs_system.png" class="type:primaryImage" alt="neogeomvs" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat<br><span style="color: #ffffff;"><strong>Version: 25th July 2025</strong></span><br></span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/305/neogeomvs.svg" alt="" width="377" height="42"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/305/SNK-Neo-Geo-MVS.png" alt="" width="2160" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/305/responsive/SNK-Neo-Geo-MVS-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/305/responsive/SNK-Neo-Geo-MVS-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/305/responsive/SNK-Neo-Geo-MVS-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/305/responsive/SNK-Neo-Geo-MVS-xl.webp 1200w"></figure>
-<p>The Neo Geo MVS, stylised as NEO•GEO MVS, also written as NEOGEO MVS, is a coin-operated arcade machine released in 1990 by Japanese game company SNK Corporation. Its CPU is technically a 16/32-bit 68000-based system with an 8/16-bit Z80 coprocessor, while its GPU chipset has a 24-bit graphics data bus.<br><br>The MVS offers owners the ability to put up to six different cartridges into a single cabinet, a unique feature that was also a key economic consideration for operators with limited floorspace, as well as saving money long-term. With its games stored on self-contained cartridges, a game cabinet can be exchanged for a different game title by swapping the game's ROM cartridge and cabinet artwork.<br>The Neo Geo MVS was a worldwide commercial success upon release in arcades, becoming one of the highest-earning machines at various arcades across markets.<br><br>A home console version was also made, called Advanced Entertainment System (AES). Unlike earlier systems, the Neo Geo AES was intended to reproduce the same quality of game as the arcade MVS system.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">147 games (~5,5 GB)</p>
-<p><a href="https://back-ups.me/details.php?id=966543" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Go to download</a>   </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/305/gallery/Zrzut-ekranu-2025-09-17-021207.png" data-size="3070x1721"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/305/gallery/Zrzut-ekranu-2025-09-17-021207-thumbnail.webp" alt="" width="768" height="431"></a></figure>
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/305/gallery/Zrzut-ekranu-2025-09-18-080652.png" data-size="3063x1715"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/305/gallery/Zrzut-ekranu-2025-09-18-080652-thumbnail.webp" alt="" width="768" height="430"></a></figure>
-</div></div>
-<p class="msg msg--info"><strong>Note:</strong><br>Make sure you have run the PixN Update Service to get the new custom config to make this MVS specific set show up. Previously we had NeoGeo and NeoGeoMVS both using the same ROMs, but we've now split them and made them 2 separate packs as there are some difference between the 2 sets. They also have their own sets of artwork. Run the PixN Update Service (for either Batocera or RetroBat) and it will add the new config file for the new separate MVS system. Then download and copy over the MVS ROMs folder.</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/cbD2OkxQOGI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p class="msg msg--highlight "><strong>How to install:<br></strong>If it exists, delete the "neogeomvs" folder from the 'roms' directory<span class="hiddenVisually__27f77">,<br></span>Drag and drop the "neogeomvs" folder into the 'roms' directory<span class="hiddenVisually__27f77">,<br></span>Enjoy!</p>
-<p class="msg msg--warning">- Use this rompack if you update RGS v39 to minimum v40</p>
             ]]>
         </content>
     </entry>
