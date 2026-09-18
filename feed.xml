@@ -3,12 +3,95 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2026-07-28T14:59:13+02:00</updated>
+    <updated>2026-09-18T22:59:27+02:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Plug &amp; Play TV Games (tvgames)</title>
+        <author>
+            <name>SPiRiT</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/plug-and-play-tv-games-tvgames/index.html"/>
+        <id>https://pixelnostalgia.github.io/plug-and-play-tv-games-tvgames/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/354/plugandplay.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Console"/>
+            <category term="Batocera"/>
+
+        <updated>2026-09-18T22:22:59+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/354/plugandplay.png" alt="tvgames" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/354/plugandplay.png" class="type:primaryImage" alt="tvgames" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/354/tvgames.png" alt="" width="374" height="156" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/354/responsive/tvgames-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/354/responsive/tvgames-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/354/responsive/tvgames-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/354/responsive/tvgames-xl.webp 1200w"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/354/plugnplay-2.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/354/responsive/plugnplay-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/354/responsive/plugnplay-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/354/responsive/plugnplay-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/354/responsive/plugnplay-2-xl.webp 1200w"></figure>
+<p>TV game (TV game for short) or plug and play game (plug-'n'-play game for short) is an interactive entertainment device designed for use on a television set that integrates the video game console with the game controller.<br><br>The term "TV game" can be used to refer to any number of self-contained, portable game systems operating on either batteries or an electronic power supply which plugs directly into a TV or VCR. The game software is built directly into the unit, which is typically designed to look like a toy or classic game console/controller with the addition of two AV ports. These systems usually contain either highly specialized games or activities, or a collection of classic games. Thus, it could be viewed as a video game console without interchangeable game software. As the game software is integrated into the game unit and almost never designed to be changed by the user, these game systems are typically sold by retailers as electronic toys or collectibles rather than game consoles.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">68 games (~1,1 GB)</p>
+<p><a href="https://pixn-retro.dedyn.io/api/catalog/systems/tvgames/torrent" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download package</a>  <a href="https://pixn-retro.dedyn.io/system/tvgames" class="btn" target="_blank" rel="nofollow noopener noreferrer">Go to portal</a>    </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/354/gallery/Zrzut-ekranu-2026-09-18-225759.png" data-size="2837x1589"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/354/gallery/Zrzut-ekranu-2026-09-18-225759-thumbnail.webp" alt="" width="768" height="430"></a></figure>
+</div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Copy the contents of the downloaded folder into the "/roms/tvgames" directory</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Force Engine (theforceengine)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/the-force-engine-theforceengine/index.html"/>
+        <id>https://pixelnostalgia.github.io/the-force-engine-theforceengine/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/353/theforceengine_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2026-09-18T21:23:56+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/353/theforceengine_system.png" alt="theforceengine" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/353/theforceengine_system.png" class="type:primaryImage" alt="theforceengine" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/353/theforceengine.svg" alt="" width="600" height="101"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/353/darkforce-2.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/353/responsive/darkforce-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/353/responsive/darkforce-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/353/responsive/darkforce-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/353/responsive/darkforce-2-xl.webp 1200w"></figure>
+<p>The Force Engine is a project with the goal to reverse engineer and rebuild the Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws. The project will include modern, built-in tools, such as a level editor and will make it easy to play Dark Forces and Outlaws on modern systems as well as the many community mods designed to work with the original games.<br><br>Playing Dark Forces or, in the future, Outlaws using the Force Engine will add ease of use and modern features such as higher resolutions and modern control schemes such as mouse-look. Using the built-in tools, once they are available, will allow for easier modding with more modern UI, greater flexibility and the ability to use enhancements made to the Jedi Engine for Outlaws in custom Dark Forces levels - such as slopes, stacked sectors, per-sector color maps and more.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">1 game (~2 GB)</p>
+<p><a href="https://pixn-retro.dedyn.io/api/catalog/systems/theforceengine/torrent" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download package</a>  <a href="https://pixn-retro.dedyn.io/system/theforceengine" class="btn" target="_blank" rel="nofollow noopener noreferrer">Go to portal</a>    </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Copy the contents of the downloaded folder into the '/roms/theforceengine' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sega Channel (segachannel)</title>
         <author>
@@ -358,112 +441,6 @@
 <figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/337/gallery/Zrzut-ekranu-2026-07-25-212059.png" data-size="2836x1591"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/337/gallery/Zrzut-ekranu-2026-07-25-212059-thumbnail.webp" alt="" width="768" height="431"></a></figure>
 </div></div>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "jazz2" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Nintendo Super Game Boy MSU1 (sgb-msu1)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/nintendo-super-game-boy-msu1-sgb-msu1/index.html"/>
-        <id>https://pixelnostalgia.github.io/nintendo-super-game-boy-msu1-sgb-msu1/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/336/sgb-msu1.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Extension"/>
-            <category term="Batocera"/>
-
-        <updated>2026-07-25T17:05:17+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/336/sgb-msu1.png" alt="sgb-msu1" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/336/sgb-msu1.png" class="type:primaryImage" alt="sgb-msu1" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/336/sgb-msu1-w.svg" alt="" width="400" height="111"></figure>
-<p> </p>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/336/sgb-msu1-3.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/336/responsive/sgb-msu1-3-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/336/responsive/sgb-msu1-3-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/336/responsive/sgb-msu1-3-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/336/responsive/sgb-msu1-3-xl.webp 1200w"></figure>
-<p>SGB-MSU1 is a modification for emulating the Super Game Boy (SGB) that adds the functionality of the MSU-1 enhancement chip.</p>
-<p>This allows for custom, high-quality audio to be played in a Game Boy game, as it uses external PCM audio files instead of the original sound hardware. This modification is supported on devices like SD2SNES/FXPAK Pro flash carts and some MiSTer FPGA core.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">9 games (~5,60 GB)</p>
-<p><a href="https://pixn-retro.dedyn.io/api/catalog/systems/sgb-msu1/torrent" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download package</a>  <a href="https://pixn-retro.dedyn.io/system/sgb-msu1" class="btn" target="_blank" rel="nofollow noopener noreferrer">Go to portal</a>  </p>
-<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/336/gallery/Zrzut-ekranu-2026-07-25-172450.png" data-size="2837x1579"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/336/gallery/Zrzut-ekranu-2026-07-25-172450-thumbnail.webp" alt="" width="768" height="427"></a></figure>
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/336/gallery/Zrzut-ekranu-2026-07-25-172527.png" data-size="2831x1587"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/336/gallery/Zrzut-ekranu-2026-07-25-172527-thumbnail.webp" alt="" width="768" height="431"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "sgb-msu1" folder to the "roms" directory</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pixel Nostalgia Portal</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/pixel-nostalgia-portal/index.html"/>
-        <id>https://pixelnostalgia.github.io/pixel-nostalgia-portal/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/333/8f7942a62693ae18770a90da78dd0f0c-2.gif" medium="image" />
-
-        <updated>2026-05-08T01:27:48+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/333/8f7942a62693ae18770a90da78dd0f0c-2.gif" alt="Pixel Nostalgia Portal" />
-                    <table style="border-collapse: collapse; width: 100.427%;" border="0">
-<tbody>
-<tr>
-<td style="width: 65.5462%;">
-<p class="align-left">The "PixN Portal" is a retro game library for Team Pixel Nostalgia <a href="https://discord.gg/xNxrAr6sGv" target="_blank" rel="nofollow noopener noreferrer">Discord</a> members that you can visit in order to browse and download all our content! <strong>Totally free</strong> as usual. You will have a small app running on your Batocera/RetroBat build that communicates with the Portal and when you pick a game to download, you tell it which device you want it downloaded to, then that machine will download the game, download it's artwork and metadata, then update your gamelist, all automatically!</p>
-<p class="align-right"><a href="https://pixn-retro.dedyn.io/" target="_blank" rel="nofollow noopener noreferrer" class="btn">Login with Discord</a></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/333/8f7942a62693ae18770a90da78dd0f0c-2.gif" class="type:primaryImage" alt="Pixel Nostalgia Portal" /></p>
-                <table style="border-collapse: collapse; width: 100.427%;" border="0">
-<tbody>
-<tr>
-<td style="width: 65.5462%;">
-<p class="align-left">The "PixN Portal" is a retro game library for Team Pixel Nostalgia <a href="https://discord.gg/xNxrAr6sGv" target="_blank" rel="nofollow noopener noreferrer">Discord</a> members that you can visit in order to browse and download all our content! <strong>Totally free</strong> as usual. You will have a small app running on your Batocera/RetroBat build that communicates with the Portal and when you pick a game to download, you tell it which device you want it downloaded to, then that machine will download the game, download it's artwork and metadata, then update your gamelist, all automatically!</p>
-<p class="align-right"><a href="https://pixn-retro.dedyn.io/" target="_blank" rel="nofollow noopener noreferrer" class="btn">Login with Discord</a></p>
-</td>
-<td class="align-center" style="width: 34.4538%;"><figure class="post__image"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/333/8f7942a62693ae18770a90da78dd0f0c.gif" alt="" width="498" height="498"></figure></td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%; height: 177.344px;" border="0">
-<tbody>
-<tr style="height: 177.344px;">
-<td style="width: 33.2843%; height: 177.344px;">
-<h5 class="align-center">Extensive Collection</h5>
-<p class="align-center">Browse through our curated collection of retro games across multiple systems</p>
-<p> </p>
-</td>
-<td style="width: 33.2843%; height: 177.344px;">
-<h5 class="align-center">Downloads</h5>
-<p class="align-center">download games directly through our secure download system</p>
-<p> </p>
-</td>
-<td style="width: 33.2889%; height: 177.344px;">
-<h5 class="align-center">Advanced Search</h5>
-<p class="align-center">Find your favorite games quickly with our powerful search functionality</p>
-<p> </p>
-</td>
-</tr>
-</tbody>
-</table>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/Ck_gsp40jzM?si=TdWb2BMx3qHfq9re" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
