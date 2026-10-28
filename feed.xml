@@ -3,12 +3,138 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2026-09-18T22:59:27+02:00</updated>
+    <updated>2026-10-28T22:26:30+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Commodore Amiga Full Collection by Ransom (amiga_ransom)</title>
+        <author>
+            <name>Ransom</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/commodore-amiga-full-collection-by-ransom-amiga_ransom/index.html"/>
+        <id>https://pixelnostalgia.github.io/commodore-amiga-full-collection-by-ransom-amiga_ransom/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/358/amiga_ransom_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="RPi5"/>
+            <category term="RPi4"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Computer"/>
+            <category term="Batocera"/>
+
+        <updated>2026-10-28T22:12:13+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/358/amiga_ransom_system.png" alt="amiga_ransom" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/358/amiga_ransom_system.png" class="type:primaryImage" alt="amiga_ransom" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/358/amiga_ransom_logo.png" alt="" width="477" height="142" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/358/responsive/amiga_ransom_logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/358/responsive/amiga_ransom_logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/358/responsive/amiga_ransom_logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/358/responsive/amiga_ransom_logo-xl.webp 1200w"></figure>
+<p> </p>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://pixelnostalgia.github.io/media/posts/358/amiga1200-2.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/358/responsive/amiga1200-2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/358/responsive/amiga1200-2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/358/responsive/amiga1200-2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/358/responsive/amiga1200-2-xl.webp 1200w"></figure>
+<p>This is the complete Amiga collection, created by Ransom and his brother Kazai. Over 9,400 games! The collection includes: Multiple versions of each game, covering every possible configuration (PAL, NTSC, Fast RAM, etc.). Support for all Amiga systems (Amiga 500, Amiga 1200, CD32, Amiga 4000 + RTG, CDTV, Amiga CD, etc.). Individually fine-tuned .uae configuration files for every game. Ransom spent over a year working on this collection, carefully fine-tuning the .uae files to ensure the best possible compatibility and experience! In the future, this collection will serve as the foundation for integration into Batocera's classic Amiga systems (/roms/amiga500, /roms/amiga1200, etc.). The goal will be to select the best version of each game and provide improved media assets (covers, screenshots, videos, etc.).</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">9482 games (~130 GB)</p>
+<p><a href="https://pixn-retro.dedyn.io/api/catalog/systems/amiga_ransom/torrent" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download package</a>  <a href="https://pixn-retro.dedyn.io/system/amiga_ransom" class="btn" target="_blank" rel="nofollow noopener noreferrer">Go to portal</a>    </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--info"><strong>NOTE:</strong> <br>This is version 1.1: <br>Removed some temporary files that didn't need to be in the pack, around 100GB in total. <br>Added more games. <br>Fixed config for a few games.</p>
+<p class="msg msg--warning">This pack requires minimum RetroBat v8.3 and Batocera v43 with latest PiXN updates</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the content of downloaded folder to the "roms/amiga_ransom/" directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Star Wars Jedi Knight - Dark Forces 2 (jkdf2)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/star-wars-jedi-knight-dark-forces-2-jkdf2/index.html"/>
+        <id>https://pixelnostalgia.github.io/star-wars-jedi-knight-dark-forces-2-jkdf2/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/356/jkdf2_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2026-10-28T20:59:24+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/356/jkdf2_system.png" alt="jkdf2" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/356/jkdf2_system.png" class="type:primaryImage" alt="jkdf2" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/356/jkdf2_logo.png" alt="" width="400" height="110" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/356/responsive/jkdf2_logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/356/responsive/jkdf2_logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/356/responsive/jkdf2_logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/356/responsive/jkdf2_logo-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/356/jkdf2.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/356/responsive/jkdf2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/356/responsive/jkdf2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/356/responsive/jkdf2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/356/responsive/jkdf2-xl.webp 1200w"></figure>
+<p> </p>
+<p>OpenJKDF2 is a function-by-function reimplementation of Jedi Knight: Dark Forces II in C, with 64-bit ports to Windows 7+, macOS 10.15+, and Linux. Files are organized as closely to the original game as possible, based on symbols from the Grim Fandango Remaster Android/Linux/macOS port, as well as scattered assertions from various other games. It also contains the original versions of byacc and flex used for COG script parsing.</p>
+<p>OpenJKDF2 added quality of life improvements to the game. This means it makes it easy to run Jedi Knight on modern machines with modern aspect ratios, monitor sizes, current generation graphic cards, and operating systems. It also now natively supports JKGFXMod—all of this simply by placing the contents of a zip file into your Jedi Knight directory!</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">2 games (~1,2 GB)</p>
+<p><a href="https://pixn-retro.dedyn.io/api/catalog/systems/jkdf2/torrent" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download package</a>  <a href="https://pixn-retro.dedyn.io/system/jkdf2" class="btn" target="_blank" rel="nofollow noopener noreferrer">Go to portal</a>    </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--info"><strong>Note:</strong><br>This is version 1.1. It's only officially supported by Batocera, however, with some Pixel Magic, this pack runs on RetroBat aswell! It includes Jedi Knight - Dark Forces 2 and Mysteries of the Sith</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Copy the contents of the downloaded folder into the '/roms/jkdf2' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Star Wars Jedi Knight - Jedi Academy (jknight)</title>
+        <author>
+            <name>RapsterUK</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/star-wars-jedi-knight-jedi-academy-jknight/index.html"/>
+        <id>https://pixelnostalgia.github.io/star-wars-jedi-knight-jedi-academy-jknight/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/355/jknight_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="Port"/>
+            <category term="PC x86"/>
+            <category term="Batocera"/>
+
+        <updated>2026-10-28T20:36:04+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/355/jknight_system.png" alt="jknight" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/355/jknight_system.png" class="type:primaryImage" alt="jknight" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/355/jknight_logo.png" alt="" width="400" height="109" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/355/responsive/jknight_logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/355/responsive/jknight_logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/355/responsive/jknight_logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/355/responsive/jknight_logo-xl.webp 1200w"></figure>
+<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/355/jknight.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/355/responsive/jknight-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/355/responsive/jknight-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/355/responsive/jknight-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/355/responsive/jknight-xl.webp 1200w"></figure>
+<p> </p>
+<p>OpenJK is a community effort to maintain and improve the game and engine powering Jedi Academy and Jedi Outcast, while maintaining full backwards compatibility with the existing games and mods.<br>This project does not intend to add major features, rebalance, or otherwise modify core gameplay.</p>
+<p>• Improve the stability of the engine by fixing bugs and improving performance.<br>• Support more hardware (x86_64, Arm, Apple Silicon) and software platforms (Linux, macOS)<br>• Provide a clean base from which new code modifications can be made.</p>
+
+<h5>The package includes:</h5>
+<p class="msg msg--success">2 games (~1,8 GB)</p>
+<p><a href="https://pixn-retro.dedyn.io/api/catalog/systems/jknight/torrent" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download package</a>  <a href="https://pixn-retro.dedyn.io/system/jknight" class="btn" target="_blank" rel="nofollow noopener noreferrer">Go to portal</a>    </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="true" data-translation="Add images"> </div></div>
+<p class="msg msg--info"><strong>Note:</strong><br>This is version 1.1. It's only officially supported by Batocera, however, with some Pixel Magic, this pack runs on RetroBat aswell! It includes Star Wars Jedi Knight - Jedi Academy and Star Wars Jedi Knight II - Jedi Outcast</p>
+<p class="msg msg--highlight "><strong>How to install:</strong><br>Copy the contents of the downloaded folder into the '/roms/jknight' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Plug &amp; Play TV Games (tvgames)</title>
         <author>
@@ -313,134 +439,6 @@
 <figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/342/gallery/Zrzut-ekranu-2026-07-27-195227.png" data-size="2834x1591"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/342/gallery/Zrzut-ekranu-2026-07-27-195227-thumbnail.webp" alt="" width="768" height="431"></a></figure>
 </div></div>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "sonic-mania" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Discrete Integrated Circuit Emulator (dice)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/discrete-integrated-circuit-emulator-dice/index.html"/>
-        <id>https://pixelnostalgia.github.io/discrete-integrated-circuit-emulator-dice/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/339/dice_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-            <category term="Arcade"/>
-
-        <updated>2026-07-26T15:25:55+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/339/dice_system.png" alt="dice" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/339/dice_system.png" class="type:primaryImage" alt="dice" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/339/dice-w.svg" alt="" width="347" height="112"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/339/dice.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/339/responsive/dice-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/339/responsive/dice-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/339/responsive/dice-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/339/responsive/dice-xl.webp 1200w"></figure>
-<p>Discover the earliest arcade games ever made — now playable thanks to the new DICE emulator!</p>
-<p>DICE (Discrete Integrated Circuit Emulator) emulates old arcade machines from the early 1970's at a very high level of accuracy. Since these machines had no CPU, the emulator instead emulates discrete logic components in the circuit board.</p>
-<p>This method is very system-intensive, and getting full speed requires at least a mid-range CPU (for single-thread performance) along with the 64-bit version of the emulator.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">21 games (~107 MB)</p>
-<p><a href="https://pixn-retro.dedyn.io/api/catalog/systems/dice/torrent" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download package</a>  <a href="https://pixn-retro.dedyn.io/system/dice" class="btn" target="_blank" rel="nofollow noopener noreferrer">Go to portal</a>    </p>
-<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/339/gallery/Zrzut-ekranu-2026-07-26-153600.png" data-size="2826x1582"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/339/gallery/Zrzut-ekranu-2026-07-26-153600-thumbnail.webp" alt="" width="768" height="430"></a></figure>
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/339/gallery/Zrzut-ekranu-2026-07-26-153635.png" data-size="2827x1583"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/339/gallery/Zrzut-ekranu-2026-07-26-153635-thumbnail.webp" alt="" width="768" height="430"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "dice" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>MrBoom (mrboom)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/mrboom-mrboom/index.html"/>
-        <id>https://pixelnostalgia.github.io/mrboom-mrboom/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/338/mrboom-2.png" medium="image" />
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2026-07-25T21:43:49+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/338/mrboom-2.png" alt="mrboom" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> only</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/338/mrboom-2.png" class="type:primaryImage" alt="mrboom" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> only</p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/338/MrBoom_logo.png" alt="" width="400" height="200" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/338/responsive/MrBoom_logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/338/responsive/MrBoom_logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/338/responsive/MrBoom_logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/338/responsive/MrBoom_logo-xl.webp 1200w"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/338/mrboom.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/338/responsive/mrboom-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/338/responsive/mrboom-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/338/responsive/mrboom-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/338/responsive/mrboom-xl.webp 1200w"></figure>
-<p>Mr.Boom is a Bomberman clone for the RetroArch platform ported to the libretro API, converted from DOS assembly using asm2c.<br><br>Mr.Boom supports up to 8 players and features like netplay, AI bots (new C++ feature), pushing bombs, remote controls and kangaroo riding.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">1 game (~10 MB)</p>
-<p><a href="https://pixn-retro.dedyn.io/api/catalog/systems/mrboom/torrent" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download package</a>  <a href="https://pixn-retro.dedyn.io/system/mrboom" class="btn" target="_blank" rel="nofollow noopener noreferrer">Go to portal</a>    </p>
-<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/338/gallery/Zrzut-ekranu-2026-07-25-220004.png" data-size="2837x1591"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/338/gallery/Zrzut-ekranu-2026-07-25-220004-thumbnail.webp" alt="" width="768" height="431"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "mrboom" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Jazz Jackrabbit 2 (jazz2)</title>
-        <author>
-            <name>g-spawn</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/jazz-jackrabbit-2-jazz2/index.html"/>
-        <id>https://pixelnostalgia.github.io/jazz-jackrabbit-2-jazz2/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/337/jazz2_system.png" medium="image" />
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2026-07-25T20:54:20+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/337/jazz2_system.png" alt="jazz2" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> only</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/337/jazz2_system.png" class="type:primaryImage" alt="jazz2" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> only</p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/337/jazz2_logo.png" alt="" width="400" height="238" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/337/responsive/jazz2_logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/337/responsive/jazz2_logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/337/responsive/jazz2_logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/337/responsive/jazz2_logo-xl.webp 1200w"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/337/jazz2.png" alt="" width="246" height="272" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/337/responsive/jazz2-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/337/responsive/jazz2-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/337/responsive/jazz2-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/337/responsive/jazz2-xl.webp 1200w"></figure>
-<p>Jazz² Resurrection is reimplementation of the game <strong>Jazz Jackrabbit 2</strong> released in 1998.</p>
-<p>Supports various versions of the game (Shareware Demo, Holiday Hare '98, The Secret Files and Christmas Chronicles). Also, it partially supports some features of JJ2+ extension and MLLE.</p>
-<p> </p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">1 game (~118 MB)</p>
-<p><a href="https://pixn-retro.dedyn.io/api/catalog/systems/jazz2/torrent" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download package</a>  <a href="https://pixn-retro.dedyn.io/system/jazz2" class="btn" target="_blank" rel="nofollow noopener noreferrer">Go to portal</a>       </p>
-<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/337/gallery/Zrzut-ekranu-2026-07-25-212059.png" data-size="2836x1591"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/337/gallery/Zrzut-ekranu-2026-07-25-212059-thumbnail.webp" alt="" width="768" height="431"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "jazz2" folder into the 'roms' directory and Enjoy!</p>
             ]]>
         </content>
     </entry>
