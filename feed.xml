@@ -3,12 +3,65 @@
     <title>Team Pixel Nostalgia Web</title>
     <link href="https://pixelnostalgia.github.io/feed.xml" rel="self" />
     <link href="https://pixelnostalgia.github.io" />
-    <updated>2026-10-28T22:26:30+01:00</updated>
+    <updated>2026-11-11T13:43:41+01:00</updated>
     <author>
         <name>g-spawn</name>
     </author>
     <id>https://pixelnostalgia.github.io</id>
 
+    <entry>
+        <title>Global VR (globalvr)</title>
+        <author>
+            <name>SPiRiT</name>
+        </author>
+        <link href="https://pixelnostalgia.github.io/global-vr-globalvr/index.html"/>
+        <id>https://pixelnostalgia.github.io/global-vr-globalvr/index.html</id>
+        <media:content url="https://pixelnostalgia.github.io/media/posts/359/globalvr_system.png" medium="image" />
+            <category term="Retrobat"/>
+            <category term="PC x86"/>
+            <category term="Custom"/>
+            <category term="Batocera"/>
+            <category term="Arcade"/>
+
+        <updated>2026-10-28T22:45:51+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pixelnostalgia.github.io/media/posts/359/globalvr_system.png" alt="globalvr" />
+                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: rgb(22, 145, 121);">Retrobat</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pixelnostalgia.github.io/media/posts/359/globalvr_system.png" class="type:primaryImage" alt="globalvr" /></p>
+                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: rgb(22, 145, 121);">Retrobat</span></p>
+
+<figure class="post__image post__image--center"><img decoding="auto"  src="https://pixelnostalgia.github.io/media/posts/359/globalvr_logo.png" alt="" width="400" height="177" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/359/responsive/globalvr_logo-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/359/responsive/globalvr_logo-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/359/responsive/globalvr_logo-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/359/responsive/globalvr_logo-xl.webp 1200w"></figure><br><figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/359/globalvr.png" alt="" width="1080" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/359/responsive/globalvr-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/359/responsive/globalvr-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/359/responsive/globalvr-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/359/responsive/globalvr-xl.webp 1200w"></figure>
+<p>Global VR is a company based in San Jose, California, that develops arcade games. The company also previously manufactured virtual reality systems. It has also developed electronic kiosks and provides development services for mobile platforms.</p>
+<p>The company's primary business is the development of arcade games. Many of its games are PC titles adapted for arcade machines. Global VR holds licensing rights from Electronic Arts and has developed arcade games based on Madden NFL, Need for Speed, and Tiger Woods PGA Tour. Other Global VR titles are based on popular licenses, such as Aliens: Extermination and Justice League: Heroes United.</p>
+
+<h5>The Batocera package includes:</h5>
+<p class="msg--success msg msg--info">26 games in pack for Batocera (~28 GB)</p>
+<p><a href="https://pixn-retro.dedyn.io/api/catalog/systems/globalvr_batocera/torrent" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download package</a>  <a href="https://pixn-retro.dedyn.io/system/globalvr_batocera" class="btn" target="_blank" rel="nofollow noopener noreferrer">Go to portal</a>    </p>
+<h5>The Retrobat package includes:</h5>
+<p class="msg--success msg msg--info">5 games in pack for Retrobat (~12.6 GB)</p>
+<p><a href="https://pixn-retro.dedyn.io/api/catalog/systems/globalvr_retrobat/torrent" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download package</a>  <a href="https://pixn-retro.dedyn.io/system/globalvr_retrobat" class="btn" target="_blank" rel="nofollow noopener noreferrer">Go to portal</a>    </p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/359/gallery/Zrzut-ekranu-2026-11-11-124624.jpg" data-size="2831x1589"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/359/gallery/Zrzut-ekranu-2026-11-11-124624-thumbnail.webp" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/359/gallery/124540.jpg" data-size="2839x1587"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/359/gallery/124540-thumbnail.webp" alt="" width="768" height="429"></a></figure>
+</div></div>
+<p class="msg msg--info"><strong>Batocera pack NOTE:</strong><br>Requirements: minimum RGS Batocera v43 with latest PiXN updates (check discord how to update)<br><br>Q: What is Arcade PC?<br>A: Arcade PC games are modern arcade games not playable with MAME, such as the BlazBlue series.<br><br>Q: Is this Teknoparrot?<br>A: No. This is NEW windows-arcade-loader, exclusive from Team Pixel Nostalgia<br><br>Q: How does it work?<br>A: New windows-arcade-loader, exclusive Team Pixel Nostalgia, no more Teknoparrot or Jconfig Force Feedback enabled for all racing games (You need to calibrate your wheel in F1-&gt;applications-&gt;windows arcade loader config<br><br>Q: Does this sound complicated? Should we be worried?<br>A1: No need to worry! We've packaged the games to launch on most systems (Intel i5 / AMD Zen1).<br><br>Q: Is there anything else we need to know?<br>A: Yes, a few minor details:<br><br>- Most lightgun games require an actual lightgun (e.g., Sinden).<br>- Some lightgun games can be played with a mouse (a mouse indicator icon is present in the wheel).<br>- A lot of Boxart is fictional as these games does not have boxart, missing boxart is custom created by G-spawn! ty ty!<br><br><strong>Notes:</strong> <br>We have added more bezels and fixed the screen rotation for vertical games. <br><br>Previously the lightgun games were duplicated, 1 version for mouse and 1 version for lightgun. Now we are able to have both in one game.<br><br>Force Feedback added to racing games Intros videos fixed E-amusement server &amp;&amp; card support</p>
+<p class="msg msg--highlight "><strong>How to install Batocera pack:</strong><br>1. Drag and drop the contents of the downloaded folder into the 'roms/globalvr/' directory. (Create the folder is it doesn't exist)<br><br>2. Enjoy!</p>
+<p class="msg msg--info"><strong>Retrobat pack NOTE:<br></strong>This is the first release of this pack for RetroBat. It takes the games from the Batocera pack but runs them uncompressed in seperate folders. This is the first pack to use our new launcher script for RetroBat. Games are launched by a batch file will calls the PowerShell based script. It launches the game, closes any game specific launcher (if it has one) then makes sure the game is running fullscreen and is the main active window. Not all games open full-screen, so the script puts these into windowed fullscreen mode to acheive this.<br><br>Make sure you have run the <strong>PixN Update Service</strong> to get the custom config required for this pack. As this pack stores the games as multiple folders/files, individual downloads is disabled in the Portal and the pack or individual games must be download via the torrent.<br><br>The pack includes the game "Puck Off" but it is hidden as it's currently subscription only within TeknoParrot. If this changes the game can be unhidden (preuming no other re-config is required) <br>As with other TeknoParrot based packs, you may have to tweak the contol settings for each game depending on your setup and preference. I personally like to set "Autoconfigure Controllers" to "OFF" in RetroBat and setup the controls within TeknoParrot. <br><br>The RetroBat Wiki gives more detail: <a href="https://wiki.retrobat.org/systems-and-emulators/supported-game-systems/arcade/teknoparrot">https://wiki.retrobat.org/systems-and-emulators/supported-game-systems/arcade/teknoparrot</a> <br><br><em>Controls:</em> <em>Controls are automatically configured since RetroBat v7 for gamepads and guns.</em> <br><br><em>The file <code class="inline">teknoparrot.yml</code> located in <code class="inline">\RetroBat\system\resources\inputmapping\</code> is the file providing the default mapping for each game, it can be updated if you need a different mapping for a game.</em></p>
+<p class="msg msg--warning">Requirements: minimum Windows 10,11 with VisualC runtime and Directplay, RetroBat with PiXN Latest update<br><br>VisualC AIO runtime: <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" target="_blank" rel="nofollow noopener noreferrer">https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/</a><br><br>DirectPlay: open a CMD as Admin and run:</p>
+<p><strong>CODE:</strong></p>
+<div class="codeeditor">
+<pre id="code_tag" class="codemain" dir="ltr">dism /online /Enable-Feature /FeatureName:DirectPlay /All</pre>
+</div>
+<p class="msg msg--highlight"><strong>How to install Retrobat pack:</strong><br>Drag and drop the contents of the downloaded folder into the 'roms/globalvr/' directory and Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Commodore Amiga Full Collection by Ransom (amiga_ransom)</title>
         <author>
@@ -396,49 +449,6 @@
 <figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/343/gallery/Zrzut-ekranu-2026-07-27-200008.png" data-size="2834x1586"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/343/gallery/Zrzut-ekranu-2026-07-27-200008-thumbnail.webp" alt="" width="768" height="430"></a></figure>
 </div></div>
 <p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "sonic3-air" folder into the 'roms' directory and Enjoy!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sonic Mania Engine (sonic-mania)</title>
-        <author>
-            <name>RapsterUK</name>
-        </author>
-        <link href="https://pixelnostalgia.github.io/sonic-mania-engine-sonic-mania/index.html"/>
-        <id>https://pixelnostalgia.github.io/sonic-mania-engine-sonic-mania/index.html</id>
-        <media:content url="https://pixelnostalgia.github.io/media/posts/342/sonic-mania_system.png" medium="image" />
-            <category term="Retrobat"/>
-            <category term="RPi5"/>
-            <category term="RPi4"/>
-            <category term="Port"/>
-            <category term="PC x86"/>
-            <category term="Batocera"/>
-
-        <updated>2026-07-27T18:31:31+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://pixelnostalgia.github.io/media/posts/342/sonic-mania_system.png" alt="sonic-mania" />
-                    <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://pixelnostalgia.github.io/media/posts/342/sonic-mania_system.png" class="type:primaryImage" alt="sonic-mania" /></p>
-                <p class="align-left">for <span style="color: #b96ad9;">Batocera</span> and <span style="color: #169179;">Retrobat</span></p>
-
-<figure class="post__image post__image--center"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/342/sonic-mania.svg" alt="" width="285" height="171"></figure>
-<figure class="post__image post__image--right"><img decoding="auto" loading="lazy"  src="https://pixelnostalgia.github.io/media/posts/342/sonic-retro-up.webp" alt="" width="1256" height="1256" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://pixelnostalgia.github.io/media/posts/342/responsive/sonic-retro-up-xs.webp 300w ,https://pixelnostalgia.github.io/media/posts/342/responsive/sonic-retro-up-sm.webp 480w ,https://pixelnostalgia.github.io/media/posts/342/responsive/sonic-retro-up-md.webp 768w ,https://pixelnostalgia.github.io/media/posts/342/responsive/sonic-retro-up-xl.webp 1200w"></figure>
-<p><br>Sonic-Mania-Decompilation is a community-created RSDK Modding version of the Sonic Mania engine (RSDKv5) that allows the game to run on various platforms (PC, Android, Switch) with extended capabilities.</p>
-<p>It provides native mod support, a convenient developer menu (Dev Menu) for managing modifications, setting load priorities, and easy access to debugging tools.</p>
-
-<h5>The package includes:</h5>
-<p class="msg msg--success">1 game (~228 MB)</p>
-<p><a href="https://pixn-retro.dedyn.io/api/catalog/systems/sonic-mania/torrent" class="btn btn--green" target="_blank" rel="nofollow noopener noreferrer">Download package</a>  <a href="https://pixn-retro.dedyn.io/system/sonic-mania" class="btn" target="_blank" rel="nofollow noopener noreferrer">Go to portal</a>     </p>
-<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://pixelnostalgia.github.io/media/posts/342/gallery/Zrzut-ekranu-2026-07-27-195227.png" data-size="2834x1591"><img decoding="auto" loading="lazy" src="https://pixelnostalgia.github.io/media/posts/342/gallery/Zrzut-ekranu-2026-07-27-195227-thumbnail.webp" alt="" width="768" height="431"></a></figure>
-</div></div>
-<p class="msg msg--highlight "><strong>How to install:</strong><br>Drag and drop the "sonic-mania" folder into the 'roms' directory and Enjoy!</p>
             ]]>
         </content>
     </entry>

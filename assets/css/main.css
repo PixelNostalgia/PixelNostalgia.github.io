@@ -1534,6 +1534,7 @@ textarea {
 
 .headline {
   background-color: var(--lightest);
+  overflow: hidden;
   padding: var(--magic-number) 0 calc(var(--magic-number) * 1.5);
 }
 @media all and (min-width: 64em) {
@@ -3036,31 +3037,4 @@ textarea {
   opacity: 1;
   -webkit-transform: translate(-50%, 0);
           transform: translate(-50%, 0);
-}
-
-.pswp--dark .pswp__bg {
-  background: black;
-}
-.pswp--dark .pswp__button,
-.pswp--dark .pswp__button--arrow--left:before,
-.pswp--dark .pswp__button--arrow--right:before {
-  background-image: url(../svg/gallery-icons-light.svg);
-}
-.pswp--light .pswp__bg {
-  background: var(--white);
-}
-.pswp--light .pswp__counter {
-  color: var(--dark);
-}
-.pswp--light .pswp__caption__center {
-  color: var(--text-color);
-}
-.pswp--light .pswp__button,
-.pswp--light .pswp__button--arrow--left:before,
-.pswp--light .pswp__button--arrow--right:before {
-  background-image: url(../svg/gallery-icons-dark.svg);
-}
-.pswp .pswp__button {
-  -webkit-box-shadow: none;
-          box-shadow: none;
 }
